@@ -1,3 +1,0 @@
-$_CH[]=["logo_30x30"=>"hidden","title"=>"Video","stream_url"=>"http://...","event"=>
-["onstartvideo"=>"$siteurl/?event=onstartvideo&videoid=1","onstopvideo"=>"$siteurl/?event=onstopvideo&curTime=[curTime]&totalTime=[totalTime]&videoid=1"]
-];
