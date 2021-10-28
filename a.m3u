@@ -1,12 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="" subtitles="https://github.com/yutubizleme/denemesrt/raw/main/s10e19", title
 https://nl37.seedr.cc/ff_get/1034851281/Midnight.Mass.2021.S01E05.1080p.WEB.H264-PECULATE[eztv.re].mkv?st=c25_qplR3UiYewAnW73jLg&e=1635472299
-
-#EXTVLCOPT:sub-file=https://github.com/yutubizleme/denemesrt/raw/main/s10e19
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
-https://nl37.seedr.cc/ff_get/1034851281/Midnight.Mass.2021.S01E05.1080p.WEB.H264-PECULATE[eztv.re].mkv?st=c25_qplR3UiYewAnW73jLg&e=1635472299
+$_CH["subtitles"][1]=["EN"],"https://github.com/yutubizleme/denemesrt/raw/main/s10e19"];
