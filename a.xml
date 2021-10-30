@@ -1,0 +1,29 @@
+		<?xml version="1.0" encoding="UTF-8" ?>
+			<items>
+				<playlist_name><![CDATA[ MKIPTV-4]]></playlist_name>
+				<channel>
+					<title><![CDATA[MOVIE]]></title>
+					<logo_30x30><![CDATA[http://a.com/1.png]]></logo_30x30>
+					<description><![CDATA[<center><br><br><img src="http://a.com/1.png" height="100" width="100" </img><br><br> MOVIE</center>]]></description>
+					<online_url><![CDATA[https://dl.dropboxusercontent.com/s/xxxxxx/a.xml]]></online_url>
+				</channel>
+				<channel>
+					<title><![CDATA[LIVE]]></title>
+					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
+					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
+					<m3u_url><![CDATA[https://dl.dropboxusercontent.com/s/xxxxxx/b.m3u]]></m3u_url>
+				</channel>
+				<channel>
+					<title><![CDATA[LIVE]]></title>
+					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
+					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
+					<xtream_url><![CDATA[xtream:host=http://webpage.com:8000&username=xxxx&password=xxxxx]]></xtream_url>
+				</channel>
+				<channel>
+					<title><![CDATA[LIVE]]></title>
+					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
+					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
+					<stream_url><![CDATA[http://www.a.com/movie.mp4]]></stream_url>
+				</channel> 
+			</items>
+		
