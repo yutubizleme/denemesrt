@@ -1,10 +1,41 @@
-		<?xml version="1.0" encoding="UTF-8" ?>
-			<items>
-				<playlist_name><![CDATA[ MKIPTV-4]]></playlist_name>
-				<channel>
-					<title><![CDATA[LIVE]]></title>
-					<logo_30x30><![CDATA[]]></logo_30x30>
-					<description><![CDATA[<center><br><br><img src="" height="100" width="100" </img><br><br> LIVE</center>]]></description>
-					<stream_url><![CDATA[https://nl36.seedr.cc/ff_get/1037048563/tales.from.the.loop.s01e08.720p.web.h264-xlf[eztv].mkv?st=IP3OQzCfIMdP-QsgLfsPkg&e=1635714854]]></stream_url>
-				</channel> 
-			</items>
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>PLAYLIST-1</playlist_name>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[buraya link gelecek]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+<channel>
+	<title>Bos</title>
+	<stream_url><![CDATA[]]></stream_url> 
+	<logo_30x30></logo_30x30>
+	<description>Bos</description>
+</channel>
+
+</items>
