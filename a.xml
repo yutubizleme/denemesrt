@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<items>
+		<playlist_name><![CDATA[izle]]></playlist_name>
 	<channel>
 		<title><![CDATA[izle]]></title>
 		<logo_30x30><![CDATA[]]></logo_30x30>
 		<description><![CDATA[<center><img src="" </img><br> izle</center>]]></description>
 		<stream_url><![CDATA[https://nl36.seedr.cc/ff_get/1037048563/tales.from.the.loop.s01e08.720p.web.h264-xlf[eztv].mkv?st=92taEJMEftOU6m1T0jE31w&e=1635715960]]></stream_url>
-		<subtitle><![CDATA[https://github.com/yutubizleme/denemesrt/raw/main/s10e19.srt]]></subtitle>
+		<subtitle><![CDATA[https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e19.vtt]]></subtitle>
 	</channel>
+</items>
