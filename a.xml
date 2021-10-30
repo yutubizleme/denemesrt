@@ -2,28 +2,11 @@
 			<items>
 				<playlist_name><![CDATA[ MKIPTV-4]]></playlist_name>
 				<channel>
-					<title><![CDATA[MOVIE]]></title>
-					<logo_30x30><![CDATA[http://a.com/1.png]]></logo_30x30>
-					<description><![CDATA[<center><br><br><img src="http://a.com/1.png" height="100" width="100" </img><br><br> MOVIE</center>]]></description>
-					<online_url><![CDATA[https://dl.dropboxusercontent.com/s/xxxxxx/a.xml]]></online_url>
-				</channel>
-				<channel>
 					<title><![CDATA[LIVE]]></title>
-					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
-					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
-					<m3u_url><![CDATA[https://dl.dropboxusercontent.com/s/xxxxxx/b.m3u]]></m3u_url>
-				</channel>
-				<channel>
-					<title><![CDATA[LIVE]]></title>
-					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
-					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
-					<xtream_url><![CDATA[xtream:host=http://webpage.com:8000&username=xxxx&password=xxxxx]]></xtream_url>
-				</channel>
-				<channel>
-					<title><![CDATA[LIVE]]></title>
-					<logo_30x30><![CDATA[http://a.com/2.png]]></logo_30x30>
-					<description><![CDATA[<center><br><br><img src="http://a.com/2.png" height="100" width="100" </img><br><br> LIVE</center>]]></description>
-					<stream_url><![CDATA[http://www.a.com/movie.mp4]]></stream_url>
+					<logo_30x30><![CDATA[]]></logo_30x30>
+					<description><![CDATA[<center><br><br><img src="" height="100" width="100" </img><br><br> LIVE</center>]]></description>
+					<stream_url><![CDATA[https://nl36.seedr.cc/ff_get/1037048563/tales.from.the.loop.s01e08.720p.web.h264-xlf[eztv].mkv?st=7vazJiySlR7q1cHMsaKcxA&e=1635720097]]></stream_url>
+					<subtitle><![CDATA[https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e19.srt]]></subtitle>
 				</channel> 
 			</items>
 		
