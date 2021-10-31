@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-			<items>
-				<playlist_name><![CDATA[ MKIPTV-4]]></playlist_name>
+<playlist_name><![CDATA[ MKIPTV-4]]></playlist_name>
 				<channel>
 					<title><![CDATA[LIVE]]></title>
 					<stream_url><![CDATA[https://nl36.seedr.cc/ff_get/1037048563/tales.from.the.loop.s01e08.720p.web.h264-xlf[eztv].mkv?st=7vazJiySlR7q1cHMsaKcxA&e=1635720097]]></stream_url>
 					<subtitle><![CDATA[https://www.seedr.cc/subtitles/ff/50935400/sub.vtt]]></subtitle>
-				</channel> 
-			</items>
+				</channel>
