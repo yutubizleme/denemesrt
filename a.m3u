@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Turkish",
- DEFAULT=YES,FORCED=NO,URI="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e18.srt",LANGUAGE=”tr”
-#EXT-X-STREAM-INF:BANDWIDTH=2670000,CODECS="mp4a.40.2,avc1.4d401f",
- RESOLUTION=640x360,SUBTITLES="subs"
+ URI="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e18.srt",LANGUAGE=”tr”
+#EXTINF:0 tvg-logo="",SUBTITLES="subs", title
 https://nl37.seedr.cc/ff_get/1039917396/His.Dark.Materials.S01E03.The.Spies.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv?st=S3HZklcssZ4b013In3EBKA&e=1636063208
