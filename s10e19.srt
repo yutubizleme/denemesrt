@@ -1,1486 +1,2014 @@
 1
-00:00:08,708 --> 00:00:12,916
-BİR NETFLIX DİZİSİ
+00:00:06,215 --> 00:00:08,717
+<font color="white">NETFLIX ORİJİNAL DİZİSİ</font>
 
 2
-00:01:42,750 --> 00:01:45,166
-Atışların çok iyiydi Kiramman.
+00:00:13,180 --> 00:00:14,515
+<font color="white">Anne?</font>
 
 3
-00:01:46,125 --> 00:01:48,125
-Ailem bilerek kaybetmen için
-para mı verdi?
+00:00:19,520 --> 00:00:20,479
+<font color="white">Anne?</font>
 
 4
-00:01:49,666 --> 00:01:51,458
-Bu ciddi bir suçlama.
+00:00:21,647 --> 00:00:22,731
+<font color="white">Kâbus gördüm.</font>
 
 5
-00:01:52,125 --> 00:01:54,000
-Ateş etmedin, seni gördüm.
+00:00:24,775 --> 00:00:26,944
+<font color="white">Rüyamda onu vuruyorlardı.</font>
 
 6
-00:01:55,166 --> 00:01:57,541
-Ödül senin. Hak ettin.
+00:00:36,119 --> 00:00:37,788
+<font color="white">O niye öldü anne?</font>
 
 7
-00:01:58,166 --> 00:02:00,041
-Soruma cevap vermedin.
+00:00:43,919 --> 00:00:46,338
+<font color="white">Çünkü Kuran'da öyle yazar.</font>
 
 8
-00:02:01,875 --> 00:02:04,000
-Hayır, ailen bana para falan vermedi.
+00:00:47,923 --> 00:00:51,468
+<font color="white">De ki, "Allah'ın bize yazdığından başkası</font>
+<font color="white">başımıza gelmez."</font>
 
 9
-00:02:04,083 --> 00:02:05,875
-Ama ödülü senin hak ettiğini düşündüm.
+00:00:52,719 --> 00:00:54,680
+<font color="white">Allah onu sevmiyor muydu?</font>
 
 10
-00:02:10,500 --> 00:02:11,791
-Ben bir fedaiyim.
+00:00:56,014 --> 00:00:57,683
+<font color="white">O kadar çok seviyordu ki</font>
 
 11
-00:02:12,541 --> 00:02:16,958
-Benim için bu silahı iyi kullanabilmek
-insanları koruyabilmek demek.
+00:00:58,934 --> 00:01:03,021
+<font color="white">onu bizim istediğimizden önce aldı.</font>
 
 12
-00:02:17,500 --> 00:02:21,125
-Bu şehre hizmet etmek demek.
-Bu yeterli bir ödül zaten.
+00:01:05,315 --> 00:01:07,276
+<font color="white">Allah beni de o kadar seviyor mu?</font>
 
 13
-00:02:21,958 --> 00:02:24,541
-Bahsi açılmışken genç Kiramman,
+00:01:08,860 --> 00:01:10,195
+<font color="white">Evet...</font>
 
 14
-00:02:24,625 --> 00:02:26,333
-senin hedefinde ne var?
+00:01:12,072 --> 00:01:14,324
+<font color="white">Ama Allah'ın senin için planı farklı.</font>
 
 15
-00:02:36,250 --> 00:02:40,708
-Dosyana bir göz attım.
-Seninle veya suçlarınla ilgili kayıt yok.
+00:01:24,459 --> 00:01:25,752
+<i><font color="white">Nereden bileceğim?</font></i>
 
 16
-00:02:40,791 --> 00:02:43,458
--Neden buradasın?
--Neşeli mizacım yüzünden.
+00:01:31,675 --> 00:01:34,803
+<i><font color="white">Sen hazır olduğunda o sana bildirecek.</font></i>
 
 17
-00:02:45,041 --> 00:02:47,125
-Bir mahkûma saldırdın. Neden?
+00:02:00,871 --> 00:02:01,872
+<font color="white">Anne.</font>
 
 18
-00:02:47,750 --> 00:02:48,958
-Neden saldırmayayım?
+00:02:09,087 --> 00:02:12,758
+<i><font color="white">Suriye'de IŞİD'in yeniden güçlenmesiyle</font></i>
+<i><font color="white">ABD dış politikası</font></i>
 
 19
-00:02:49,041 --> 00:02:51,666
-Devam eden bir soruşturmanın tanığıydı.
+00:02:12,841 --> 00:02:15,093
+<i><font color="white">bir kez daha eleştirilere hedef oldu.</font></i>
 
 20
-00:02:52,625 --> 00:02:53,541
-Yazık olmuş.
+00:02:15,177 --> 00:02:18,263
+<i><font color="white">Müttefiklerin 2019'da</font></i>
+<i><font color="white">bölgeden çekilmesinden bu yana</font></i>
 
 21
-00:02:54,875 --> 00:02:57,291
--Zamanımı boşa harcıyorum.
--Çok haklısın.
+00:02:18,347 --> 00:02:20,682
+<i><font color="white">güneye doğru hızla yayılan hilafet</font></i>
 
 22
-00:02:57,375 --> 00:03:00,250
-Benim için Silco'yu
-keskin gözünden öp, tamam mı?
+00:02:20,766 --> 00:02:23,852
+<i><font color="white">birkaç şehri ele geçirdi.</font></i>
 
 23
-00:03:03,500 --> 00:03:05,916
-Silco mu? Sanayici olan mı?
+00:02:23,935 --> 00:02:29,274
+<i><font color="white">Şam'ın aylardır kuşatma altında oluşu</font></i>
+<i><font color="white">mülteci sorununu daha da zorlaştırıyor.</font></i>
 
 24
-00:03:06,000 --> 00:03:07,583
-Tamam, bu sıkmaya başladı.
+00:02:29,358 --> 00:02:31,526
+<i><font color="white">Kadim şehrin IŞİD'in eline geçmesini</font></i>
 
 25
-00:03:07,666 --> 00:03:10,125
-Beni dövecek olan kimse onu gönder de
+00:02:31,610 --> 00:02:34,738
+<i><font color="white">ancak Tanrı'nın müdahalesi durdurabilir.</font></i>
 
 26
-00:03:10,208 --> 00:03:11,625
-artık geceme devam edeyim.
+00:02:43,747 --> 00:02:46,249
+<font color="white">Allah bugün bize Şam'ı veriyor!</font>
 
 27
-00:03:18,708 --> 00:03:20,333
-Bu sana bir şey ifade ediyor mu?
+00:03:01,556 --> 00:03:03,225
+<font color="white">ŞAM, SURİYE</font>
+<font color="white">ASİ KUŞATMASININ 85. GÜNÜ</font>
 
 28
-00:03:27,041 --> 00:03:28,416
-Bunu nereden buldun?
+00:03:03,308 --> 00:03:04,476
+<font color="white">Yardım edin!</font>
 
 29
-00:03:30,500 --> 00:03:32,208
-Önce ben sordum.
+00:03:06,728 --> 00:03:08,271
+<font color="white">Sıkışıp kaldık!</font>
 
 30
-00:03:32,291 --> 00:03:34,500
--Silco'ya mı çalışıyordu?
--Herkes ona çalışıyor.
+00:03:09,940 --> 00:03:11,525
+<font color="white">Lütfen bırakın, gidelim!</font>
 
 31
-00:03:34,583 --> 00:03:36,833
-Bunu bilmeyen mi var? Nereden buldun onu?
+00:03:12,776 --> 00:03:14,236
+<font color="white">Burada öleceğiz!</font>
 
 32
-00:03:37,708 --> 00:03:40,208
-Bir saldırı oldu. Delillerden biri buydu.
+00:03:23,787 --> 00:03:25,163
+<font color="white">Bize yardım edin!</font>
 
 33
-00:03:40,833 --> 00:03:44,250
-Silco'yla ilgili dediklerine inanacaksam
-kanıta ihtiyacım var.
+00:03:26,957 --> 00:03:28,166
+<font color="white">Bırakın gidelim!</font>
 
 34
-00:03:45,375 --> 00:03:48,916
-Ayarlayabilirim. Ama buradayken yapamam.
+00:03:32,295 --> 00:03:34,631
+<font color="white">Jibril? Ne zaman kaçtın?</font>
 
 35
-00:03:50,875 --> 00:03:53,958
-Senin gibi birine güveneceğimi
-nereden çıkardın?
+00:03:36,842 --> 00:03:37,884
+<font color="white">Samer?</font>
 
 36
-00:03:54,041 --> 00:03:57,666
-Benim gibi birine mi?
-Siz fedailer hep aynısınız.
+00:03:39,177 --> 00:03:41,179
+<font color="white">Asilere katıldığını söylemişlerdi.</font>
 
 37
-00:03:57,750 --> 00:03:59,833
-Havalı üniformalar giyen
-pis suçlularsınız.
+00:03:41,888 --> 00:03:43,598
+<font color="white">Ailen seni merak ediyor.</font>
 
 38
-00:03:59,916 --> 00:04:03,125
--Neyse, Silco'yu kendi başına bul.
--Bulacağım, sağ ol.
+00:03:45,225 --> 00:03:46,226
+<font color="white">Ailen nerede?</font>
 
 39
-00:04:04,208 --> 00:04:06,666
-Alt şehir seni çiğ çiğ yiyecek.
+00:03:59,823 --> 00:04:01,074
+<font color="white">Dinleyin beni!</font>
 
 40
-00:04:13,125 --> 00:04:16,833
-Konsey Üyesi Talis'in emri var.
-516 numaralı mahkûm için.
+00:04:02,117 --> 00:04:04,119
+<font color="white">Dinleyin erkek ve kız kardeşlerim.</font>
 
 41
-00:04:17,916 --> 00:04:19,916
-İş birliği yapmıyor demek.
+00:04:05,787 --> 00:04:09,458
+<font color="white">Tanrı kelamını</font>
+<font color="white">vaaz ettiklerini söylüyorlar</font>
 
 42
-00:04:20,000 --> 00:04:22,416
-Onunla biraz konuşmamızı mı istiyorsun?
+00:04:10,375 --> 00:04:13,754
+<font color="white">ama tüm yaptıkları anlamını çarpıtmak.</font>
 
 43
-00:04:23,458 --> 00:04:24,416
-Hayır.
+00:04:14,671 --> 00:04:16,381
+<font color="white">Kitap'ta yazıyor.</font>
 
 44
-00:04:26,041 --> 00:04:27,416
-Serbest kalması için.
+00:04:16,465 --> 00:04:18,467
+<font color="white">"Bunlara dünyada perişanlık vardır...</font>
 
 45
-00:04:28,583 --> 00:04:30,750
-O ne zaman konsey üyesi oldu?
+00:04:18,550 --> 00:04:24,306
+<font color="white">Gazap üstüne gazaba uğradılar.</font>
+<font color="white">İnkâr edenlere alçaltıcı bir azap vardır."</font>
 
 46
-00:04:30,833 --> 00:04:32,375
-Bugün.
+00:04:24,389 --> 00:04:25,974
+<font color="white">Size bir azap var!</font>
 
 47
-00:04:37,208 --> 00:04:38,958
-Kızla kaç kez konuştunuz?
+00:04:26,057 --> 00:04:28,393
+<font color="white">Şeytan yutsun seni!</font>
 
 48
-00:04:40,958 --> 00:04:44,166
-Bilmem, hiç saymadım.
+00:04:28,477 --> 00:04:30,812
+<font color="white">Şeytan'ın gözünün içine baktım.</font>
 
 49
-00:06:17,375 --> 00:06:20,166
-Bu cesur fedailer,
-yüce şehrimizin değerleri uğruna
+00:04:31,646 --> 00:04:33,190
+<font color="white">O beni yutamaz.</font>
 
 50
-00:06:20,250 --> 00:06:22,375
-hayatlarını feda etti.
+00:04:34,941 --> 00:04:38,570
+<font color="white">"Allah'ın bize yazdığından başkası</font>
+<font color="white">başımıza gelmez." deyin.</font>
 
 51
-00:06:24,333 --> 00:06:25,833
-Bazıları birer anneydi.
+00:04:41,156 --> 00:04:44,701
+<font color="white">"Allah'ın bize yazdığından başkası</font>
+<font color="white">başımıza gelmez." deyin.</font>
 
 52
-00:06:27,833 --> 00:06:28,958
-Babaydı.
+00:04:47,913 --> 00:04:50,707
+<font color="white">Kutsal sözleri çarpıtmak yasaktır.</font>
 
 53
-00:06:29,916 --> 00:06:30,916
-Oğuldu.
+00:04:50,791 --> 00:04:52,334
+<font color="white">Şu hâlinize bir bakın.</font>
 
 54
-00:06:34,208 --> 00:06:35,250
-Kızdı.
+00:04:52,417 --> 00:04:56,421
+<font color="white">Bu dünyada herkesten çok zulüm gördünüz.</font>
 
 55
-00:06:37,291 --> 00:06:38,500
-Ama hepsi
+00:04:57,839 --> 00:05:01,927
+<font color="white">Etrafınız sizi yok etmek isteyen</font>
+<font color="white">düşmanlarla çevrili.</font>
 
 56
-00:06:39,833 --> 00:06:41,041
-birer kahramandı.
+00:05:03,303 --> 00:05:05,096
+<font color="white">Topları doldurun! Çabuk!</font>
 
 57
-00:07:07,250 --> 00:07:08,791
-O kimdi baba?
+00:05:05,889 --> 00:05:07,390
+<font color="white">Kum fırtınası geliyor!</font>
 
 58
-00:07:15,541 --> 00:07:16,625
-İyi bir kadın.
+00:05:09,476 --> 00:05:14,689
+<font color="white">Allah düşmanızı alt edecek dediğimde</font>
+<font color="white">sözüme güvenin.</font>
 
 59
-00:07:19,875 --> 00:07:21,666
-Onu kontrol edebileceğini söylemiştin.
+00:05:14,773 --> 00:05:17,275
+<font color="white">Çünkü Allah yaşamanızı istiyor.</font>
 
 60
-00:07:22,291 --> 00:07:25,500
-Altı memur kaybettim. Altı!
+00:05:17,359 --> 00:05:19,820
+<font color="white">Dediklerimi bir kenara yazın!</font>
 
 61
-00:07:27,375 --> 00:07:30,916
-Bu kez çok ileri gitti. Konsey çok öfkeli.
+00:05:19,903 --> 00:05:21,613
+<font color="white">Bugün sözlerimi iyi belleyin!</font>
 
 62
-00:07:31,000 --> 00:07:35,125
-Bana yardımcı olmazsan
-bu işi hasıraltı edemem.
+00:05:23,031 --> 00:05:25,492
+<font color="white">Allah'ın eli onları geri döndürecek!</font>
 
 63
-00:07:35,750 --> 00:07:38,541
-Onu tutuklamak senin işine gelir.
+00:05:26,910 --> 00:05:28,620
+<font color="white">Kurtuluş yakın!</font>
 
 64
-00:07:38,625 --> 00:07:39,958
-İyilik istemiyorum.
+00:05:31,081 --> 00:05:32,249
+<font color="white">Herkes içeriye!</font>
 
 65
-00:07:40,625 --> 00:07:42,750
-İşini yapmanı istiyorum.
+00:05:36,545 --> 00:05:37,921
+<font color="white">Kurtuluş yakın!</font>
 
 66
-00:07:46,583 --> 00:07:49,583
-Alazışıklar iki tarafın da canını sıkıyor.
+00:05:42,551 --> 00:05:43,885
+<font color="white">Korkacak bir şey yok!</font>
 
 67
-00:07:49,666 --> 00:07:53,333
-Saldırının olduğu gün
-Hexgeçitlerdeki teslimata pusu kurdular.
+00:05:48,473 --> 00:05:49,599
+<font color="white">Sözüme kulak verin!</font>
 
 68
-00:07:54,000 --> 00:07:57,250
-Bence Konsey suçluyu bulmuş.
+00:05:50,725 --> 00:05:52,561
+<font color="white">Bu onların son demleri.</font>
 
 69
-00:07:58,708 --> 00:08:00,375
-Bu senin işine gelir.
+00:05:53,311 --> 00:05:54,688
+<font color="white">Son nefesleri.</font>
 
 70
-00:08:00,458 --> 00:08:03,000
-Ya dediğini yapmazsam ne olacak?
+00:05:55,897 --> 00:05:59,860
+<font color="white">Sözüme kulak verin</font>
 
 71
-00:08:04,291 --> 00:08:06,416
-Birlikte çok şey başardık Marcus.
+00:06:00,318 --> 00:06:01,820
+<font color="white">Dengeler değişti artık!</font>
 
 72
-00:08:07,083 --> 00:08:08,166
-Şerif.
+00:06:02,779 --> 00:06:03,989
+<font color="white">Bir devir sona erdi!</font>
 
 73
-00:08:09,166 --> 00:08:11,416
-Önümüzde başarılacak
-çok daha fazla şey var.
+00:06:15,959 --> 00:06:20,005
+<font color="white">İŞİTECEK KULAĞI OLAN İŞİTSİN</font>
 
 74
-00:08:12,916 --> 00:08:15,291
-Umarım bunun bir parçası olmaya
-devam edersin.
+00:06:21,047 --> 00:06:23,508
+<i><font color="white">Rekor kırarak 43 gün süren</font></i>
 
 75
-00:08:21,375 --> 00:08:25,625
-Ailelerine verirsin.
-İsmini vermeyen düşünceli bir vatandaştan.
+00:06:23,592 --> 00:06:25,552
+<i><font color="white">bu muazzam kum fırtınası</font></i>
 
 76
-00:08:42,166 --> 00:08:44,500
-Dünkü kaçakçılık fiyaskosu devede kulak.
+00:06:25,635 --> 00:06:28,263
+<i><font color="white">Şam'ı bir toz örtüsüyle kapladı.</font></i>
 
 77
-00:08:44,583 --> 00:08:47,500
-Bu manifestolar aylardır
-tutarsızlıklarla doluymuş.
+00:06:28,889 --> 00:06:30,557
+<i><font color="white">Yıkımın boyutu tarifsiz.</font></i>
 
 78
-00:08:47,583 --> 00:08:49,583
-Vaktimizi boşa harcıyoruz.
+00:06:30,640 --> 00:06:33,018
+<i><font color="white">Yollar ve otoyollar kullanılmaz hâlde.</font></i>
 
 79
-00:08:49,666 --> 00:08:51,458
-Ben artık bir konsey üyesiyim Viktor.
+00:06:33,101 --> 00:06:36,021
+<i><font color="white">Şehrin uluslararası havaalanı</font></i>
+<i><font color="white">haftalarca kapanınca</font></i>
 
 80
-00:08:51,541 --> 00:08:54,791
-Hexgeçitlerin güvenliğini sağlamak
-benim sorumluluğumda.
+00:06:36,104 --> 00:06:37,689
+<i><font color="white">şehrin dünyayla bağı koptu</font></i>
 
 81
-00:08:54,875 --> 00:08:58,708
-İnsanların hayatlarını kolaylaştırmak için
-verdiğimiz söze ne oldu?
+00:06:37,772 --> 00:06:40,066
+<i><font color="white">ve yüzlerce işyeri kapandı.</font></i>
 
 82
-00:08:58,791 --> 00:09:00,416
-Ya alt şehir için verdiğimiz söz?
+00:06:40,734 --> 00:06:42,193
+<i><font color="white">Ama felakete rağmen</font></i>
 
 83
-00:09:01,708 --> 00:09:05,000
-Konuşmamda diğer projelerden
-bahsetmediğim için üzgünüm.
+00:06:42,277 --> 00:06:44,905
+<i><font color="white">bugün Şam'da kutlamalar yapıldı</font></i>
 
 84
-00:09:05,083 --> 00:09:07,166
--Yakında elimizden geleni…
--Yakında mı?
+00:06:44,988 --> 00:06:49,743
+<i><font color="white">çünkü IŞİD ordusu eski şehrin dışında</font></i>
+<i><font color="white">uzun süredir yerleştiği mevkiden çekildi.</font></i>
 
 85
-00:09:07,250 --> 00:09:10,291
-Şu anda yardımımıza ihtiyacı olan
-insanlar var Jayce!
+00:06:49,826 --> 00:06:54,456
+<i><font color="white">Bir ay süren kum fırtınası</font></i>
+<i><font color="white">IŞİD'in kara kuvvetlerini resmen gömdü</font></i>
 
 86
-00:09:11,916 --> 00:09:13,333
-Beni mi görmek istemiştiniz?
+00:06:54,539 --> 00:06:56,541
+<i><font color="white">ve tedarik zincirini kırdı.</font></i>
 
 87
-00:09:13,416 --> 00:09:15,333
-Adamların bu kayıtları hiç inceledi mi?
+00:06:56,625 --> 00:06:58,001
+<i><font color="white">Beyaz Saray bugün</font></i>
 
 88
-00:09:15,416 --> 00:09:17,500
--Bay Talis, sizi temin ederim…
--Konsey Üyesi.
+00:06:58,376 --> 00:07:00,670
+<i><font color="white">Orta Doğu'da IŞİD tehdidinin</font></i>
+<i><font color="white">bittiğini söyledi.</font></i>
 
 89
-00:09:17,583 --> 00:09:18,875
-Bana vereceğin tek teminat
+00:07:00,754 --> 00:07:05,300
+<i><font color="white">Burası, 2019'da yeniden güçlenen IŞİD'in</font></i>
+<i><font color="white">son kalesiydi.</font></i>
 
 90
-00:09:18,958 --> 00:09:22,000
-tüm kayıt dışı malları bulup
-onlara el koymak olsun.
+00:07:05,383 --> 00:07:06,968
+<i><font color="white">Bu IŞİD'in sonu demek.</font></i>
 
 91
-00:09:22,083 --> 00:09:24,333
-Şüpheli ödemelerin listesini çıkardım.
+00:07:07,052 --> 00:07:09,346
+<i><font color="white">O yüzden hava durumuna müteşekkiriz.</font></i>
 
 92
-00:09:25,291 --> 00:09:27,500
-Kusura bakmayın Konsey Üyesi
-ama daha ilk gününüz.
+00:07:09,429 --> 00:07:12,766
+<i><font color="white">Başkan bu gelişme konusunda</font></i>
+<i><font color="white">umutlu olduğunu...</font></i>
 
 93
-00:09:27,583 --> 00:09:28,500
-İkinci.
+00:07:13,308 --> 00:07:16,353
+<font color="white">Kalkıp giyinebilirsiniz Bayan Geller.</font>
 
 94
-00:09:28,583 --> 00:09:32,041
-Evet. Böyle bir karar almadan önce
-diğer konsey üyelerine…
+00:07:16,436 --> 00:07:18,396
+<font color="white">Doktor her şeyi anlattı mı?</font>
 
 95
-00:09:32,125 --> 00:09:34,375
-Burada çok derin bir yolsuzluk var Şerif.
+00:07:18,480 --> 00:07:19,314
+<font color="white">Evet.</font>
 
 96
-00:09:34,458 --> 00:09:35,958
-Bunun kökünü kazıyacağım.
+00:07:19,648 --> 00:07:21,775
+<font color="white">İlkin biraz tuhaf hissedebilirsiniz.</font>
 
 97
-00:09:37,375 --> 00:09:39,500
-Çalınan cevherle ilgili
-bir gelişme var mı?
+00:07:21,858 --> 00:07:23,568
+<font color="white">Biliyorum. Bu ilk değil.</font>
 
 98
-00:09:39,583 --> 00:09:43,458
-Evet. En olası şüpheli
-alt şehirdeki bir çete.
+00:07:37,415 --> 00:07:44,381
+<font color="white">BABAM: NASIL GİTTİ?</font>
 
 99
-00:09:44,208 --> 00:09:46,958
-Kendilerine Alazışıklar diyorlar.
-Hayalet gibi dolaşıp
+00:08:20,792 --> 00:08:22,627
+<font color="white">-Felsefe mezunusun.</font>
+<font color="white">-Evet.</font>
 
 100
-00:09:47,041 --> 00:09:50,000
-sivillere hızlıca saldırıp
-gecenin karanlığına karışıyorlar.
+00:08:22,711 --> 00:08:24,838
+<font color="white">Niye CIA için çalışmak istiyorsun?</font>
 
 101
-00:09:50,083 --> 00:09:51,833
-Onları bulmamız ne kadar sürer?
+00:08:25,046 --> 00:08:28,174
+<font color="white">Bu bir insanın girebileceği</font>
+<font color="white">en önemli işlerden biri.</font>
 
 102
-00:09:51,916 --> 00:09:53,166
-En iyi adamlarım çalışıyor.
+00:08:28,717 --> 00:08:32,012
+<font color="white">Ülkemizin güvenliğini sağlamak.</font>
+<font color="white">Değerlerini korumak.</font>
 
 103
-00:09:53,250 --> 00:09:54,958
-Güzel. Beni haberdar et.
+00:08:35,015 --> 00:08:38,101
+<font color="white">İnsanların seninle ilgili</font>
+<font color="white">bir yanılgısı nedir?</font>
 
 104
-00:09:55,833 --> 00:09:58,083
-Bu işi sonuna kadar takip edeceğiz Şerif.
+00:08:38,810 --> 00:08:40,186
+<font color="white">Yargılayıcı olduğum.</font>
 
 105
-00:10:03,333 --> 00:10:05,125
-Viktor? İyi misin?
+00:08:41,062 --> 00:08:42,939
+<font color="white">-Değil misin?</font>
+<font color="white">-Pek değil.</font>
 
 106
-00:10:06,791 --> 00:10:08,833
-Başım ağrıdı. Sadece…
+00:08:43,023 --> 00:08:44,774
+<font color="white">Herkesi kabul edebilirim.</font>
 
 107
-00:10:08,916 --> 00:10:10,166
-Laboratuvara gitmem lazım.
+00:08:44,858 --> 00:08:46,276
+<font color="white">Ya bir suçluyu?</font>
 
 108
-00:10:17,625 --> 00:10:19,250
-Sıkıcı.
+00:08:47,068 --> 00:08:49,946
+<font color="white">Cezasını çektiyse ve pişmansa.</font>
 
 109
-00:10:19,833 --> 00:10:21,458
-Sıkıcı.
+00:08:50,030 --> 00:08:51,990
+<font color="white">-Ona güvenir misin peki?</font>
+<font color="white">-Hayır.</font>
 
 110
-00:10:22,416 --> 00:10:23,666
-Çok sıkıcı.
+00:08:52,782 --> 00:08:54,534
+<font color="white">Her konuda değil.</font>
 
 111
-00:10:26,708 --> 00:10:28,125
-İşte bu!
+00:08:55,535 --> 00:08:57,370
+<font color="white">Hangi konuda güvenmezsin?</font>
 
 112
-00:10:29,416 --> 00:10:31,500
-Tüm olay bu rünlerde.
+00:08:57,454 --> 00:08:58,580
+<font color="white">Ailem.</font>
 
 113
-00:10:31,583 --> 00:10:35,958
-Matematikle ve büyüyle
-bir tür geçit açıyorlar.
+00:08:59,998 --> 00:09:00,832
+<font color="white">Bir sır.</font>
 
 114
-00:10:37,375 --> 00:10:39,958
-Öcü böcü diyarına gidiyor.
+00:09:02,751 --> 00:09:04,252
+<font color="white">ŞAM</font>
 
 115
-00:10:40,041 --> 00:10:42,916
-Onu açan da bu.
+00:09:04,335 --> 00:09:05,462
+<font color="white">Ya gerçek?</font>
 
 116
-00:10:44,291 --> 00:10:46,500
-Haydi bakalım.
+00:09:06,963 --> 00:09:08,965
+<font color="white">Gerçeği söylediğine güvenir misin?</font>
 
 117
-00:11:18,083 --> 00:11:22,458
-Hayır! Hataydı.
+00:09:10,884 --> 00:09:13,595
+<font color="white">Gerçeğin birçok farklı versiyonu vardır.</font>
 
 118
-00:11:31,625 --> 00:11:33,458
-Batisferin manzarası güzelmiş diyorlar.
+00:09:13,678 --> 00:09:15,055
+<font color="white">O yüzden söylemesi güç.</font>
 
 119
-00:11:34,166 --> 00:11:37,000
-Etrafı oradan kolaçan edebiliriz.
+00:09:15,513 --> 00:09:17,390
+<font color="white">Farklı versiyonları mı vardır?</font>
 
 120
-00:11:38,375 --> 00:11:39,500
-Çok riskli.
+00:09:18,016 --> 00:09:19,684
+<font color="white">Gerçek epey gridir.</font>
 
 121
-00:11:41,125 --> 00:11:42,041
-Ne?
+00:09:22,437 --> 00:09:24,105
+<font color="white">Mülakatı burada kesiyorum.</font>
 
 122
-00:12:56,500 --> 00:12:57,625
-Ceketin güzelmiş.
+00:09:24,856 --> 00:09:28,234
+<font color="white">Bunu söylememem gerekir</font>
+<font color="white">ama onlara seni önermeyeceğim.</font>
 
 123
-00:13:12,041 --> 00:13:14,708
--Koridorlar'a hoş geldin.
--Neredeyse ölüyordum.
+00:09:30,111 --> 00:09:31,279
+<font color="white">Neden peki?</font>
 
 124
-00:13:14,791 --> 00:13:16,875
-Kız kardeşim onu yedi yaşında yapıyordu.
+00:09:31,362 --> 00:09:33,865
+<font color="white">CIA kutsal bir düzen gibidir.</font>
 
 125
-00:13:16,958 --> 00:13:19,500
-Tüm yarık halkı yapabiliyor.
-Aralarına karışacaksan yap.
+00:09:34,783 --> 00:09:36,701
+<font color="white">Bir yaşam öğretisidir.</font>
 
 126
-00:13:30,875 --> 00:13:32,125
-Bir şey mi gördün?
+00:09:36,785 --> 00:09:39,788
+<font color="white">İnsanların yaşamı verdiğimiz kararlara,</font>
 
 127
-00:13:32,208 --> 00:13:34,041
-Ya tüm olaya tersten bakıyorsak?
+00:09:39,871 --> 00:09:42,123
+<font color="white">attığımız adımlara bağlı.</font>
 
 128
-00:13:34,125 --> 00:13:37,291
-Özel etkileri olan rünleri keşfedip
+00:09:43,208 --> 00:09:45,919
+<font color="white">Cephede düşmanının</font>
+<font color="white">kim olduğunu bilmen gerekir.</font>
 
 129
-00:13:37,375 --> 00:13:40,041
-onları belli işlevlere göre yontuyoruz.
+00:09:46,044 --> 00:09:48,546
+<font color="white">Gerçek gri görünebilir ama hiç öyle değil.</font>
 
 130
-00:13:40,125 --> 00:13:41,291
-Aletler gibi, evet.
+00:09:50,090 --> 00:09:51,007
+<font color="white">Üzgünüm.</font>
 
 131
-00:13:41,375 --> 00:13:47,541
-Ama efsaneler doğruysa
-büyücüler tek bir işleve bağlı değildir.
+00:10:17,075 --> 00:10:21,246
+<i><font color="white">Mesih!</font></i>
 
 132
-00:13:47,625 --> 00:13:50,375
-Sihir onların aracılığıyla
-konuşuyor derler.
+00:10:27,627 --> 00:10:33,049
+<font color="white">Q: İZLİYOR MUSUN?</font>
 
 133
-00:13:51,333 --> 00:13:53,208
-Hâlâ anlayamıyorum.
+00:10:33,133 --> 00:10:36,261
+<font color="white">EVA: KİM BU?</font>
 
 134
-00:13:53,291 --> 00:13:55,708
-Düşünüyorlar. Uyum sağlıyorlar.
+00:10:36,344 --> 00:10:38,471
+<font color="white">Q: HENÜZ ADI YOK.</font>
 
 135
-00:13:55,791 --> 00:13:58,458
-Hextech öğrenme yetisine mi sahip yani?
+00:10:38,805 --> 00:10:41,975
+<font color="white">Q: 2.000 MÜRİDİ VAR.</font>
+<font color="white">IŞİD'İ YENDİĞİNİ İDDİA EDİYOR.</font>
 
 136
-00:14:03,833 --> 00:14:05,208
-Güvenli olduğundan emin misin?
+00:10:42,183 --> 00:10:44,435
+<font color="white">EVA: ŞİDDET?</font>
 
 137
-00:14:05,291 --> 00:14:06,625
-Tabii ki değilim.
+00:10:44,519 --> 00:10:46,646
+<font color="white">Q: İLLAKİ OLACAK.</font>
 
 138
-00:14:22,708 --> 00:14:25,125
-Jericho! Çok özlemişim.
+00:10:50,942 --> 00:10:53,403
+<font color="white">Mesih!</font>
 
 139
-00:14:31,333 --> 00:14:32,500
-Kalsın, sağ ol.
+00:11:15,592 --> 00:11:16,634
+<font color="white">İmam?</font>
 
 140
-00:14:33,166 --> 00:14:34,083
-Sen kaybedersin.
+00:11:18,553 --> 00:11:20,346
+<font color="white">Bizi nereye götürüyorsun İmam?</font>
 
 141
-00:14:35,041 --> 00:14:38,375
--Onu sorguya çekecek misin?
--Ne soracağım? Etleri mi?
+00:11:21,556 --> 00:11:22,849
+<font color="white">Kaderimize.</font>
 
 142
-00:14:39,958 --> 00:14:41,583
-Kaçak olduğuna eminim.
+00:12:04,599 --> 00:12:06,267
+<font color="white">"TATİL TEKLİFİ"</font>
+<font color="white">BEN VE EVA GELLER</font>
 
 143
-00:14:41,666 --> 00:14:45,000
-Silco'yu. Bağlantılarını.
-Buraya bu yüzden gelmedik mi?
+00:12:06,351 --> 00:12:08,061
+<font color="white">BAY VE BAYAN</font>
+<font color="white">BEN VE EVA GELLER</font>
 
 144
-00:14:45,083 --> 00:14:48,000
-Acıktığım için geldik.
-Hapishane yemeği nasıl, biliyor musun?
+00:12:15,318 --> 00:12:18,780
+<font color="white">Q: ORALARDA MISIN?</font>
 
 145
-00:14:48,083 --> 00:14:49,375
-Hayır. Nereden bileceksin ki?
+00:12:18,863 --> 00:12:21,324
+<font color="white">EVA: HABER VAR MI?</font>
 
 146
-00:14:50,416 --> 00:14:51,583
-İnanılmaz.
+00:12:21,407 --> 00:12:22,367
+<font color="white">Q: KONUŞALIM MI?</font>
 
 147
-00:14:51,666 --> 00:14:54,458
-Seni hapisten balçık ye diye kaçırmadım.
+00:12:22,450 --> 00:12:25,036
+<font color="white">BABAM: BENİ ARAMADIN</font>
 
 148
-00:14:54,541 --> 00:14:58,708
-Bu berbat bir fikirdi.
-Hiçbir şey bilmiyorsun, değil mi?
+00:12:25,119 --> 00:12:27,622
+<font color="white">EVA: ÇALIŞIYORUM</font>
 
 149
-00:14:59,833 --> 00:15:01,000
-Hatırladığımdan daha iyi.
+00:12:27,705 --> 00:12:30,792
+<font color="white">EVA: ARA BENİ</font>
 
 150
-00:15:24,125 --> 00:15:26,083
-Ailemle gittiğimiz kış festivalinden beri
+00:12:30,875 --> 00:12:32,794
+<font color="white">Q: GÜVENLİ BİR HAT BULUYORUM</font>
 
 151
-00:15:26,166 --> 00:15:28,250
-buraya ilk kez geliyorum.
+00:12:32,877 --> 00:12:35,129
+<font color="white">BABAM: ARIYORUM</font>
 
 152
-00:15:28,333 --> 00:15:31,083
-Gösteriyi izlemeye gelmedik.
-Hanenin başı belada.
+00:12:35,213 --> 00:12:37,048
+<font color="white">EVA: ÇALIŞIYORUM!</font>
 
 153
-00:15:32,708 --> 00:15:35,750
-Şu tüccar, akademiye yaptığı
-bağışlar karşılığında
+00:12:37,131 --> 00:12:40,635
+<font color="white">"Çalışıyorum" sözünün</font>
+<font color="white">neresini anlamadın baba?</font>
 
 154
-00:15:35,833 --> 00:15:37,541
-işini yaparken
+00:12:42,053 --> 00:12:44,639
+<font color="white">Bugün klinik nasıl geçti diye merak ettim.</font>
 
 155
-00:15:37,625 --> 00:15:40,416
-belli kolaylıklardan faydalanıyordu.
+00:12:45,348 --> 00:12:47,558
+<font color="white">İyi. Geçen seferki gibi.</font>
 
 156
-00:15:40,500 --> 00:15:43,291
-Kolaylık derken
-yolsuzluğu mu kastediyorsun?
+00:12:48,601 --> 00:12:51,187
+<font color="white">-Niye çalışıyorsun ki?</font>
+<font color="white">-</font><i><font color="white">Lütfen baba.</font></i>
 
 157
-00:15:43,875 --> 00:15:45,250
-Amara'dan zarar gelmez.
+00:12:51,688 --> 00:12:53,106
+<font color="white">Hayır. Dinlenmen lazım.</font>
 
 158
-00:15:46,208 --> 00:15:48,000
-Şu iki aptala bak.
+00:12:53,648 --> 00:12:55,316
+<font color="white">Bu işi ciddiye almıyorsun.</font>
 
 159
-00:15:48,083 --> 00:15:49,875
-Konsey Üyeleri Hoskel ve Salo mu?
+00:12:55,400 --> 00:12:57,568
+<font color="white">Elbette alıyorum.</font>
 
 160
-00:15:49,958 --> 00:15:51,125
-Hasım değiller miydi?
+00:12:59,821 --> 00:13:01,990
+<font color="white">-Kapatmam lazım.</font>
+<font color="white">-</font><i><font color="white">Peki.</font></i>
 
 161
-00:15:51,833 --> 00:15:54,833
-Noxus likörleri ikisinin de ortak zevki,
+00:13:03,658 --> 00:13:05,076
+<font color="white">Biraz uyu.</font>
 
 162
-00:15:54,916 --> 00:15:57,375
-ithalatı teknik olarak yasak.
+00:13:06,160 --> 00:13:07,287
+<font color="white">İyi geceler.</font>
 
 163
-00:15:58,250 --> 00:15:59,916
-Güvenliği sıkılaştırdım.
+00:13:07,912 --> 00:13:08,955
+<i><font color="white">Seni seviyorum.</font></i>
 
 164
-00:16:00,000 --> 00:16:03,541
-Böyle yaparak
-kendini hedef hâline getirdin.
+00:13:22,844 --> 00:13:23,928
+<font color="white">Ne buldun?</font>
 
 165
-00:16:04,291 --> 00:16:08,625
-Hexgeçitlerin sağladığı zenginliğin
-üzerindeki gücüne imrenen kişiler var.
+00:13:24,387 --> 00:13:25,930
+<i><font color="white">Söylentilere göre Mısırlı.</font></i>
 
 166
-00:16:08,708 --> 00:16:11,500
-Ve bu gücü senden almak için
-her fırsatı değerlendirirler.
+00:13:27,015 --> 00:13:30,351
+<font color="white">Diğer dosyaları dinledim.</font>
+<font color="white">Aksanı daha farklı.</font>
 
 167
-00:16:12,458 --> 00:16:15,333
-Kendini herkesin ortak düşmanı
-hâline getirdin Jayce.
+00:13:30,435 --> 00:13:33,354
+<font color="white">İranlı olabilir,</font>
+<font color="white">o zaman büyük ihtimalle Şii'dir.</font>
 
 168
-00:16:47,958 --> 00:16:49,541
-<i>Ne oldu Mylo?</i>
+00:13:34,564 --> 00:13:37,984
+<font color="white">2.000 Suriye Filistinlisini çöle götürdü.</font>
 
 169
-00:16:49,625 --> 00:16:52,916
-<i>Powder yine kazanacak diye mi korkuyorsun?</i>
+00:13:38,901 --> 00:13:41,487
+<i><font color="white">Sünnilerin başında bir Şii'nin ne işi var?</font></i>
 
 170
-00:17:40,500 --> 00:17:43,125
-<i>Uğursuz deli fişeğin tekisin!</i>
+00:13:41,863 --> 00:13:43,781
+<font color="white">Evet, sorun çıkartacak gibi.</font>
 
 171
-00:17:44,166 --> 00:17:47,208
-<i>Farklılıkların seni güçlü kılar.</i>
+00:13:44,073 --> 00:13:46,951
+<font color="white">Gözlem listesine koyup</font>
+<font color="white">sabah takibe aldıracağım.</font>
 
 172
-00:18:24,208 --> 00:18:27,125
-SON DAMLA
+00:13:47,285 --> 00:13:48,870
+<font color="white">-Sağ ol Q.</font>
+<font color="white">-</font><i><font color="white">Tamam.</font></i>
 
 173
-00:18:41,333 --> 00:18:44,500
-Burası bodrum katı
-cesetlerle dolu bir yere benziyor.
+00:15:00,983 --> 00:15:05,696
+<font color="white">"Gerçeği ararken konforu bulabilirsin.</font>
 
 174
-00:18:48,041 --> 00:18:49,458
-Hiçbir şeyden haberin yok.
+00:15:07,407 --> 00:15:11,077
+<font color="white">Ama konforu ararsan</font>
+<font color="white">gerçeği asla bulamazsın."</font>
 
 175
-00:19:01,916 --> 00:19:04,833
-Hexgeçitlerin güvenliğini
-başkaları için riske atamam.
+00:15:14,455 --> 00:15:16,582
+<font color="white">Niye bir kâfirin sözünü söylüyorsun?</font>
 
 176
-00:19:04,916 --> 00:19:09,333
-Senden bunu isteyen yok zaten.
-Bunlar arkadaşlar arasında küçük kıyaklar.
+00:15:17,250 --> 00:15:20,336
+<font color="white">Sen kimsin ki</font>
+<font color="white">kimin kâfir olduğuna karar veriyorsun?</font>
 
 177
-00:19:09,416 --> 00:19:11,500
-Hiç siyasete girmek istememiştim.
+00:15:21,963 --> 00:15:23,089
+<font color="white">İnsanlar aç, İmam.</font>
 
 178
-00:19:11,583 --> 00:19:13,000
-Beni buna sen zorladın.
+00:15:23,673 --> 00:15:24,924
+<font color="white">Bizi bölme evlat.</font>
 
 179
-00:19:13,083 --> 00:19:16,375
-İstesen de istemesen de
-artık geleceğin sembolüsün Jayce.
+00:15:26,342 --> 00:15:27,677
+<font color="white">Niye bana İmam diyorsun?</font>
 
 180
-00:19:16,458 --> 00:19:19,958
-Bununla birlikte kendi kaderini
-çizme potansiyeline sahipsin.
+00:15:29,470 --> 00:15:30,430
+<font color="white">Çünkü yücesin.</font>
 
 181
-00:19:20,666 --> 00:19:24,416
-Konsey başarısız olacağını tahmin ediyor.
-Hepsini yanıltabilirsin.
+00:15:32,432 --> 00:15:33,391
+<font color="white">Senin kadar.</font>
 
 182
-00:19:24,500 --> 00:19:25,500
-Bir kez daha.
+00:15:34,600 --> 00:15:36,394
+<font color="white">"Allah'tan başka ilah yoktur."</font>
 
 183
-00:19:28,541 --> 00:19:30,958
-Hoş geldin Amara. Küçük Rohan nasıl?
+00:15:38,438 --> 00:15:40,857
+<font color="white">Ama dediğin gibi, kötülüğü defettin.</font>
 
 184
-00:19:31,041 --> 00:19:32,958
-Konsey Üyesi Medarda.
+00:15:40,940 --> 00:15:42,483
+<font color="white">Kötülüğü O defetti.</font>
 
 185
-00:19:33,041 --> 00:19:34,458
-Konsey Üyesi Talis.
+00:15:46,028 --> 00:15:48,239
+<font color="white">O, senin aracılığınla yapıyor işini.</font>
 
 186
-00:19:35,625 --> 00:19:37,833
-Her zamanki gibi yaşından olgun.
+00:15:49,157 --> 00:15:52,577
+<font color="white">"Sizi boşuna</font>
+<font color="white">ve amaçsız yarattığımızı mı sandınız?</font>
 
 187
-00:19:39,500 --> 00:19:42,166
-Bu sabah şaşırtıcı bir olay yaşadım.
+00:15:54,579 --> 00:15:57,248
+<font color="white">Ayakkabıcının oğlu</font>
+<font color="white">kutsal metinleri ne bilsin?</font>
 
 188
-00:19:42,250 --> 00:19:44,583
-Fedailer kapıma dayandı.
+00:15:59,709 --> 00:16:01,169
+<font color="white">O'nun hizmetinde misin?</font>
 
 189
-00:19:45,458 --> 00:19:48,750
-Umarım anlayış gösterirsin. Jayce'in
-göstermelik hamle yapması gerekti.
+00:16:02,628 --> 00:16:03,463
+<font color="white">Evet.</font>
 
 190
-00:19:48,833 --> 00:19:52,125
-Ama tüm anlaşmalarını
-bizzat yapmak için buraya geldi.
+00:16:03,546 --> 00:16:06,132
+<font color="white">O zaman senin aracılığınla da yapıyor.</font>
 
 191
-00:19:52,958 --> 00:19:55,875
-Konsey Üyesi Talis,
-vizyonunu paylaşacak kişilerin
+00:16:07,467 --> 00:16:09,594
+<font color="white">Herkesin aracılığıyla yapıyor işini.</font>
 
 192
-00:19:55,958 --> 00:19:57,833
-ticaret izinlerini geri vermeye istekli.
+00:16:12,555 --> 00:16:17,560
+<font color="white">Yani haklı biçimde İslam'ı takip eden</font>
+<font color="white">herkesi demek istiyorsun.</font>
 
 193
-00:19:57,916 --> 00:19:59,583
-Seni de onlardan sayabilir miyiz?
+00:16:19,979 --> 00:16:21,689
+<font color="white">Ne kastettiğimi bana söyleme.</font>
 
 194
-00:19:59,666 --> 00:20:01,416
-Konsey Üyesi Bolbok
+00:16:31,949 --> 00:16:33,701
+<font color="white">Niye burada hiç kadın yok?</font>
 
 195
-00:20:01,500 --> 00:20:03,625
-daha kârlı anlaşmalar
-olabilir diye düşünüyor.
+00:16:39,373 --> 00:16:41,209
+<font color="white">Şaka yapıyorsun herhâlde.</font>
 
 196
-00:20:03,708 --> 00:20:05,500
-O aptalın teki.
+00:16:49,675 --> 00:16:52,845
+<font color="white">Git bir kadın bul, ona yerini ver.</font>
 
 197
-00:20:05,583 --> 00:20:07,666
-Onunla geçmişe yatırım yapmış olursun.
+00:17:00,937 --> 00:17:02,063
+<font color="white">Bu adam Şeytan.</font>
 
 198
-00:20:07,750 --> 00:20:10,625
-Bizimle ise geleceğe yatırım yaparsın.
+00:17:02,897 --> 00:17:04,857
+<font color="white">Bizi aç biilaç çöle sürükledi.</font>
 
 199
-00:20:12,958 --> 00:20:16,333
-Konsey Üyesi Medarda haklı.
-Hexgeçitler sadece başlangıç.
+00:17:06,192 --> 00:17:08,486
+<font color="white">Benden şimdi ayrılmak ölüm demek.</font>
 
 200
-00:20:16,833 --> 00:20:20,708
-Hatta şu anda Hextech araştırmaları için
-yeni bir ortak arayışındayız.
+00:17:19,830 --> 00:17:23,918
+<font color="white">Allah'la ilgili varsayımlarınızı</font>
+<font color="white">bırakmanızı söylemek için buradayım.</font>
 
 201
-00:20:20,791 --> 00:20:22,833
-Talis Hanesi'nin bir destekçisi olarak
+00:17:24,627 --> 00:17:27,838
+<font color="white">Bildiğinizi sandığınız şeylere</font>
+<font color="white">tutunmayı bırakın.</font>
 
 202
-00:20:22,916 --> 00:20:25,333
-gelişmelerden faydalanacak
-ilk kişilerden olursunuz.
+00:17:29,757 --> 00:17:32,510
+<font color="white">Şu saatte insanlık dümensiz bir teknedir.</font>
 
 203
-00:20:31,083 --> 00:20:34,041
-Böyle cömert bir teklifi
-nasıl reddedebilirim ki?
+00:17:34,554 --> 00:17:35,846
+<font color="white">Bana tutunun.</font>
 
 204
-00:20:37,041 --> 00:20:40,333
--Hextech ortakları.
--Güzel bir tınısı var, değil mi?
+00:18:08,921 --> 00:18:12,466
+<font color="white">FOGGY BOTTOM'S RESTORANI</font>
 
 205
-00:20:41,708 --> 00:20:44,416
-Sizi bekliyorlar Konsey Üyesi.
+00:18:19,974 --> 00:18:23,853
+<font color="white">NEYE İNANIRSAN O OLURSUN</font>
+<font color="white">OPRAH</font>
 
 206
-00:20:50,875 --> 00:20:55,416
--İyi bir yatırım oldu.
--Kesinlikle. Beklenenden iyi.
+00:18:29,942 --> 00:18:32,445
+<font color="white">-20 dakikaya kapatıyoruz.</font>
+<font color="white">-Şimdiden mi?</font>
 
 207
-00:21:43,666 --> 00:21:46,125
-Tüm sırların döküldüğü tek yer.
+00:18:32,778 --> 00:18:33,821
+<font color="white">Sabahın 3'ü.</font>
 
 208
-00:22:01,791 --> 00:22:05,625
-Çılgınca bir şeydi. Trompet sesi gibiydi.
+00:18:36,324 --> 00:18:37,366
+<font color="white">Pardon.</font>
 
 209
-00:22:07,291 --> 00:22:10,416
-Bunu tam olarak
-nasıl yapmamızı öneriyorsun?
+00:18:38,701 --> 00:18:40,536
+<font color="white">Eve gitmene engel mi oluyorum?</font>
 
 210
-00:22:11,625 --> 00:22:12,708
-Burada çalışır gibi yap.
+00:18:40,995 --> 00:18:43,039
+<font color="white">İşim bu. Zaten mecburen buradayım.</font>
 
 211
-00:22:13,458 --> 00:22:14,458
-Nasıl?
+00:18:56,844 --> 00:18:58,971
+<i><font color="white">Medeniyetler Çatışması.</font></i>
 
 212
-00:22:15,333 --> 00:22:16,458
-Yapmam.
+00:18:59,305 --> 00:19:01,515
+<font color="white">Samuel P. Huntington.</font>
 
 213
-00:22:16,541 --> 00:22:18,166
-Senin sorunun ne, biliyor musun?
+00:19:02,391 --> 00:19:03,392
+<font color="white">Nasıl buldun?</font>
 
 214
-00:22:18,250 --> 00:22:19,750
-Lütfen. Söyle.
+00:19:05,227 --> 00:19:06,187
+<font color="white">Tatsız.</font>
 
 215
-00:22:19,833 --> 00:22:21,958
-Herkesin sana
-istediğini vermesini bekliyorsun.
+00:19:08,105 --> 00:19:09,649
+<font color="white">Uluslararası İlişkiler mi?</font>
 
 216
-00:22:22,041 --> 00:22:23,750
-İnsanların seninle konuşması için
+00:19:10,191 --> 00:19:11,609
+<font color="white">-Evet.</font>
+<font color="white">-Son sınıf mı?</font>
 
 217
-00:22:23,833 --> 00:22:26,833
-onların istedikleri şeye
-sahip olduğunu düşünmelerini sağlamalısın.
+00:19:12,234 --> 00:19:13,069
+<font color="white">Öyle.</font>
 
 218
-00:22:26,916 --> 00:22:28,583
-Neye sahibim ki?
+00:19:15,363 --> 00:19:16,697
+<font color="white">Ödev teslimi ne zaman?</font>
 
 219
-00:22:31,208 --> 00:22:32,833
-Seksisin kapkek.
+00:19:17,239 --> 00:19:18,282
+<font color="white">Yarın.</font>
 
 220
-00:22:35,041 --> 00:22:37,083
-Nasıl yapalım, erkek mi kadın mı?
+00:19:22,828 --> 00:19:24,622
+<font color="white">Onun haklı çıktığını unutma.</font>
 
 221
-00:22:41,208 --> 00:22:43,333
-Selam. Ben Pim.
+00:19:25,498 --> 00:19:29,126
+<font color="white">Huntington, Soğuk Savaş'tan sonra</font>
+<font color="white">çatışmaların temel ekseninin</font>
 
 222
-00:22:43,416 --> 00:22:45,916
--Senin adın ne?
--Matilda.
+00:19:29,210 --> 00:19:31,337
+<font color="white">kültür ve din olacağını söylemişti.</font>
 
 223
-00:22:46,000 --> 00:22:50,208
-Ama ona nasıl istersen
-öyle seslenebilirsin.
+00:19:31,420 --> 00:19:33,798
+<font color="white">Şu an dünya politikasında olan da bu.</font>
 
 224
-00:22:52,416 --> 00:22:54,458
-Evet. Matilda.
+00:19:33,881 --> 00:19:36,884
+<font color="white">O yüzden makaleni</font>
+<font color="white">bu argüman üstüne kur.</font>
 
 225
-00:22:54,541 --> 00:23:00,416
-Bana Matilda adını koyarken
-büyük büyükannem Matilda'nın…
+00:19:39,095 --> 00:19:40,429
+<font color="white">-Hoca mısın?</font>
+<font color="white">-Hayır.</font>
 
 226
-00:23:05,458 --> 00:23:06,916
-İnanabiliyor musun?
+00:19:41,097 --> 00:19:42,181
+<font color="white">Sadece meraklıyım.</font>
 
 227
-00:23:14,541 --> 00:23:17,791
-Şerif, ne güzel bir sürpriz.
+00:19:49,313 --> 00:19:51,232
+<font color="white">Patronum sana Gece Kuşu diyor.</font>
 
 228
-00:23:18,791 --> 00:23:20,875
-Hextech'in mucize çocuğu Konsey'e girdi,
+00:19:53,651 --> 00:19:54,860
+<font color="white">Lakabım mı var?</font>
 
 229
-00:23:21,875 --> 00:23:23,541
-şimdi de sorular sormaya başladı.
+00:19:55,611 --> 00:19:57,113
+<font color="white">Galiba senden hoşlanıyor.</font>
 
 230
-00:23:23,625 --> 00:23:26,250
-Gerçeği bulması an meselesi.
+00:20:04,787 --> 00:20:05,830
+<font color="white">Adım Eva.</font>
 
 231
-00:23:27,541 --> 00:23:29,750
-Gerçeği hayatta kalanlar yazar.
+00:20:06,914 --> 00:20:07,873
+<font color="white">Keon.</font>
 
 232
-00:23:29,833 --> 00:23:32,708
-Foyam ortaya çıkarsa
-ikimizin de işi biter.
+00:20:08,541 --> 00:20:09,959
+<font color="white">Memnun oldum Keon.</font>
 
 233
-00:23:33,375 --> 00:23:36,666
-Alazışıklar ile ilgili delilleri bulduğun
-iyi olmuş o zaman.
+00:20:13,713 --> 00:20:15,339
+<font color="white">Madem öğretmen değilsin</font>
 
 234
-00:23:43,000 --> 00:23:44,583
-Bu iş çok ileri gitti.
+00:20:16,048 --> 00:20:17,299
+<font color="white">ne iş yapıyorsun?</font>
 
 235
-00:23:48,541 --> 00:23:51,041
-Kahraman olduğunu mu hayal ediyorsun?
+00:20:18,384 --> 00:20:20,928
+<font color="white">Uluslararası ilişkiler</font>
+<font color="white">alanında çalışıyorum.</font>
 
 236
-00:23:51,125 --> 00:23:56,208
-Son bir hamleyle
-hep olmak istediğin kahraman mı olacaksın?
+00:20:23,055 --> 00:20:24,724
+<font color="white">Amcam da öyle derdi.</font>
 
 237
-00:24:04,166 --> 00:24:06,041
-<i>O zaman ne bekliyorsun?</i>
+00:20:26,767 --> 00:20:27,893
+<font color="white">CIA elemanıydı.</font>
 
 238
-00:24:19,666 --> 00:24:21,041
-Bocalıyor.
+00:20:34,817 --> 00:20:37,653
+<font color="white">-Saha ajanı mısın?</font>
+<font color="white">-CIA için çalışıyorum demedim.</font>
 
 239
-00:24:21,125 --> 00:24:23,916
-Hextech'in acilen
-silah hâline getirilmesi gerekiyor.
+00:20:40,448 --> 00:20:41,449
+<font color="white">O öldü.</font>
 
 240
-00:24:24,000 --> 00:24:28,375
-En büyük silahlarını ele geçirirsek
-yukarıdakilerin bize karşı şansı kalmaz.
+00:20:42,783 --> 00:20:44,952
+<font color="white">Amcam. Türkiye'de.</font>
 
 241
-00:24:28,458 --> 00:24:32,333
-Yapamıyorum. Doktora ver.
+00:20:45,953 --> 00:20:46,912
+<font color="white">Geçen yıl.</font>
 
 242
-00:24:32,416 --> 00:24:35,333
-Bu iş için senden başka
-güvenebileceğim kimse yok Jinx.
+00:20:49,707 --> 00:20:50,833
+<font color="white">Bombalama olayında.</font>
 
 243
-00:24:36,125 --> 00:24:39,416
-Sürekli onları görüyorum, o gün olanları.
+00:20:53,252 --> 00:20:54,420
+<font color="white">Korkunç.</font>
 
 244
-00:24:43,875 --> 00:24:46,500
-Korku hepimize musallat olur çocuğum.
+00:20:57,965 --> 00:20:59,467
+<font color="white">Duyduğuma üzüldüm.</font>
 
 245
-00:24:48,541 --> 00:24:52,458
-Tatlım, Vander'a olanları duyunca
-çok üzüldüm.
+00:21:00,551 --> 00:21:02,261
+<font color="white">Sevdiği işi yapıyordu.</font>
 
 246
-00:24:52,541 --> 00:24:55,666
-Çocuklara da öyle. Korkunç bir olay.
+00:21:56,315 --> 00:21:57,817
+<font color="white">Ne yapıyor?</font>
 
 247
-00:24:56,208 --> 00:24:59,500
-Ama görünüşe göre burada
-Silco'yu durdurmaya yeltenen bile olmamış.
+00:22:02,321 --> 00:22:03,823
+<font color="white">Tanrı'yla konuşuyor.</font>
 
 248
-00:24:59,583 --> 00:25:01,000
-Deneyen birkaç kişi oldu.
+00:22:06,534 --> 00:22:07,535
+<font color="white">Deliye benziyor.</font>
 
 249
-00:25:01,083 --> 00:25:04,041
-Ama güç ve para Silco'da.
+00:22:08,536 --> 00:22:10,746
+<font color="white">Biz can korkusuyla binaya sığınırken</font>
 
 250
-00:25:04,750 --> 00:25:06,041
-Son Damla'yı devraldı.
+00:22:10,830 --> 00:22:15,835
+<font color="white">o kum fırtınasında 30 gün boyunca</font>
 
 251
-00:25:06,666 --> 00:25:07,833
-Gördüm.
+00:22:15,918 --> 00:22:19,296
+<font color="white">yemeden içmeden Bab Tuma'da vaaz verdi.</font>
 
 252
-00:25:08,416 --> 00:25:11,125
-Başımızda Vander olmayınca
-işler çok değişti.
+00:22:20,840 --> 00:22:23,843
+<font color="white">Öyle yaptığına inanmıyorsun, değil mi?</font>
 
 253
-00:25:12,000 --> 00:25:15,000
-Powder'dan hiç haber aldın mı?
-Silco'nun elinde olabilir.
+00:22:27,555 --> 00:22:29,014
+<font color="white">O, İsa'nın dönmüş hâli.</font>
 
 254
-00:25:17,625 --> 00:25:18,708
-Onu bulmalıyım.
+00:22:32,184 --> 00:22:33,185
+<font color="white">Al-Masih.</font>
 
 255
-00:25:20,375 --> 00:25:22,625
-Silco'nun sağkolu
-buranın devamlı müşterisi.
+00:22:34,186 --> 00:22:35,271
+<font color="white">Jibril!</font>
 
 256
-00:25:22,708 --> 00:25:25,166
-Miguel onun yerini sana söyler.
+00:22:56,083 --> 00:22:57,293
+<font color="white">Otur benimle.</font>
 
 257
-00:25:26,333 --> 00:25:27,250
-Sana borçluyum.
+00:23:07,011 --> 00:23:09,513
+<font color="white">Her ruh için bir yıldız var,</font>
+<font color="white">biliyor musun?</font>
 
 258
-00:25:30,500 --> 00:25:31,458
-Önemli değil.
+00:23:11,515 --> 00:23:12,850
+<font color="white">Bana inanıyor musun?</font>
 
 259
-00:25:35,416 --> 00:25:39,708
-Bahçelerde karşılaşsak bile
-benim tüm gördüğüm bu.
+00:23:16,020 --> 00:23:16,979
+<font color="white">Evet.</font>
 
 260
-00:25:53,708 --> 00:25:55,041
-Bugün iyi iş çıkardın.
+00:23:20,900 --> 00:23:23,986
+<font color="white">İmam... Annem iyi bir yerde mi?</font>
 
 261
-00:25:55,125 --> 00:25:56,666
-Öğretmenim iyiydi.
+00:23:24,820 --> 00:23:27,072
+<font color="white">Allah nerede olmasını istiyorsa orada.</font>
 
 262
-00:25:57,750 --> 00:26:00,333
-Konsey'deki aptal ihtiyarlar çok geçmeden
+00:23:28,073 --> 00:23:29,074
+<font color="white">O'nun yanında mı?</font>
 
 263
-00:26:00,416 --> 00:26:02,375
-araştırmanı resmî olarak onaylar.
+00:23:32,661 --> 00:23:34,163
+<font color="white">Sence O...</font>
 
 264
-00:26:04,208 --> 00:26:06,458
-Babam insanların ellerine çekiç verdi,
+00:23:35,497 --> 00:23:38,417
+<font color="white">Anneninki kadar iyi bir ruhu</font>
+<font color="white">yüzüstü bırakır mı?</font>
 
 265
-00:26:06,541 --> 00:26:08,625
-onlar da bu muhteşem şehri inşa etti.
+00:23:39,418 --> 00:23:40,419
+<font color="white">Onu özlüyorum.</font>
 
 266
-00:26:09,333 --> 00:26:12,625
-Ellerine büyü verirsek
-yaratabilecekleri harikaları düşünsene.
+00:23:42,421 --> 00:23:43,505
+<font color="white">Görmek istiyorum.</font>
 
 267
-00:26:13,708 --> 00:26:15,708
-Dünya bir daha eskisi gibi olmayacak.
+00:23:43,589 --> 00:23:46,884
+<font color="white">Ahireti düşünmen güzel.</font>
 
 268
-00:26:17,625 --> 00:26:20,208
-Medarda'lar dünyadan
-istediklerini almaya alışkın.
+00:23:47,593 --> 00:23:49,136
+<font color="white">Niye şimdi geldin?</font>
 
 269
-00:26:20,916 --> 00:26:23,625
-Çoğu zaman karşılığında bir şey vermeyiz.
+00:23:49,678 --> 00:23:52,348
+<font color="white">Bu şeyleri sorgulamak anlamsız.</font>
 
 270
-00:26:25,625 --> 00:26:27,291
-Sen olmadan yapamazdım.
+00:23:53,265 --> 00:23:54,183
+<font color="white">Şu an buradayım</font>
 
 271
-00:26:55,750 --> 00:26:59,875
--Çok güzel!
--Neden işe yaramıyor, çözemiyorum.
+00:23:54,808 --> 00:23:58,145
+<font color="white">çünkü hep bu anda ve buradaydım.</font>
 
 272
-00:26:59,958 --> 00:27:01,083
-Çözersiniz.
+00:23:58,604 --> 00:24:00,105
+<font color="white">Sen de öyleydin.</font>
 
 273
-00:27:03,250 --> 00:27:07,666
-Yakında çıkar mısınız?
-Birlikte yürürüz diye düşündüm.
+00:24:09,448 --> 00:24:11,450
+<font color="white">İçinde bir ışık var Jibril...</font>
 
 274
-00:27:07,750 --> 00:27:11,041
-Sanırım bu gece burada kalacağım.
+00:24:15,371 --> 00:24:17,873
+<font color="white">...ama Allah senden zor şeyler isteyecek.</font>
 
 275
-00:27:11,125 --> 00:27:12,208
-Yine mi?
+00:24:19,875 --> 00:24:21,418
+<font color="white">Hazırım.</font>
 
 276
-00:27:12,291 --> 00:27:14,708
-Yarın da devam edebilirsiniz,
-biliyorsunuz.
+00:24:26,006 --> 00:24:28,008
+<font color="white">Kampı toparlayın. Gidiyoruz.</font>
 
 277
-00:27:15,458 --> 00:27:16,958
-İyi geceler Bayan Young.
+00:24:38,227 --> 00:24:40,729
+<font color="white">"Masih" Arapçada "Mesih" demek.</font>
 
 278
-00:29:02,666 --> 00:29:07,500
--Bu sularda neredeyse boğuluyordum.
--Bin kere söyledin.
+00:24:40,813 --> 00:24:42,564
+<i><font color="white">Al-Masih!</font></i>
 
 279
-00:29:07,583 --> 00:29:10,375
-Vander düşündüğün gibi biri değildi.
+00:24:43,315 --> 00:24:44,692
+<font color="white">Yani bu bir tarikat mı?</font>
 
 280
-00:29:10,458 --> 00:29:13,000
-Evet, senin kardeşin gibiydi
+00:24:45,150 --> 00:24:49,279
+<font color="white">Muhtemelen. IŞİD bu türden</font>
+<font color="white">kıyamet propagandasını hep kullandı.</font>
 
 281
-00:29:13,083 --> 00:29:16,500
-ama sana sırt çevirdi, falan filan.
+00:24:49,363 --> 00:24:50,322
+<font color="white">Çok etkiliydi.</font>
 
 282
-00:29:16,583 --> 00:29:17,916
-Atladığım bir yer var mı?
+00:24:50,990 --> 00:24:53,158
+<font color="white">Bu adam işi daha ileri götürdü.</font>
 
 283
-00:29:19,666 --> 00:29:21,166
-Yeni bir şey söyleyebilirim.
+00:24:53,283 --> 00:24:55,869
+<font color="white">Rakip bir hizipten mi? El Kaide mi?</font>
 
 284
-00:29:27,625 --> 00:29:31,625
-O gün zayıf bir adamın
-ölmesine izin verdim.
+00:24:55,953 --> 00:24:57,705
+<font color="white">Kiminle ilişkili, bilmiyoruz.</font>
 
 285
-00:29:40,416 --> 00:29:42,333
-Sonra başka bir adam doğdu.
+00:24:57,788 --> 00:25:00,165
+<font color="white">-Ona dair ne biliyoruz?</font>
+<font color="white">-Sorun da bu ya.</font>
 
 286
-00:29:43,791 --> 00:29:45,083
-İhanet.
+00:25:00,249 --> 00:25:03,377
+<font color="white">Öylece çıkıverdi</font>
+<font color="white">ve çaresiz insanları çöle götürüyor.</font>
 
 287
-00:29:45,166 --> 00:29:49,833
-İnsanı yiyip bitirecekmiş gibi
-hissettiren bir acısı var.
+00:25:03,794 --> 00:25:04,712
+<font color="white">Amacı ne?</font>
 
 288
-00:29:49,916 --> 00:29:51,750
-Bu acı seni ya mahveder
+00:25:04,795 --> 00:25:09,758
+<font color="white">Bir tarikatsa onları ölüme götürebilir</font>
+<font color="white">ya da bir ordu kuruyor olabilir.</font>
 
 289
-00:29:51,833 --> 00:29:54,666
-ya da daha iyi bir şeye dönüştürür.
+00:25:10,634 --> 00:25:13,012
+<font color="white">Açlıktan ölen hasta mültecilerle mi?</font>
 
 290
-00:29:55,666 --> 00:29:58,041
-Powder'ın ölmesine izin vermelisin.
+00:25:13,095 --> 00:25:16,348
+<font color="white">Başkaları da katılır umuduyla</font>
+<font color="white">bir dava yaratıyor.</font>
 
 291
-00:29:58,958 --> 00:30:01,625
-Böylece acıdan korkmayı bırakırsın,
-serbest kalırsın.
+00:25:17,933 --> 00:25:21,437
+<font color="white">-Spekülasyon yapıyorsun Eva.</font>
+<font color="white">-Spekülasyon yapmak benim işim.</font>
 
 292
-00:30:04,291 --> 00:30:07,916
-Artık güçlüsün. Hep olman gerektiği gibi.
+00:25:22,187 --> 00:25:23,856
+<font color="white">2.000'den fazla müridi var.</font>
 
 293
-00:30:09,375 --> 00:30:10,833
-Jinx mükemmel.
+00:25:23,939 --> 00:25:26,442
+<font color="white">Ya o da bir El Bağdadi olup çıkarsa?</font>
 
 294
-00:30:31,416 --> 00:30:34,083
-<i>Kendine dikkat et</i>
+00:25:30,237 --> 00:25:31,822
+<font color="white">Onu izlemek istiyorum.</font>
 
 295
-00:30:34,166 --> 00:30:37,291
-<i>Ayaklandıran sessizliğin</i>
-<i>Seslerine uyanıyorum</i>
+00:25:36,910 --> 00:25:37,995
+<font color="white">En az kaynakla.</font>
 
 296
-00:30:37,375 --> 00:30:40,375
-<i>Zihnimde dolanıyor</i>
-<i>Kulağım yeri dinliyor</i>
+00:25:40,205 --> 00:25:41,415
+<font color="white">Teşekkürler efendim.</font>
 
 297
-00:30:40,458 --> 00:30:43,375
-<i>Anlattığım hikâyeleri</i>
-<i>Seyretmenin arayışındayım</i>
+00:26:05,064 --> 00:26:06,732
+<font color="white">Suriye üzerinde neyimiz var?</font>
 
 298
-00:30:43,458 --> 00:30:46,625
-<i>Sırtımı yasladım dünyaya</i>
-<i>Döndüğümde gülüyordu bana</i>
+00:26:57,407 --> 00:27:00,577
+<font color="white">Dört dakikada menzilden çıkacak.</font>
+<font color="white">Tam ne arıyoruz?</font>
 
 299
-00:30:46,708 --> 00:30:52,416
-<i>Çok iyi olduğumuzu söylerler</i>
+00:27:01,328 --> 00:27:03,038
+<font color="white">Şunu yakınlaştırabilir misin?</font>
 
 300
-00:30:52,500 --> 00:30:58,583
-<i>Ama dönünce bizden nefret ederler</i>
+00:27:06,250 --> 00:27:07,167
+<font color="white">Daha yaklaştır.</font>
 
 301
-00:30:59,750 --> 00:31:01,333
-<i>Sefalet</i>
+00:27:15,175 --> 00:27:16,593
+<font color="white">İşte burada.</font>
 
 302
-00:31:02,166 --> 00:31:05,333
-<i>Herkes düşmanım olmak istiyor</i>
+00:27:19,680 --> 00:27:21,223
+<font color="white">Şam yakınında değiller.</font>
 
 303
-00:31:06,125 --> 00:31:08,333
-<i>Anlayışı bırakma elden</i>
+00:27:22,724 --> 00:27:23,767
+<font color="white">Neredeyiz?</font>
 
 304
-00:31:08,416 --> 00:31:11,541
-<i>Herkes düşmanım olmak istiyor</i>
+00:27:25,060 --> 00:27:26,270
+<font color="white">Şam şurada.</font>
 
 305
-00:31:15,041 --> 00:31:16,791
-<i>Kendine dikkat et</i>
+00:27:27,980 --> 00:27:29,189
+<font color="white">-Şurası...</font>
+<font color="white">-İsrail.</font>
 
 306
-00:31:16,875 --> 00:31:18,000
-<i>Düşmanım</i>
+00:27:32,317 --> 00:27:33,986
+<font color="white">Bizi ölüme sürükledi.</font>
 
 307
-00:31:21,416 --> 00:31:23,291
-<i>Kendine dikkat et</i>
-<i>Ama ben hazırım</i>
+00:27:34,069 --> 00:27:35,737
+<font color="white">Bizi savaşa sürükledi.</font>
 
 308
-00:31:23,375 --> 00:31:24,291
-POLİS TEŞKİLATI
+00:27:45,914 --> 00:27:47,124
+<font color="white">Silahları toplayın.</font>
 
 309
-00:31:24,375 --> 00:31:26,916
-<i>Sen düşmem için ederken dua</i>
-<i>Sözlerin yazılı duvarda</i>
+00:27:53,547 --> 00:27:55,174
+<font color="white">Direktör Bailey'i bağlayın.</font>
 
 310
-00:31:27,000 --> 00:31:30,166
-<i>Salonlardaki kahkahalar</i>
-<i>Ve bana takılan lakaplar</i>
+00:27:55,799 --> 00:27:58,719
+<font color="white">İsrail'deki o güvenlik noktasına</font>
+<font color="white">haber vermeliyiz.</font>
 
 311
-00:31:30,250 --> 00:31:33,000
-<i>Zihnimde sıkıştım kaldım</i>
-<i>Bekliyorum doğru zamanı</i>
+00:28:09,688 --> 00:28:12,107
+<font color="white">Ne yapmamızı istiyorsun İmam?</font>
 
 312
-00:31:33,083 --> 00:31:36,583
-<i>Benden daha kötü olmanın</i>
-<i>Ne demek olduğunu gösterdiğim anı</i>
+00:28:15,527 --> 00:28:17,321
+<font color="white">Bir çukur kazıp hepsini gömün.</font>
 
 313
-00:31:36,666 --> 00:31:42,416
-<i>Çok iyi olduğumuzu söylerler</i>
+00:28:17,863 --> 00:28:19,406
+<font color="white">O zaman nasıl savaşacağız?</font>
 
 314
-00:31:42,500 --> 00:31:48,333
-<i>Ama dönünce bizden nefret ederler</i>
+00:29:10,916 --> 00:29:11,833
+<font color="white">Kahretsin.</font>
 
 315
-00:31:56,000 --> 00:31:56,833
-Jayce?
+00:29:12,084 --> 00:29:13,168
+<font color="white">Ne?</font>
 
 316
-00:31:57,541 --> 00:31:58,416
-Viktor.
+00:29:15,587 --> 00:29:17,589
+<font color="white">Delinin teki geliyor.</font>
 
 317
-00:31:59,083 --> 00:32:02,458
-Doktorlar dedi ki…
+00:29:26,848 --> 00:29:29,977
+<font color="white">Selam deli.</font>
 
 318
-00:32:07,416 --> 00:32:08,958
-Ne kadar vaktim var?
+00:29:47,995 --> 00:29:50,872
+<font color="white">-Kahretsin.</font>
+<font color="white">-Ne oldu?</font>
 
 319
-00:32:14,000 --> 00:32:15,041
-ECEL, BÜYÜCÜ
+00:29:52,040 --> 00:29:52,916
+<font color="white">Siktir.</font>
 
 320
-00:32:15,125 --> 00:32:16,375
-Şansınıza küsün beyler!
+00:30:14,187 --> 00:30:17,149
+<font color="white">Devriye noktası 328ip. </font>
+<font color="white">Tekrarlıyorum 328ip.</font>
 
 321
-00:32:16,458 --> 00:32:19,125
-<i>Herkes düşmanım olmak istiyor</i>
+00:30:17,232 --> 00:30:19,568
+<font color="white">Acil takviye talep ediyoruz.</font>
 
 322
-00:32:28,166 --> 00:32:29,041
-Vi?
+00:31:16,917 --> 00:31:18,377
+<font color="white">Güçlü olun.</font>
 
 323
-00:32:33,125 --> 00:32:36,375
--Seni pis hain.
--Vander fırsatını tepti.
+00:31:19,169 --> 00:31:20,379
+<font color="white">Allah yanınızda.</font>
 
 324
-00:33:03,625 --> 00:33:05,333
-Anlaşılan sabretmeyi öğrenmemişsin.
+00:31:26,134 --> 00:31:28,804
+<font color="white">Eller yukarı!</font>
 
 325
-00:34:27,583 --> 00:34:29,083
-Kız kardeşim nerede?
+00:31:28,887 --> 00:31:30,263
+<font color="white">Elini giysinden çek!</font>
 
 326
-00:34:29,166 --> 00:34:31,791
--Onu nerede tutuyor?
--Tutmak mı?
+00:31:30,347 --> 00:31:32,641
+<font color="white">Yat aşağı!</font>
 
 327
-00:34:32,416 --> 00:34:33,458
-Jinx'i mi diyorsun?
+00:31:32,724 --> 00:31:34,935
+<font color="white">-</font><i><font color="white">Ateş etmeyin!</font></i>
+<font color="white">-Destek nerede kaldı?</font>
 
 328
-00:34:35,166 --> 00:34:36,708
-Silco'ya çalışıyor.
+00:31:35,018 --> 00:31:36,395
+<font color="white">O insanlara gıda lazım.</font>
 
 329
-00:34:48,875 --> 00:34:50,375
-Kızı sayılır.
+00:31:36,478 --> 00:31:38,355
+<font color="white">Lübnan o tarafta.</font>
 
 330
-00:35:03,416 --> 00:35:05,166
-Selamını iletirim.
+00:31:38,939 --> 00:31:41,650
+<font color="white">Yere yat. Yere yat dedim!</font>
 
 331
-00:35:29,708 --> 00:35:31,083
-Neden gitmesine izin verdin?
+00:31:41,733 --> 00:31:43,151
+<font color="white">Eller yukarı!</font>
 
 332
-00:35:31,166 --> 00:35:32,916
-Teşekkür etmeyi bilmez misin?
+00:31:46,113 --> 00:31:47,280
+<font color="white">Rahat.</font>
 
 333
-00:35:33,000 --> 00:35:35,750
--Burada olduğumuzu öğrenecek.
--Kimin yüzünden acaba?
+00:32:00,836 --> 00:32:01,795
+<font color="white">Tutuklayın onu.</font>
 
 334
-00:35:41,625 --> 00:35:43,083
-İyi nişancısın.
+00:32:02,629 --> 00:32:06,216
+<i><font color="white">Bu sabah İsrail sınırında</font></i>
+<i><font color="white">ilginç bir tutuklama gerçekleşti.</font></i>
 
 335
-00:35:43,166 --> 00:35:45,166
-Mükemmel bir nişancıyım.
+00:32:06,299 --> 00:32:08,927
+<i><font color="white">İşgal kuvvetleri, Filistinli mültecilerin</font></i>
 
 336
-00:35:46,458 --> 00:35:50,083
--Yardım edecek misin kapkek?
--Bana öyle demeyi kes.
+00:32:09,010 --> 00:32:12,556
+<i><font color="white">al-Masih dedikleri adam önderliğinde</font></i>
+<i><font color="white">yurtlarına dönmesine</font></i>
 
 337
-00:35:50,916 --> 00:35:52,166
-Adım Caitlyn.
+00:32:12,639 --> 00:32:14,141
+<i><font color="white">izin vermedi.</font></i>
 
 338
-00:35:52,916 --> 00:35:54,041
-Ama çok tatlısın.
+00:32:14,224 --> 00:32:17,394
+<i><font color="white">Yetkililerin mültecilere</font></i>
+<i><font color="white">geçiş hakkı vermemesi</font></i>
 
 339
-00:35:54,791 --> 00:35:55,833
-Kapkek gibi.
+00:32:17,477 --> 00:32:21,523
+<i><font color="white">dünya çapında Müslüman toplumlardan</font></i>
+<i><font color="white">ve liderlerinden tepki gördü.</font></i>
 
 340
-00:35:57,458 --> 00:35:58,333
-Kapa çeneni.
+00:32:21,606 --> 00:32:24,734
+<i><font color="white">Yurdundan edilmiş Filistinliler</font></i>
+<i><font color="white">Batı Şeria'ya geçişin</font></i>
 
 341
-00:36:21,166 --> 00:36:22,875
-Ortalığı kirletiyorsun.
+00:32:24,818 --> 00:32:26,778
+<i><font color="white">vatandaşlık hakkı olduğu görüşünde.</font></i>
 
 342
-00:36:42,125 --> 00:36:43,458
-Ablası.
+00:32:26,862 --> 00:32:28,238
+<font color="white">Peki. Yine başlıyoruz.</font>
 
 343
-00:36:44,083 --> 00:36:45,250
-Geri döndü.
+00:32:28,321 --> 00:32:31,283
+<font color="white">Birisi saçımı düzeltsin.</font>
+<font color="white">Phil Spector'a benziyorum.</font>
 
 344
-00:36:47,916 --> 00:36:49,208
-Ölümden mi?
+00:33:03,732 --> 00:33:04,649
+<font color="white">Siktir.</font>
 
 345
-00:38:46,666 --> 00:38:48,666
-Alt yazı çevirmeni: Berk Ersever
+00:33:14,493 --> 00:33:16,995
+<font color="white">-Ne yapıyorsun?</font>
+<font color="white">-Neye benziyor?</font>
+
+346
+00:33:17,412 --> 00:33:19,122
+<font color="white">Eve öylece giremezsin.</font>
+
+347
+00:33:20,207 --> 00:33:21,374
+<font color="white">Kirasını ödüyorum.</font>
+
+348
+00:33:22,751 --> 00:33:24,044
+<font color="white">İşte prensesim.</font>
+
+349
+00:33:24,127 --> 00:33:25,420
+<font color="white">Baba!</font>
+
+350
+00:33:25,504 --> 00:33:27,005
+<font color="white">Sana bir bakayım.</font>
+
+351
+00:33:27,088 --> 00:33:28,215
+<font color="white">Ter içindeyim.</font>
+
+352
+00:33:29,341 --> 00:33:31,760
+<font color="white">Arayıp geleceğini haber vermen gerekiyor.</font>
+
+353
+00:33:32,219 --> 00:33:33,136
+<font color="white">Kurallar böyle.</font>
+
+354
+00:33:35,180 --> 00:33:36,389
+<font color="white">Sikmişim kuralını.</font>
+
+355
+00:33:36,473 --> 00:33:40,352
+<font color="white">-Kızının önünde ne güzel konuşuyorsun.</font>
+<font color="white">-Senden hiç duymadı sanki.</font>
+
+356
+00:33:42,604 --> 00:33:43,855
+<font color="white">Nereye gidiyorsun?</font>
+
+357
+00:33:43,939 --> 00:33:45,106
+<font color="white">Duş almaya.</font>
+
+358
+00:33:45,190 --> 00:33:46,399
+<font color="white">Burası otel değil.</font>
+
+359
+00:33:46,858 --> 00:33:48,443
+<font color="white">Hiç temizlik yapmaz mısın?</font>
+
+360
+00:33:48,527 --> 00:33:50,529
+<font color="white">Beni yargılamaya mı geldin buraya?</font>
+
+361
+00:33:51,196 --> 00:33:53,740
+<font color="white">-Eşyalarını ne zaman alacaksın?</font>
+<font color="white">-</font><i><font color="white">Bu sabah</font></i>
+
+362
+00:33:53,823 --> 00:33:55,408
+<i><font color="white">sınırı geçerken tutuklandı.</font></i>
+
+363
+00:33:55,492 --> 00:33:56,785
+<i><font color="white">-Kendisi...</font></i>
+<font color="white">-Hey.</font>
+
+364
+00:33:56,868 --> 00:33:58,578
+<font color="white">-Dur.</font>
+<font color="white">-Burada ne işin var?</font>
+
+365
+00:33:59,120 --> 00:34:02,791
+<font color="white">-Ellie'yi görmeye geldim.</font>
+<font color="white">-Bu hafta tenezzül ettin yani?</font>
+
+366
+00:34:02,874 --> 00:34:05,001
+<font color="white">Hâlâ işe girmedin mi?</font>
+
+367
+00:34:05,252 --> 00:34:08,088
+<font color="white">Benim işim kızımıza bakmak.</font>
+<font color="white">Bir ara sen de dene.</font>
+
+368
+00:34:08,838 --> 00:34:11,758
+<font color="white">Git paltonu giy prenses.</font>
+
+369
+00:34:13,843 --> 00:34:14,761
+<font color="white">Evet?</font>
+
+370
+00:34:17,305 --> 00:34:18,265
+<font color="white">İzin günümdeyim.</font>
+
+371
+00:34:20,100 --> 00:34:21,142
+<font color="white">Ne zaman?</font>
+
+372
+00:34:24,062 --> 00:34:25,021
+<font color="white">Peki.</font>
+
+373
+00:34:28,149 --> 00:34:30,110
+<font color="white">Yine mi kalbini kıracaksın onun?</font>
+
+374
+00:34:35,448 --> 00:34:36,825
+<font color="white">MÜLTECİ LİDERİ TUTUKLANDI</font>
+
+375
+00:34:36,908 --> 00:34:39,452
+<font color="white">Bir şeyler öğreneceğiz ama zaman alacak.</font>
+
+376
+00:34:39,536 --> 00:34:40,745
+<font color="white">Ve kaynak.</font>
+
+377
+00:34:40,912 --> 00:34:43,415
+<font color="white">Onu tanımanın en hızlı yolu görüşmek.</font>
+
+378
+00:34:45,709 --> 00:34:49,087
+<font color="white">Bizim tutuklumuz değil,</font>
+<font color="white">o yüzden bizim meselemiz de değil.</font>
+
+379
+00:34:49,170 --> 00:34:50,589
+<font color="white">İsrail ilgileniyor.</font>
+
+380
+00:34:52,257 --> 00:34:55,844
+<font color="white">Yabana atmamak lazım efendim.</font>
+<font color="white">Bu sırf İsrail'i hedef almıyor.</font>
+
+381
+00:34:55,927 --> 00:34:58,471
+<font color="white">Biliyor ki Amerika</font>
+<font color="white">İsrail'i korumaya mecbur</font>
+
+382
+00:34:58,555 --> 00:35:01,808
+<font color="white">ve aç insanlar sınıra yığıldıkça</font>
+
+383
+00:35:01,891 --> 00:35:04,227
+<font color="white">bu pozisyonu korumak güçleşiyor.</font>
+
+384
+00:35:05,478 --> 00:35:10,150
+<font color="white">-İstemediğimiz bir şeye sürükleneceğiz.</font>
+<font color="white">-Niye bunu politikacılara bırakmıyorsun?</font>
+
+385
+00:35:13,069 --> 00:35:14,904
+<font color="white">Pek politik değildi.</font>
+
+386
+00:35:14,988 --> 00:35:16,323
+<font color="white">Ama gerçek.</font>
+
+387
+00:35:17,574 --> 00:35:19,451
+<font color="white">Tanrım. Tıpkı baban gibisin.</font>
+
+388
+00:35:22,203 --> 00:35:24,873
+<font color="white">KUDÜS</font>
+
+389
+00:35:59,658 --> 00:36:01,117
+<font color="white">Bugün izindeyim.</font>
+
+390
+00:36:02,494 --> 00:36:06,289
+<font color="white">Zamanımı çalmanı istemiyorum.</font>
+<font color="white">Sorularımı yanıtlarsan iyi edersin.</font>
+
+391
+00:36:11,086 --> 00:36:12,379
+<font color="white">Niye buradasın?</font>
+
+392
+00:36:15,840 --> 00:36:17,676
+<font color="white">Kutsal Topraklar'ı görmek için.</font>
+
+393
+00:36:20,637 --> 00:36:22,430
+<font color="white">Kutsal Topraklar'a hoş geldin.</font>
+
+394
+00:36:25,183 --> 00:36:27,602
+<font color="white">-Serbest miyim?</font>
+<font color="white">-Soruları ben sorarım.</font>
+
+395
+00:36:28,228 --> 00:36:29,354
+<font color="white">Sen kimsin?</font>
+
+396
+00:36:31,690 --> 00:36:32,857
+<font color="white">Kelam.</font>
+
+397
+00:36:36,361 --> 00:36:38,029
+<font color="white">Anlamını biliyor musun ki?</font>
+
+398
+00:36:38,780 --> 00:36:40,198
+<font color="white">-Evet.</font>
+<font color="white">-Evet mi?</font>
+
+399
+00:36:40,949 --> 00:36:42,283
+<font color="white">Yani "kelam" mısın?</font>
+
+400
+00:36:44,828 --> 00:36:47,914
+<font color="white">Peki Bay Kelam,</font>
+<font color="white">burada çürümen umurumda değil</font>
+
+401
+00:36:47,997 --> 00:36:50,500
+<font color="white">yeter ki zamanımı çarçur etme.</font>
+
+402
+00:36:52,168 --> 00:36:53,837
+<font color="white">İbraniceyi nerede öğrendin?</font>
+
+403
+00:36:54,295 --> 00:36:55,338
+<font color="white">Burada.</font>
+
+404
+00:36:55,797 --> 00:36:56,923
+<font color="white">Buralı mısın?</font>
+
+405
+00:36:57,006 --> 00:36:57,966
+<font color="white">Aslen.</font>
+
+406
+00:36:58,717 --> 00:37:01,010
+<font color="white">Nereden? Ramat Gan? Kudüs? Nerelisin?</font>
+
+407
+00:37:01,094 --> 00:37:03,513
+<font color="white">-Niye Filistinli olduğumu düşündün?</font>
+<font color="white">-Değil misin?</font>
+
+408
+00:37:03,596 --> 00:37:05,348
+<font color="white">-Yani Yahudi misin?</font>
+<font color="white">-Aslen.</font>
+
+409
+00:37:05,473 --> 00:37:06,516
+<font color="white">Aslen.</font>
+
+410
+00:37:07,225 --> 00:37:08,977
+<font color="white">Şimdi nesin?</font>
+
+411
+00:37:09,060 --> 00:37:10,353
+<font color="white">Tanrı'ylayım.</font>
+
+412
+00:37:13,106 --> 00:37:14,065
+<font color="white">Tanrı.</font>
+
+413
+00:37:22,157 --> 00:37:23,533
+<font color="white">Onu görmüyorum.</font>
+
+414
+00:37:25,326 --> 00:37:26,453
+<font color="white">Göreceksin.</font>
+
+415
+00:37:27,036 --> 00:37:27,996
+<font color="white">Görecek miyim?</font>
+
+416
+00:37:32,125 --> 00:37:35,378
+<font color="white">Neden Tanrı'yı alıp götüne sokmuyorsun?</font>
+
+417
+00:37:39,090 --> 00:37:40,842
+<font color="white">Suriye'de ne işin vardı?</font>
+
+418
+00:37:41,259 --> 00:37:42,594
+<font color="white">Bir mesaj iletiyordum.</font>
+
+419
+00:37:42,677 --> 00:37:45,388
+<font color="white">-Kimden?</font>
+<font color="white">-Babamdan.</font>
+
+420
+00:37:46,264 --> 00:37:47,766
+<font color="white">Kimmiş baban?</font>
+
+421
+00:37:48,183 --> 00:37:50,143
+<font color="white">Zamanla açığa çıkacak.</font>
+
+422
+00:37:51,186 --> 00:37:53,938
+<font color="white">Niye beni gizemden kurtarıp söylemiyorsun?</font>
+
+423
+00:37:54,355 --> 00:37:55,607
+<font color="white">Çünkü Aviram,</font>
+
+424
+00:37:56,232 --> 00:37:57,400
+<font color="white">sırası değil.</font>
+
+425
+00:38:01,988 --> 00:38:03,406
+<font color="white">Adımı sana kim söyledi?</font>
+
+426
+00:38:06,117 --> 00:38:08,620
+<font color="white">Hiç kimsenin söylemesi gerekmiyor.</font>
+
+427
+00:38:09,287 --> 00:38:11,289
+<font color="white">Adın babamın kitabında geçiyor.</font>
+
+428
+00:38:13,750 --> 00:38:15,084
+<font color="white">Benimle dalga geçme.</font>
+
+429
+00:38:15,710 --> 00:38:18,046
+<font color="white">Öfken yanlış hedefe yönelik.</font>
+
+430
+00:38:18,129 --> 00:38:19,964
+<font color="white">Öfkemi bilmek istemezsin.</font>
+
+431
+00:38:22,842 --> 00:38:25,970
+<font color="white">Öfkeye, bir ödül gibi sarılıyorsun.</font>
+
+432
+00:38:27,722 --> 00:38:30,475
+<font color="white">Oysa bu boynuna bağlı bir ağırlık.</font>
+
+433
+00:38:37,023 --> 00:38:38,691
+<font color="white">Canımı yakmak mı istiyorsun?</font>
+
+434
+00:38:42,445 --> 00:38:43,863
+<font color="white">Sana yaptıkları gibi.</font>
+
+435
+00:38:47,909 --> 00:38:49,327
+<font color="white">Palavracının tekisin.</font>
+
+436
+00:38:50,912 --> 00:38:52,705
+<font color="white">Çok insanın canını yakıyorsun.</font>
+
+437
+00:38:53,414 --> 00:38:55,041
+<font color="white">İşimin bir parçası, evet.</font>
+
+438
+00:38:56,793 --> 00:38:58,169
+<font color="white">Hoşuna gidiyor.</font>
+
+439
+00:38:59,045 --> 00:39:00,839
+<font color="white">İşimle gurur duyuyorum.</font>
+
+440
+00:39:05,677 --> 00:39:07,387
+<font color="white">O oğlan dışında.</font>
+
+441
+00:39:10,765 --> 00:39:11,891
+<font color="white">Hangi oğlan?</font>
+
+442
+00:39:14,561 --> 00:39:16,312
+<font color="white">Megiddo'daki.</font>
+
+443
+00:39:21,150 --> 00:39:23,152
+<font color="white">İnanmayı o zaman mı bıraktın?</font>
+
+444
+00:39:27,156 --> 00:39:28,825
+<font color="white">Burada soruları ben sorarım.</font>
+
+445
+00:39:29,158 --> 00:39:31,369
+<font color="white">O seni bekliyor Aviram...</font>
+
+446
+00:39:32,954 --> 00:39:34,372
+<font color="white">...hazır olduğunda.</font>
+
+447
+00:39:57,937 --> 00:39:59,022
+<font color="white">Hey.</font>
+
+448
+00:39:59,230 --> 00:40:00,732
+<font color="white">Onu hücreye tıkın.</font>
+
+449
+00:40:21,794 --> 00:40:23,254
+<font color="white">Berbat görünüyorsun.</font>
+
+450
+00:40:26,382 --> 00:40:27,967
+<font color="white">Ömer'i gördün mü?</font>
+
+451
+00:40:29,677 --> 00:40:30,637
+<font color="white">Niye göreyim?</font>
+
+452
+00:40:32,180 --> 00:40:33,806
+<font color="white">Çünkü o senin ağabeyin.</font>
+
+453
+00:40:36,726 --> 00:40:39,354
+<font color="white">Aptallık etti. Ona acımayacağım.</font>
+
+454
+00:40:41,022 --> 00:40:42,690
+<font color="white">Tutkunu seviyorum.</font>
+
+455
+00:40:45,693 --> 00:40:48,863
+<font color="white">Ülke perişan hâlde,</font>
+<font color="white">o kalkmış dükkân soyuyor.</font>
+
+456
+00:40:49,238 --> 00:40:50,740
+<font color="white">Kendi kaşındı.</font>
+
+457
+00:40:53,743 --> 00:40:54,911
+<font color="white">Hayrola?</font>
+
+458
+00:40:56,663 --> 00:40:59,290
+<font color="white">Her zamankinden de öfkelisin.</font>
+
+459
+00:41:13,721 --> 00:41:15,014
+<font color="white">Sen...</font>
+
+460
+00:41:19,477 --> 00:41:21,771
+<font color="white">Megiddo'dan kimseye söz ettin mi?</font>
+
+461
+00:41:26,651 --> 00:41:28,319
+<font color="white">Niye söz edeyim?</font>
+
+462
+00:41:30,196 --> 00:41:31,906
+<font color="white">Niye bu meseleyi açtın ki?</font>
+
+463
+00:41:37,578 --> 00:41:38,997
+<font color="white">Hiç.</font>
+
+464
+00:41:50,800 --> 00:41:52,135
+<font color="white">EŞLEŞME BULUNAMADI</font>
+
+465
+00:42:03,312 --> 00:42:04,439
+<font color="white">EŞLEŞME SAPTANAMADI</font>
+
+466
+00:42:11,070 --> 00:42:12,280
+<font color="white">%0 EŞLEŞME</font>
+
+467
+00:42:16,909 --> 00:42:19,746
+<font color="white">Hey, hırsız. Onu geri ver.</font>
+
+468
+00:42:20,580 --> 00:42:21,748
+<font color="white">İyi geceler.</font>
+
+469
+00:43:08,753 --> 00:43:11,714
+<font color="white">Bu çuvalın karşısına kaç kez geçtim,</font>
+<font color="white">biliyor musun?</font>
+
+470
+00:43:12,340 --> 00:43:14,050
+<font color="white">227 kez.</font>
+
+471
+00:43:16,302 --> 00:43:18,304
+<font color="white">Her seferinde o bendim.</font>
+
+472
+00:43:21,349 --> 00:43:24,477
+<font color="white">Bunu sonsuza dek sürdürebiliriz.</font>
+
+473
+00:43:25,520 --> 00:43:26,604
+<font color="white">Sana kalmış.</font>
+
+474
+00:43:28,523 --> 00:43:30,274
+<font color="white">Bu çözüm değil.</font>
+
+475
+00:43:32,318 --> 00:43:33,486
+<font color="white">Kimsin sen?</font>
+
+476
+00:43:34,195 --> 00:43:36,197
+<font color="white">Daha iyi bir sorum var.</font>
+
+477
+00:43:37,073 --> 00:43:38,241
+<font color="white">Sen kimsin,</font>
+
+478
+00:43:38,533 --> 00:43:40,076
+<font color="white">Aviram Dahan?</font>
+
+479
+00:43:43,496 --> 00:43:45,540
+<font color="white">Soruları ben sorarım.</font>
+
+480
+00:43:46,999 --> 00:43:47,959
+<font color="white">Öyle mi?</font>
+
+481
+00:47:57,875 --> 00:48:00,002
+<font color="white">Alt yazı çevirmeni: Barış Emre Alkım</font>
 
