@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" audio-track="eng" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e18.srt", han
-https://torrentlive.herokuapp.com/api/torrent/serve/2969402f2ddf2525541faeb55f2c427d1674c394/Hanna.S01E01.Forest.AMZN.WEB-DL.720p.mkv
-#EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e19.srt", star
-https://nl34.seedr.cc/ff_get/1062178751/star.trek.discovery.s03e01.1080p.web.h264-cakes.mkv?st=jlUORLEKKH8bhApiW6KIJQ&e=1638674321
+https://torrentlive.herokuapp.com/api/torrent/serve/2969402f2ddf2525541faeb55f2c427d1674c394/Hanna.S01E02.Friend.AMZN.WEB-DL.720p.mkv
+#EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e19.srt", hep
+https://nw4.seedr.cc/ff_get/1062869593/Happiness.S01E05.1080p.WEB-DL.H264.AAC-AppleTor.mp4?st=blV9iBWGNUPu3qSzRMzKIg&e=1638751308
 #EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e20", dexter
 https://torrentlive.herokuapp.com/api/torrent/serve/5eeb21560164e49fe8d3360efef20b1d52f54b97/Dexter.New.Blood.S01E04.H.is.for.Hero.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
