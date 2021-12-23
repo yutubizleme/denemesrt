@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" audio-track="eng" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e18.srt", wit
-https://wolfozzotorrent.herokuapp.com/torrent/The.Witcher.S02E02.Kaer.Morhen.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-TEPES.mkv
+https://torrentlive.herokuapp.com/api/torrent/serve/4e45859cdbcb1ef70b7f7d1643f8f79e6aed7796/The.Witcher.S02E02.WEBDL.1080p.RGzsRutracker.mkv
 #EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e20", dexter
 https://nl30.seedr.cc/ff_get/1072777046/Dexter.New.Blood.S01E07.Skin.of.Her.Teeth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv?st=mYdV-i-8proT42uCS7oqoA&e=1640105479
 #EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/s10e19.srt", hep
