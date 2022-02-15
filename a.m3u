@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" audio-track="eng" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/ss.srt", walking
-https://torrentlive.herokuapp.com/api/torrent/serve/a65399b124261336f69d765cf07f53377cfaff04/the.walking.dead.s11e09.1080p.web.h264-cakes.mkv
+https://test121d23.herokuapp.com/stream/magnet%3A%3Fxt%3Durn%3Abtih%3AA65399B124261336F69D765CF07F53377CFAFF04?file=The.Walking.Dead.S11E09.1080p.WEB.H264-CAKES%5Brarbg%5D%2Fthe.walking.dead.s11e09.1080p.web.h264-cakes.mkv
 #EXTINF:0 tvg-logo="" audio-track="eng" subtitles="https://raw.githubusercontent.com/yutubizleme/denemesrt/main/ss2.srt", sss
 https://fr17.seedr.cc/ff_get/1111257734/peacemaker.2022.s01e03.1080p.web.h264-cakes.mkv?st=O2JcoLmDIJR8TslKWdkWPg&e=1645055110
