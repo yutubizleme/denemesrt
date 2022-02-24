@@ -1,1823 +1,2055 @@
 ﻿1
-00:00:15,500 --> 00:00:20,499
-Çeviri: Barış Fırat Kanat
-İyi seyirler.
+00:00:09,739 --> 00:00:11,739
+Çeviri: daeron
+twitter.com/uAyertogrul
 
 2
-00:00:21,945 --> 00:00:24,983
-Bir zamanlar dünya harikalıklarla doluydu...
+00:00:11,740 --> 00:00:13,060
+Matthieu!
 
 3
-00:00:24,985 --> 00:00:27,225
-... ama dünya artık insanlara ait.
+00:00:19,940 --> 00:00:21,260
+Burdayım.
 
 4
-00:00:30,745 --> 00:00:33,423
-Biz yaratıklar...
+00:01:21,540 --> 00:01:23,578
+Bir zamanlar tanıdığım bir Matthew vardı.
 
 5
-00:00:33,425 --> 00:00:36,305
-...iblisler, vampirler ve cadılar...
+00:01:23,580 --> 00:01:25,100
+Adım Matthieu.
 
 6
-00:00:37,505 --> 00:00:40,023
-...keşfedilmek korkusuyla...
+00:02:19,180 --> 00:02:21,180
+Yüzünde kan var.
 
 7
-00:00:40,025 --> 00:00:41,943
-...insanların gözü önünde saklandık.
+00:02:40,060 --> 00:02:41,380
+Matthew!
 
 8
-00:00:41,945 --> 00:00:44,385
-Birbirimizden bile çekindik.
+00:02:59,380 --> 00:03:02,018
+Dünya bir zamanlar gizemlerle doluydu..
 
 9
-00:00:58,345 --> 00:01:01,185
-Ama, babamın da eskiden dediği gibi...
+00:03:02,020 --> 00:03:04,778
+..ancak şimdi insanlara ait.
 
 10
-00:01:02,665 --> 00:01:05,263
-...her son...
+00:03:04,780 --> 00:03:06,898
+Biz, yaratıklar; hepimiz yok olduk..
 
 11
-00:01:05,265 --> 00:01:06,745
-...yeni bir başlangıçtır.
+00:03:06,900 --> 00:03:10,378
+..iblisler, vampirler ve cadılar dışında...
 
 12
-00:01:35,385 --> 00:01:37,383
--Merhaba Fred.
--Günaydın.
+00:03:10,380 --> 00:03:14,060
+farkedilme korkusuyla köşelerde saklandık,
+birbirimizden bile kuşkulandık.
 
 13
-00:02:53,225 --> 00:02:54,545
-Hayır, bekle!
+00:03:15,060 --> 00:03:21,138
+Ama, babamın da eskiden dediği gibi; her son..
 
 14
-00:03:09,505 --> 00:03:12,303
-Oxford'un misafir araştırma görevlisine...
+00:03:21,140 --> 00:03:23,580
+..yeni bir başlangıçtır.
 
 15
-00:03:12,305 --> 00:03:14,225
-...hoş geldin diyoruz.
+00:03:25,700 --> 00:03:27,698
+- Pantolon yeni mi Hamish?
+- Günaydın.
 
 16
-00:03:14,705 --> 00:03:18,983
-Çoğunuzun bildiği gibi, bilimin tarihi
-üzerine olan doktorasını burada tamamladı.
+00:03:27,700 --> 00:03:30,378
+Burada olman gerekmiyordu, biliyorsun.
 
 17
-00:03:18,985 --> 00:03:21,463
-İki tane ödül kazanan kitap bastıktan sonra...
+00:03:30,380 --> 00:03:33,618
+"Selam, Hamish. Seni gördüğüme sevindim."
+Ben de öyle, Matthew.
 
 18
-00:03:21,465 --> 00:03:23,903
-Yale'de kalıcı pozisyon teklif edildi..
+00:03:33,620 --> 00:03:36,258
+-Kendi başıma gayet iyi avlanabilirim.
+-Biraz Londra'dan ayrılmak iyidir.
 
 19
-00:03:23,905 --> 00:03:27,143
-Bu ayrıcalığa layık görülen en gençlerden biri.
+00:03:36,260 --> 00:03:38,498
+Zaten demir almayı düşünüyordum.
 
 20
-00:03:27,145 --> 00:03:30,423
-Aramıza geri dönmeniz bizi çok memnun etti...
+00:03:38,500 --> 00:03:40,060
+John arabayı hazırlıyor.
 
 21
-00:03:30,425 --> 00:03:31,825
-...Dr. Diana Bishop.
+00:03:57,700 --> 00:03:59,338
+Evi değiştirmişsin.
 
 22
-00:03:33,345 --> 00:03:36,145
-Teşekkürler. Çok teşekkür ederim.
+00:03:59,340 --> 00:04:00,858
+Biraz canlanmaya ihtiyacı var diye düşündüm.
 
 23
-00:03:37,145 --> 00:03:38,465
-Simya.
+00:04:00,860 --> 00:04:02,180
+Düğün pastası gibi olmuş.
 
 24
-00:03:39,905 --> 00:03:45,223
-17. yüzyılda, simya, doğa çalışmalarının kalbi...
+00:04:04,740 --> 00:04:08,498
+Bütün yolu evimi eleştirmek için gelmedin, Matt.
 
 25
-00:03:45,225 --> 00:03:47,223
-... ve modern kimyanın öncüsüydü.
+00:04:08,500 --> 00:04:09,978
+- Neler oluyor?
+- Karışık bir durum.
 
 26
-00:03:47,225 --> 00:03:51,183
-Doğanın bütün parçalarının,
-canlı veya cansız...
+00:04:09,980 --> 00:04:12,218
+Söz konusu senken hep öyle değil mi?
 
 27
-00:03:51,185 --> 00:03:53,263
-...bu evrelerden geçtiğine inanılıyordu.
+00:04:12,220 --> 00:04:14,578
+- Bu sefer ki daha da...
+- Ne? Bombok mu?
 
 28
-00:03:53,265 --> 00:03:56,543
-Bu görseller genellikle alegori olarak algılansa da...
+00:04:14,580 --> 00:04:18,140
+Bize baksana.
+Bir vampir bir iblisle arkadaş.
 
 29
-00:03:56,545 --> 00:03:59,143
-... aslında kimyasal süreci temsil ediyorlar.
+00:04:20,340 --> 00:04:22,780
+Buraya bir cadıdan kaçmak için geldim.
 
 30
-00:03:59,145 --> 00:04:02,583
-Elias Ashmole'un sahibi olduğu Bodleian
-Kütüphanesine ve eşsiz el yazmalarına...
+00:04:25,580 --> 00:04:28,020
+"kaçmak" derken...
 
 31
-00:04:02,885 --> 00:04:04,443
-...erişim ile...
+00:04:28,820 --> 00:04:30,700
+- şeyden mi bahsediyorsun?
+- Onu deli gibi arzuluyorum.
 
 32
-00:04:04,745 --> 00:04:08,383
-17. yüzyıl antikalarına,
-astrolojistlerine ve simyacılarına
+00:06:48,020 --> 00:06:50,098
+Sen de kimsin?
+Buraya izinsiz gireme...
 
 33
-00:04:08,385 --> 00:04:11,943
-Simyanın 17. yüzyıldaki rolünü...
+00:06:50,100 --> 00:06:52,138
+Patronum üç saniye içinde
+izin vermek için arayacak.
 
 34
-00:04:11,945 --> 00:04:13,603
-...incelemeye...
+00:06:52,140 --> 00:06:54,380
+Dün gece bulunan turistin cesedini arıyorum.
 
 35
-00:04:13,605 --> 00:04:18,943
-...ve Isaac Newton, Robert Boyle gibi  büyük bilim adamlarını
-nasıl etkilediğini incelemeye devam edeceğim.
-
-36
-00:04:18,945 --> 00:04:20,385
-Teşekkürler.
-
-37
-00:04:23,105 --> 00:04:25,105
--Çok ilgi çekiciydi.
--Teşekkürler.
-
-38
-00:04:26,225 --> 00:04:28,903
-Öğretim üyeleri arasında bir yer açılacak.
-
-39
-00:04:28,905 --> 00:04:31,905
-Aday listesini belirliyorum.
-İlgini çeker miydi?
-
-40
-00:04:32,905 --> 00:04:35,943
--Evet.
--Bütün çalışmalarını değerlendirmemiz gerekecek.
-
-41
-00:04:35,945 --> 00:04:40,103
-Bugün yaptığın konuşmanın çoktan
-yayımlandığını varsayıyorum?
-
-42
-00:04:40,105 --> 00:04:43,263
-Öyle. Neredeyse bitti.
-
-43
-00:04:43,265 --> 00:04:46,343
--Ekim sonundan önce bitirmen lazım.
--Tabii ki.
-
-44
-00:04:46,345 --> 00:04:48,343
--Okumayı iple çekiyorum.
--Teşekkürler.
-
-45
-00:04:48,345 --> 00:04:49,943
-Diana, konuşman çok iyiydi.
-
-46
-00:04:49,945 --> 00:04:54,223
-Gillian Chamberlain bir simya dersinde mi?
-Ne kadar hoş bir sürpriz.
-
-47
-00:04:54,225 --> 00:04:57,383
-Seni görmeyeli ne kadar oldu, 4 yıl mı?
-
-48
-00:04:57,385 --> 00:04:59,823
-Nerdeyse 6 aslında. İnanamıyorum.
-
-49
-00:04:59,825 --> 00:05:02,583
--Ne zaman geldin?
--Bir haftayı biraz geçti.
-
-50
-00:05:02,585 --> 00:05:06,105
-Resmen kütüphanede yaşıyorum.
-Bavulumu bile boşaltmadım.
-
-51
-00:05:06,665 --> 00:05:09,463
-Seni görmek çok güzel.
-
-52
-00:05:09,465 --> 00:05:11,023
-Şey gibi...
-
-53
-00:05:11,025 --> 00:05:13,625
-Eve gelmek gibi. Hiçbir şey değişmemiş.
-
-54
-00:05:14,745 --> 00:05:16,225
-Bi de bana sor.
-
-55
-00:05:18,585 --> 00:05:20,583
-Öğretim üyesi kadrosuna giremedim henüz.
-
-56
-00:05:20,585 --> 00:05:23,183
-Hala klasik tarihçiler için boş yer yok.
-
-57
-00:05:23,185 --> 00:05:24,545
-Üzgünüm.
-
-58
-00:05:25,545 --> 00:05:27,905
--Yapabileceğim bir şey varsa.
--İleride olacak.
-
-59
-00:05:28,905 --> 00:05:31,103
-Onun haricinde, Oxford hala çok güzel.
-
-60
-00:05:31,105 --> 00:05:34,063
-Cadılar Meclisi fazlasıyla aktif.
-Bu gece ekinoks için buluşacağız.
-
-61
-00:05:34,065 --> 00:05:36,625
-Gelmek istersen eğer, bir çoğumuzu tanıyorsun zaten.
-
-62
-00:05:37,665 --> 00:05:40,743
-Hala büyünün yanında rahat hissetmiyorum.
-
-63
-00:05:40,745 --> 00:05:43,065
-Aileme olanlardan sonra...
-
-64
-00:05:44,385 --> 00:05:46,545
-Şey buluyorum...
-
-65
-00:05:48,585 --> 00:05:50,225
-Zor buluyorum.
-
-66
-00:05:51,225 --> 00:05:53,503
-Güçlerini hiç kullanmıyor musun?
-
-67
-00:05:53,505 --> 00:05:56,823
-O konuda yürüyen bir enkazım.
-
-68
-00:05:56,825 --> 00:05:58,743
-Güçlerimi çok fazla öngörülemez.
-
-69
-00:05:58,745 --> 00:06:02,703
-Bu sabah kazara dışarıdayken oldu.
-
-70
-00:06:02,705 --> 00:06:04,865
-Yani kimse görmedi ama görebilirlerdi de.
-
-71
-00:06:07,465 --> 00:06:10,263
-Bu konuyu Sylvia ile konuşmalısın.
-
-72
-00:06:10,265 --> 00:06:12,543
-Cadılar Meclisinin başkanı o.
-Sana yardım edebilir.
-
-73
-00:06:12,545 --> 00:06:14,345
-Sorun değil. Alışığım zaten.
-
-74
-00:06:56,065 --> 00:06:58,823
-Dün verdiğin konuşman birkaç kişiyi
-etkilemiş diye duydum.
-
-75
-00:06:58,825 --> 00:07:01,623
-Şimdi o makaleyi tamamlaman lazım değil mi?
-
-76
-00:07:01,625 --> 00:07:03,343
-Ne lazımdı?
-
-77
-00:07:03,345 --> 00:07:08,383
--Ashmole 37, 92, 183 ve782.
--782.
-
-78
-00:07:08,385 --> 00:07:10,823
-Tamamdır. Kısa sürede geliyor.
-
-79
-00:07:10,825 --> 00:07:12,145
-Teşekkürler.
-
-80
-00:08:06,185 --> 00:08:09,783
-Nasıl gidiyor?
-
-81
-00:08:09,785 --> 00:08:11,865
-Her zamanki şeyler işte.
-
-82
-00:08:13,505 --> 00:08:15,943
-Buyrun, Ashmole el yazmaları.
-
-83
-00:08:15,945 --> 00:08:17,265
-Teşekkürler.
-
-84
-00:08:23,905 --> 00:08:26,743
-Evet,ıı, ben çıktım.
-
-85
-00:08:26,745 --> 00:08:29,343
--Belki sonra bi kahve içeriz?
--Evet, harika.
-
-86
-00:08:29,345 --> 00:08:31,385
--Harika, görüşürüz.
--Görüşürüz.
-
-87
-00:09:46,465 --> 00:09:48,505
-Birinin ışıkları tamir etmesi lazım.
-
-88
-00:10:23,825 --> 00:10:27,063
--Sana da oluyor mu?
--Evet.
-
-89
-00:10:27,065 --> 00:10:29,183
-Kanımız...
-
-90
-00:10:29,185 --> 00:10:31,705
-Bir şeye tepki veriyor.
-
-91
-00:11:26,785 --> 00:11:28,265
-Pardon, pardon.
-
-92
-00:11:43,825 --> 00:11:45,305
-Dr Bishop?
-
-93
-00:12:27,105 --> 00:12:28,465
-Baba.
-
-94
-00:12:35,065 --> 00:12:36,385
-Baba?
-
-95
-00:12:38,065 --> 00:12:40,305
--Baba?
--Diana!
-
-96
-00:12:41,145 --> 00:12:42,465
-İçeride ne oldu?
-
-97
-00:12:44,745 --> 00:12:48,183
-Hiseetin mi?
-İnsanların hissettiğini sanmıyorum.
-
-98
-00:12:48,185 --> 00:12:51,105
-Ashmole el yazması, bir garipti.
-
-99
-00:12:52,905 --> 00:12:55,025
-Anormal bir şey gördün mü?
-
-100
-00:12:56,025 --> 00:12:57,345
-Diana, sen iyi misin?
-
-101
-00:12:58,945 --> 00:13:00,265
-Diana?
-
-102
-00:13:01,905 --> 00:13:03,905
-Nereye gidiyorsun?
-
-103
-00:13:15,325 --> 00:13:17,843
-Seni bu gece görüyorum değil mi?
-
-104
-00:13:17,845 --> 00:13:19,443
--Hayır.
--Hadi ama.
-
-105
-00:13:19,445 --> 00:13:21,083
--Hayır.
--James, yeni bir yer buldum.
-
-106
-00:13:21,085 --> 00:13:23,923
-12 saatlik bir vardiyadan çıktım.
-Eve gidip sızıcam.
-
-107
-00:13:23,925 --> 00:13:26,123
-Geçen hafta bir hataydı ve hata
-olduğunu kabul ediyorum.
-
-108
-00:13:26,125 --> 00:13:28,243
--Geçen hafta da aynısını demiştin.
--Salı günü hafta sonundan daha iyi.
-
-109
-00:13:28,245 --> 00:13:30,923
-Kabin alabiliriz, gece 3'e kadar açık.
-
-110
-00:13:30,925 --> 00:13:33,123
-Gece 3 mü? Haftanın ortasında mı?
-
-111
-00:13:33,125 --> 00:13:37,243
-Ve DJ'nin 90'ların blueslarından
- çaldığına nerdeyse eminim.
-
-112
-00:13:37,245 --> 00:13:40,603
-Vardiyada olmadığım zamanlar 12'den önce yatarım.
-
-113
-00:13:40,605 --> 00:13:43,723
--Sen nasıl hiç yorgun gözükmüyorsun?
--Senin gibi hafifsiklet değilim ben.
-
-114
-00:13:46,245 --> 00:13:47,925
-İyi uykular.
-
-115
-00:13:50,165 --> 00:13:53,125
--Haftaya halı saha!
--Uyanık olursan tabii.
-
-116
-00:13:58,045 --> 00:13:59,365
-Hayır!
-
-117
-00:14:11,485 --> 00:14:12,925
-James,dostum!
-
-118
-00:14:14,965 --> 00:14:16,485
-Dayan, James.
-
-119
-00:15:25,485 --> 00:15:26,805
-Hayır.
-
-120
-00:15:40,845 --> 00:15:43,203
-Matthew, bütün gece burada mıydın?
-
-121
-00:15:43,205 --> 00:15:46,325
-O bir cadı, Miriam, hemde güçlü olanlarından.
-
-122
-00:15:46,685 --> 00:15:48,283
-Kim?
-
-123
-00:15:48,285 --> 00:15:51,043
- Bodleian'ın hemen dışında kulak misafiri
-olduğum akademisyen.
-
-124
-00:15:51,045 --> 00:15:53,163
-Bridget Bishop'un soyundan geliyor.
-
-125
-00:15:53,165 --> 00:15:55,403
-Salem cadı mahkemelerince idama mahkum
-edilen ilk cadı.
-
-126
-00:15:55,405 --> 00:15:57,643
-Sence dün olanlar cadı büyüsü müydü?
-
-127
-00:15:57,645 --> 00:16:00,485
-Bilmiyorum. Ama tam o zamanlarda bir
- simya el yazmasını almıştı.
-
-128
-00:16:01,485 --> 00:16:02,965
-Ashmole el yazması.
-
-129
-00:16:05,525 --> 00:16:08,523
-Yapma  Matthew,
-mümkün değil.
-
-130
-00:16:08,525 --> 00:16:10,803
-Ashmole 782'yi bulması mı? Neden mümkün olmasın?
-
-131
-00:16:10,805 --> 00:16:13,283
-Çünkü sen o kitabı yüz yıldan uzun süredir arıyorsun.
-
-132
-00:16:13,285 --> 00:16:15,843
-Daha uzun. Kökenlerimizi anlamaya yardım edebileceğine...
-
-133
-00:16:15,845 --> 00:16:18,123
-...inanmaya başladığımdan beri.
-
-134
-00:16:18,125 --> 00:16:19,683
-El yazması kayıp.
-
-135
-00:16:19,685 --> 00:16:24,123
-Hep kayıptı.
-Bu cadı nasıl bulmuş olabilir ki?
-
-136
-00:16:24,125 --> 00:16:25,925
-Belki de kayıp değildi.
-
-137
-00:16:30,405 --> 00:16:33,125
-Belki de bekliyordu.
-
-138
-00:16:40,805 --> 00:16:42,125
-Baba.
-
-139
-00:17:34,685 --> 00:17:37,565
--Alo.
--Hey. Benim.
-
-140
-00:17:38,805 --> 00:17:41,085
-İyi misin?
-
-141
-00:17:42,165 --> 00:17:44,483
-Saat sabah 5, Diana.
-
-142
-00:17:44,485 --> 00:17:46,323
-Biliyorum biliyorum. Üzgünüm.
-
-143
-00:17:46,325 --> 00:17:48,523
-Bir şey oldu.
-
-144
-00:17:48,525 --> 00:17:51,323
--Sen iyi misin tatlım?
--Bod'da çalışıyordum.
-
-145
-00:17:51,325 --> 00:17:52,963
-Bir el yazması aldım.
-
-146
-00:17:52,965 --> 00:17:55,803
-Ama büyülenmiş gibiydi.
-
-147
-00:17:55,805 --> 00:17:58,923
--Grimoire miydi?
--Ashmole el yazmasıydı.
-
-148
-00:17:58,925 --> 00:18:02,523
--Simya çizimleri vardı.
--Başka ne vardı?
-
-149
-00:18:05,925 --> 00:18:08,963
-Sayfanın altında hareketlenmeler.
-
-150
-00:18:08,965 --> 00:18:10,603
-Okuyamadım.
-
-151
-00:18:10,605 --> 00:18:13,243
-Kulağa kesinlikle büyülenmiş gibi geliyor.
-
-152
-00:18:13,245 --> 00:18:15,085
-Büyüyü nasıl çözdün?
-Hiç kelime söyledin mi?
-
-153
-00:18:17,205 --> 00:18:19,843
-Cadı büyüsü yoktu Sarah.
-
-154
-00:18:19,845 --> 00:18:22,483
-Büyü işlerini çalışmayı reddettiğimi biliyorsun.
-
-155
-00:18:22,485 --> 00:18:23,963
-Kurtulmak için bekleyemedim.
-
-156
-00:18:23,965 --> 00:18:25,325
--İade ettim.
--Ne?!
-
-157
-00:18:27,445 --> 00:18:30,043
-Diana, sana hep söyledik...
-
-158
-00:18:30,045 --> 00:18:31,923
-...eğer büyülü bir şeye denk gelirsen...
-
-159
-00:18:31,925 --> 00:18:35,163
-...her zaman ama her zaman
-anlamaya çalış.
-
-160
-00:18:35,165 --> 00:18:37,683
--Tatlım ne oluyor?
--Diana.
-
-161
-00:18:37,685 --> 00:18:39,723
-Büyülü bir kitap keşfetmiş.
-
-162
-00:18:39,725 --> 00:18:41,923
-Aramamın sebebi bu bile değildi.
-
-163
-00:18:41,925 --> 00:18:44,045
-Asıl olay daha sonra ne olduğu.
-
-164
-00:18:45,445 --> 00:18:47,245
-Galiba... Galiba babamı gördüm.
-
-165
-00:18:49,285 --> 00:18:53,083
--Babamı gördüm de ne demek?
--Tıpkı onu hatırladığım gibiydi.
-
-166
-00:18:53,085 --> 00:18:55,283
-Sence ne anlama geliyor?
-
-167
-00:18:55,285 --> 00:18:57,363
-Ee canım artık öğrenemeyeceğiz değil mi?
-
-168
-00:18:57,365 --> 00:19:01,523
-İade ettin. Diana, artık olduğun
-kişiyle yüzleşmenin vakti geldi...
-
-169
-00:19:01,525 --> 00:19:04,083
-... bir cadı!
--Bunu konuşmuştuk, Sarah.
-
-170
-00:19:04,085 --> 00:19:05,885
-Ben bir tarihçiyim. Ben buyum.
-
-171
-00:19:07,005 --> 00:19:09,283
-Oxford bana akademik kadro teklif edebilir.
-
-172
-00:19:09,285 --> 00:19:12,523
-Tatlım!
-Bu harika haber, Diana.
-
-173
-00:19:12,525 --> 00:19:14,403
-Daha teklif etmediler.
-
-174
-00:19:14,405 --> 00:19:16,243
-Bir makaleyi bitirmem lazım.
-
-175
-00:19:16,245 --> 00:19:18,563
-Bekle! Bekle!
-İşinin arasına saklanamazsın.
-
-176
-00:19:18,565 --> 00:19:20,643
-Babanı gördün. Bu önemli bir şey.
-
-177
-00:19:20,645 --> 00:19:23,643
-Kitap büyülenmişse, büyüyü nasıl
-çözdüğünü bilmiyorum.
-
-178
-00:19:23,645 --> 00:19:26,963
-Kitabı tekrar almalısın. Ne olduğunu çözmelisin.
-
-179
-00:19:26,965 --> 00:19:30,083
-Sen olsan böyle yapardın belki Sarah,
-ama ben sen değilim.
-
-180
-00:19:30,085 --> 00:19:32,805
-Seni tavsiye için aradım, ders almak için değil.
-
-181
-00:19:35,605 --> 00:19:38,003
-Bütün bunlar hakkındaki düşüncesini biliyorsun.
-
-182
-00:19:38,005 --> 00:19:40,285
-Sakinleşmesi için zaman ver tatlım,
-sonra tekrar dene.
-
-183
-00:19:45,525 --> 00:19:48,565
-Y753 BCY?
-
-184
-00:19:49,565 --> 00:19:51,363
-Araba hızla uzaklaştı dediniz.
-
-185
-00:19:51,365 --> 00:19:53,283
-Plaka numarasının doğru olduğuna emin misiniz?
-
-186
-00:19:53,285 --> 00:19:54,605
-Eminim.
-
-187
-00:19:55,245 --> 00:19:57,925
-Gözlerim çok iyidir.
-
-188
-00:19:59,525 --> 00:20:01,963
-Hastaneden 5:30'da çıktığınızı söylediniz.
-
-189
-00:20:01,965 --> 00:20:05,323
-Ama 6:15'e kadar ambulansı aramadınız.
-
-190
-00:20:05,325 --> 00:20:09,843
--Kalp masajı yapıyordum.
--Yarım saatten fazla bir süre boyunca mı?
-
-191
-00:20:09,845 --> 00:20:13,685
-Evet ben bir doktorum.
-Hayatını kurtarmaya çalışıyordum.
-
-192
-00:20:24,245 --> 00:20:25,885
-Selam, Matthew.
-
-193
-00:20:36,685 --> 00:20:39,445
-Aldığın riskleri bir düşün.
-Görülebilirdin.
-
-194
-00:20:40,445 --> 00:20:43,363
-James arkadaşım ve dahi bir doktordu.
-
-195
-00:20:43,365 --> 00:20:46,043
-Bütün o potansiyelin boşa gitmesine dayanamadım.
-
-196
-00:20:46,045 --> 00:20:48,323
-Rızasını almış mıydın bari?
-
-197
-00:20:48,325 --> 00:20:50,243
-Tanrım, Marcus!
-
-198
-00:20:50,245 --> 00:20:52,003
-Sana kaç kez söylenildi?
-
-199
-00:20:52,005 --> 00:20:53,365
-Tamam, batırdım.
-
-200
-00:20:57,445 --> 00:20:59,085
-Neden işe yaramadı?
-
-201
-00:21:02,605 --> 00:21:04,885
-Çözmemiz gereken şey bu.
-
-202
-00:21:12,685 --> 00:21:16,083
--O burada ne yapıyor?
--Marcus araştırma projemizin yeni deneği.
-
-203
-00:21:16,085 --> 00:21:18,763
-İşe yaramayan bir başka vampire dönüştürme daha.
-
-204
-00:21:18,765 --> 00:21:22,085
-Kanını ve yanak içi tükürüğünü alabilir misin?
-Teşekkürler, Miriam.
-
-205
-00:21:23,725 --> 00:21:25,045
-Merhaba, Miriam.
-
-206
-00:21:26,045 --> 00:21:27,645
-Merhaba, Marcus.
-
-207
-00:21:31,245 --> 00:21:32,645
-Ona ihtiyacım var.
-
-208
-00:21:33,685 --> 00:21:35,763
-Kolunu aç.
-
-209
-00:21:35,765 --> 00:21:37,843
-Kendi kanımı alabilirim.
-
-210
-00:21:37,845 --> 00:21:39,885
-Benim laboratuvarımda alamazsın.
-
-211
-00:21:49,605 --> 00:21:51,085
-Bana söylemeliydin.
-
-212
-00:21:52,565 --> 00:21:55,323
-Başka işe yaramayan vampire dönüştürmelerin
-olduğunu biliyordun. Gizlilik niye?
-
-213
-00:21:55,325 --> 00:21:57,803
-Kimseyi vampire dönüştürmemen gerekiyordu.
-
-214
-00:21:57,805 --> 00:22:00,965
-Sizi burdan sürüklemem mi lazım yoksa
-önce şaraplarımızı bitirebilir miyiz?
-
-215
-00:22:04,765 --> 00:22:07,965
- James'i dönüştürmeyi planlamamıştım biliyorsun.
-
-216
-00:22:08,965 --> 00:22:11,123
-Daha fazla zaman olsaydı izin isterdim.
-
-217
-00:22:11,125 --> 00:22:12,923
-Başarısızlık ihtimali olduğunu bilseydim...
-
-218
-00:22:12,925 --> 00:22:14,765
-... hiç denemezdim.
-
-219
-00:22:15,925 --> 00:22:19,083
-Matthew, son anları...
-
-220
-00:22:19,085 --> 00:22:22,563
-...çirkindi, kafası karışmıştı...
-
-221
-00:22:22,565 --> 00:22:24,925
-... ve çaresizdi. Ama sebebini bilmiyordu.
-
-222
-00:22:26,805 --> 00:22:29,003
-Bunu ona ben yaptım.
-
-223
-00:22:29,005 --> 00:22:32,365
-O benim arkadaşımdı ve ölümünü ondan
-bir hiç uğruna çaldım.
-
-224
-00:22:39,085 --> 00:22:41,485
-Sana söylememe sebebim...
-
-225
-00:22:42,845 --> 00:22:45,403
-...hiçbirimizin bir fikrinin olmaması.
-
-226
-00:22:45,405 --> 00:22:47,723
-Bir sorun olduğunu biliyoruz
-ama sebebini bilmiyoruz.
-
-227
-00:22:47,725 --> 00:22:50,285
-Ve bu yüzden...
-
-228
-00:22:51,405 --> 00:22:53,005
-...o kitaba ihtiyacımız var.
-
-229
-00:22:54,405 --> 00:22:58,125
-Matthew, Ashmole 782'nin yaratıkların
-erken tarihini işlediğini düşünüyor.
-
-230
-00:23:00,165 --> 00:23:02,083
-Evrimimizi anlamamıza yardım edebilir...
-
-231
-00:23:02,085 --> 00:23:03,683
-...kökenlerimizi anlamamıza.
-
-232
-00:23:03,685 --> 00:23:07,323
-Cadıların bu bilgiyi ele geçirmesine izin verilemez.
-
-233
-00:23:07,325 --> 00:23:10,285
-Bazıları o bilgileri bizi yok etmek için kullanabilir.
-
-234
-00:23:12,485 --> 00:23:14,323
-Napıyoruz o zaman?
-
-235
-00:23:14,325 --> 00:23:16,965
-Dr Bishop'la konuşacağım.
-
-236
-00:23:18,085 --> 00:23:20,085
-Ve eğer gerek olursa...
-
-237
-00:23:21,085 --> 00:23:23,765
-...kitabı kedimiz için alıyoruz.
-
-238
-00:23:53,725 --> 00:23:55,843
-Notlar ve Sorular?
-
-239
-00:23:55,845 --> 00:23:58,123
-Notlar ve Sorular.
-
-240
-00:23:58,125 --> 00:24:00,005
-Neredesin sen?
-
-241
-00:24:03,290 --> 00:24:05,290
-Kahrolası...
-
-242
-00:24:14,605 --> 00:24:16,285
-Size ait sanırsam?
-
-243
-00:24:33,645 --> 00:24:35,485
-Pis bir yanık o.
-
-244
-00:24:37,965 --> 00:24:39,445
-Sen bir vampirsin.
-
-245
-00:24:51,765 --> 00:24:53,403
-Profesör Clairmont.
-
-246
-00:24:53,405 --> 00:24:55,485
--Biyokimya.
--Dr. Bishop.
-
-247
-00:24:56,685 --> 00:24:58,803
-Simyadaki renk sembolizmi hakkındaki makalenizi buldum...
-
-248
-00:24:58,805 --> 00:25:01,363
-...çok etkileyiciydi.
-
-249
-00:25:01,365 --> 00:25:04,703
-Ve  Robert Boyle'un genişleme ve çelişki problemlerine yaklaşımı...
-
-250
-00:25:04,805 --> 00:25:07,885
-...hakkındaki çalışmanızı fazlasıyla ikna edici buldum.
-
-251
-00:25:09,045 --> 00:25:15,725
-Geçmişi, okuyucu için uyandırmak için
-çok güzel bir yolunuz var.
-
-252
-00:25:17,885 --> 00:25:19,363
-Teşekkürler.
-
-253
-00:25:19,365 --> 00:25:23,245
-Bundan sonra sizi unutmam çok zor olur.
-
-254
-00:25:24,405 --> 00:25:28,165
-Cadıların büyülerini orta yerde göstermesine
-izin verilmediğini sanıyordum.
-
-255
-00:25:29,485 --> 00:25:31,643
-Bunun olmasını istememiştim.
-
-256
-00:25:31,645 --> 00:25:33,923
-Kendinizi kontrol edemiyor musunuz, Dr Bishop?
-
-257
-00:25:33,925 --> 00:25:35,923
-Tamamen kontrol edebiliyorum.
-
-258
-00:25:35,925 --> 00:25:37,925
-Teşekkürler.
-
-259
-00:25:39,685 --> 00:25:42,003
-Şimdi, eğer müsade ederseniz, Profesör Clairmont.
-
-260
-00:25:42,005 --> 00:25:44,565
-İşime geri dönmem lazım.
-
-261
-00:26:20,765 --> 00:26:22,085
-Odaklanın.
-
-262
-00:26:24,485 --> 00:26:26,323
--Gillian.
--Sylvia.
-
-263
-00:26:26,325 --> 00:26:28,483
-Her şey yolunda mı?
-
-264
-00:26:28,485 --> 00:26:32,885
-Hepimiz o rahatsızlığı hissettik. Mesajında kimse
-bir şey biliyor mu demişsin.
-
-265
-00:26:33,885 --> 00:26:35,205
+00:06:58,060 --> 00:06:59,380
 Evet?
 
-266
-00:26:35,685 --> 00:26:37,685
-Galiba ben biliyorum.
-
-267
-00:27:26,895 --> 00:27:28,615
-İlgi çekici bir şey var mı?
-
-268
-00:27:29,775 --> 00:27:33,373
--Beni takip ediyorsun.
--Ee, aynı yerde çalışıyoruz.
-
-269
-00:27:33,375 --> 00:27:36,493
-Yollarımızın kesişmesi çok da garip değil.
-
-270
-00:27:36,495 --> 00:27:38,813
-Dün kim olduğumu biliyordun.
-
-271
-00:27:38,815 --> 00:27:41,213
-İşimin gereği.
-
-272
-00:27:41,215 --> 00:27:43,175
-Fotoğrafların bütün kitaplarının arkasında.
-
-273
-00:27:44,975 --> 00:27:47,093
-Bod'daki personelle konuştum.
-
-274
-00:27:47,095 --> 00:27:48,893
-Orada 5 dakika kalıp gitmişsin.
-
-275
-00:27:48,895 --> 00:27:50,693
-Beni arıyormuşsun.
-
-276
-00:27:50,695 --> 00:27:52,773
-Robert Boyle hakkındaki tezimden
-hoşlandığından değil.
-
-277
-00:27:52,775 --> 00:27:55,055
-Ne istiyorsunuz, Profesör Clairmont?
-
-278
-00:27:56,215 --> 00:27:58,175
-Adil bir soru bu.
-
-279
-00:28:05,935 --> 00:28:08,853
-Haftanın başlarında bir Ashmole
-el yazmasına baktınız...
-
-280
-00:28:08,855 --> 00:28:10,773
-... ve bir şeyler oldu.
-
-281
-00:28:10,775 --> 00:28:13,053
-Bir şey seni rahatsız etti.
-
-282
-00:28:13,055 --> 00:28:14,455
-Ashmole 782 miydi?
-
-283
-00:28:17,135 --> 00:28:19,093
-Ele geçirmek için büyü kullandığını varsayıyorum.
-
-284
-00:28:19,095 --> 00:28:21,773
-Neden umursuyorsun?
-Simya senin alanın değil.
-
-285
-00:28:21,775 --> 00:28:24,613
-Bu simyadan çok daha fazlası.
-
-286
-00:28:24,615 --> 00:28:26,055
-El yazması şimdi nerede?
-
-287
-00:28:27,255 --> 00:28:29,895
-Her zaman olduğu yerde. Bodleian'dan alabilirsin..
-
-288
-00:28:32,775 --> 00:28:35,095
--İzninizle.
--Dr .Bishop, lütfen beni dinleyin.
-
-289
-00:28:36,095 --> 00:28:38,453
-O kitabı hiç kimse çok uzun zamandır görmedi...
-
-290
-00:28:38,455 --> 00:28:40,975
-... ve kitabı isteyen tek kişi ben değilim.
-Laf yayılıyor...
-
-291
-00:28:41,975 --> 00:28:43,453
-Oxford'un yaratıkları el yazmasının
-artık sende olmadığını...
-
-292
-00:28:43,455 --> 00:28:46,333
-...bilselerdi senin için daha güvenli olurdu.
-
-293
-00:28:46,335 --> 00:28:48,733
-Bu bir tehdit miydi?
-
-294
-00:28:48,735 --> 00:28:50,935
-Hayır. Uyarıydı.
-
-295
-00:28:52,135 --> 00:28:53,575
-Dikkatli olmalısın.
-
-296
-00:28:56,295 --> 00:28:57,615
-Olurum.
-
-297
-00:28:58,575 --> 00:29:00,895
-Görüşürüz, Profesör Clairmont.
-
-298
-00:29:44,175 --> 00:29:45,973
--Sean.
--Evet?
-
-299
-00:29:45,975 --> 00:29:47,815
-İçkiye ihtiyacım var.
-
-300
-00:29:56,175 --> 00:29:58,935
--Senin için.
--Artık ne içtiğini biliyorum.
-
-301
-00:29:59,935 --> 00:30:02,253
-Ne okuduğunu biliyorum.
-
-302
-00:30:02,255 --> 00:30:04,773
-1800'den önce yazılmış ne varsa.
-
-303
-00:30:04,775 --> 00:30:06,655
-Başka ne var?
-
-304
-00:30:09,615 --> 00:30:11,893
-Aile? Erkek kardeş, kız kardeş?
-
-305
-00:30:11,895 --> 00:30:14,053
-Tek çocuğum.
-
-306
-00:30:14,055 --> 00:30:18,853
-Teyzem ve onun ailesi tarafından yetiştirildim.
-
-307
-00:30:18,855 --> 00:30:20,613
+36
+00:07:00,220 --> 00:07:01,540
 Evet.
 
-308
-00:30:20,615 --> 00:30:22,695
-Ailem öldü.
+37
+00:07:02,060 --> 00:07:03,380
+Tabi ki efendim.
 
-309
-00:30:23,695 --> 00:30:25,295
-İkisi de mi?
+38
+00:07:09,100 --> 00:07:10,420
+Ceset?
 
-310
-00:30:26,295 --> 00:30:27,695
-Araba kazası filan mı?
+39
+00:07:15,980 --> 00:07:17,620
+Hiçbir tarafında kan yok.
 
-311
-00:30:29,055 --> 00:30:31,855
-Onlar... Onlar öldürüldü.
+40
+00:07:18,540 --> 00:07:22,220
+Olay yerinde de yoktu.
+Tuhaf.
 
-312
-00:30:34,415 --> 00:30:37,573
-Sormamalıydım. Gerçekten bu konu
-hakkında konuşmana gerek yok.
+41
+00:07:22,940 --> 00:07:24,660
+Onunla ilgili bilgi var mı hiç?
 
-313
-00:30:37,575 --> 00:30:38,975
-Sorun değil.
+42
+00:07:30,860 --> 00:07:32,220
+Fransızdı.
 
-314
-00:30:40,055 --> 00:30:43,253
-Bir araştırma gezisindeydiler...
+43
+00:07:33,300 --> 00:07:34,620
+İsim?
 
-315
-00:30:43,255 --> 00:30:46,615
-...Ukrayna-Rusya sınırındaki bir köyde.
+44
+00:07:35,180 --> 00:07:37,260
+Matthieu Beny.
 
-316
-00:30:47,575 --> 00:30:51,215
-Köylülerin onlara karşı cephe aldığını
-düşünüyoruz.
+45
+00:07:42,420 --> 00:07:43,740
+Matthew.
 
-317
-00:30:52,095 --> 00:30:54,335
-Köylüler şey düşünmüş...
+46
+00:07:58,580 --> 00:07:59,900
+Dur.
 
-318
-00:30:55,415 --> 00:30:58,053
-...ailemin cadı olduklarını.
+47
+00:08:05,700 --> 00:08:08,820
+- Nerede?
+- Tepe sınırının yaklaşık 35 metre altında.
 
-319
-00:30:58,055 --> 00:30:59,375
-Cadı mı?
+48
+00:08:17,260 --> 00:08:18,580
+İyi avlar.
 
-320
-00:31:00,375 --> 00:31:02,735
-Bazı insanlar hala cadılara inanıyor.
+49
+00:08:51,460 --> 00:08:55,298
+- Hey. Bugün yoğun görünüyor.
+- Neden bilmiyorum.
 
-321
-00:31:03,735 --> 00:31:06,093
-Büyünün gerçek olduğuna.
+50
+00:08:55,300 --> 00:08:57,220
+Öğrenciler henüz dönmedi.
 
-322
-00:31:06,095 --> 00:31:09,295
--Diğer yaratıkların varlığına da inanıyorlar.
--Batıl inanç saçmalıkları.
+51
+00:10:02,980 --> 00:10:04,340
+Doktor Bishop.
 
-323
-00:31:10,535 --> 00:31:12,493
-İnsanların hala nasıl bu kadar
-cahil olduğunu anlayamıyorum.
+52
+00:10:05,740 --> 00:10:07,458
+Buyrun?
 
-324
-00:31:12,495 --> 00:31:14,575
-21. yüzyılda yaşıyoruz.
+53
+00:10:07,460 --> 00:10:09,380
+Benim adım Peter Knox.
 
-325
-00:31:15,855 --> 00:31:18,095
-Çok üzgünüm, Diana.
+54
+00:10:11,980 --> 00:10:15,940
+Tahminimce normalde kütüphanede
+bu kadar fazla yaratık olmuyor.
 
-326
-00:32:54,375 --> 00:32:57,293
-Kimse burada değil.
-Ama yatak hala sıcak.
+55
+00:10:18,180 --> 00:10:19,740
+Aslında... evet.
 
-327
-00:32:57,295 --> 00:32:59,133
-Çok uzaklaşmış olamaz.
+56
+00:10:21,300 --> 00:10:25,580
+O halde çağırdığın Ashmole el yazmasıyla
+ilgili dedikodular yayılmış.
 
-328
-00:32:59,135 --> 00:33:01,135
-Asla uzaklaşmayız.
+57
+00:10:28,580 --> 00:10:30,818
+Kusura bakmayın, bir kitap bekliyorum.
 
-329
-00:33:01,535 --> 00:33:03,055
-Sen de nereden geldin, cadı?!
+58
+00:10:30,820 --> 00:10:33,218
+Sessiz kalmakda haklısın..
 
-330
-00:33:40,295 --> 00:33:41,775
-Yerel barda buldum.
+59
+00:10:33,220 --> 00:10:36,460
+..ama seni temin ederim ki ben dostunum.
 
-331
-00:33:43,175 --> 00:33:46,293
-Ormandaki cadıdan bahsettim.
+60
+00:10:57,340 --> 00:10:59,580
+Bunu bir kahve içerken tartışalım mı?
 
-332
-00:33:46,295 --> 00:33:48,495
-İnsanlar ve önyargıları.
+61
+00:11:00,460 --> 00:11:01,780
+Sanmıyorum.
 
-333
-00:33:50,455 --> 00:33:52,333
-Söyle bana...
+62
+00:11:02,740 --> 00:11:05,180
+Ya da sen de annen gibi çay mı tercih edersin?
 
-334
-00:33:52,335 --> 00:33:54,335
-...hep böyle güçlü müsündür?
+63
+00:11:24,150 --> 00:11:26,310
+Babamı da tanıyor musun?
 
-335
-00:33:55,615 --> 00:33:57,175
-Ekinoks beni daha da güçlendiriyor.
+64
+00:11:27,270 --> 00:11:28,790
+Sadece biraz.
 
-336
-00:34:01,375 --> 00:34:03,855
-Kendini fazlasıyla kanıtladın, Satu.
+65
+00:11:30,070 --> 00:11:32,910
+Annenle ben biz daha yeniyetmeyken tanıştık.
 
-337
-00:34:04,855 --> 00:34:07,055
-Seni yemin için cemaate götüreceğim.
+66
+00:11:34,790 --> 00:11:36,750
+Ondan çok hoşlanırdım.
 
-338
-00:34:08,055 --> 00:34:10,573
-Ama önce yapmamız gereken bir iş var.
+67
+00:11:37,950 --> 00:11:39,910
+Nasıl biriydi?
 
-339
-00:34:10,575 --> 00:34:13,133
-Bir rahatsızlık oldu.
+68
+00:11:41,870 --> 00:11:44,228
+Hırslı, zeki..
 
-340
-00:34:13,135 --> 00:34:15,093
-İsteklerini çoktan verdi.
+69
+00:11:44,230 --> 00:11:46,588
+..olmak istediği zaman da keçi gibi inatçı.
 
-341
-00:34:15,095 --> 00:34:16,573
-Bu ikisi onun.
-Bunları ona verir misin?
+70
+00:11:46,590 --> 00:11:47,950
+Cidden mi?!
 
-342
-00:34:16,575 --> 00:34:18,133
-Tabii.
+71
+00:11:49,790 --> 00:11:52,030
+Olanlar gerçekten çok korkunç.
 
-343
-00:34:18,135 --> 00:34:21,613
--Selam. Ne oluyor?
--Selam.Çok büyük bir bilim adamı...
+72
+00:11:53,350 --> 00:11:56,388
+Senelerce seni düşündüm...
 
-344
-00:34:21,615 --> 00:34:23,533
-...bizi varlıklarıyla kutsadı.
+73
+00:11:56,390 --> 00:12:00,190
+..ve kendimi sana tanıtmak istedim,
+ama teyzen çok korumacı.
 
-345
-00:34:23,535 --> 00:34:26,093
-Üzgünüm, 83'i istedi.
+74
+00:12:01,190 --> 00:12:02,510
+Aynen.
 
-346
-00:34:26,095 --> 00:34:28,293
-Buyrun, Profesör Clairmont.
+75
+00:12:04,990 --> 00:12:07,390
+- İki tane çay alabilir miyiz lütfen?
+- Tabi efendim.
 
-347
-00:34:28,295 --> 00:34:30,055
-Teşekkürler.
+76
+00:12:17,150 --> 00:12:18,670
+Daha iyi misin?
 
-348
-00:34:33,455 --> 00:34:34,775
-Günaydın.
+77
+00:12:19,110 --> 00:12:20,510
+Evet.
 
-349
-00:34:35,615 --> 00:34:37,095
-Profesör Clairmont.
+78
+00:12:21,430 --> 00:12:22,790
+Teşekkür ederim..
 
-350
-00:34:49,375 --> 00:34:51,853
-Pardon, sizi rahatsız mı ediyorum?
+79
+00:12:26,230 --> 00:12:28,910
+Cadıyla mesafeni koruyacak kadar
+akıllı olduğunu düşünüyorum.
 
-351
-00:34:51,855 --> 00:34:53,175
+80
+00:12:30,550 --> 00:12:34,628
+Evet. Ama problem şu ki, onda
+ihtiyacım olan bir şey var.
+
+81
+00:12:34,630 --> 00:12:35,950
+Ya da..
+
+82
+00:12:36,710 --> 00:12:38,790
+..onu çağırabilme gücü var.
+
+83
+00:12:41,150 --> 00:12:44,548
+- Yani, istedin mi sadece?
+- Evet.
+
+84
+00:12:44,550 --> 00:12:46,188
+Nasıl?
+
+85
+00:12:46,190 --> 00:12:48,348
+Ee... normal yoldan.
+
+86
+00:12:48,350 --> 00:12:52,388
+Çok tuhaf çünkü bu sabah
+Ashmole 782'yi istedim..
+
+87
+00:12:52,390 --> 00:12:53,908
+..ancak orada değildi.
+
+88
+00:12:53,910 --> 00:12:55,828
+- Orada değil miydi?
+- Kayıp.
+
+89
+00:12:55,830 --> 00:12:59,190
+Bodleian listesine göre yıllardır kayıp.
+
+90
+00:13:00,910 --> 00:13:03,108
+Ama bu nasıl olabilir?
+
+91
+00:13:03,110 --> 00:13:04,988
+Hiç mantıklı değil.
+Ben almıştım onu.
+
+92
+00:13:04,990 --> 00:13:07,348
+Anladığım kadarıyla geri verdin?
+
+93
+00:13:07,350 --> 00:13:08,988
+Tabi ki!
+
+94
+00:13:08,990 --> 00:13:11,028
+Bod'dan asla kitap çalmam.
+
+95
+00:13:11,030 --> 00:13:13,830
+Belki günle ilgilidir.
+
+96
+00:13:14,950 --> 00:13:19,148
+Belki de kitap kendini yalnızca
+ekinoks zamanında gösteriyordur.
+
+97
+00:13:19,150 --> 00:13:22,068
+Ya da içindeki büyüyle ilgili olabilir..
+
+98
+00:13:22,070 --> 00:13:24,628
+..ve bir şekilde, bir nedenle büyüyü bozdun.
+
+99
+00:13:24,630 --> 00:13:27,990
+Ben annem değilim, Bay Knox,
+onun güçlerini almadım ben.
+
+100
+00:13:30,310 --> 00:13:33,068
+- Açtığında ne oldu?
+- Sadece bir sayfaya baktım.
+
+101
+00:13:33,070 --> 00:13:34,948
+Ne vardı sayfada?
+
+102
+00:13:34,950 --> 00:13:36,750
+- Bir resim.
+- Neyin resmi?
+
+103
+00:13:37,750 --> 00:13:39,228
+Simya Çocuk.
+
+104
+00:13:39,230 --> 00:13:41,230
+Daha fazlası olmalı.
+Daha fazlasını görmüş olman lazım.
+
+105
+00:13:42,470 --> 00:13:44,148
+Neden bu kadar önemli bu sizin için?
+
+106
+00:13:44,150 --> 00:13:46,828
+Çünkü eğer bu kitap düşündüğüm kitapsa..
+
+107
+00:13:46,830 --> 00:13:49,230
+..cadıların ilk büyülerini içeriyor.
+
+108
+00:13:50,310 --> 00:13:53,470
+Bize vampirleri nasıl yarattığımızı söyleyebilir.
+
+109
+00:13:54,470 --> 00:13:56,748
+- Bu sadece bir söylenti.
+- Vampirler vahşi güçlerini..
+
+110
+00:13:56,750 --> 00:13:58,748
+..ve uzun yaşamlarını, çok fazla hakimiyete..
+
+111
+00:13:58,750 --> 00:14:02,590
+..sahip olmak için kullandılar,
+ama eğer onları biz yarattıysak...
+
+112
+00:14:04,030 --> 00:14:05,710
+..o zaman yok da edebiliriz.
+
+113
+00:14:12,390 --> 00:14:14,110
+Bunun bir parçası olmayacağım.
+
+114
+00:14:16,070 --> 00:14:18,908
+Tekrar denemeli ve onu yeniden çağırmalısın.
+
+115
+00:14:18,910 --> 00:14:20,948
+Yıllardır onu gören tek kişisin.
+
+116
+00:14:20,950 --> 00:14:22,830
+Kolumu bırak!
+
+117
+00:14:27,990 --> 00:14:30,110
+Bir daha görüşeceğimize eminim, Diana.
+
+118
+00:14:40,590 --> 00:14:42,510
+Umduğum gibi olmadı.
+
+119
+00:14:43,710 --> 00:14:46,230
+Daha sıkı yöntemler kullanmamız gerekebilir.
+
+120
+00:14:58,670 --> 00:15:00,228
+Juliette, iyi akşamlar.
+
+121
+00:15:00,230 --> 00:15:02,988
+Babamı görmek için geldiysen,
+rahatsız edilmek istemiyor.
+
+122
+00:15:02,990 --> 00:15:05,430
+Bence söyleyeceğim şeyi duymak isteyecektir.
+
+123
+00:15:18,470 --> 00:15:20,670
+Önemli olsa iyi olur.
+
+124
+00:15:29,510 --> 00:15:30,830
+Öyle.
+
+125
+00:15:32,030 --> 00:15:33,830
+Polisle ilgili bir mesele.
+
+126
+00:15:37,230 --> 00:15:38,670
+Bizi yalnız bırak.
+
+127
+00:15:48,110 --> 00:15:50,548
+Dürüst olmak gerekirse, hala neden
+bu kadar endişeli olduğunu anlamıyorum.
+
+128
+00:15:50,550 --> 00:15:53,908
+Kıdemli bir büyücü için bir kitabı
+çağırmaktan ne zarar gelir?
+
+129
+00:15:53,910 --> 00:15:56,988
+Hadi ama, sen de kütüphanedeydin.
+Sen de hissettin.
+
+130
+00:15:56,990 --> 00:16:00,668
+Bu... bu kitap çok güçlü
+ve ben... ben..
+
+131
+00:16:00,670 --> 00:16:06,000
+Peter Knox'un onunla yapabileceklerine güvenmiyorum.
+Diğer türlerden nefret ediyor.
+
+132
+00:16:06,110 --> 00:16:07,748
+Kitabı onlara karşı kullanacak.
+
+133
+00:16:07,750 --> 00:16:10,108
+Bu bizi ilgilendirmez.
+
+134
+00:16:10,110 --> 00:16:13,428
+Her şeyden önce kitabı benim çıkardığımı
+nereden biliyor bilmiyorum.
+
+135
+00:16:13,430 --> 00:16:15,948
+- Yerin kulağı var.
+- Sadece...
+
+136
+00:16:15,950 --> 00:16:18,748
+Bu işle bir alakamın olmasını istemiyorum.
+
+137
+00:16:18,750 --> 00:16:22,028
+Normal bir hayat yaşamak istiyorum.
+Normal olmak istiyorum.
+
+138
+00:16:22,030 --> 00:16:25,268
+Seni 10 yıldır tanıyorum.
+Ne kadar denesen de normal olamıyorsun.
+
+139
+00:16:25,270 --> 00:16:28,350
+Bu tarz şeylerin senin başına gelmesi 
+çok alışılageldik.
+
+140
+00:16:32,830 --> 00:16:34,470
+Ne yapmalıyım, Gillian?
+
+141
+00:16:35,550 --> 00:16:37,830
+Kitabı çağır gitsin ve bununla ilgili her şeyi unut.
+
+142
+00:16:38,750 --> 00:16:40,228
+Yazına devam et.
+
+143
+00:16:40,230 --> 00:16:43,948
+Evet, ama kütüphanedeki tüm bu yaratıklar varken..
+
+144
+00:16:43,950 --> 00:16:45,470
+..bu neredeyse imkansız.
+
+145
+00:16:46,350 --> 00:16:48,268
+Şu seni takip eden vampirden bahsetmiyorsun dimi?
+
+146
+00:16:48,270 --> 00:16:51,708
+Hayır. Benden vazgeçmiş gibi o.
+
+147
+00:16:51,710 --> 00:16:53,550
+Oh, bu bir teselli en azından.
+
+148
+00:16:55,510 --> 00:16:57,308
+Bilmiyorum.
+
+149
+00:16:57,310 --> 00:16:59,310
+Onunla ilgili bir şeyler var.
+
+150
+00:17:01,030 --> 00:17:04,870
+Ki.. Kitap hakkında herkesten
+daha çok şey biliyor gibi görünüyor.
+
+151
+00:17:06,590 --> 00:17:09,188
+Ona sormam lazımdı.
+Bunun yerine...
+
+152
+00:17:09,190 --> 00:17:12,310
+- Beni rahat bırakmasını söyledim.
+- Gayet de haklısın söylemekte.
+
+153
+00:17:15,510 --> 00:17:18,068
+Onunla hiç konuştun mu?
+
+154
+00:17:18,070 --> 00:17:20,308
 Hayır.
 
-352
-00:34:53,855 --> 00:34:57,655
-Güney'de rahat olmana şaşırdım sadece.
+155
+00:17:20,310 --> 00:17:21,908
+Yani nasıl olduklarını bilmiyorsun?
 
-353
-00:34:59,335 --> 00:35:02,255
-Okuduğun her şeye inanmıyorsun, değil mi?
+156
+00:17:21,910 --> 00:17:24,150
+Sen de sadece bir sohbetin ardından biliyorsun ha?
 
-354
-00:35:04,295 --> 00:35:05,615
-Peki o zaman.
+157
+00:17:27,830 --> 00:17:31,750
+Bize karşı, onlara olduğumuz kadar önyargılı görünmedi bana.
 
-355
-00:35:07,335 --> 00:35:09,655
-Bir arkadaş hoşuna gider diye düşünmüştüm.
+158
+00:17:40,030 --> 00:17:41,868
+Gitmem lazım.
 
-356
-00:35:13,015 --> 00:35:16,695
-Kütüphane bugün çok meşgul.
-Bir sürü cadı burada.
+159
+00:17:41,870 --> 00:17:44,428
+Dekanın berbat partilerinden birine davet edildim.
 
-357
-00:35:20,935 --> 00:35:22,255
-Gördün mü?
+160
+00:17:44,430 --> 00:17:46,068
+Teşekkürler.
 
-358
-00:35:28,990 --> 00:35:30,990
+161
+00:17:46,070 --> 00:17:48,110
+Sana da sıkıntı verdim kusura bakma.
+
+162
+00:17:51,030 --> 00:17:55,348
+Ashmole 782 bütün sorunlarımızı çözebilecek olsa bile, Hamish,
+
+163
+00:17:55,350 --> 00:17:57,868
+..ilgim kızı tehlikeye sokuyor.
+
+164
+00:17:57,870 --> 00:18:01,468
+Eğer o kitabı alamazsak hepimiz tehlikedeyiz gibi görünüyor, Matt.
+
+165
+00:18:01,470 --> 00:18:03,948
+İblis intiharlarının revaçta olduğunu biliyor muydun?
+
+166
+00:18:03,950 --> 00:18:06,068
+Akıl sağlığı sorunları ve evsizlik gibi.
+
+167
+00:18:06,070 --> 00:18:08,068
+Evet, biliyorum.
+
+168
+00:18:08,070 --> 00:18:10,068
+İstatistiklere bakıyordum.
+
+169
+00:18:10,070 --> 00:18:12,110
+Çok zorlanıyoruz.
+
+170
+00:18:12,990 --> 00:18:14,988
+Eğer bu kitap kökenimizi açıklayabilirse...
+
+171
+00:18:14,990 --> 00:18:18,150
+Yes. Çok iyi olmaz mıydı dostum?
+
+172
+00:18:31,870 --> 00:18:34,228
+- Matthew nerede?
+- Burada değil.
+
+173
+00:18:34,230 --> 00:18:36,950
+Oh,şey, sonuçlar içina ararım demişti de.
+
+174
+00:18:40,310 --> 00:18:41,910
+Sonuçlar çıktı mı?
+
+175
+00:18:43,710 --> 00:18:45,550
+James'inki çıktı
+
+176
+00:18:51,030 --> 00:18:53,030
+Kan testleri normal.
+
+177
+00:18:58,670 --> 00:19:00,950
+Yani problem bende mi?
+
+178
+00:19:02,750 --> 00:19:04,270
+Öyle görünüyor.
+
+179
+00:19:17,950 --> 00:19:19,510
+Baya hızlıydın.
+
+180
+00:19:24,630 --> 00:19:26,150
+Eline ne oldu?
+
+181
+00:19:28,150 --> 00:19:30,590
+Kitabı açtığında kitap yaptı bunu bence.
+
+182
+00:19:32,710 --> 00:19:35,828
+Sen de kimsin?
+Kütüphanedeydin sen de.
+
+183
+00:19:35,830 --> 00:19:38,508
+Sen beni çektin oraya.
+
+184
+00:19:38,510 --> 00:19:40,590
+Büyü büyüyü çeker.
+
+185
+00:19:43,030 --> 00:19:45,630
+Ama seninkiler saklı.
+
+186
+00:20:00,750 --> 00:20:03,470
+Biri sana bir şey yaptı.
+
+187
+00:20:06,430 --> 00:20:07,750
+Oh.
+
+188
+00:20:08,870 --> 00:20:10,390
+Sen kendine yaptın.
+
+189
+00:20:20,870 --> 00:20:23,148
+Cadı avından mı korkuyorsun?
+
+190
+00:20:23,150 --> 00:20:24,590
+Bu mu yani?
+
+191
+00:20:25,270 --> 00:20:26,750
+Şimdiye kadar korkmuyordum.
+
+192
+00:20:27,830 --> 00:20:32,350
+Peter Knox'la beraberdin.
+Kitabı çağırmayacağımı söyle ona.
+
+193
+00:20:33,590 --> 00:20:35,910
+Bu sadece kitapla ilgili değil.
+
+194
+00:20:37,830 --> 00:20:39,230
+Seninle ilgili.
+
+195
+00:20:59,345 --> 00:21:00,823
 Selam.
 
+196
+00:21:00,825 --> 00:21:03,743
+- Peter Knox diye birini duymuş muydun?
+- Peter Knox Oxford'da mı?
+
+197
+00:21:03,745 --> 00:21:05,223
+Annemi tanıdığını söyledi.
+
+198
+00:21:05,225 --> 00:21:08,703
+- Evet, annene abayı yakmıştı resmen.
+- Söylediklerinden dolayı ben de öyle düşündüm.
+
+199
+00:21:08,705 --> 00:21:10,543
+Babanla evlenmemesi için ikna etmeye çalışmıştı onu.
+
+200
+00:21:10,545 --> 00:21:12,063
+Annem ondan hoşlanıyor muydu?
+
+201
+00:21:12,065 --> 00:21:15,823
+Önceden arkadaşlardı ama sonradan adam bazı işlere bulaştı.
+
+202
+00:21:15,825 --> 00:21:18,903
+- Ne gibi?
+- Kara büyü.
+
+203
+00:21:18,905 --> 00:21:21,143
+Peter Knox neden Oxford'da?
+
+204
+00:21:21,145 --> 00:21:22,903
+Sana bahsettiğim kitaptan dolayı.
+
+205
+00:21:22,905 --> 00:21:24,783
+O kitabı istiyor.
+
+206
+00:21:24,785 --> 00:21:27,905
+Baban ona hiç güvenmezdi ve sonunda
+annen de givenmemeye başladı.
+
+207
+00:21:29,025 --> 00:21:31,545
+O adama dikkat et, Diana.
+
+208
+00:21:39,665 --> 00:21:40,985
+Juliette.
+
+209
+00:21:42,545 --> 00:21:43,905
+Konuşmamız lazım.
+
+210
+00:21:56,145 --> 00:21:58,945
+İki gece önce neredeydin?
+
+211
+00:21:59,945 --> 00:22:02,303
+Gece şehri görmeye çıkmıştım.
+
+212
+00:22:02,305 --> 00:22:04,623
+İzinli olduğumu söylemiştin.
+
+213
+00:22:04,625 --> 00:22:06,343
+Uslu..
+
+214
+00:22:06,345 --> 00:22:09,583
+..olduğun sürece demiştim.
+
+215
+00:22:09,585 --> 00:22:13,543
+- Usluydum zaten.
+- Eğer bilmediğim bir şey varsa..
+
+216
+00:22:13,545 --> 00:22:16,183
+..Baldwin onu bana karşı kullanabilir.
+
+217
+00:22:16,185 --> 00:22:20,663
+- Baldwin Venedik'de bile değil.
+- O her şeyi görür ver duyar!
+
+218
+00:22:20,665 --> 00:22:22,783
+Şu ölü turist...
+
+219
+00:22:22,785 --> 00:22:26,183
+..küstah bir varmpirin işi.
+
+220
+00:22:26,185 --> 00:22:28,703
+Ve Domenico...
+
+221
+00:22:28,705 --> 00:22:31,625
+..meraklı küçük piç...
+
+222
+00:22:32,825 --> 00:22:35,783
+..cesetten seni kokunu almış.
+
+223
+00:22:35,785 --> 00:22:38,063
+Bu doğru değil.
+
+224
+00:22:38,065 --> 00:22:40,145
+Domenico benden nefret ediyor.
+
+225
+00:23:05,705 --> 00:23:07,025
+Matthew!
+
+226
+00:23:26,105 --> 00:23:28,863
+Matthew'ü arzulamayı bana sen öğrettin!
+
+227
+00:23:28,865 --> 00:23:30,185
+Hayır!
+
+228
+00:23:31,385 --> 00:23:34,823
+Baba! Baba!
+
+229
+00:23:34,825 --> 00:23:37,463
+Diana'nın çaüırdığını söylediğin şu kitap.
+
+230
+00:23:37,465 --> 00:23:40,103
+- Hıı.
+- Onunla ilgili hikayeler duydum.
+
+231
+00:23:40,105 --> 00:23:43,183
+Cadılar vampirlerden çaldı.
+Vampirler cadılardan çaldı.
+
+232
+00:23:43,185 --> 00:23:46,543
+- Bu doğru değil.
+- Tabiki de iblisler bakamamış bile.
+
+233
+00:23:46,545 --> 00:23:48,303
+Bizim için önemli olduğunu biliyoruz
+ama nedenini bilmiyoruz..
+
+234
+00:23:49,105 --> 00:23:51,585
+ve sormamıza bile izin yok.
+
+235
+00:23:51,785 --> 00:23:54,943
+Genel kanı bizim diğer yaratıklardan
+daza az değerli olduğumuz.
+
+236
+00:23:54,945 --> 00:23:56,943
+Politik yapmasak diyorum?
+
+237
+00:23:56,945 --> 00:23:59,383
+Senin için demesi kolay.
+Üçüncü sınıf vatandaş muamelesi görmüyorsun sen.
+
+238
+00:23:59,385 --> 00:24:01,225
+Sen hiç öyle değilsin.
+
+239
+00:24:02,145 --> 00:24:03,823
+Londra'yı sen yönetiyorsun resmen.
+
+240
+00:24:03,825 --> 00:24:06,865
+Konu o değil. Ben istisnayım.
+
+241
+00:24:09,665 --> 00:24:10,985
+Şah-mat.
+
+242
+00:24:12,945 --> 00:24:15,025
+Şahını korumaktan daha fazla şey var oyunda.
+
+243
+00:24:24,785 --> 00:24:27,063
+Bekle! Sonraki hamlenden önce bir düşün.
+
+244
+00:24:27,065 --> 00:24:29,823
+Hayır, diğer yaratıklar da kitabı isteyeceklerdir.
+
+245
+00:24:29,825 --> 00:24:32,343
+Onlardan önce Diana'dan kitabı almam lazım.
+
+246
+00:24:32,345 --> 00:24:34,543
+Kitaba ihtiyacın olduğunu biliyorum
+ama Marcus halledemez mi?
+
+247
+00:24:34,545 --> 00:24:37,543
+Marcus? Marcus'un Diana'ya yaklaşmasına izin vermem.
+
+248
+00:24:37,545 --> 00:24:40,143
+Diana için senden daha az tehlike arz ediyor o!
+
+249
+00:24:40,145 --> 00:24:42,823
+Geçmişte arzuladığın kadınlara olanları bir düşün.
+
+250
+00:24:42,825 --> 00:24:44,865
+Elena, Cecilia.
+
+251
+00:24:46,865 --> 00:24:48,623
+Keşke sana hiç anlatmasaydım.
+
+252
+00:24:48,625 --> 00:24:51,745
+Ama anlattın çünkü senin vicdanın olmamı istedin.
+
+253
+00:24:53,305 --> 00:24:55,263
+Cecilia'dan sonra..
+
+254
+00:24:55,265 --> 00:24:57,623
+..başka bir sıcakkanlıya bulaşmayacağım..
+
+255
+00:24:57,625 --> 00:24:59,783
+.. diye söz verdim kendime, ve bunu biliyorsun!
+
+256
+00:24:59,785 --> 00:25:02,663
+Ancak, Matt, daha önce Diana Bishop'la
+ilgili konuştuğun gibi..
+
+257
+00:25:02,665 --> 00:25:05,065
+..konuşmamıştın başka bir kadın hakkında.
+
+258
+00:25:06,465 --> 00:25:08,545
+Ben yalnızca seni korumaya çalışıyorum.
+
+259
+00:25:09,545 --> 00:25:12,263
+- Tavsiyeni uymayı deneyeceğim.
+- Deneme.
+
+260
+00:25:12,265 --> 00:25:17,185
+Uy! Eğer onu incitirsen, kendini asla affedemezsin
+ve ben de buna dayanamam.
+
+261
+00:25:17,745 --> 00:25:19,463
+Diana Bishop'un yakınındayken..
+
+262
+00:25:19,465 --> 00:25:23,025
+..kendini kontrol edebileceğinden emin
+olana kadar oxforda geri dönme.
+
+263
+00:25:39,185 --> 00:25:40,663
+Doktor Bishop.
+
+264
+00:25:40,665 --> 00:25:43,623
+- İyi akşamlar, Profesör Marsh.
+- Hoşgeldin.
+
+265
+00:25:43,625 --> 00:25:48,023
+- Sağ olun.
+- Anladığım kadarıyla mükemmel bir konuşma yapmışsınız..
+
+266
+00:25:48,025 --> 00:25:50,743
+..ve yazıya döküyormuşsunuz.
+
+267
+00:25:50,745 --> 00:25:52,903
+Evet, evet aynen öyle.
+
+268
+00:25:52,905 --> 00:25:55,903
+Ve okumak için sabırsızlanıyorum.
+
+269
+00:25:55,905 --> 00:26:00,383
+- Sizi o listeye almak istiyoruz.
+- Teşekkürler.
+
+270
+00:26:00,385 --> 00:26:04,863
+Tanışmanızı istediğim biri var.
+
+271
+00:26:04,865 --> 00:26:08,743
+Oldukça ilginç bir uzmanlık alanı var..
+
+272
+00:26:08,745 --> 00:26:12,745
+..büyü bilimleri.
+
+273
+00:26:18,105 --> 00:26:21,185
+Simya. Ne konu ama.
+
+274
+00:26:22,785 --> 00:26:26,745
+Özellikle büyüyle ilgilenmediğini söyleyen biri için.
+
+275
+00:26:28,185 --> 00:26:30,223
+Sadece ilgim değil..
+
+276
+00:26:30,225 --> 00:26:33,663
+-..yeteneğim de yok.
+- Emin misin?
+
+277
+00:26:33,665 --> 00:26:35,863
+Kitap yalnızca senin için ortaya çıktı.
+
+278
+00:26:35,865 --> 00:26:38,783
+Sana söyledim, nasıl olduğunu bilmiyorum.
+
+279
+00:26:38,785 --> 00:26:41,465
+Ama bir vampirin sizi takip ettiğini söylemediniz.
+
+280
+00:26:42,505 --> 00:26:43,983
+Nerden biliyorsun bunu?
+
+281
+00:26:43,985 --> 00:26:46,703
+Kitap onların eline düşerse bu bir felaket olur.
+
+282
+00:26:46,705 --> 00:26:49,263
+İçinde bulunduğun tehlikeyi görmüyor musun?
+
+283
+00:26:49,265 --> 00:26:51,183
+Ben başımın çaresine bakabilirim.
+
+284
+00:26:51,185 --> 00:26:53,343
+Takdire şayan ama safça.
+
+285
+00:26:53,345 --> 00:26:55,863
+Vampirlerin dahil olması..
+
+286
+00:26:55,865 --> 00:26:57,423
+..işi çok daha acil yapıyor.
+
+287
+00:26:57,425 --> 00:27:00,143
+- Kitabı senin için çağırmayacağım.
+- Neden?
+
+288
+00:27:00,145 --> 00:27:05,023
+Çünkü diğer türleri yok etme fikri hiç hoşuma gitmiyor.
+
+289
+00:27:05,025 --> 00:27:07,463
+Eğer yapabilselerdi onlar da bize aynısını yaparlardı.
+
+290
+00:27:07,465 --> 00:27:12,105
+Annem gbiyim, Bay Knox.
+Bir şeyi kafaya koyduysam..
+
+291
+00:27:12,465 --> 00:27:14,385
+..asla değiştirmem.
+
+292
+00:27:21,545 --> 00:27:22,865
+Diana.
+
+293
+00:27:24,985 --> 00:27:27,345
+Yaptığın şeyi bir düşün.
+
+294
+00:27:28,625 --> 00:27:30,703
+Kanına, mirasına..
+
+295
+00:27:30,705 --> 00:27:32,823
+..sadık kalmalısın.
+
+296
+00:27:32,825 --> 00:27:35,425
+Kitabı çağırmak için seni zorlamak durumunda bırakma beni.
+
+297
+00:27:40,225 --> 00:27:41,545
+Diana.
+
+298
+00:27:42,705 --> 00:27:44,185
+Gitme!
+
+299
+00:27:50,345 --> 00:27:52,745
+Bu kadar kolay kaçamazsın benden.
+
+300
+00:27:54,105 --> 00:27:56,825
+Nerede olursan ol seninle olabilirim.
+
+301
+00:27:58,305 --> 00:28:00,583
+O kitap bana lazım.
+
+302
+00:28:00,585 --> 00:28:02,865
+Bize lazım.
+
+303
+00:28:14,865 --> 00:28:17,065
+Çık kafamın içinden!
+
+304
+00:28:58,185 --> 00:28:59,823
+Diana'yla nasıl gidiyor?
+
+305
+00:28:59,825 --> 00:29:02,543
+El yazmasını çağırdımı senin için?
+
+306
+00:29:02,545 --> 00:29:03,865
+Hayır.
+
+307
+00:29:05,545 --> 00:29:08,583
+Dün gece, element büyüsü yaptı.
+
+308
+00:29:08,585 --> 00:29:13,783
+- Ne? Diana mı?
+- Güçlü olduğunu biliyor muydun?
+
+309
+00:29:13,785 --> 00:29:15,423
+Hayır, ben..
+
+310
+00:29:15,425 --> 00:29:17,423
+İnanamıyorum...
+
+311
+00:29:17,425 --> 00:29:19,865
+Öyle olduğunu hiç belli etmedi.
+
+312
+00:29:22,265 --> 00:29:26,225
+Belki de büyüsünü kariyerinde ilerlemek için kullanmıştır.
+
+313
+00:29:28,705 --> 00:29:31,825
+Ve belki de senden bu yüzden saklamıştır.
+
+314
+00:29:40,745 --> 00:29:43,745
+Oh, tanrıya şükür burdasın.
+Telefonlarına cevap vermiyordun.
+
+315
+00:30:04,745 --> 00:30:08,023
+Eğer bu kitap düşündüğüm kitapsa..
+
+316
+00:30:08,025 --> 00:30:10,345
+..vampirleri yok edebiliriz.
+
+317
+00:30:13,065 --> 00:30:17,103
+Her şeyden önce kitabı benim çıkardığımı
+nereden biliyor bilmiyorum.
+
+318
+00:30:17,105 --> 00:30:19,145
+Yerin kulağı var.
+
+319
+00:30:22,425 --> 00:30:24,585
+Bu sadece kitapla ilgili değil.
+
+320
+00:30:25,865 --> 00:30:27,705
+Seninle ilgili.
+
+321
+00:30:30,465 --> 00:30:33,185
+Bu sadece simyadan daha önem arz ediyor.
+
+322
+00:30:35,585 --> 00:30:38,423
+Ashmole 782 yüzyıllardır kayıp..
+
+323
+00:30:38,425 --> 00:30:41,825
+..ve onu yalnızca sen çağırabildin.
+Nedenini merak etmiyor musun?
+
+324
+00:30:48,025 --> 00:30:50,385
+Dikkatli olman lazım.
+
+325
+00:31:01,985 --> 00:31:04,225
+Profesör Clairmont'un orası lütfen.
+
+326
+00:31:58,915 --> 00:32:03,715
+Yaratıkların kitap için gelecekleri konusunda haklıydın.
+
+327
+00:32:06,155 --> 00:32:10,993
+Cemaatten Peter Knox ve İskandinav bir cadı vardı.
+
+328
+00:32:10,995 --> 00:32:13,875
+Kim olduğunu...
+Kim olduğunu bilmiyorum.
+
+329
+00:32:16,035 --> 00:32:18,793
+Sakinleşmeye çalış.
+Adrenalinin çok yüksek.
+
+330
+00:32:18,795 --> 00:32:21,315
+- Adrenalimin kokusunu mu alabiliyorsun?
+- Tabiki de alabiliyorum.
+
+331
+00:32:29,635 --> 00:32:30,955
+Teşekkürler.
+
+332
+00:32:36,635 --> 00:32:38,753
+Neden bana geldin?
+
+333
+00:32:38,755 --> 00:32:41,233
+Seni en son gördüğümde
+beni bir daha görmek istemediğini söylemiştin.
+
+334
+00:32:41,235 --> 00:32:44,115
+- Konuşacak başka kimsem yok.
+- Arkadaşların vardır illa ki.
+
+335
+00:32:46,675 --> 00:32:48,155
+Güvenebileceğim yok.
+
+336
+00:32:51,795 --> 00:32:53,913
+Buraya gelmek bir hataydı.
+
+337
+00:32:53,915 --> 00:32:57,075
+- Seni rahatsız ettiğim için üzgünüm.
+- Knox kitabı mı istiyor?
+
+338
+00:32:59,595 --> 00:33:02,513
+Cadılarn ilk büyülerini ierdiğini söylüyor.
+
+339
+00:33:02,515 --> 00:33:04,393
+Sen de mi öyle düşünüyorsun?
+
+340
+00:33:04,395 --> 00:33:08,153
+Peter Knox her şeyi ve herkesi cadılarn yarattığına inanıyor.
+
+341
+00:33:08,155 --> 00:33:10,115
+Tabi ki öyle düşünmüyorum ben.
+
+342
+00:33:12,395 --> 00:33:15,433
+- Kitabı geri verdiğini biliyor mu?
+- Evet.
+
+343
+00:33:15,435 --> 00:33:17,073
+Yeniden denememi ve çağırmamı istiyor.
+
+344
+00:33:17,075 --> 00:33:18,955
+- Yapacak mısın peki?
+- Onun almasını istemiyorum.
+
+345
+00:33:52,235 --> 00:33:57,955
+"Saygıdeğer bayım, 15 Ekim'de yolladğınız mektup
+sonunda elime ulaştı.
+
+346
+00:34:02,395 --> 00:34:05,753
+- Charles Darwin'i tanıyor musun?
+- Evet.
+
+347
+00:34:05,755 --> 00:34:08,033
+Bir çok kez onunla görüştüm..
+
+348
+00:34:08,035 --> 00:34:11,393
+..özellikle "Türlerin Kökeni"'ni yayımlamaya hazırlarken.
+
+349
+00:34:11,395 --> 00:34:14,993
+Teorilerinin biz yaratıklarla olan alakasını
+merak etmeye başladım.
+
+350
+00:34:14,995 --> 00:34:17,153
+Kökenimiz anlama konusunda çaresizdim.
+
+351
+00:34:17,155 --> 00:34:19,993
+Bir kitapla ilgili..
+
+352
+00:34:19,995 --> 00:34:21,953
+..dedikodular, fısıltılar duydum..
+
+353
+00:34:21,955 --> 00:34:24,353
+..insan gözünden uzak bir simya kitabı.
+
+354
+00:34:24,355 --> 00:34:26,875
+- Ashmole 782.
+- Ashmole.
+
+355
+00:34:29,115 --> 00:34:32,993
+O adamda tuhaf el yazmaları bulmakla ilgili
+esrarengiz bir yetenek vardı.
+
+356
+00:34:32,995 --> 00:34:34,995
+Her birini buldum ve okudum.
+
+357
+00:34:37,435 --> 00:34:40,073
+782 hariç.
+
+358
+00:34:40,075 --> 00:34:44,113
+1859'dan beri kitabı mı arıyorsun?
+
 359
-00:35:31,015 --> 00:35:33,413
-Ne olmuş? Sık sık burada çalışırlar.
+00:34:44,115 --> 00:34:45,435
+Hıhı.
 
 360
-00:35:33,415 --> 00:35:37,175
-Seni izlemek için buradalar.
+00:34:47,435 --> 00:34:49,753
+- Kaç yaşındasın sen?
+- Göründüğümden daha yaşlıyım.
 
 361
-00:35:39,535 --> 00:35:43,293
-Yaratıkların sana karşı bir ilgi geliştirecekleri
-konusunda seni uyarmıştım.
+00:34:49,755 --> 00:34:51,353
+300?
 
 362
-00:35:43,295 --> 00:35:45,413
-Seninle konuştuğum için bana bakıyorlar.
+00:34:51,355 --> 00:34:52,675
+Mm.
 
 363
-00:35:45,415 --> 00:35:47,013
-Sorunu olan onlar değil.
+00:34:53,555 --> 00:34:55,075
+500?
 
 364
-00:35:47,015 --> 00:35:48,815
-Sessiz olur musunuz?
+00:34:57,715 --> 00:34:59,875
+Machiavelli'yi tanıyor muydun?
 
 365
-00:35:52,735 --> 00:35:54,775
--Bu kadar erken mi kalkıyorsun?
--Evet.
+00:35:00,995 --> 00:35:03,915
+- Kartaca Muharebesi'nde hayatta kaldı mı?
+- Kartaca'Nın hangi muharebesinde?
 
 366
-00:36:04,575 --> 00:36:07,055
-Selam! Diana.
+00:35:06,595 --> 00:35:08,313
+Sana laboratuvarımı göstermek isterim.
 
 367
-00:36:07,975 --> 00:36:11,775
--Selam.
--O bir vampirdi.
+00:35:08,315 --> 00:35:11,115
+Son zamanlarda yaptığımız çalışmalar
+yaratık kökenleriyle ilgili.
 
 368
-00:36:12,775 --> 00:36:16,013
--Evet.
--Kütüphane ne yapıyordu?
+00:35:12,635 --> 00:35:15,715
+Seni incitmeyeceğim.
+Söz veriyorum.
 
 369
-00:36:16,015 --> 00:36:18,293
-Senin bildiğinden fazlasını bilmiyorum ben de.
+00:35:17,995 --> 00:35:19,315
+Pekala.
 
 370
-00:36:18,295 --> 00:36:20,613
-Ama seninle konuştu.
+00:35:22,715 --> 00:35:24,795
+Bunu giy.
 
 371
-00:36:20,615 --> 00:36:23,093
-Evet, kitaplarımı okumuş.
+00:35:27,315 --> 00:35:29,515
+- Soğuksun.
+- Bunu nereden biliyorsun?
 
 372
-00:36:23,095 --> 00:36:25,333
-Önemli bir şey değil.
+00:35:33,635 --> 00:35:36,673
+Adrenalin metabolik ısı üretiminin artmasına neden olur.
 
 373
-00:36:25,335 --> 00:36:28,775
-Çok tehlikeliler ve bizim onlardan nefret
-ettiğimiz kadar onlar da bizden nefret ediyorlar.
+00:35:36,675 --> 00:35:39,275
+Adrenalinin düştü kalp ritmin de öyle.
 
 374
-00:36:29,855 --> 00:36:32,413
-Umarım yarına kadar gitmiş olur.
+00:35:40,755 --> 00:35:42,755
+Kalbimi duyabiliyor musun?
 
 375
-00:36:32,415 --> 00:36:33,933
+00:35:43,795 --> 00:35:45,115
 Evet.
 
 376
-00:36:33,935 --> 00:36:36,653
--Çalışmak için odaya dönüyorum.
--Tamam.
+00:35:46,715 --> 00:35:48,515
+Her zaman.
 
 377
-00:38:35,935 --> 00:38:41,413
- Oxford'a hoş geldiniz Bay Knox. Sizi şehrimizde
-ağırlamak büyük bir onur.
+00:35:54,235 --> 00:35:56,593
+Türlerin kökeni çalışmalarında genetik kullanan..
 
 378
-00:38:41,415 --> 00:38:43,655
-İçeri girin orda öyle durmayın.
+00:35:56,595 --> 00:35:59,713
+..yüzlerce laboratuvar
+arasındayız, ama bizimkinde..
 
 379
-00:38:45,735 --> 00:38:48,613
-Evet, Bayan Chamberlain.
+00:35:59,715 --> 00:36:02,315
+..üzerinde çalıştığımız tek tür insanlar değil.
 
 380
-00:38:48,615 --> 00:38:50,213
-Merhaba.
+00:36:03,755 --> 00:36:06,553
+- Vampir genetiğini de mi araştırıyorsunuz?
+- Hıhı.
 
 381
-00:38:50,215 --> 00:38:52,775
-Lütfen oturun.
+00:36:06,555 --> 00:36:08,993
+Cadılar ve iblislerinkini de.
 
 382
-00:38:56,935 --> 00:38:59,973
-Tam olarak ne olduğunu bana anlat.
+00:36:08,995 --> 00:36:12,993
+Fiziksel örnekleri çoğunlukla mezarlıklardan alıyoruz..
 
 383
-00:38:59,975 --> 00:39:04,173
-Bodleian kütüphanesinde bir ashmole el yazması vardı.
+00:36:12,995 --> 00:36:15,315
+..ve örneklerden DNA çıkartıyoruz.
 
 384
-00:39:04,175 --> 00:39:06,293
--Simyayla alakalı.
--Eski mi?
+00:36:16,475 --> 00:36:17,795
+Hey, Matthew!
 
 385
-00:39:06,295 --> 00:39:09,055
-Orta çağdan kalma, iki tokalı,
-ayırt edici bir şekilde ciltlenmiş.
+00:36:18,635 --> 00:36:20,475
+Sen yokken bana yardım ediyordu.
 
 386
-00:39:11,455 --> 00:39:15,933
-Arkadaşım kitabı aldı.
+00:36:21,715 --> 00:36:24,793
+Diana, bu meslektaşım ve laboratuvar yöneticim
+Dr Miriam Shepherd.
 
 387
-00:39:15,935 --> 00:39:17,533
-Eğer düşündüğüm kitapsa...
+00:36:24,795 --> 00:36:26,873
+Miriam, bu da Doktor Diana Bishop.
 
 388
-00:39:17,535 --> 00:39:20,773
-...o kitabı çok uzun zamandır arıyordum.
+00:36:26,875 --> 00:36:29,993
+- Sizinle tanışmak güzel.
+- Ve ben de Doktor Marcus Whitmore.
 
 389
-00:39:20,775 --> 00:39:22,895
-Arkadaşınızın adı neydi?
+00:36:29,995 --> 00:36:32,235
+Farklı tip bir doktorum.
 
 390
-00:39:24,895 --> 00:39:26,375
-Duydun adamı.
+00:36:35,235 --> 00:36:38,313
+Vay! AB negatif.
 
 391
-00:39:27,495 --> 00:39:28,815
-İsim.
+00:36:38,315 --> 00:36:39,913
+Kanından biraz alamam değil mi?
 
 392
-00:39:31,175 --> 00:39:32,655
-Diana Bishop.
+00:36:39,915 --> 00:36:41,793
+Yaşayan bir cadıdan örnek almak çok zor iş.
 
 393
-00:40:09,815 --> 00:40:13,615
-Sizce burada, karanlıkta güvende misiniz, Dr Bishop?
+00:36:41,795 --> 00:36:43,313
+Yok... kalsın.
 
 394
-00:40:15,415 --> 00:40:16,895
-Beni mi takip ediyorsun?
+00:36:43,315 --> 00:36:46,593
+Arkadaşın kan vermek için burada değilse,
+neden burada acaba?
 
 395
-00:40:19,135 --> 00:40:23,215
-Sadece tek başınıza kürek çekmenin
-riskli olduğunu söylüyorum.
+00:36:46,595 --> 00:36:49,993
+Diana'ya burada yaptığımız çalışmanın,
+şüphe götürmez şekilde..
 
 396
-00:40:24,655 --> 00:40:28,775
-Evet... Yaşamın Kitabı,
-onunla ne yaptın?
+00:36:49,995 --> 00:36:51,913
+..yaratıkların yok olduğunu..
 
 397
-00:40:29,775 --> 00:40:31,373
-Onun ne olduğunu bilmiyorum.
+00:36:51,915 --> 00:36:54,195
+..kanıtladığını göstermek istedim.
 
 398
-00:40:31,375 --> 00:40:33,495
-Senin gücündeki bir cadı nasıl bilmez?
+00:36:55,995 --> 00:36:58,113
+Vampire dönüştürrmeler başarısız oluyor.
 
 399
-00:40:35,695 --> 00:40:39,173
-Beni sadece kütüphanede gördün.
-O benim için anormaldi.
+00:36:58,115 --> 00:37:00,193
+İblislerin deliliğe eğilimliliği hızla artıyor.
 
 400
-00:40:39,175 --> 00:40:41,213
--Ben büyü kullanmam.
--Bana yalan söyleme Diana.
+00:37:00,195 --> 00:37:01,515
+Ya cadılar?
 
 401
-00:40:41,215 --> 00:40:42,535
-Gücünü hissedebiliyorum.
+00:37:03,555 --> 00:37:05,315
+Güçlerini kaybediyorlar.
 
 402
-00:40:45,655 --> 00:40:47,893
-Eğer kitabı istiyorsan, neden gidip almıyorsun?
+00:37:07,355 --> 00:37:08,795
+Gel de gör.
 
 403
-00:40:47,895 --> 00:40:50,653
--Sana söyledim, geri iade ettim.
--Sana inanmıyorum.
+00:37:11,755 --> 00:37:13,875
+Otur lütfen.
 
 404
-00:40:50,655 --> 00:40:54,413
-Peki,yalan söylediğimi varsayalım.
-Ne yapacaksın?
+00:37:15,195 --> 00:37:17,635
+- Müsaadenle.
+- Teşekkürler.
 
 405
-00:40:54,415 --> 00:40:57,135
-Gerçeği öğrenmek için kafamı mı kopartacaksın?
+00:37:20,715 --> 00:37:24,673
+Bu grafik Benvenguda adlı bir cadının..
 
 406
-00:40:58,135 --> 00:40:59,455
-Yapabilirim.
+00:37:24,675 --> 00:37:26,553
+..mitokondriyal DNA'sını gösteriyor.
 
 407
-00:41:01,735 --> 00:41:03,535
-Ama ben işlerimi öyle halletmem.
+00:37:26,555 --> 00:37:28,473
+7. yüzyılda Brittany'de yaşadı..
 
 408
-00:41:07,415 --> 00:41:10,255
-Sana bunu bir kez daha diyeceğim.
+00:37:28,475 --> 00:37:30,633
+..ve çok, çok güçlüydü.
 
 409
-00:41:12,335 --> 00:41:14,375
-Kitabın bende değil.
+00:37:30,635 --> 00:37:32,153
+Bir mucize sahiden..
 
 410
-00:41:17,295 --> 00:41:19,973
-Ashmole 782, yüzyıllardır kayptı...
+00:37:32,155 --> 00:37:35,353
+..bir çok mucizler üretmiş bir çağda.
 
 411
-00:41:19,975 --> 00:41:24,175
-...ama yine de sen bulabildin.
-Sebebini merak etmiyor musun?
+00:37:35,355 --> 00:37:38,993
+Şimdi, bunu Benvenguda'nın bilinen son akrabası olan..
 
 412
-00:41:25,335 --> 00:41:27,893
-O kitap bana veya hiç kimseye daha önce gözükmedi.
+00:37:38,995 --> 00:37:41,233
+..Beatrice Good'unkiyle kıyaslarsak..
 
 413
-00:41:27,895 --> 00:41:31,333
-Ne yaparsak yapalım. Sadece sana gözüktü.
+00:37:41,235 --> 00:37:44,633
+..gördüğün üzere Beatrice'in DNA'sı
+cadılar arasında yaygın olan işaretlerden
 
 414
-00:41:31,335 --> 00:41:34,093
-Kitap, hayatta kalmamızın anahtarı olabilir.
+00:37:44,635 --> 00:37:46,915
+..çok daha azını gösteriyor,
+bu da demek oluyor ki,
 
 415
-00:41:34,095 --> 00:41:38,093
-Yani kitabı çağırabilen tek kişinin...
+00:37:48,395 --> 00:37:52,153
+..ataları, yüzyıllar geçtikçe..
 
 416
-00:41:38,095 --> 00:41:40,615
-...güçlerini kontrol edemeyen
-bir cadı olması garip değil mi?
+00:37:52,155 --> 00:37:55,793
+..hayatta kalmak için büyüye daha az itimat etmişler.
+Şimdi...
 
 417
-00:42:53,295 --> 00:42:55,135
-Yavaşça yanımdan geç.
+00:37:55,795 --> 00:37:58,673
+..bu güçlerini reddetme..
 
 418
-00:42:56,615 --> 00:42:58,975
-Ani hareket yapma.
+00:37:58,675 --> 00:38:00,993
+..modeli yüzünden..
 
 419
-00:43:02,255 --> 00:43:03,575
-Git!
+00:38:00,995 --> 00:38:04,115
+..nihayetinde cadıların soyu..
 
 420
-00:43:06,095 --> 00:43:07,575
-Ama koşma.
+00:38:07,115 --> 00:38:08,435
+..tükenecek.
 
 421
-00:43:10,299 --> 00:43:12,299
-Çeviri: Barış Fırat Kanat
+00:38:15,715 --> 00:38:18,193
+- Sence kiminle konuşabilir?
+- Şey, bilmiyorum ki.
 
 422
-00:43:45,895 --> 00:43:49,335
-Bir cadıdan kaçmak için geldim.
- Onu arzuluyorum.
+00:38:18,195 --> 00:38:20,755
+Benim dışımda, Diana'nın Oxford'da
+başka arkadaşı yok.
 
 423
-00:43:51,655 --> 00:43:52,975
-İyi avlar.
+00:38:23,275 --> 00:38:25,313
+Oh, kusura bakma.
 
 424
-00:43:54,095 --> 00:43:56,973
-Eğer onu incitirsen, kendini asla affedemezsin.
+00:38:25,315 --> 00:38:28,275
+Sanıyorum sizi tanıştırmadım. Bu, Bayan Järvinen.
 
 425
-00:43:56,975 --> 00:44:00,373
-Vampirler uzun yaşamlarını çok fazla
-güç kazanmak için kötüye kullanıyor.
+00:38:29,515 --> 00:38:32,793
+Cemaatteki yeni temsilcimiz kendisi.
 
 426
-00:44:00,375 --> 00:44:04,975
-Bu ölü turist, bir vampir cinayeti.
+00:38:32,795 --> 00:38:34,595
+Oh. Vay canına!
 
 427
-00:44:05,495 --> 00:44:08,413
--Kitabı diğer yaratıklar da isteyecek.
--Neden senin için bu kadar önemli?
+00:38:35,115 --> 00:38:36,835
+Tebrik ederim.
 
 428
-00:44:08,415 --> 00:44:11,615
-Vampirleri nasıl yarattığımızı söyleyebilir.
+00:38:41,715 --> 00:38:44,755
+- Eee?
+- İçine bakmaya çalıştım.
 
 429
-00:44:12,615 --> 00:44:16,295
-Eğer onları biz yarattıysak, yok da edebiliriz.
+00:38:47,715 --> 00:38:49,475
+İlgimi çekiyor.
+
+430
+00:38:51,955 --> 00:38:56,075
+782'nin araştırmalarında sana yardımcı olacağını
+düşünüyorsun değil mi?
+
+431
+00:38:57,155 --> 00:38:59,635
+Kökenimizi açıklayabilir, evet.
+
+432
+00:39:01,235 --> 00:39:04,113
+Ama yarın tükecenek değiliz heralde.
+
+433
+00:39:04,115 --> 00:39:06,635
+Hala bir sürü yaratık var dünyada.
+
+434
+00:39:08,075 --> 00:39:10,075
+Zaman anlayışım seninkinden farklı.
+
+435
+00:39:11,315 --> 00:39:15,873
+İnsanlar iklim değişikliği ile ilgili konuşurken de
+aynı argümanı kullanıyorlar.
+
+436
+00:39:15,875 --> 00:39:20,675
+"Buzulların erimesi yüzyıllar sürecek. Kimin umrunda ki?"
+
+437
+00:39:23,435 --> 00:39:26,675
+Thames Nehri'nin her kış buz tuttuğu zamanı hatırlıyorum.
+
+438
+00:39:28,515 --> 00:39:30,715
+Eskiden kayak yapardım orada.
+
+439
+00:39:31,835 --> 00:39:33,953
+Ama haklısın.
+
+440
+00:39:33,955 --> 00:39:37,675
+Hemen olmayacak ama olmaya başladı bile.
+
+441
+00:39:38,795 --> 00:39:41,355
+Gün gelecek, sadece tek bir tür olacak.
+
+442
+00:39:43,155 --> 00:39:44,475
+İnsanlar.
+
+443
+00:39:46,155 --> 00:39:47,993
+Ve en başta, farkı anlamayacaklar..
+
+444
+00:39:47,995 --> 00:39:50,915
+..çünkü bizi hiç farketmediler
+ama eninde sonunda..
+
+445
+00:39:52,315 --> 00:39:54,115
+..farkında varacaklar ki..
+
+446
+00:39:55,715 --> 00:39:59,353
+..tüm büyü dünyadan göçüp gitmiş.
+
+447
+00:39:59,355 --> 00:40:01,873
+Etrafına bakacaklar..
+
+448
+00:40:01,875 --> 00:40:04,075
+..ve herkes aynı olacak.
+
+449
+00:40:10,115 --> 00:40:12,835
+Sahip olduğum güç her neyse kullanmam
+gerektiğini mi düşünüyorsun?
+
+450
+00:40:14,795 --> 00:40:18,713
+En azından kullanmaktan korkmamaya çalışman lazım bence.
+
+451
+00:40:18,715 --> 00:40:20,673
+Buna rağmen, tek söyleyebileceğim..
+
+452
+00:40:20,675 --> 00:40:23,313
+..dünyayı döndüren sadece iki duygu var.
+
+453
+00:40:23,315 --> 00:40:25,993
+Biri... arzu.
+
+454
+00:40:25,995 --> 00:40:28,435
+Diğeri ise korku.
+
+455
+00:40:29,995 --> 00:40:32,873
+Büyü arzudan var olur.
+
+456
+00:40:32,875 --> 00:40:35,115
+- Teyzem böyle der.
+- Mm.
+
+457
+00:40:44,275 --> 00:40:47,435
+Kitap yeniden yazılmış bir parşömen.
+
+458
+00:40:48,715 --> 00:40:51,235
+Eski kelimeler yenilerin altında saklı.
+
+459
+00:40:52,395 --> 00:40:54,553
+Ağırdı.
+
+460
+00:40:54,555 --> 00:40:56,715
+Kokuyordu. Tuhaf kokuyordu.
+
+461
+00:40:58,955 --> 00:41:01,513
+Üç sayfası çıkartılmıştı.
+
+462
+00:41:01,515 --> 00:41:07,633
+Gördüğüm tek sayfadaters dönmüş bir teknede
+yüzen bir bebek vardı.
+
+463
+00:41:07,635 --> 00:41:09,673
+Her ne kadar daha önce böyle gösterildiğini görmesem de..
+
+464
+00:41:09,675 --> 00:41:12,675
+..muhtemelen Simya Çocuktu o.
+
+465
+00:41:15,315 --> 00:41:16,635
+Teşekkürler.
+
+466
+00:41:58,155 --> 00:42:00,353
+--Sonraki Bölümde--
+Vampirleri bildiğini sanıyordum.
+
+467
+00:42:00,355 --> 00:42:02,675
+Beni bu yüzden davet ettiğini.
+
+468
+00:42:03,435 --> 00:42:06,473
+Bir kitabı almam lazım, Ashmole 782.
+
+469
+00:42:06,475 --> 00:42:07,835
+Kitabı vampire mi vereceksin?
+
+470
+00:42:08,195 --> 00:42:10,353
+Nereye gidiyoruz ki?
+
+471
+00:42:10,355 --> 00:42:11,675
+Evime.
+
+472
+00:42:12,795 --> 00:42:16,713
+Ashmole 782'yi çağırmak için büyü yaptın mı?
+
+473
+00:42:16,715 --> 00:42:20,073
+Bir vampirle takıalrak ne yaptığını sanıyorsun?
+
+474
+00:42:20,075 --> 00:42:22,353
+Senden beslenebilirdi, anılarını alabilirdi.
+
+475
+00:42:22,355 --> 00:42:24,873
+Kitabı açtığında gördüğün her şeyi görebilirdi!
+
+476
+00:42:24,875 --> 00:42:27,833
+Matthew de Claremont bir cadıyı rahatsız ediyor.
+
+477
+00:42:27,835 --> 00:42:31,313
+Kaynağın cadının kim olduğunu söyledi mi?
+
+478
+00:42:31,315 --> 00:42:32,793
+Adı Diana Bishop.
+
+479
+00:42:32,795 --> 00:42:36,075
+Kendini bizden uzak tutuyorsun
+ama vampirlerle takılıyorsun.
+
+480
+00:42:36,435 --> 00:42:38,155
+Senin gibi yobazın teki değilim.
+
+481
+00:42:40,155 --> 00:42:42,475
+Onu arzuluyorsun.
+
+482
+00:42:42,675 --> 00:42:44,273
+Tadım nasıldır acaba?
+
+483
+00:42:44,275 --> 00:42:45,873
+Eğer saldırırsam beni durduramazsın..
+
+484
+00:42:45,875 --> 00:42:47,555
+..ve ben kendimi de durduramam.
+
+485
+00:42:48,015 --> 00:42:53,015
+Çeviri: daeron
+twitter.com/uAyertogrul
 
