@@ -1,1315 +1,1207 @@
 ﻿1
-00:00:01,293 --> 00:00:02,920
-- Beni özledi mi?
-- Evet.
-
-2
-00:00:03,003 --> 00:00:04,003
-Kimin o bebek?
-
-3
-00:00:04,086 --> 00:00:05,631
-Sizin bebeğiniz. O Jericho.
-
-4
-00:00:05,714 --> 00:00:08,318
-Oyuncak gitmiş ve beşikte 
-o bebek vardı. Değiştirmiş.
-
-5
-00:00:08,342 --> 00:00:11,386
-Arkadaşım Roscoe'yla konuştum.
-Kayıp bebekleri aratmasını söyledim.
-
-6
-00:00:12,304 --> 00:00:13,904
-Kendine ne yapıyorsun sen?
-
-7
-00:00:15,641 --> 00:00:17,869
-- Onu nereden buldun?
-- Ne diyebilirim ki? Şansımız yaver gitti.
-
-8
-00:00:17,893 --> 00:00:19,478
-Bebek kaçıranla tanışmak istiyorum.
-
-9
-00:00:20,521 --> 00:00:22,773
-Dorothy, Jericho'ya olanları 
-hatırlıyor musun?
-
-10
-00:00:22,856 --> 00:00:25,567
-Oyuncağı kabul etmişti. Şimdi de 
-bunu kabul etmiş gibi gözüküyor.
-
-11
-00:00:25,651 --> 00:00:27,277
-Ya hatırlarsa?
-
-12
-00:00:27,361 --> 00:00:30,781
-Belki de uyanmadığı bir geleceği
-düşünmeye başlasak iyi olur.
-
-13
-00:01:04,400 --> 00:01:18,983
-ÇEVİRİ: JAVAJAVA2002
-
-14
-00:02:13,985 --> 00:02:17,026
-- Bir pantolon giyer misin?
-- Saat üç ulan.
-
-15
-00:02:17,694 --> 00:02:19,818
+00:00:01,310 --> 00:00:03,166
 Bu Roscoe.
 Sana bahsettiğim adam.
 
-16
-00:02:19,902 --> 00:02:22,193
-- Kayınbiraderim Sean.
-- Hey.
-
-17
-00:02:23,944 --> 00:02:25,276
-Özel dedektif misiniz siz?
-
-18
-00:02:25,986 --> 00:02:27,818
-Aslında insan kaynaklarında
-çalışıyorum ama...
-
-19
-00:02:27,902 --> 00:02:30,652
-Ek iş olarak özel dedektiflik 
-yapıyor. Yetkisi var.
-
-20
-00:02:30,736 --> 00:02:33,610
-Günlük ücretle çalışıyor.
-Ve en önemlisi de ona güvenebiliriz.
-
-21
-00:02:34,986 --> 00:02:36,485
-Ne öğrendin?
-
-22
-00:02:37,069 --> 00:02:40,110
-Sosyal medyada Leanne Grayson
-hakkında hiçbir şey bulamadım.
-
-23
-00:02:40,861 --> 00:02:43,194
-Devlet arşivlerinde 
-Wisconsin'de doğduğu yazıyor.
-
-24
-00:02:44,278 --> 00:02:47,694
-Belki gerçekten de büyük bir şehre 
-gelen bir köylü kızıdır sadece.
-
-25
-00:02:48,820 --> 00:02:51,485
-Saat 5'te Madison'a bir uçuş var.
-
-26
-00:02:51,945 --> 00:02:53,819
-Bence ne ile karşı karşıya
-olduğumuzu bir öğrenelim derim.
-
-27
-00:02:54,528 --> 00:02:56,111
-Bir etkinlikte servis yapmam lazım.
-
-28
-00:02:56,195 --> 00:02:57,402
-Seni davet ettim mi?
-
-29
-00:02:58,237 --> 00:03:00,319
-Dorothy'i onunla yalnız
-bırakmanı istemiyorum.
-
-30
-00:03:04,945 --> 00:03:06,319
-Daha fazlasını öğrenene kadar.
-
-31
-00:03:07,820 --> 00:03:09,069
-Bu kızın fotoğrafı lazım bize.
-
-32
-00:03:10,654 --> 00:03:12,403
-Memleketinde etrafa gösterip
-sorup soruşturabileceğimiz bir şey.
-
-33
-00:03:12,529 --> 00:03:14,278
-Kimliğini doğrulatacak mıyız diye.
-
-34
-00:03:16,529 --> 00:03:17,694
-Bulabilir misin?
-
-35
-00:03:20,070 --> 00:03:21,861
-Özgeçmişi.
-Getireyim size.
-
-36
-00:05:06,115 --> 00:05:08,656
-- Balıkçımı gördün mü oralarda?
-- Hayır şef.
-
-37
-00:05:10,157 --> 00:05:11,781
-Bugün yapmamız gereken 
-bir ton hazırlık var.
-
-38
-00:05:11,865 --> 00:05:14,947
-Ayrıca servis edilmeden önce her 
-şeyin tadına bakmanı istiyorum.
-
-39
-00:05:15,657 --> 00:05:16,781
-Şef?
-
-40
-00:05:16,823 --> 00:05:19,656
-Bende virüs gibi bir şey var.
-Tat alamıyorum.
-
-41
-00:05:20,532 --> 00:05:21,989
-Günaydın Tobe.
-
-42
-00:05:22,449 --> 00:05:23,531
-Günaydın Bayan Turner.
-
-43
-00:05:23,657 --> 00:05:26,073
-Yine mi tat alamamasından bahsediyor?
-
-44
-00:05:26,157 --> 00:05:28,698
-- Kulağa ciddi geliyor.
-- Onun yaşam tarzı o.
-
-45
-00:05:28,824 --> 00:05:30,573
-Yıllardır uyarıyorum onu.
-
-46
-00:05:30,657 --> 00:05:34,948
-Beş korsluk gastronomik harikalar
-bekleyen bir düzine diplomat olacak.
-
-47
-00:05:34,991 --> 00:05:37,781
-Tadı bok gibi olabilir ama
-foie gras gibi görünmeli.
-
-48
-00:05:37,824 --> 00:05:40,823
-- Tobe sebzeler kilerde.
-- Evet şef.
-
-49
-00:05:46,908 --> 00:05:48,615
-Kapıda seni soran biri var.
-
-50
-00:05:48,699 --> 00:05:50,907
-Balıkçım gelmediyse sıçtım.
-
-51
-00:05:52,283 --> 00:05:53,990
-Bugün epey bir baskı var üzerinde.
-
-52
-00:05:54,033 --> 00:05:56,157
-Gel otur.
-Kahvaltı yap benimle.
-
-53
-00:05:56,699 --> 00:05:59,282
-Biliyorum biraz abartı ama
-haftasonundayız paylaşabiliriz.
-
-54
-00:06:00,908 --> 00:06:05,490
-Leanne. Bu Tobe.
-Tobe Sean'ın...
-
-55
-00:06:05,575 --> 00:06:07,990
-Neydi senin unvanın Tobe?
-
-56
-00:06:08,116 --> 00:06:10,574
-- Komi Şef.
-- Komi Şef.
-
-57
-00:06:13,200 --> 00:06:15,116
-"Komi" değil demek oluyor herhalde.
-
-58
-00:06:15,158 --> 00:06:17,199
-Çünkü sebzeleri soyup
-güveçleri yıkıyor.
-
-59
-00:06:17,283 --> 00:06:20,032
-Sean'ın onu eğittiğini düşünüyor
-ama bence çocuk işçi çalıştırıyor.
-
-60
-00:06:20,158 --> 00:06:21,157
-Evet.
-
-61
-00:06:21,283 --> 00:06:22,741
-İşte kaypak şerefsizler.
-
-62
-00:06:22,867 --> 00:06:24,866
-- Sean!
-- Herifler.
-
-63
-00:06:33,075 --> 00:06:35,033
-- Yılan balığı mı o?
-- Evet. Tuzda pişireceğim.
-
-64
-00:06:35,034 --> 00:06:37,533
-Tobe, üst çekmeceden 
-çekiç ve çivi getir.
-
-65
-00:06:37,617 --> 00:06:39,200
-- Evet şef.
-- Yardıma ihtiyacım var benim.
-
-66
-00:06:52,909 --> 00:06:54,367
-Hâlâ hareket ediyor.
-
-67
-00:06:54,909 --> 00:06:56,867
-Saatlerce öyle yapar.
-
-68
-00:06:56,909 --> 00:06:59,283
-Yılan balıklarının garip yanı bu.
-Öldüklerini fark etmiyorlar.
-
-69
-00:06:59,326 --> 00:07:01,867
-Pekala.
-Şurayı ve şurayı kes.
-
-70
-00:07:01,909 --> 00:07:05,200
-Ee Leanne.
-Bu boş gününde ne yapmayı planlıyorsun?
-
-71
-00:07:05,743 --> 00:07:07,617
-Yüzelim şu şerefsizin derisini.
-
-72
-00:07:13,243 --> 00:07:14,367
-Neden durmuyor?
-
-73
-00:07:18,535 --> 00:07:20,534
-Şu kana bak.
-Tut.
-
-74
-00:07:28,702 --> 00:07:31,118
-Senin için endişelenmeye başlamıştık.
-
-75
-00:07:35,202 --> 00:07:37,534
-- Kusura bakmayın Bayan Turner.
-- Hayır, hayır, hayır.
-
-76
-00:07:43,702 --> 00:07:45,285
-Buraya nasıl geldim?
-
-77
-00:07:46,244 --> 00:07:49,660
-Tobe getirdi.
-Epey güçlü biri.
-
-78
-00:07:51,161 --> 00:07:52,910
-Kan şekerin düşmüş olmalı.
-
-79
-00:07:52,952 --> 00:07:56,118
-Bir deri bir kemik kalmışsın.
-Al, ballı papatya çayı bu.
-
-80
-00:07:57,703 --> 00:07:59,743
-Yeni Zellanda'nın arıları yapmış sanırım.
-
-81
-00:08:04,411 --> 00:08:06,535
-Bize hâlâ alışmaya 
-çalışıyorsun sanırım.
-
-82
-00:08:07,578 --> 00:08:09,160
-Ne düşünüyorsun?
-
-83
-00:08:09,870 --> 00:08:12,160
-Ben burada çok mutluyum Bayan Turner.
-
-84
-00:08:12,286 --> 00:08:13,285
-Dorothy.
-
-85
-00:08:14,286 --> 00:08:16,410
-Hadi ama.
-Söyleyebilirsin biliyorum.
-
-86
-00:08:17,828 --> 00:08:19,119
-Dorothy.
-
-87
-00:08:19,161 --> 00:08:21,285
-Çok tatlısın.
-
-88
-00:08:22,870 --> 00:08:26,702
-Seninle en yakın arkadaş olacağız.
-Şu andan itibaren.
-
-89
-00:08:37,495 --> 00:08:39,453
-- Tobe.
-- Merhaba Şef.
-
-90
-00:08:39,579 --> 00:08:40,744
-Şunu bir dene.
-
-91
-00:08:45,037 --> 00:08:46,453
-Biraz keskin olmuş şef.
-
-92
-00:08:46,870 --> 00:08:48,161
-Yanılmasan iyi olur.
-
-93
-00:08:54,579 --> 00:08:58,036
-Şuna bakmam gerek.
-Beş dakika sonra tuzdan çıkar.
-
-94
-00:08:58,079 --> 00:08:59,161
-Tamam şef.
-
-95
-00:09:03,496 --> 00:09:04,495
-Hey.
-
-96
-00:09:04,996 --> 00:09:07,287
-Geldik.
-Kahrolası Wisconsin.
-
-97
-00:09:08,746 --> 00:09:10,662
-Grayson çiftlik evinin adresini aldık.
-
-98
-00:09:10,746 --> 00:09:12,328
-Buradan bir saat uzaklıkta.
-
-99
-00:09:13,163 --> 00:09:14,370
-Fotoğrafı aldın mı?
-
-100
-00:09:14,413 --> 00:09:17,079
-Evet. O neydi öyle?
-Ölü gibi görünüyor.
-
-101
-00:09:17,205 --> 00:09:19,495
-Odasına girmek zorunda kaldım.
-Uyuyordu.
-
-102
-00:09:19,538 --> 00:09:23,120
-Yaklaşık 1 saat sonra o fotoğrafı silahı olan
-bir anne babaya göstermek zorunda kalabilirim.
-
-103
-00:09:23,246 --> 00:09:24,954
-Çok ilginç muhabbetler çıkacak ortaya.
-
-104
-00:09:26,038 --> 00:09:29,662
-Julian, donuyorsun.
-Çekmiyor.
-
-105
-00:09:30,372 --> 00:09:32,079
-Oraya varınca ararım seni.
-
-106
-00:09:32,122 --> 00:09:33,412
-Pekala.
-
-107
-00:09:36,497 --> 00:09:37,662
-İyi mi?
-
-108
-00:09:38,205 --> 00:09:41,788
-Uyanık. Onu kasabaya götüreceğim.
-Birlikte öğle yemeği yiyeceğiz.
-
-109
-00:09:41,830 --> 00:09:43,079
-Neden?
-
-110
-00:09:43,205 --> 00:09:44,788
-Çünkü bugün izin günümüz.
-
-111
-00:09:46,330 --> 00:09:49,663
-- Aslında çocuğu da sana bırakacağım.
-- Etkinlik var ama.
-
-112
-00:09:49,789 --> 00:09:53,329
-Sallanan beşiğe koyarsın.
-Babasının çalışmasını izler.
-
-113
-00:09:54,247 --> 00:09:57,246
-Sean, Leanne'e söylemek
-istediğin bir şey var mı?
-
-114
-00:09:57,997 --> 00:09:59,663
-Aklıma bir şey gelmiyor.
-
-115
-00:10:00,081 --> 00:10:02,746
-Tobe'ye o yılan balığıyla
-hava atarken korkuttun onu.
-
-116
-00:10:02,872 --> 00:10:04,955
-- Hepsi benim suçumdu Bayan Turner.
-- Saçmalama.
-
-117
-00:10:05,414 --> 00:10:06,455
-Sean.
-
-118
-00:10:08,748 --> 00:10:10,872
-Seni üzdüysem özür dilerim Leanne.
-
-119
-00:10:11,706 --> 00:10:13,580
-İşte.
-O kadar da zor değilmiş.
-
-120
-00:10:15,456 --> 00:10:16,830
-Ne zaman geleceksiniz?
-
-121
-00:10:17,581 --> 00:10:18,830
-İşimiz bittiğinde.
-
-122
-00:10:19,664 --> 00:10:21,372
-Sokakta taksi tutarız.
-
-123
-00:10:34,415 --> 00:10:36,372
-Sakın düşürme.
-
-124
-00:10:36,415 --> 00:10:37,456
-Şef.
-
-125
-00:10:49,124 --> 00:10:51,331
-- Hey. Ne oldu?
-- Konuşabiliyor musun?
-
-126
-00:10:51,415 --> 00:10:52,748
-Evet, ikisi de yok evde.
-
-127
-00:10:53,749 --> 00:10:55,706
-Grayson'ın evindeyiz.
-
-128
-00:10:55,749 --> 00:10:57,748
-Bunu görmek isteyeceksin.
-
-129
-00:11:02,166 --> 00:11:03,581
-Burası yanmış gibi görünüyor.
-
-130
-00:11:07,416 --> 00:11:09,040
-Dogru yer olduğuna emin misin?
-
-131
-00:11:09,166 --> 00:11:12,748
-Roscoe laboratuvar kayıtlarını inceledi.
-Koordinatları aldık.
-
-132
-00:11:12,874 --> 00:11:16,040
-Grayson'ların adına kayıtlı.
-Üç kişilik aile. Burası dostum.
-
-133
-00:11:46,375 --> 00:11:48,166
-Çok kötü kokuyor burası.
-
-134
-00:11:51,792 --> 00:11:54,833
-Bir fotoğraf ya da özel bir eşya
-görebiliyor musunuz?
-
-135
-00:11:55,917 --> 00:11:57,833
-Bekle.
-Daha fazlası var.
-
-136
-00:12:15,251 --> 00:12:17,833
-Bir dakika, bir dakika. O ne?
-Duvardaki. Geri dön.
-
-137
-00:12:31,710 --> 00:12:35,584
-Bence sana çok yakıştı.
-Bayıldım.
-
-138
-00:12:35,668 --> 00:12:36,709
-Bakayım.
-
-139
-00:12:36,793 --> 00:12:39,084
-Baksana.
-Harika görünmüyor mu?
-
-140
-00:12:39,876 --> 00:12:42,542
-Muhteşem uyumlu bir ayakkabı da buldu.
-
-141
-00:12:43,585 --> 00:12:45,626
-Önümüzdeki haftanın yevmiyesini verdim.
-
-142
-00:12:49,168 --> 00:12:52,042
-Jericho nasıl?
-Bizi özledi mi?
-
-143
-00:12:52,127 --> 00:12:55,292
-Bir şey söylemedi.
-Tobe yordu onu. Uyuyor şimdi.
-
-144
-00:12:58,335 --> 00:12:59,459
-Ben gidip bir bakayım.
-
-145
-00:13:04,585 --> 00:13:06,418
-Anlaşıyor gibisiniz.
-
-146
-00:13:06,919 --> 00:13:09,501
-Birbirimizi tanıyoruz yavaş yavaş.
-
-147
-00:13:11,586 --> 00:13:12,585
-Ne hakkında konuştunuz?
-
-148
-00:13:15,419 --> 00:13:17,335
-Biliyorsun onu.
-Çok utangaç.
-
-149
-00:13:18,044 --> 00:13:20,251
-Ağzından zorla laf alman gerekiyor.
-
-150
-00:13:20,919 --> 00:13:23,668
-Nereli olduğundan ya da
-nerede büyüdüğünden bahsetti mi?
-
-151
-00:13:24,544 --> 00:13:26,502
-Hayır, pek sayılmaz.
-Neden sordun?
-
-152
-00:13:26,586 --> 00:13:30,793
-Üst katımızda yaşayan biri hakkında bir 
-şeyler öğrenmek iyi olur diye düşündüm.
-
-153
-00:13:30,878 --> 00:13:35,168
-Senin mülakat tekniklerin de muhteşem zaten.
-Bütün Philadelphia'nın da bildiği gibi.
-
-154
-00:13:38,378 --> 00:13:40,502
-Bir dedikodu varsa bulurum ben.
-
-155
-00:13:40,920 --> 00:13:42,544
-Mantar bulan bir domuz gibi.
-
-156
-00:13:43,253 --> 00:13:45,502
-Bu gece bizim için 
-çocuğa bakmayı teklif etti.
-
-157
-00:13:46,211 --> 00:13:47,377
-Ücretsiz.
-
-158
-00:13:47,920 --> 00:13:50,669
-Bir yerlerde bir şeyler
-yemek istersen eğer...
-
-159
-00:13:51,587 --> 00:13:54,377
-...bana karınmışım gibi davranmak 
-istersen ya da bir fahişe gibi...
-
-160
-00:13:54,503 --> 00:13:55,502
-...hangisi işini görürse.
-
-161
-00:14:05,587 --> 00:14:07,711
-Bunu ne yapacaksın?
-
-162
-00:14:08,837 --> 00:14:10,294
-Üzerinde pratik yapmak ister misin?
-
-163
-00:14:11,004 --> 00:14:12,711
-Kimse yemeyecekse biraz zalimce geliyor.
-
-164
-00:14:14,920 --> 00:14:18,336
-Seni hayatta hiçbir yere
-götürmeyecek bir içgüdü bu.
-
-165
-00:14:19,546 --> 00:14:22,836
-Hey.
-Bir yüzlük kazanmak ister misin?
-
-166
-00:14:23,587 --> 00:14:24,711
-Ne yapmam gerekiyor?
-
-167
-00:14:25,712 --> 00:14:26,878
-Burada takılacaksın.
-
-168
-00:14:27,879 --> 00:14:29,420
-Eve göz kulak olacaksın.
-
-169
-00:14:31,588 --> 00:14:32,920
-Bugün iyi iş çıkardın.
-
-170
-00:14:33,004 --> 00:14:34,128
-Teşekkürler şef.
-
-171
-00:14:35,921 --> 00:14:38,503
-Bay Turner sizi romantik
-bir yemeğe mi çıkarıyor?
-
-172
-00:14:39,296 --> 00:14:40,337
-Yani...
-
-173
-00:14:42,213 --> 00:14:43,712
-Sean için her şey iş.
-
-174
-00:14:44,505 --> 00:14:47,379
-Sadece şef değil o.
-Dünyanın en sert eleştirmeni.
-
-175
-00:14:49,755 --> 00:14:51,920
-Kusur bulamayacağı pek bir şey yok.
-
-176
-00:14:53,380 --> 00:14:56,337
-Burada mı tanıştınız?
-Philadelphia'da.
-
-177
-00:15:00,047 --> 00:15:01,629
-Ben de senin hakkında
-bir şeyler öğrenmek istiyorum.
-
-178
-00:15:02,880 --> 00:15:06,629
-Söylesene.
-Leanne Grayson kimdir?
-
-179
-00:15:08,380 --> 00:15:09,671
-Ben pek ilgi çekici biri değilim.
-
-180
-00:15:10,464 --> 00:15:12,254
-Bunun doğru olmadığına eminim.
-
-181
-00:15:13,589 --> 00:15:15,171
-Memleketinde birileri var mı?
-
-182
-00:15:15,964 --> 00:15:18,296
-Geride bıraktığın bir erkek arkadaş belki?
-
-183
-00:15:21,964 --> 00:15:23,338
-Bunu belki olarak kabul ediyorum.
-
-184
-00:15:42,756 --> 00:15:43,880
-Biliyor musun?
-
-185
-00:15:44,673 --> 00:15:47,797
-Benden bir şey ödünç almak istersen...
-
-186
-00:15:47,881 --> 00:15:49,839
-...söylemen yeterli.
-
-187
-00:15:53,590 --> 00:15:55,589
-Sekizinde aldın onları değil mi?
-
-188
-00:16:07,715 --> 00:16:10,089
-Ayakkabılarımı ödünç almak
-ister misin Dorothy?
-
-189
-00:16:17,132 --> 00:16:18,131
-Araç geldi.
-
-190
-00:16:22,590 --> 00:16:23,881
-Çok güzel görünüyorsun.
-
-191
-00:16:27,674 --> 00:16:29,715
-Sen de iyi görünüyorsun.
-Bunu sevdim.
-
-192
-00:17:07,300 --> 00:17:08,299
-Teşekkürler.
-
-193
-00:18:15,010 --> 00:18:16,384
-Burada olacağını bilmiyordum.
-
-194
-00:18:18,052 --> 00:18:22,592
-Kusura bakma. Sean kalmamı istedi.
-Kalan işleri bitirmemi istedi.
-
-195
-00:18:23,927 --> 00:18:24,926
-Önemli değil.
-
-196
-00:18:31,677 --> 00:18:33,051
-Benimle bir şeyler içer misin?
-
-197
-00:18:37,302 --> 00:18:38,343
-Burada mı yoksa...
-
-198
-00:18:38,761 --> 00:18:40,593
-Jericho'yu yalnız bırakamam.
-
-199
-00:18:42,344 --> 00:18:43,385
-Doğru.
-
-200
-00:18:43,886 --> 00:18:47,260
-İstersen aşağı in ve bir şişe getir.
-
-201
-00:18:50,302 --> 00:18:51,468
-Tabii.
-
-202
-00:18:55,428 --> 00:18:56,427
-Kırmızı olsun.
-
-203
-00:19:16,678 --> 00:19:18,011
-"Zinfandel."
-
-204
-00:19:19,678 --> 00:19:20,927
-Güzel bir kelime.
-
-205
-00:19:21,345 --> 00:19:22,344
-Evet.
-
-206
-00:19:23,095 --> 00:19:24,636
-Üzümden ama...
-
-207
-00:19:25,470 --> 00:19:26,469
-Aç mısın?
-
-208
-00:19:29,053 --> 00:19:30,678
-Evet.
-Tabii.
-
-209
-00:19:32,929 --> 00:19:36,844
-Persimon sosu var.
-Ben yapmıştım.
-
-210
-00:19:37,387 --> 00:19:39,553
-Fransız ekmeği var.
-Peynir var.
-
-211
-00:19:41,012 --> 00:19:44,303
-Hindili omlet yapabilirim.
-
-212
-00:19:44,387 --> 00:19:47,720
-Biberli, mantarlı.
-Ki bu da...
-
-213
-00:20:13,971 --> 00:20:16,970
-Kızarmış yılan balığı
-ve pancarlı agrodolce.
-
-214
-00:20:22,388 --> 00:20:23,471
-Ben bakarım.
-
-215
-00:20:34,972 --> 00:20:36,013
-Merhaba.
-
-216
-00:20:38,139 --> 00:20:40,346
-- Sen kimsin?
-- Ben Tobe.
-
-217
-00:20:41,680 --> 00:20:42,971
-İyi akşamlar Tobe.
-
-218
-00:21:13,681 --> 00:21:15,139
-Çıktılar herhalde.
-
-219
-00:21:20,806 --> 00:21:25,139
-Gerçekten canını yakmak isteseydin
-bundan daha iyileri vardı.
-
-220
-00:21:50,974 --> 00:21:53,098
-Bin dolarlık bir şişe.
-
-221
-00:21:53,891 --> 00:21:55,098
-İnanabiliyor musun?
-
-222
-00:21:55,849 --> 00:21:57,890
-Dünyada açlıktan ölen insanlar varken.
-
-223
-00:22:14,058 --> 00:22:15,932
-Diğerini daha çok sevmiştim.
-
-224
-00:22:17,016 --> 00:22:20,140
-Tat almanın zamanla
-kazanılan bir şey olduğunu söylerler.
-
-225
-00:22:22,100 --> 00:22:23,140
-Alıştın mı buraya?
-
-226
-00:22:24,058 --> 00:22:26,099
-Bay ve Bayan Turner çok iyi insanlar.
-
-227
-00:22:27,016 --> 00:22:28,057
-Evi sevdin mi?
-
-228
-00:22:28,808 --> 00:22:30,015
-Çok güzel.
-
-229
-00:22:31,475 --> 00:22:33,724
-Buralarda gördüğün eşyaların çoğu...
-
-230
-00:22:34,142 --> 00:22:35,724
-...onların değil aslında.
-
-231
-00:22:38,225 --> 00:22:41,141
-Bu pahalı eşyalar.
-Mobilyalar.
-
-232
-00:22:42,267 --> 00:22:43,932
-Babam aldı onları.
-
-233
-00:22:45,600 --> 00:22:48,183
-En önemlisi tuğla ve çimento tabii.
-
-234
-00:22:51,434 --> 00:22:53,891
-Ama neye karşı koruduğunu düşününce.
-
-235
-00:22:54,434 --> 00:22:57,099
-Bakımı, tamiri...
-
-236
-00:22:58,059 --> 00:22:59,475
-Neredeyse bir yük haline geliyor.
-
-237
-00:23:01,726 --> 00:23:04,225
-Hepsini birlikte satacak olsan...
-
-238
-00:23:05,434 --> 00:23:07,433
-...bence bi 80 bin kalır.
-
-239
-00:23:08,434 --> 00:23:10,100
-En fazla 100.
-
-240
-00:23:10,726 --> 00:23:12,183
-Mevzu şu.
-
-241
-00:23:13,768 --> 00:23:15,892
-Artık büyükler masasındasın.
-
-242
-00:23:17,101 --> 00:23:19,225
-Ve Dorothy'e ulaşmak istiyorsan...
-
-243
-00:23:19,768 --> 00:23:22,017
-...önce beni aşman gerekecek.
-
-244
-00:23:30,101 --> 00:23:31,475
-Burada mıydın sen?
-
-245
-00:23:35,851 --> 00:23:37,184
-O yaşandığında.
-
-246
-00:23:41,102 --> 00:23:43,101
-Yardım için seni mi çağırdılar?
-
-247
-00:23:45,227 --> 00:23:46,851
-Bir şey gördün mü?
-
-248
-00:23:53,060 --> 00:23:55,059
-Bu 94 şarabı beklediğim gibi değildi.
-
-249
-00:24:01,727 --> 00:24:03,809
-Ama hiçbir şey beklediğimiz gibi
-olmuyor sanırım.
-
-250
-00:24:46,895 --> 00:24:48,519
-Her şey yolunda.
-
-251
-00:25:00,520 --> 00:25:03,478
-Bir zaman sınırı içinde insanların
-ilişkilerini yoluna sokuyorum.
-
-252
-00:25:03,562 --> 00:25:06,769
-O şoför de benim için bir işti. Tıpkı senin
-o mükemmel balığı geri göndermen gibi.
-
-253
-00:25:08,354 --> 00:25:09,353
-Julian?
-
-254
-00:25:10,437 --> 00:25:12,978
-Geçerken uğradım.
-Nerede yediniz?
-
-255
-00:25:13,437 --> 00:25:15,853
-- Fish Town.
-- Çok abartılıyor Fish Town.
-
-256
-00:25:15,937 --> 00:25:17,520
-Evet.
-Aramızda bir uzman alalım.
-
-257
-00:25:17,604 --> 00:25:18,853
-Julian, bir şey sorabilir miyim?
-
-258
-00:25:18,937 --> 00:25:23,103
-Tat alma duyusu olmayan bir adam nasıl 
-aynı balığı üç kere geri yollayabilir?
-
-259
-00:25:23,188 --> 00:25:26,103
-Kıvamı kötüydü.
-Tobe nerede?
-
-260
-00:25:26,188 --> 00:25:27,770
-Bir işi çıktığını söyledi.
-
-261
-00:25:29,813 --> 00:25:31,062
-Ben gidip bakayım.
-
-262
-00:25:31,146 --> 00:25:32,978
-Hayır, hayır Leanne.
-Ben giderim.
-
-263
-00:25:33,063 --> 00:25:35,270
-Biraz aklı başında birilerinin
-yanında olmam gerekiyor artık.
-
-264
-00:25:44,230 --> 00:25:45,437
-İyi geceler.
-
-265
-00:25:48,105 --> 00:25:50,021
-94 mü?
-
-266
-00:25:50,105 --> 00:25:51,646
-Sikeyim o ekşi üzümleri.
-
-267
-00:25:52,397 --> 00:25:54,187
-Sana bir şey göstermem gerek.
-
-268
-00:25:55,230 --> 00:25:56,854
-Uyanmışsın.
-
-269
-00:26:04,272 --> 00:26:06,271
-Seni gördüğüme mutlu oldum.
-
-270
-00:26:07,855 --> 00:26:10,563
-Çok mutlu oldum.
-
-271
-00:26:10,647 --> 00:26:12,479
-Evet.
-
-272
-00:26:15,064 --> 00:26:18,271
-Merhaba.
-Merhaba.
-
-273
-00:26:33,023 --> 00:26:36,438
-Evden çıktıktan sonra
-havalimanına dönmeye başladık.
-
-274
-00:26:37,356 --> 00:26:41,189
-Kasabadan çıktığımızda da
-bir mezarlık gördük.
-
-275
-00:26:42,940 --> 00:26:44,647
-Roscoe bir bakalım dedi.
-
-276
-00:26:48,398 --> 00:26:49,522
-Şu tarafa bak.
-
-277
-00:27:03,107 --> 00:27:05,231
-- Babası mı?
-- İzlemeye devam et.
-
-278
-00:27:20,732 --> 00:27:22,940
-Bütün aile yangında ölmüş.
-
-279
-00:27:25,524 --> 00:27:27,231
-Bu nasıl mümkün olabilir?
-
-280
-00:27:27,316 --> 00:27:30,523
+2
+00:00:03,190 --> 00:00:04,440
+Özel dedektif misiniz?
+
+3
+00:00:04,520 --> 00:00:06,810
 Yukarıdaki o nazik, masum kız...
 
-281
-00:27:31,524 --> 00:27:33,732
+4
+00:00:06,900 --> 00:00:09,030
 ...ölü bir çocuğun kimliğini çalmış.
 
-282
-00:28:14,317 --> 00:28:16,149
-Sence ne istiyor?
+5
+00:00:09,110 --> 00:00:10,530
+Bu nasıl mümkün olabilir?
 
-283
-00:28:16,234 --> 00:28:18,191
-Paradan başka bir şey isteyebilir mi?
+6
+00:00:10,610 --> 00:00:12,466
+Görmek istersen
+ne yaptığını gösterebilirim.
 
-284
-00:28:18,275 --> 00:28:20,149
-Ne kadar istiyor?
-Bir şey söyledi mi?
+7
+00:00:12,490 --> 00:00:16,070
+Konserve çorba içiyor,
+dua ediyor, uyuyor.
 
-285
-00:28:20,234 --> 00:28:21,774
-Çok şey konuştu.
+8
+00:00:16,160 --> 00:00:18,580
+- Sonrasında işler garipleşiyor.
+- "Garipleşiyor" derken?
 
-286
-00:28:22,525 --> 00:28:26,066
-Bedeli ne bildiğine ya da
-ne bildiğini düşündüğüne bağlı.
+9
+00:00:18,660 --> 00:00:19,910
+Tamam şimdi oldu.
 
-287
-00:28:26,942 --> 00:28:28,441
-Bu mümkün değil.
+10
+00:00:19,990 --> 00:00:22,710
+- Neden biz?
+- Burada mutlu olacağımı biliyordum.
 
-288
-00:28:28,526 --> 00:28:29,816
-Değil mi?
+11
+00:00:22,790 --> 00:00:25,710
+Senin de mi televizyona
+ilk çıkışındı, Leanne?
 
-289
-00:28:29,901 --> 00:28:32,608
-Buraya gelip izlerini kapatmak 
-için epey çaba sarf etti.
+12
+00:00:25,790 --> 00:00:26,630
+Evet, Dorothy.
 
-290
-00:28:33,901 --> 00:28:36,066
-Bebeği bulacağını biliyor muydu?
+13
+00:00:26,710 --> 00:00:28,960
+- Adın ne?
+- Leanne.
 
-291
-00:28:36,151 --> 00:28:38,650
-- Şaşırmış gibi görünmüyordu.
-- Kim söyledi o zaman ona?
+14
+00:01:04,640 --> 00:01:12,639
+ÇEVİRİ: JAVAJAVA2002
 
-292
-00:28:39,193 --> 00:28:41,233
-Kimse işimiz hakkında 
-hiçbir şey bilmiyor.
+15
+00:01:38,920 --> 00:01:40,079
+Dorothy!
 
-293
-00:28:42,734 --> 00:28:44,525
-Şantaj mı bu sence?
+16
+00:01:44,480 --> 00:01:47,479
+- Günaydın, Bay Turner.
+- Kalkıp gelmesini sağla, olur mu?
 
-294
-00:28:44,984 --> 00:28:46,608
-Ne olduğunu bilmiyorum.
+17
+00:01:58,240 --> 00:01:59,239
+Dorothy?
 
-295
-00:28:48,359 --> 00:28:50,358
-Ama o şey burada kaldığı sürece...
+18
+00:02:15,600 --> 00:02:16,759
+Dorothy.
 
-296
-00:28:51,026 --> 00:28:52,817
-...acısı senden çıkacak.
+19
+00:02:17,480 --> 00:02:18,479
+Selam.
 
-297
-00:29:56,028 --> 00:29:57,319
-Geçti.
+20
+00:02:21,040 --> 00:02:22,439
+Leanne.
 
-298
-00:29:58,570 --> 00:29:59,819
-Geçti.
+21
+00:02:25,720 --> 00:02:27,359
+Bay Turner sizi bekliyor.
 
-299
-00:30:02,320 --> 00:30:03,569
-Geçti.
+22
+00:02:29,040 --> 00:02:31,279
+Evet, arabaya ihtiyacı var.
+
+23
+00:02:31,680 --> 00:02:33,679
+Tüm hafta beni o bırakıyor.
+
+24
+00:02:35,320 --> 00:02:37,319
+Son zamanlarda çok garip davranıyor.
+
+25
+00:02:38,600 --> 00:02:39,959
+Fark ettiğin bir şey oldu mu?
+
+26
+00:02:41,560 --> 00:02:43,279
+Garip mi? Nasıl?
+
+27
+00:02:43,320 --> 00:02:44,399
+Bilmem.
+
+28
+00:02:46,120 --> 00:02:47,119
+Nazik...
+
+29
+00:02:48,120 --> 00:02:49,679
+Sean artık kimseye 
+nazik davranmıyor.
+
+30
+00:02:50,560 --> 00:02:51,839
+O böyle biri değil.
+
+31
+00:02:51,920 --> 00:02:53,119
+Bir şey istemediği sürece.
+
+32
+00:02:54,280 --> 00:02:56,079
+Ya da yapmaması gereken
+bir şey yapmadığı sürece.
+
+33
+00:02:56,160 --> 00:02:57,399
+Sanırım bu kadar.
+
+34
+00:02:59,600 --> 00:03:00,759
+Tüm hafta onunla berabersin.
+
+35
+00:03:01,160 --> 00:03:03,319
+Eğer bildiğin bir şey olsaydı 
+bana söylerdin, değil mi?
+
+36
+00:03:04,320 --> 00:03:07,759
+Bay Turner'ın bir ilişkisi olduğunu
+sanmıyorum, Dorothy.
+
+37
+00:03:09,000 --> 00:03:10,439
+İlişki mi?
+
+38
+00:03:11,120 --> 00:03:13,319
+Kim ilişki dedi ki?
+
+39
+00:03:13,400 --> 00:03:16,719
+Sen aklıma koyana dek 
+aklımın ucundan bile geçmiyordu.
+
+40
+00:03:18,720 --> 00:03:19,999
+Ne zaman hazır olursun?
+
+41
+00:03:21,040 --> 00:03:23,039
+Hemen.
+
+42
+00:03:24,040 --> 00:03:26,919
+Sean bu hafta restoranları
+dolaşacak.
+
+43
+00:03:27,040 --> 00:03:29,599
+Bu ceketin onu 25 yaşında
+gösterdiğini sanıyor.
+
+44
+00:03:30,320 --> 00:03:33,039
+Sen de kendini o eteğe
+yağlayarak sokuyorsun.
+
+45
+00:03:34,080 --> 00:03:36,199
+İşte hepimizin bildiği 
+ve sevdiği Sean.
+
+46
+00:03:37,320 --> 00:03:40,479
+Bu hafta pek evde olamayacağım.
+Kendi başına kalabilirsin, değil mi?
+
+47
+00:03:41,040 --> 00:03:44,159
+Kendi başıma olmayacağım ki.
+Jericho bana arkadaşlık eder.
+
+48
+00:03:45,640 --> 00:03:48,119
+Üşümüyorsun değil mi?
+Üşümüyorsun.
+
+49
+00:03:48,200 --> 00:03:49,519
+Pekala, hadi gidelim.
+
+50
+00:03:55,120 --> 00:03:56,359
+Hazır mısın?
+
+51
+00:03:58,360 --> 00:03:59,799
+Çok eğlenceli, değil mi?
+
+52
+00:04:15,720 --> 00:04:16,959
+Ben kazandım.
+
+53
+00:04:18,080 --> 00:04:20,239
+Bu iş böyle yapılır, oğlum.
+
+54
+00:04:32,840 --> 00:04:36,599
+Selam, tatlım.
+Selam. Gel bakalım.
+
+55
+00:04:37,080 --> 00:04:39,199
+Gel bakalım. Hey.
+
+56
+00:05:40,041 --> 00:05:41,200
+Hey.
+
+57
+00:05:41,961 --> 00:05:43,440
+Ön kapıyı açık bırakmışsın.
+
+58
+00:05:44,161 --> 00:05:47,520
+Ben yan taraftaki girişten girdim.
+Sean şifreyi vermişti.
+
+59
+00:05:47,961 --> 00:05:50,760
+Dışarıda kitli kalırsan falan
+ızgaranın altında anahtar var.
+
+60
+00:05:52,321 --> 00:05:53,320
+Seni korkuttum mu?
+
+61
+00:05:54,521 --> 00:05:55,560
+Hayır.
+
+62
+00:05:56,041 --> 00:05:57,760
+Korkutacak bir şey bildiğimden
+eminim ama.
+
+63
+00:06:02,841 --> 00:06:03,920
+Neymiş?
+
+64
+00:06:04,481 --> 00:06:05,680
+Aç ve gör.
+
+65
+00:06:14,001 --> 00:06:15,200
+Cırcır böcekleri.
+
+66
+00:06:15,241 --> 00:06:19,080
+Sean onları buraya getirmemi ve
+ön hazırlığı yapmamı istedi.
+
+67
+00:06:19,641 --> 00:06:21,280
+Sizin orada bir sürü vardır.
+
+68
+00:06:21,921 --> 00:06:23,480
+Geceleri hep seslerini duyardım.
+
+69
+00:06:25,681 --> 00:06:27,080
+Şimdiyse sadece araba
+sesi duyuyorum.
+
+70
+00:06:40,961 --> 00:06:42,080
+Tadı nasıl?
+
+71
+00:06:44,521 --> 00:06:45,560
+Tavuk gibi.
+
+72
+00:06:51,921 --> 00:06:53,280
+Ciddi misin?
+
+73
+00:06:53,681 --> 00:06:56,120
+Bunu öylece kaldırıma bırakamazsın.
+
+74
+00:06:56,241 --> 00:06:57,280
+Bu mahallede olmaz.
+
+75
+00:06:57,401 --> 00:07:00,000
+Bazı insanlar içi boş mu
+değil mi diye bakmaz.
+
+76
+00:07:00,121 --> 00:07:01,400
+Teşekkür ederim.
+
+77
+00:07:02,561 --> 00:07:04,000
+Dalgınlığıma gelmiş.
+
+78
+00:07:05,001 --> 00:07:07,600
+Turnerlarla mı kalıyorsun?
+Sean ve Dorothy ile?
+
+79
+00:07:08,001 --> 00:07:09,840
+Bakıcılarıyım. Adım Leanne.
+
+80
+00:07:11,161 --> 00:07:14,440
+Adım Wanda. Bu da Olivia.
+Selam ver.
+
+81
+00:07:15,601 --> 00:07:17,320
+İkinizi de mahallede görmüştüm.
+
+82
+00:07:18,161 --> 00:07:20,240
+Evet, sabahtan beri dışarıda
+kitli kaldık.
+
+83
+00:07:20,321 --> 00:07:21,720
+Anahtarlarımı unutup duruyorum.
+
+84
+00:07:25,001 --> 00:07:26,720
+Güzel evmiş.
+
+85
+00:07:27,761 --> 00:07:29,480
+Sıcacık da yapmışlar.
+
+86
+00:07:32,721 --> 00:07:34,360
+Bir şeyler içmek için kalmak
+ister misiniz?
+
+87
+00:07:37,321 --> 00:07:38,440
+Nerelisin, Leanne?
+
+88
+00:07:40,201 --> 00:07:41,360
+Wisconsin.
+
+89
+00:07:41,961 --> 00:07:43,160
+Büyük bir aileden mi geliyorsun?
+
+90
+00:07:45,441 --> 00:07:46,760
+Sadece ben.
+
+91
+00:07:48,681 --> 00:07:50,440
+Bu eve ne kadar veriyorlar?
+
+92
+00:07:51,921 --> 00:07:52,920
+Bilmiyorum.
+
+93
+00:07:54,161 --> 00:07:55,480
+Araştırabiliriz.
+
+94
+00:07:59,041 --> 00:08:00,040
+Kay bakalım.
+
+95
+00:08:01,641 --> 00:08:04,600
+Memleketinden bahsediyordun.
+Wyoming mi demiştin?
+
+96
+00:08:05,761 --> 00:08:06,880
+Wisconsin.
+
+97
+00:08:08,681 --> 00:08:10,520
+Ama hep daha fazla seyahat
+etmeyi istemişimdir.
+
+98
+00:08:11,241 --> 00:08:12,680
+Asya'ya falan belki.
+
+99
+00:08:13,681 --> 00:08:16,400
+Teyzemin Japonya'yla ilgili
+bir kitabı vardı.
+
+100
+00:08:17,361 --> 00:08:19,960
+Tüm şehrin bombalandığını
+biliyor muydun?
+
+101
+00:08:21,641 --> 00:08:22,800
+Hadi ya?
+
+102
+00:08:24,321 --> 00:08:25,840
+Hey, benim çıkmam gerekiyor.
+
+103
+00:08:29,361 --> 00:08:30,400
+Selam.
+
+104
+00:08:32,961 --> 00:08:34,240
+Buralarda her şey yolunda mı?
+
+105
+00:08:35,561 --> 00:08:38,080
+Her şey yolunda.
+Gidebilirsin.
+
+106
+00:08:40,681 --> 00:08:42,400
+Tamam o zaman.
+
+107
+00:08:48,721 --> 00:08:51,400
+Gördün mü?
+Paralarını ikiye katlamışlar.
+
+108
+00:08:55,121 --> 00:08:56,120
+Siktir!
+
+109
+00:09:00,801 --> 00:09:02,360
+Açmam gerekiyor.
+
+110
+00:09:10,441 --> 00:09:12,120
+Ee, kaç yaşındasın Olivia?
+
+111
+00:09:12,161 --> 00:09:13,160
+Altı.
+
+112
+00:09:14,761 --> 00:09:16,120
+Sence ben kaç yaşındayım?
+
+113
+00:09:17,681 --> 00:09:18,960
+30?
+
+114
+00:09:19,601 --> 00:09:21,120
+Artık sikicem şu herifi.
+
+115
+00:09:22,601 --> 00:09:23,760
+Her şey yolunda mı?
+
+116
+00:09:24,161 --> 00:09:26,320
+Şehir merkezine gidip ceza
+ödemesi yapmam gerekiyor...
+
+117
+00:09:26,401 --> 00:09:29,320
+...yoksa lanet ülken
+erkek arkadaşımı sınırdışı edecek.
+
+118
+00:09:30,401 --> 00:09:31,400
+Benim için bir şey yapar mısın?
+
+119
+00:09:32,161 --> 00:09:33,320
+Evet, tabii.
+
+120
+00:09:33,441 --> 00:09:36,200
+Bir saatliğine ona bakar mısın?
+Metrodan korkuyor.
+
+121
+00:09:37,681 --> 00:09:39,000
+Burada kalabilir.
+
+122
+00:09:39,041 --> 00:09:43,280
+Pekala. Yedek kıyafetleri, en sevdiği
+oyuncak. Uğrunda ağladığı her şey şurada.
+
+123
+00:09:43,321 --> 00:09:46,200
+Ve onu besleme.
+Her şeye alerjisi var.
+
+124
+00:09:46,321 --> 00:09:48,280
+Bir saate gelirim.
+Geç kalmam.
+
+125
+00:09:54,601 --> 00:09:57,400
+Jericho'yu uyandırmadan
+oyun oynayabiliriz.
+
+126
+00:09:57,441 --> 00:09:58,440
+Tamam.
+
+127
+00:09:58,601 --> 00:10:03,200
+97, 98, 99, 100.
+
+128
+00:10:03,321 --> 00:10:05,480
+Saklanmayan ebe.
+
+129
+00:11:07,002 --> 00:11:10,001
+Olivia? Ne oldu?
+Birini mi gördün?
+
+130
+00:11:10,122 --> 00:11:12,361
+Bir adam.
+Dışarı kaçtı.
+
+131
+00:11:25,162 --> 00:11:28,201
+Üzgünüm.
+Erkek arkadaşımla kavga ettik.
+
+132
+00:11:28,602 --> 00:11:29,801
+Sorun yok.
+
+133
+00:11:30,602 --> 00:11:31,881
+Eğlendik, değil mi?
+
+134
+00:11:32,722 --> 00:11:34,521
+- Onu eve bırakabilirim.
+- Pekala.
+
+135
+00:11:34,602 --> 00:11:35,601
+Sana borçlandım.
+
+136
+00:11:37,882 --> 00:11:41,001
+İstediğiniz zaman tekrar gelebilirsiniz.
+İkiniz de.
+
+137
+00:11:41,162 --> 00:11:42,681
+Yeni arkadaşlarımıza ne demeliyiz?
+
+138
+00:11:42,722 --> 00:11:44,041
+Teşekkürler, Leanne.
+
+139
+00:11:44,722 --> 00:11:45,881
+Hoşça kal.
+
+140
+00:12:08,642 --> 00:12:09,761
+Pekala.
+
+141
+00:12:28,962 --> 00:12:34,081
+Hepimiz alışveriş merkezlerindeki bedava
+makyajları severiz ama hijyen sorunları...
+
+142
+00:12:34,162 --> 00:12:38,281
+...varsa, içinde bulunduğunuz 
+eylem bir suç olarak görülebilir.
+
+143
+00:12:39,802 --> 00:12:41,681
+Bu sabah bazı dükkan 
+sahipleriyle konuştum.
+
+144
+00:12:41,762 --> 00:12:44,361
+Ve yasak teklifiyle ilgili
+ne düşündüklerini sordum.
+
+145
+00:12:44,442 --> 00:12:46,521
+Her şeye alerjim olduğu için
+beni pek etkilemiyor...
+
+146
+00:12:51,042 --> 00:12:53,401
+- Pasta sever misin?
+- Pasta mı?
+
+147
+00:12:53,482 --> 00:12:55,201
+Fisher ve Third'deki...
+
+148
+00:12:55,282 --> 00:12:58,041
+...Carlos'un yerinde muhteşem 
+kahveli pandispanya yapıyorlar.
+
+149
+00:12:58,082 --> 00:12:59,281
+Bir dilim ister misin?
+
+150
+00:13:00,322 --> 00:13:01,361
+Evet, lütfen.
+
+151
+00:13:01,402 --> 00:13:06,561
+15 numaraya binersen 
+gidiş geliş 40 dakika sürüyor.
+
+152
+00:13:06,642 --> 00:13:08,281
+Ama değiyor.
+
+153
+00:13:08,362 --> 00:13:10,001
+Üstü sende kalsın.
+
+154
+00:13:37,082 --> 00:13:38,081
+Merhaba?
+
+155
+00:15:02,602 --> 00:15:04,361
+Şuna bak.
+
+156
+00:15:04,402 --> 00:15:06,921
+Yüzümde Ay kraterlerinden biri var.
+
+157
+00:15:07,002 --> 00:15:10,401
+Hiç uçuğum çıkmazdı. Bağışıklığı
+güçlü insanlardan olduğumu sanardım.
+
+158
+00:15:10,482 --> 00:15:13,001
+Bu akşam trend olacağım.
+Bekle ve gör.
+
+159
+00:15:13,082 --> 00:15:14,921
+Dorothy Turner'ın uçuğu var.
+
+160
+00:15:17,682 --> 00:15:19,201
+Pastanızı yememişsiniz.
+
+161
+00:15:19,962 --> 00:15:21,001
+Neyi mi?
+
+162
+00:15:23,443 --> 00:15:25,362
+Sean ile dün erken uyuduk.
+
+163
+00:15:26,363 --> 00:15:29,202
+Yine de almak için o kadar
+yol gitmen çok nazikçeydi.
+
+164
+00:15:30,123 --> 00:15:31,282
+Her zaman, Dorothy.
+
+165
+00:16:12,363 --> 00:16:16,162
+- Evet.
+- Selam, ben sokağın aşağısından Leanne.
+
+166
+00:16:16,603 --> 00:16:18,242
+Wanda evde mi?
+
+167
+00:16:19,163 --> 00:16:20,162
+Wanda mı?
+
+168
+00:16:20,603 --> 00:16:24,482
+Evet. Dün onunla ve Olivia'yla 
+tanıştım. Kızınız çok tatlı.
+
+169
+00:16:25,563 --> 00:16:27,962
+Sanırım karıştırıyorsunuz.
+Bizim çocuğumuz yok.
+
+170
+00:16:32,243 --> 00:16:34,042
+Nereden geldiğini söylemiştin?
+
+171
+00:16:38,763 --> 00:16:40,242
+Üzgünüm, ben...
+
+172
+00:18:11,683 --> 00:18:15,802
+Atkins'ten Zone'a her türlü 
+diyeti deneyen bir kadından...
+
+173
+00:18:15,883 --> 00:18:19,362
+...hiçbir şeyin trambolin kadar
+yağ yaktırmadığını dinleyin.
+
+174
+00:18:21,523 --> 00:18:24,682
+Genç yetişkinler arasında 
+kalp hastalıkları yükselişte.
+
+175
+00:18:24,763 --> 00:18:28,962
+Philadelphia sakinleri kalkıp
+aktif bir hayata...
+
+176
+00:19:51,643 --> 00:19:53,002
+Evet, evet.
+
+177
+00:19:53,923 --> 00:19:56,562
+- Bunu nereden buldun?
+- Kilerden.
+
+178
+00:19:56,643 --> 00:19:59,842
+- Orada ne yapıyordun?
+- Şarapların hiçbirine dokunmadım.
+
+179
+00:20:00,403 --> 00:20:01,402
+Ne?
+
+180
+00:20:01,483 --> 00:20:03,522
+Yunan mı yoksa Hint mutfağı mı?
+
+181
+00:20:04,643 --> 00:20:07,282
+Oğluşum bugün nasılmış?
+Selam.
+
+182
+00:20:08,003 --> 00:20:08,962
+İyi.
+
+183
+00:20:10,483 --> 00:20:12,322
+Ben ikisinden de tat alamıyorum.
+O yüzden...
+
+184
+00:20:12,723 --> 00:20:14,362
+Leanne.
+Bizimle yer misin?
+
+185
+00:20:14,843 --> 00:20:16,762
+Ben sadece çorba içerim.
+
+186
+00:20:18,003 --> 00:20:20,283
+Çorbayı çok seviyorsun, değil mi?
+
+187
+00:20:21,284 --> 00:20:24,043
+Sipariş vereceğim. O yüzden
+fikrini değiştirirsen haber ver.
+
+188
+00:20:24,124 --> 00:20:25,123
+Tamam.
+
+189
+00:20:26,404 --> 00:20:30,923
+Selam.
+Sorun yok.
+
+190
+00:20:58,044 --> 00:21:00,483
+- Bak, biliyorum.
+- Asla öğrenmeyecek.
+
+191
+00:21:00,564 --> 00:21:01,963
+Yapmayacağım.
+
+192
+00:21:02,604 --> 00:21:04,123
+O kadar gerekli mi?
+
+193
+00:21:04,564 --> 00:21:07,163
+Şu ucubenin rahat etmesi için
+her şeyi yapmayı bırakmalısın.
+
+194
+00:21:07,764 --> 00:21:09,043
+Burada yeri olmadığını
+bilmesini sağla.
+
+195
+00:21:09,964 --> 00:21:11,923
+Cevabın bu mu?
+Şaka mı?
+
+196
+00:21:12,004 --> 00:21:14,723
+Bana kalsa odasındaki
+ısıtmayı kapatırdım.
+
+197
+00:21:15,324 --> 00:21:17,243
+Evden gitmesi için onu zorlardım.
+
+198
+00:21:17,324 --> 00:21:18,323
+Sean?
+
+199
+00:21:19,844 --> 00:21:20,843
+Sean?
+
+200
+00:21:24,204 --> 00:21:25,723
+Dorothy sizi çağırıyor, Bay Turner.
+
+201
+00:21:26,804 --> 00:21:28,123
+Sean.
+
+202
+00:21:29,484 --> 00:21:30,563
+Karına kaç, sürtük.
+
+203
+00:21:31,884 --> 00:21:34,963
+- Evlenmeni sabırsızlıkla bekliyorum.
+- Çok iyi örnek oluyorsun.
+
+204
+00:21:35,044 --> 00:21:36,123
+Kendin çıkarsın.
+
+205
+00:21:36,204 --> 00:21:37,563
+- Yarın beni ara.
+- Tamam.
+
+206
+00:23:01,204 --> 00:23:03,763
+Leanne.
+Yardım eder misin, lütfen?
+
+207
+00:23:06,764 --> 00:23:08,923
+İşte.
+Şurayı sıkar mısın?
+
+208
+00:23:09,924 --> 00:23:11,603
+Bugün yatak başlığını değişeceğim.
+
+209
+00:23:11,684 --> 00:23:14,283
+Ben de seninle aynı yatakta
+yatıyorum ama...
+
+210
+00:23:14,364 --> 00:23:15,603
+...bende hiç kıymık yok.
+
+211
+00:23:15,644 --> 00:23:18,803
+Çünkü derin çok kalın.
+Gergedan gibisin.
+
+212
+00:23:18,884 --> 00:23:20,963
+Yardım etmemi istiyor musun
+istemiyor musun?
+
+213
+00:23:21,044 --> 00:23:23,003
+Lafımı geri alıyorum.
+
+214
+00:23:27,924 --> 00:23:29,083
+Çıkardım.
+
+215
+00:23:33,164 --> 00:23:34,163
+Vay canına.
+
+216
+00:23:34,684 --> 00:23:36,003
+Dokunma.
+
+217
+00:25:22,405 --> 00:25:23,764
+- Selam.
+- Merhaba.
+
+218
+00:25:26,445 --> 00:25:27,684
+Bu olur mu?
+
+219
+00:25:28,125 --> 00:25:29,524
+Sikerler, umurumda değil.
+
+220
+00:25:35,245 --> 00:25:37,444
+Onlarla daha ne kadar süre
+kalmayı düşünüyorsun?
+
+221
+00:25:37,525 --> 00:25:38,524
+Turnerlarla.
+
+222
+00:25:39,045 --> 00:25:41,764
+Çünkü ilgini çekerse Fairmount'ta
+tanıdığım bir aile var.
+
+223
+00:25:41,845 --> 00:25:44,484
+Haftada 600 dolar nakit
+ödeme yapıyorlar.
+
+224
+00:25:44,565 --> 00:25:45,964
+Burada kazandığından 
+daha fazla, değil mi?
+
+225
+00:25:46,645 --> 00:25:48,124
+Jericho'yu bırakamam.
+
+226
+00:25:48,205 --> 00:25:51,684
+Senin gibi gençler söz konusu olunca
+annelerin pek endişelenmesi gerekmiyor.
+
+227
+00:25:52,125 --> 00:25:54,244
+Bu yüzden çok para veriyorlar.
+
+228
+00:25:54,325 --> 00:25:56,764
+Hala fırsatın varken kaçırma derim.
+
+229
+00:25:56,845 --> 00:25:57,884
+Hayır dedim.
+
+230
+00:25:59,365 --> 00:26:00,764
+Sadece yardım etmeye çalışıyordum.
+
+231
+00:26:09,565 --> 00:26:12,044
+Bebek tulumuyla ilgili yanlış
+bir şeyler olduğunu bilmiyordum.
+
+232
+00:26:12,805 --> 00:26:13,804
+Ne?
+
+233
+00:26:13,885 --> 00:26:17,444
+Ve o aptal pasta için onca
+yolu gitmeme gerek yoktu.
+
+234
+00:26:18,525 --> 00:26:21,564
+Evden çıkmamı istiyorduysa
+direkt söyleyebilirdi.
+
+235
+00:26:22,125 --> 00:26:23,524
+Neden bahsediyorsun?
+
+236
+00:26:26,285 --> 00:26:27,884
+Elinle ağzını kapat.
+
+237
+00:26:27,965 --> 00:26:30,404
+Ve kadın evdeyken 
+daha fazla ağlıyor.
+
+238
+00:26:31,445 --> 00:26:32,924
+Benim yüzümden hiç ağlamadı.
+
+239
+00:26:33,925 --> 00:26:35,444
+Bir kere bile.
+
+240
+00:26:37,885 --> 00:26:39,084
+Olivia?
+
+241
+00:26:39,925 --> 00:26:41,004
+Olivia?
+
+242
+00:26:42,005 --> 00:26:44,284
+Bekle...
+Pekala.
+
+243
+00:26:49,165 --> 00:26:51,724
+Tanrım.
+Nefes alamıyor.
+
+244
+00:26:53,045 --> 00:26:54,364
+Anaflaktik şok geçiriyor.
+
+245
+00:26:54,445 --> 00:26:56,204
+Siktiğimin alerjileri.
+
+246
+00:26:56,285 --> 00:26:57,324
+Aşısına ihtiyacım var.
+
+247
+00:26:59,925 --> 00:27:00,924
+Aşısı nerede amına koyayım?
+
+248
+00:27:01,045 --> 00:27:03,164
+Bu sokakta yaşamıyorsun,
+değil mi Wanda?
+
+249
+00:27:03,245 --> 00:27:04,364
+Ne?
+
+250
+00:27:04,445 --> 00:27:07,084
+Seni kim gönderdi?
+Kim arkadaşım olmanı söyledi?
+
+251
+00:27:07,165 --> 00:27:08,724
+- Öyle bir şey olmadı. O...
+- Kim?
+
+252
+00:27:08,845 --> 00:27:11,404
+Julian!
+Adı Julian, tamam mı?
+
+253
+00:27:12,165 --> 00:27:13,364
+Ailemle çalışıyor.
+
+254
+00:27:13,445 --> 00:27:15,364
+Bana 300 dolar verdi.
+
+255
+00:27:15,445 --> 00:27:18,004
+Birkaç soru sorup gitmen için
+seni cesaretlendirmemi istedi.
+
+256
+00:27:18,085 --> 00:27:19,644
+Hepsi bu.
+
+257
+00:27:20,045 --> 00:27:22,244
+Lütfen.
+Lütfen yardım et!
+
+258
+00:28:08,445 --> 00:28:10,244
+Beş dakikalığına seni ödünç
+alabilir miyim?
+
+259
+00:28:21,485 --> 00:28:23,204
+Cırcır böceklerini bol yağda
+kızarttığınızda...
+
+260
+00:28:24,165 --> 00:28:25,884
+...iç kısımları küçülür 
+ve kabuğu sertleşir.
+
+261
+00:28:26,005 --> 00:28:28,004
+Karınlarında ve göğüslerinde
+ufak cepler oluşur.
+
+262
+00:28:28,085 --> 00:28:31,644
+Katemfe meyvesinin suyunu
+koymama yetecek cepler.
+
+263
+00:28:31,725 --> 00:28:33,724
+Ki bu şey, şekerden iki bin
+kat daha tatlıdır.
+
+264
+00:28:33,845 --> 00:28:38,044
+O yüzden birkaç damla koymak,
+bir küp şeker koymaya eşdeğerdir.
+
+265
+00:28:38,125 --> 00:28:39,524
+Ki böyle bir şeyi yapamam.
+
+266
+00:28:39,965 --> 00:28:43,684
+Şimdi, iğrenç olduklarını biliyorum.
+O yüzden eğer istemezsen...
+
+267
+00:28:58,565 --> 00:29:03,324
+Teyzem, eve cırcır böceği
+girmesinin kötülüğün...
+
+268
+00:29:05,365 --> 00:29:07,084
+...habercisi olduğunu söylerdi.
+
+269
+00:29:10,925 --> 00:29:12,444
+Ne olacak ki, Leanne?
+
+270
+00:29:31,805 --> 00:29:32,804
+Yapış yapış.
+
+271
+00:29:34,725 --> 00:29:36,444
+Karamelli patlamış mısır gibi.
+
+272
+00:29:48,605 --> 00:29:53,044
+Üzerine bör süzet serpiştirerek
+servis edebilirim.
+
+273
+00:30:04,005 --> 00:30:05,564
+Sen olmadan asla yapamazdım.
 
 
