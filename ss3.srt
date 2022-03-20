@@ -15,11 +15,11 @@
 <i>Hiç var olmamış çekirdek</i>
 
 5
-00:00:28,236 --> 00:00:30,467
+00:00:28,236 --> 00:00:30,647
 <i>Şimdi olacak</i>
 
 6
-00:00:30,567 --> 00:00:36,536
+00:00:30,747 --> 00:00:36,536
 <i>Eskilerin arta kalan kemikleri</i>
 
 7
@@ -35,15 +35,15 @@
 <i>Her şey özlem dolu</i>
 
 10
-00:00:50,759 --> 00:00:53,678
+00:00:50,800 --> 00:00:53,678
 <i>Seni gökyüzünden çekiyor</i>
 
 11
-00:00:53,762 --> 00:00:58,162
+00:00:53,762 --> 00:00:57,932
 <i>Tıpkı sevginin yapacağı gibi</i>
 
 12
-00:00:58,362 --> 00:01:02,937
+00:00:58,016 --> 00:01:02,937
 <i>Seni yerden çekiyor</i>
 
 13
@@ -51,1719 +51,1663 @@
 <i>Tıpkı sevginin yapacağı gibi</i>
 
 14
-00:01:11,137 --> 00:01:17,102
-<i>Raised by Wolves, 2. Sezon, 7. Bölüm
-"Beslenme"</i>
+00:01:10,681 --> 00:01:16,609
+<i>Raised by Wolves, 2. Sezon Finali
+"Mutluluk"</i>
 
 15
-00:01:29,307 --> 00:01:34,862
+00:01:26,637 --> 00:01:31,978
 Çeviren: Sacrer
 İyi seyirler dilerim.
 
 16
-00:02:26,632 --> 00:02:30,066
-- Bu ne?
-- Yeni bir meyve.
+00:02:38,199 --> 00:02:40,493
+Elveda.
 
 17
-00:02:30,149 --> 00:02:33,152
-Şeyden...
+00:03:00,138 --> 00:03:02,140
+Bunu hiç çıkardın mı?
 
 18
-00:02:33,236 --> 00:02:35,280
-Yedinci bölgeden.
+00:03:02,223 --> 00:03:03,341
+Olumsuz.
 
 19
-00:02:35,363 --> 00:02:36,422
-Test edildi.
+00:03:07,854 --> 00:03:09,397
+Programın ne?
 
 20
-00:03:01,139 --> 00:03:02,807
-Zararsız.
+00:03:09,480 --> 00:03:10,773
+Ben bir çobanım.
 
 21
-00:03:11,232 --> 00:03:12,317
-Vay be.
-
-22
-00:03:28,875 --> 00:03:33,463
-Bir deniz canlısı çocuğu kaçırdı.
-Hâlâ yaşıyor olabilir.
-
-23
-00:03:33,546 --> 00:03:36,716
-Bulmamıza yardım edecek herkese
-yüksek kalite erzak dağıtılacak.
-
-24
-00:03:36,799 --> 00:03:38,593
-Tamam. Adamlarıma söylerim.
-
-25
-00:03:43,056 --> 00:03:44,390
-Teşekkürler.
-
-26
-00:03:45,224 --> 00:03:48,061
-Yedinci bölgede bulmuşlar.
-
-27
-00:03:48,144 --> 00:03:50,188
-Test edilmiş.
-
-28
-00:03:50,271 --> 00:03:51,481
-Al.
-
-29
-00:04:19,467 --> 00:04:20,969
-İşe yarıyor mu?
-
-30
-00:04:23,846 --> 00:04:25,431
-Bir şey oldu mu?
-
-31
-00:04:26,391 --> 00:04:29,769
-Yediğimizde bize bir şey olmamıştı.
-
-32
-00:04:30,728 --> 00:04:32,897
-Zaten inançlıyız çünkü.
-
-33
-00:04:32,981 --> 00:04:35,858
-Onlara ışığı gösterecek...
-
-34
-00:04:35,942 --> 00:04:38,361
-...ve Anne'ye karşı ayaklanacaklar.
-
-35
-00:04:39,946 --> 00:04:43,533
-Sol da annemi bize geri verecek.
-
-36
-00:04:43,616 --> 00:04:45,326
-- Değil mi?
-- Evet.
-
-37
-00:04:58,121 --> 00:05:00,817
-- Orada hiçbir şey yoktu.
-- Diğer tarafta olabilir.
-
-38
-00:05:04,470 --> 00:05:05,513
-Bu da ne?
-
-39
-00:05:07,306 --> 00:05:09,058
-D7 casus droneunu modifiye ettim.
-
-40
-00:05:09,142 --> 00:05:11,936
-Dalgıç dronea dönüştürdüm.
-
-41
-00:05:12,020 --> 00:05:14,188
-Asitli suya ne kadar dayanabilir?
-
-42
-00:05:14,272 --> 00:05:16,065
-Bilmem. Birkaç dakika belki.
-
-43
-00:05:16,149 --> 00:05:18,568
-Umarım şansımız yaver gider.
-
-44
-00:05:24,449 --> 00:05:28,036
-- Dinlenmen lazım.
-- Sen olsan dinlenir miydin Baba?
-
-45
-00:05:28,119 --> 00:05:29,495
-Bulduk birini.
-
-46
-00:05:41,549 --> 00:05:44,052
-Pekâlâ. Buraya bırakın.
-
-47
-00:05:46,012 --> 00:05:49,390
-Fena karşılık verdi. Karnından
-vurmamaya çalıştım.
-
-48
-00:05:52,185 --> 00:05:55,521
-Anne değil. İyi beslenmiş bir erkek.
-
-49
-00:05:58,983 --> 00:06:00,985
-Aramaya devam edin.
-Herkese haber salın.
-
-50
-00:06:01,069 --> 00:06:02,570
-- Bıçağını ver.
-- Duydun onu.
-
-51
-00:06:03,821 --> 00:06:05,448
-Gidelim.
-
-52
-00:06:15,875 --> 00:06:17,251
-Ölmüş Tempest.
-
-53
-00:06:18,002 --> 00:06:20,338
-Drone için.
-
-54
-00:06:23,049 --> 00:06:26,928
-Derisiyle etrafını kaplarsak...
-
-55
-00:06:27,011 --> 00:06:28,888
-...kalkanlamaktan daha faydalı olur.
-
-56
-00:07:36,956 --> 00:07:38,958
-Sue.
-
-57
-00:07:43,296 --> 00:07:45,298
-Neden o sesin dediğini yaptın?
-
-58
-00:08:29,008 --> 00:08:32,261
-Teması kaybettim.
-
-59
-00:08:32,345 --> 00:08:34,931
-Eşleşmeyi kaybedince kıyıya
-dönmekle programlı.
-
-60
-00:08:35,014 --> 00:08:37,433
-Campion, çıkarabilir misin bir bak.
-
-61
-00:08:59,664 --> 00:09:01,749
-Hop! O bizim!
-
-62
-00:09:03,209 --> 00:09:04,335
-Hop.
-
-63
-00:09:08,256 --> 00:09:09,715
-Vrille?
-
-64
-00:09:22,895 --> 00:09:26,274
-Koloniyle temasa geçebilsin diye
-arayüzü yönlendirmeye çalışıyordum.
-
-65
-00:09:27,483 --> 00:09:29,443
-Ne oldu sana?
-
-66
-00:09:29,527 --> 00:09:32,071
-Annem artık Vrille olmamı istemedi.
-
-67
-00:09:32,154 --> 00:09:34,741
-Maalesef yüzüm artık düzgün değil.
-
-68
-00:09:34,841 --> 00:09:37,660
-Ama bulduğum bu morf tamir plastiği
-saklamamı sağlar.
-
-69
-00:09:37,743 --> 00:09:41,205
-Söz veriyorum. Beni
-imha etmenize gerek yok.
-
-70
-00:09:42,581 --> 00:09:44,292
-Campion!
-
-71
-00:09:45,418 --> 00:09:46,919
-Neler oluyor?
-
-72
-00:09:48,421 --> 00:09:51,882
-Sorun yok. Tehlikeli değil.
-
-73
-00:09:51,966 --> 00:09:54,051
-Tehlikeli değil, katilin teki!
-
-74
-00:09:54,135 --> 00:09:56,178
-Mitraikleri o öldürdü.
-
-75
-00:09:56,262 --> 00:09:59,181
-Decima'yı. Az kalsın
-beni de öldürecekti.
-
-76
-00:09:59,265 --> 00:10:00,599
-Doğru mu?
-
-77
-00:10:00,683 --> 00:10:02,518
-İnsanları mı öldürdün?
-
-78
-00:10:02,601 --> 00:10:06,397
-Yüzümü benden aldılar.
-Beni imha etmeye çalıştılar.
-
-79
-00:10:06,480 --> 00:10:11,027
-- Gecikmeli bir kendini korumaydı.
-- Muhtemelen arızalanmışsın.
-
-80
-00:10:11,110 --> 00:10:14,488
-Ne demek "muhtemelen"? Baksana şuna.
-
-81
-00:10:14,572 --> 00:10:16,991
-Tarantula'ya dönüp sistem kontrolü
-yaptır.
-
-82
-00:10:20,953 --> 00:10:22,416
-Bebeğinin yerini biliyorum.
-
-83
-00:10:23,789 --> 00:10:27,960
-Droneu aldığımda haber verecektim.
-
-84
-00:10:28,044 --> 00:10:29,086
-Dinleme onu.
-
-85
-00:10:29,170 --> 00:10:32,296
-- Kapatılmamak için seninle oyun oynuyor.
-- Onu kapatmayacağız.
-
-86
-00:10:32,396 --> 00:10:35,676
-- Öldürmeye meyilliyse kapatacağız tabii.
-- Durun!
-
-87
-00:10:35,760 --> 00:10:37,587
-Bebeğimin yerini biliyor musun?
-
-88
-00:10:37,670 --> 00:10:41,069
-Kıyının yaklaşık 15 km aşağısında
-bir deniz canlısının mağarasında.
-
-89
-00:10:41,169 --> 00:10:44,060
-Görmedim ama ağladığını duydum.
-
-90
-00:10:44,143 --> 00:10:46,771
-Önce duyularımın arızalandığını
-düşünmüştüm.
-
-91
-00:10:46,854 --> 00:10:50,691
-Buraya gelip herkesin kayıp bebek hakkında
-konuştuğunu duyunca anladım.
-
-92
-00:10:50,775 --> 00:10:54,195
-Kendim de gidip getirebilirim ama
-dövüşemeyecek kadar zarar gördüm.
-
-93
-00:10:54,278 --> 00:10:55,738
-Vay be.
-
-94
-00:10:55,821 --> 00:10:58,074
-Ne yalana şerbetli androidmişsin.
-
-95
-00:10:58,157 --> 00:11:01,410
-- Bizi öldürmeye çalışıyor.
-- Bu konuda Holly'ye katılıyorum.
-
-96
-00:11:01,494 --> 00:11:04,622
-Sadece bize yardım etmeye çalışırken
-ona böyle davranamazsınız.
-
-97
-00:11:04,705 --> 00:11:07,650
-Ayy! Campion, androidler yalan söyler.
-
-98
-00:11:07,733 --> 00:11:10,311
-En büyük yalancılardır.
-Bunu en iyi sen bilmelisin.
-
-99
-00:11:10,411 --> 00:11:13,255
-Yaşıyor olmanın sebebi androidler.
-
-100
-00:11:13,339 --> 00:11:15,124
-- Asıl yalancı insanlar.
-- Tamam.
-
-101
-00:11:15,208 --> 00:11:18,040
-Sistem kontrolü sana faydalı
-gelecektir. Şimdi geri...
-
-102
-00:11:18,140 --> 00:11:19,762
-Zamanımız yok.
-
-103
-00:11:19,845 --> 00:11:22,482
-Yalan söylediğine emin değiliz,
-gidip bakmalıyız.
-
-104
-00:11:24,517 --> 00:11:26,018
-Tempest.
-
-105
-00:11:26,102 --> 00:11:28,145
-Büyük bir hata yapıyorsun.
-
-106
-00:11:29,563 --> 00:11:30,648
-Başka çarem yok.
-
-107
-00:11:33,859 --> 00:11:35,736
-Hadi.
-
-108
-00:11:35,820 --> 00:11:37,655
-Önden git.
-
-109
-00:11:37,738 --> 00:11:39,782
-Hemen arkandayız.
-
-110
-00:11:46,205 --> 00:11:47,735
-Vita'yı eve götür.
-
-111
-00:11:53,629 --> 00:11:54,922
-Üzgünüm.
-
-112
-00:12:12,273 --> 00:12:15,359
-Hazır ol.
-
-113
-00:12:15,443 --> 00:12:17,445
-Tamam.
-
-114
-00:12:42,303 --> 00:12:44,180
-Yavaşlıyor.
-
-115
-00:12:47,308 --> 00:12:48,434
-Neyi yanlış yaptık?
-
-116
-00:12:48,517 --> 00:12:53,105
-- Neyi yanlış yaptık?
-- Hiçbir şeyi yanlış yapmadın.
-
-117
-00:12:54,648 --> 00:12:56,066
-Ben yaptım.
-
-118
-00:12:58,277 --> 00:13:01,489
-Sol'un yanıt olmasını ölesiye istedim.
-
-119
-00:13:01,572 --> 00:13:04,825
-Karanlıktan çıkış yolu olmasını.
-
-120
-00:13:04,909 --> 00:13:06,911
-Belki de asıl karanlık Sol'du.
-
-121
-00:13:08,120 --> 00:13:11,707
-Belki de Sol...
-
-122
-00:13:11,790 --> 00:13:13,709
-...bizi hiç umursamıyordu.
-
-123
-00:13:26,805 --> 00:13:28,390
-Gerçekten tuhaf.
-
-124
-00:13:30,109 --> 00:13:31,160
-Şuraya bakın.
-
-125
-00:13:45,282 --> 00:13:48,160
-Uzaklaşın!
-
-126
-00:13:48,244 --> 00:13:49,912
-Hemen!
-
-127
-00:13:49,995 --> 00:13:51,080
-Vita.
-
-128
-00:13:51,163 --> 00:13:54,041
-Hayır, hayır, hayır. Vita! Yeme!
-
-129
-00:13:54,124 --> 00:13:56,710
-- Zehirli olabilir.
-- Herkes yiyordu.
-
-130
-00:13:56,794 --> 00:13:58,295
-Test edildiğini söylediler.
-
-131
-00:13:58,379 --> 00:13:59,588
-İyi misin?
-
-132
-00:14:01,882 --> 00:14:03,467
-Tıbbi laboratuvara götür.
-
-133
-00:14:07,763 --> 00:14:10,808
-- Çabuk. Kap hadi.
-- Yemeyin dedim!
-
-134
-00:14:22,653 --> 00:14:23,946
-Dikkat edin.
-
-135
-00:14:29,952 --> 00:14:31,328
-Kes şunu!
-
-136
-00:14:31,412 --> 00:14:33,622
-Neden şimdi başıma iş açıyorsun?
-
-137
-00:14:35,332 --> 00:14:36,959
-Hâline bak.
-
-138
-00:16:07,466 --> 00:16:08,884
-Bizi kim arıyor?
-
-139
-00:16:08,967 --> 00:16:13,347
-Son baktığımda telsiz çalışmıyordu.
-
-140
-00:16:15,599 --> 00:16:19,061
-<i>Beni ya...</i>
-
-141
-00:16:19,144 --> 00:16:20,771
-Annemin sesine benziyor.
-
-142
-00:16:20,854 --> 00:16:23,190
-<i>Beni...</i>
-
-143
-00:16:23,273 --> 00:16:24,733
-- Sue?
-- Anne?
-
-144
-00:16:24,817 --> 00:16:27,111
-Anne.
-
-145
-00:16:27,194 --> 00:16:28,913
-<i>- Beni...</i>
-- Sue.
-
-146
-00:16:29,013 --> 00:16:30,753
-Bize bir şey anlatmaya çalışıyor.
-
-147
-00:16:33,325 --> 00:16:36,799
-<i>Beni yakın.</i>
-
-148
-00:16:37,621 --> 00:16:41,193
-<i>Beni yakın.</i>
-
-149
-00:16:41,393 --> 00:16:43,544
-<i>Beni yakın.</i>
-
-150
-00:16:43,627 --> 00:16:45,587
-Baba, hareket ediyor.
-
-151
-00:16:56,598 --> 00:16:59,468
-Yılan. Sesi farklı çıkıyor.
-
-152
-00:17:04,991 --> 00:17:06,984
-Ne yapıyor?
-
-153
-00:17:08,694 --> 00:17:12,531
-Paul, saklan hemen.
-
-154
-00:17:14,074 --> 00:17:15,743
-Saklan dedim ulan!
-
-155
-00:17:31,800 --> 00:17:33,343
-Baba!
-
-156
-00:18:01,205 --> 00:18:03,261
-Hadi. Hadi. Gitmemiz lazım.
-
-157
-00:19:31,837 --> 00:19:33,338
-Sorun ne?
-
-158
-00:19:35,007 --> 00:19:37,134
-Durun. Bana izin verin.
-
-159
-00:19:40,971 --> 00:19:44,141
-Vita madalyonun karşılığında
-bu androidi aldığını söyledi.
-
-160
-00:19:44,224 --> 00:19:48,562
-Sana göre madalyon bir işe yaramıyordu.
-
-161
-00:19:48,645 --> 00:19:52,360
-Evet. Ama işe yaramaz olmak için
-bakıma ihtiyaç duymuyordu.
-
-162
-00:19:55,360 --> 00:19:57,920
-- Ağır kaldırabilecek biri lazımdı.
-- Anladım.
-
-163
-00:19:58,020 --> 00:20:03,410
-- Vita yakında taşınacağını söylemişti.
-- Sana ne ki? Hiç yanımızda değilsin.
-
-164
-00:20:03,493 --> 00:20:07,239
-Sürekli kulübene kendini kapatıp
-Frankensteincılık oynuyorsun.
-
-165
-00:20:07,323 --> 00:20:11,109
-Büyükanne'nin gösterdiği teknolojinin
-hepiniz için önemli faydaları olacak.
-
-166
-00:20:11,192 --> 00:20:15,592
-Bu da sunabileceğim en önemli,
-en anlamlı yarar.
-
-167
-00:20:16,007 --> 00:20:17,332
-Neyse ne.
-
-168
-00:20:18,675 --> 00:20:23,013
-Etrafına bak. Campion katil
-bir makineye abayı yakmış.
-
-169
-00:20:23,096 --> 00:20:24,973
-Tempest'in bebeği kayıp.
-
-170
-00:20:25,057 --> 00:20:27,184
-Onları doğru yönlendirebilirdin.
-
-171
-00:20:27,267 --> 00:20:28,936
-Ne oldu sana ya?
-
-172
-00:20:33,190 --> 00:20:35,484
-Yüzüne neden bunu yaptılar?
-
-173
-00:20:36,735 --> 00:20:39,999
-Gerçek Vrille'in anısını alçaltıyormuşum.
-
-174
-00:20:41,573 --> 00:20:44,785
-Kaçmama yardım etmenle
-ilgisi yok mu yani?
-
-175
-00:20:46,244 --> 00:20:50,332
-Böyle düşünme. Seni kötü hissettirirsem
-beni yanında istemezsin.
-
-176
-00:20:50,415 --> 00:20:52,167
-Ben öyle biri değilim.
-
-177
-00:20:52,250 --> 00:20:54,002
-Bütün insanlar öyledir.
-
-178
-00:20:54,086 --> 00:21:00,050
-Bu yüzden sana ve ailene acı değil,
-neşe getirdiğimi kanıtlamalıyım.
-
-179
-00:21:00,133 --> 00:21:03,720
-Kendini kanıtlamak zorunda değilsin.
-
-180
-00:21:03,804 --> 00:21:06,848
-Herkes kendini kanıtlamak zorunda Campion.
-
-181
-00:21:06,932 --> 00:21:08,350
-Er ya da geç.
-
-182
-00:21:09,518 --> 00:21:10,852
-O da nesi?
-
-183
-00:21:13,939 --> 00:21:18,026
-Bilmiyorum. Bir tür enerji fırtınası.
-
-184
-00:21:18,110 --> 00:21:20,028
-Hiç böylesini görmemiştim.
-
-185
-00:21:20,112 --> 00:21:22,572
-Bu tarafa doğru geliyor.
-
-186
-00:21:22,656 --> 00:21:24,199
-Daha ne kadar gideceğiz?
-
-187
-00:21:24,282 --> 00:21:26,535
-Az kaldı. Yarım kilometreden daha az.
-
-188
-00:21:26,618 --> 00:21:29,121
-Hadi.
-
-189
-00:21:30,956 --> 00:21:32,176
-Yürü Bic.
-
-190
-00:21:53,854 --> 00:21:55,731
-Baba?
-
-191
-00:22:23,300 --> 00:22:25,635
-Hâlâ çalışıyor.
-
-192
-00:22:26,386 --> 00:22:28,764
-Onu habitanka götürelim.
-
-193
-00:23:08,845 --> 00:23:10,597
-Orada ne oldu?
-
-194
-00:23:12,390 --> 00:23:14,392
-Fırsatın varken neden o şeyi öldürmedin?
-
-195
-00:23:15,977 --> 00:23:19,523
-Bakıcılık programımla ilgili
-bir sıkıntı var.
-
-196
-00:23:19,606 --> 00:23:24,986
-Bakıcılık programın neden bir canavarı
-öldürebilmeni engellesin?
-
-197
-00:23:25,070 --> 00:23:27,174
-Yedi numara.
-
-198
-00:23:28,782 --> 00:23:30,067
-Yedi numara ne?
-
-199
-00:23:31,910 --> 00:23:33,787
-Çocuğum.
-
-200
-00:23:37,833 --> 00:23:40,335
-Ya ne olacaktı?
-
-201
-00:23:43,130 --> 00:23:46,258
-Benden geldiği için...
-
-202
-00:23:46,341 --> 00:23:50,262
-...programım onu bir çocuk olarak
-yanlış tanımladı.
-
-203
-00:23:50,345 --> 00:23:52,097
-Öncelik olarak.
-
-204
-00:23:58,228 --> 00:24:00,814
-Ne yapacağız şimdi?
-
-205
-00:24:04,151 --> 00:24:07,237
-Yeniden programlanmalıyım.
-
-206
-00:24:07,320 --> 00:24:09,364
-Benim elimden o iş gelmez.
-
-207
-00:24:09,447 --> 00:24:13,368
-Bir keresinde denemiştim. Hatırladın mı?
-Fena çuvallamıştım.
-
-208
-00:24:13,451 --> 00:24:18,707
-Baba üstün teknolojiye sahip
-antik bir androidi rejenere etti.
-
-209
-00:24:18,790 --> 00:24:21,198
-Sistemimi değiştirmenin
-yolunu biliyor olabilir.
-
-210
-00:24:21,298 --> 00:24:24,921
-O yaratığı öldürmek için
-ne yapmamız gerekiyorsa...
-
-211
-00:24:25,005 --> 00:24:26,673
-...ben varım.
-
-212
-00:24:54,492 --> 00:24:57,245
-Ses şuradaki mağaradan geliyordu.
-
-213
-00:24:57,329 --> 00:24:59,956
-Pekâlâ. Hunter'la içeri gireceğiz.
-Siz burada kalın.
-
-214
-00:25:00,040 --> 00:25:04,544
-- Tempest, dur! Hop!
-- Tempest, gitme!
-
-215
-00:25:33,865 --> 00:25:35,367
-Sol, yardım et.
-
-216
-00:25:36,420 --> 00:25:38,443
-Bakamıyorum.
-
-217
-00:25:58,848 --> 00:26:00,475
-Sadece bir yaratık.
-
-218
-00:26:00,558 --> 00:26:04,312
-Sorun yok. Sadece bir yaratık.
-
-219
-00:26:06,982 --> 00:26:08,900
-Fırtınaya yakalanmak istemeyiz.
-
-220
-00:26:35,093 --> 00:26:37,095
-Onu bulacağız.
-
-221
-00:26:37,178 --> 00:26:38,722
-Yemin ederim.
-
-222
-00:26:49,524 --> 00:26:52,068
-Umarım bunun için beni suçlamazsınız.
-
-223
-00:26:53,320 --> 00:26:55,530
-Gerçekten sesini duymuştum.
-
-224
-00:26:55,613 --> 00:26:58,658
-Faydalı olduğumu kanıtladım mı?
-
-225
-00:26:58,742 --> 00:27:00,035
-Evet.
-
-226
-00:27:00,118 --> 00:27:02,037
-Bize izin ver.
-
-227
-00:27:12,839 --> 00:27:15,633
-Onu hemen kapatmalıyız. O tehlikeli.
-
-228
-00:27:15,717 --> 00:27:17,302
-Bizimle oyun oynuyor.
-
-229
-00:27:17,385 --> 00:27:19,220
-Doğru söylüyor Campion.
-
-230
-00:27:19,304 --> 00:27:21,890
-Ama o mağarada gerçekten
-bir anne yaratık varmış.
-
-231
-00:27:21,973 --> 00:27:25,352
-Vrille ailemizin parçası olmak istiyor.
-Neden yalan söylesin?
-
-232
-00:27:26,770 --> 00:27:28,313
-Bize izin verin lütfen.
-
-233
-00:27:28,396 --> 00:27:30,231
-Onu sakin tutmaya çalışın.
-
-234
-00:27:38,031 --> 00:27:41,889
-Bize yardım etmeye çalışıyordu. Kendi
-türünden birine nasıl böyle davranırsın?
-
-235
-00:27:42,089 --> 00:27:43,787
-Tekrar öldürebilir.
-
-236
-00:27:43,870 --> 00:27:46,289
-Önemli olan insanlar Campion.
-
-237
-00:27:46,373 --> 00:27:47,482
-Biz vekilden ibaretiz.
-
-238
-00:27:47,565 --> 00:27:50,515
-- Artık faydalı olmadığımızda...
-- Buna sen de inanmıyorsun.
-
-239
-00:27:50,615 --> 00:27:52,836
-Eskiden inanıyor olabilirsin
-ama artık değil.
-
-240
-00:27:52,936 --> 00:27:56,800
-Senin mutluluğunun da önemi var Baba.
-
-241
-00:27:56,883 --> 00:27:58,760
-Baba!
-
-242
-00:27:58,843 --> 00:27:59,928
-Dur, dur, dur, dur.
-
-243
-00:28:00,011 --> 00:28:01,930
-Sakin ol.
-
-244
-00:28:03,348 --> 00:28:05,141
-Vrille, dur!
-
-245
-00:28:05,225 --> 00:28:08,061
-- Seni kapatmalarına izin vermeyeceğim!
-- Campion!
-
-246
-00:28:08,144 --> 00:28:09,479
-Vrille! Dur!
-
-247
-00:28:09,562 --> 00:28:11,398
-Campion!
-
-248
-00:28:15,860 --> 00:28:17,987
-Onu görüyorum.
-
-249
-00:28:20,365 --> 00:28:21,866
-Başka bir tankı takip ediyor.
-
-250
-00:28:23,701 --> 00:28:26,996
-Tank 4, derhâl rotanı değiştir.
-
-251
-00:28:29,290 --> 00:28:32,210
-<i>Anlamadım. Tekrarlar mısın?</i>
-
-252
-00:28:32,293 --> 00:28:37,298
-<i>- Ani bir fırtına çıktı. Sesiniz kesiliyor.</i>
-- O fırtına değil.
-
-253
-00:28:37,382 --> 00:28:41,636
-Yılan silahlandırıldı.
-Kaçının. Kaçının.
-
-254
-00:28:45,473 --> 00:28:47,767
-<i>Bu da ne böyle?</i>
-
-255
-00:28:49,394 --> 00:28:51,312
-<i>- Dur biraz.
-- Bu da ne?</i>
-
-256
-00:29:07,579 --> 00:29:10,707
-Kıyı şeridine dönüyor.
-
-257
-00:29:10,790 --> 00:29:13,918
-Güzel. Tarantula'ya giden
-yolumuz açılacak.
-
-258
-00:29:14,002 --> 00:29:17,881
-Hayır. Aile fertlerim o kıyı şeridinde
-Tempest'in bebeğini arıyor.
-
-259
-00:29:17,964 --> 00:29:20,133
-Bu vaziyette bir şey yapamazsın.
-
-260
-00:29:20,216 --> 00:29:23,850
-O şeyle dövüşmeden önce programını
-düzeltmemiz gerekiyor. Unuttun mu?
-
-261
-00:29:29,476 --> 00:29:31,144
-Vrille!
-
-262
-00:29:31,227 --> 00:29:33,396
-Dur! Geri dön!
-
-263
-00:29:33,480 --> 00:29:36,149
-- Campion!
-- Dur!
-
-264
-00:29:36,232 --> 00:29:37,566
-Campion, geri dön!
-
-265
-00:29:41,388 --> 00:29:42,448
-Vrille!
-
-266
-00:29:58,713 --> 00:29:59,839
-Yere yatın!
-
-267
-00:30:00,215 --> 00:30:02,258
-Baba!
-
-268
-00:31:57,749 --> 00:31:58,776
-Vrille!
-
-269
-00:31:58,876 --> 00:32:01,002
-Ne yapıyorsun?
-
-270
-00:32:02,378 --> 00:32:04,589
-İyi misin?
-
-271
-00:32:04,672 --> 00:32:08,301
-Yılanın ölüm çığlığına yakalandım.
-
-272
-00:32:08,384 --> 00:32:10,032
-Sistemlerimi haşat etti.
-
-273
-00:32:21,606 --> 00:32:23,316
-Geri dönüyor.
-
-274
-00:32:26,194 --> 00:32:28,905
-Seni hedef alıyor galiba.
-
-275
-00:32:28,988 --> 00:32:32,659
-Özellikle seni. Kokunu alıyor olabilir.
-Kapağı kapat.
-
-276
-00:32:45,463 --> 00:32:47,382
-Eskiden kimseye zararı dokunmazdı.
-
-277
-00:32:48,466 --> 00:32:50,852
-Bir şekilde silahlandırılmış.
-
-278
-00:32:50,935 --> 00:32:52,217
-Anne gibi.
-
-279
-00:32:55,306 --> 00:33:00,228
-Bir keresinde aramıza girmeye çalışmıştı.
-Kıskandı sanki.
-
-280
-00:33:04,357 --> 00:33:06,651
-Anne'den gelmiş olabilir mi?
-
-281
-00:33:09,529 --> 00:33:12,532
-Aynı özelliklere sahip gibi görünüyor.
-
-282
-00:33:12,615 --> 00:33:14,742
-Uçma yeteneğini de açıklar.
-
-283
-00:33:16,327 --> 00:33:18,830
-Eski dünyanın yılanları
-kara hayvanlarıydı.
-
-284
-00:33:18,913 --> 00:33:22,112
-Anne'nin gönlümü etmek için onunla
-vakit geçirdiğini sanıyordum.
-
-285
-00:33:23,251 --> 00:33:25,169
-Bunca zamandır yalan söylüyormuş.
-
-286
-00:33:25,253 --> 00:33:27,088
-Mantıklı bir karar.
-
-287
-00:33:27,171 --> 00:33:29,424
-Katılmıyorum.
-
-288
-00:33:29,507 --> 00:33:32,135
-Pekâlâ.
-
-289
-00:33:32,218 --> 00:33:33,594
-Ama acele karar verme.
-
-290
-00:33:33,678 --> 00:33:37,098
-Gerçek Vrille annesinin Dünya'nın
-atmosferini yok eden...
-
-291
-00:33:37,181 --> 00:33:39,726
-...silahlardan para kazandığını
-öğrendiğinde...
-
-292
-00:33:39,809 --> 00:33:43,229
-...kendini öldürerek annesini
-cezalandırdı.
-
-293
-00:33:46,524 --> 00:33:49,850
-Gerçek Vrille'den daha mantıklısın.
-
-294
-00:33:51,112 --> 00:33:54,240
-Ayrıca hayır, ben öyle düşünmem.
-
-295
-00:33:55,175 --> 00:33:58,953
-- Yılan sana zarar verdiği için üzgünüm.
-- Tamir edilebilir olduğuna eminim.
-
-296
-00:33:59,036 --> 00:34:01,164
-Hâlâ ailenize faydalı olabilirim.
-
-297
-00:34:01,247 --> 00:34:03,207
-Hiçbir şey yapamasan da...
-
-298
-00:34:03,291 --> 00:34:06,043
-...faydalı olursun.
-
-299
-00:34:06,127 --> 00:34:09,005
-Ruhun var Vrille.
-
-300
-00:34:09,088 --> 00:34:10,631
-Öyle mi?
-
-301
-00:34:10,715 --> 00:34:12,091
-Evet.
-
-302
-00:34:12,717 --> 00:34:15,428
-İçinde sezebiliyorum.
-
-303
-00:34:18,681 --> 00:34:21,976
-Sanırım ben de seziyorum.
-
-304
-00:34:34,947 --> 00:34:38,159
-Tank yaklaşıyor. Hattı koruyun!
-
-305
-00:34:38,242 --> 00:34:39,333
-Hedef görüldü.
-
-306
-00:34:52,799 --> 00:34:55,301
-Evim güzel evim.
-
-307
-00:35:06,729 --> 00:35:08,356
-Silahlarınızı indirin.
-
-308
-00:35:10,525 --> 00:35:12,485
-O benimle birlikte.
-
-309
-00:35:12,568 --> 00:35:14,362
-Silahları indirin.
-
-310
-00:35:17,573 --> 00:35:22,036
-- Öldüğünü sandık. Yılan silahlandırılmış.
-- Biliyorum. Ben de onunla uğraşıyorum.
-
-311
-00:35:22,119 --> 00:35:26,465
-Diğer kamplara bizden haber alıncaya kadar
-yaşam alanlarında saklanmalarını söyleyin.
-
-312
-00:35:29,961 --> 00:35:32,088
-Baba geri döndü mü?
-
-313
-00:35:32,171 --> 00:35:35,716
-Yılan saldırdığında bebeği
-aramak için dışarıdaydılar.
-
-314
-00:35:35,800 --> 00:35:38,052
-- Güvendeler mi?
-- Teması kaybettik.
-
-315
-00:35:50,064 --> 00:35:52,579
-Cidden yapılmış en sağlam
-servis modeli sensin.
-
-316
-00:36:01,409 --> 00:36:03,832
-- Campion'ı buldunuz mu?
-- Hayır.
-
-317
-00:36:09,458 --> 00:36:11,210
-O da neyi öyle?
-
-318
-00:36:16,090 --> 00:36:19,385
-Yedi numara Anne'nin size söylediği
-gibi doğum sırasında ölmedi.
-
-319
-00:36:19,468 --> 00:36:21,873
-Umut ettiği insan benzeri canlı da değildi.
-
-320
-00:36:23,556 --> 00:36:25,600
-İcabına bakmaya çalıştık ama nafile.
-
-321
-00:36:38,863 --> 00:36:40,698
-Ne oldu?
-
-322
-00:36:40,781 --> 00:36:43,409
-Bilmiyorum.
-
-323
-00:36:43,492 --> 00:36:45,703
-Sensörüm arızalanmış olabilir.
-
-324
-00:36:47,246 --> 00:36:48,643
-Ne duyuyorsun?
-
-325
-00:36:53,544 --> 00:36:55,504
-Beni izleyin.
-
-326
-00:37:35,419 --> 00:37:37,546
-Bebekle yalnız kalmışa benziyor.
-
-327
-00:37:39,632 --> 00:37:42,218
-Kafatasına tek atışla alırım.
-
-328
-00:37:42,301 --> 00:37:44,512
-İkinize de diyorum, üstüne koşun...
-
-329
-00:37:44,595 --> 00:37:46,009
-...bebeği alın...
-
-330
-00:37:46,109 --> 00:37:48,815
-...yoksa düşen yaratığın altında ezilir.
-Anlaşıldı mı?
-
-331
-00:37:55,189 --> 00:37:57,108
-Üç deyince.
-
-332
-00:38:16,160 --> 00:38:17,253
-Bir...
-
-333
-00:38:22,633 --> 00:38:23,718
-İki...
-
-334
-00:38:30,808 --> 00:38:32,768
-Dur.
-
-335
-00:38:33,978 --> 00:38:35,604
-Yapma. Yapma.
-
-336
-00:38:50,169 --> 00:38:53,372
-Onu burada bırakalım da yaratığın
-teki mi büyütsün amına koyayım?
-
-337
-00:38:53,456 --> 00:38:55,583
-Bebeğin o senin.
-
-338
-00:38:55,666 --> 00:38:57,418
-Gördün onu.
-
-339
-00:38:57,501 --> 00:39:00,421
-Bebeği besliyor.
-
-340
-00:39:00,504 --> 00:39:02,757
-Onu annesi sanıyor.
-
-341
-00:39:02,840 --> 00:39:07,094
-Haberi yok. Olması gereken
-budur belki de.
-
-342
-00:39:07,178 --> 00:39:08,929
-Onun için en iyisi budur.
-
-343
-00:39:09,013 --> 00:39:10,598
-Buna izin veremezsin.
-
-344
-00:39:10,681 --> 00:39:12,558
-Karar onun değil.
-
-345
-00:39:12,641 --> 00:39:14,060
-Tempest haklı.
-
-346
-00:39:14,143 --> 00:39:15,978
-Nihayetinde karar benim değil.
-
-347
-00:39:16,062 --> 00:39:18,860
-Aklı başında olsa haklısın
-diyeceğim ama değil.
-
-348
-00:39:18,960 --> 00:39:20,795
-Campion'ı androidler büyüttü diye...
-
-349
-00:39:20,895 --> 00:39:23,852
-...aklını kaçırmadı mı? Bu nasıl olacak?
-- Kafayı yemedim.
-
-350
-00:39:27,448 --> 00:39:30,409
-Kıza bakınca Otho'yu görüyorum.
-
-351
-00:39:30,493 --> 00:39:32,953
-Ben...
-
-352
-00:39:33,037 --> 00:39:34,330
-Onu sevemem.
-
-353
-00:39:34,413 --> 00:39:35,414
-Onun annesi olamam.
-
-354
-00:39:35,498 --> 00:39:37,917
-Tempest, düzgün düşünemiyorsun.
-
-355
-00:39:41,712 --> 00:39:42,949
-Gidiyoruz.
-
-356
-00:41:09,091 --> 00:41:11,802
-Tekrar kokunu alması uzun sürmez.
-
-357
-00:41:16,140 --> 00:41:17,433
-Hadi.
-
-358
-00:41:19,727 --> 00:41:21,645
-Koloni öbür tarafta.
-
-359
-00:41:21,729 --> 00:41:23,189
-Biliyorum.
-
-360
-00:41:23,272 --> 00:41:25,566
-Yılanı onlara götüremem.
-
-361
-00:41:25,649 --> 00:41:27,193
-Gel.
-
-362
-00:41:55,179 --> 00:41:58,140
-Çalıştır lütfen.
-
-363
-00:42:13,864 --> 00:42:15,699
-Merhaba.
-
-364
-00:42:16,951 --> 00:42:20,120
-Bu kartları üreten antik insanlar mı
-yaptı seni?
-
-365
-00:42:20,204 --> 00:42:22,373
-Evet.
-
-366
-00:42:22,456 --> 00:42:23,999
-Teknokratlar.
-
-367
-00:42:24,083 --> 00:42:26,314
-Savaşta inançlılara karşı savaştılar...
-
-368
-00:42:26,414 --> 00:42:29,627
-...ve benim gibi androidler üreterek
-bize kılavuz adını verdiler.
-
-369
-00:42:29,727 --> 00:42:33,175
+00:03:10,857 --> 00:03:14,986
 İnsanoğlunun sonsuz yaşamını
 garanti altına almak önceliğim.
 
+22
+00:03:15,069 --> 00:03:16,988
+Hepsi böyle söyler.
+
+23
+00:03:17,864 --> 00:03:20,950
+Bu inançlıya güveniyor musun?
+
+24
+00:03:21,034 --> 00:03:23,119
+Varlık ona ihanet etti.
+
+25
+00:03:23,202 --> 00:03:26,289
+Ondan nefret ediyor.
+Hedeflerimiz çakışıyor.
+
+26
+00:03:26,372 --> 00:03:29,834
+Travmatik olaylardan dolayı
+zihnin zarar görmüş.
+
+27
+00:03:29,918 --> 00:03:32,612
+Varlığın gönderdiği sinyale karşı
+savunmasızsın.
+
+28
+00:03:32,695 --> 00:03:34,255
+Hastalığını atlattım zaten.
+
+29
+00:03:34,339 --> 00:03:38,176
+Bereketli toprağa her zaman geri döner.
+
+30
+00:03:38,259 --> 00:03:41,095
+Sue'ya yaptığı şeyden sonra...
+
+31
+00:03:41,179 --> 00:03:43,081
+...bir daha asla onu dinlemem.
+
+32
+00:03:44,549 --> 00:03:46,108
+Sandığın kadar güçlü değilsin.
+
+33
+00:03:46,192 --> 00:03:48,472
+Hiçbirimiz değiliz robot.
+
+34
+00:03:54,359 --> 00:03:55,735
+Onun burada ne işin var?
+
+35
+00:03:55,818 --> 00:03:57,946
+Yardım etmeye geldi Baba.
+
+36
+00:03:58,029 --> 00:04:00,365
+Bundan oldukça şüpheliyim.
+
+37
+00:04:01,908 --> 00:04:03,952
+Tempest'in çocuğunu geri aldık.
+
+38
+00:04:05,578 --> 00:04:07,497
+Aferin.
+
+39
+00:04:07,580 --> 00:04:10,675
+Bizi ona götüren Campion'ın
+android arkadaşıydı.
+
+40
+00:04:10,759 --> 00:04:14,098
+Ama Campion hâlâ dışarıda ve yedi numara
+nasılsa silahlandırılmış.
+
+41
+00:04:14,198 --> 00:04:17,215
+Haberim var. Nakli bitirdiğimiz zaman
+icabına bakacağım.
+
+42
+00:04:18,758 --> 00:04:22,011
+Ne nakli?
+
+43
+00:04:26,766 --> 00:04:27,809
+Geçici olacak.
+
+44
+00:04:27,892 --> 00:04:29,970
+Yedi numarayı öldürdükten sonra...
+
+45
+00:04:30,070 --> 00:04:33,105
+...peçeyi Büyükanne'ye geri vereceğim
+ve duygularım dönecek.
+
+46
+00:04:33,189 --> 00:04:36,025
+Peçenin tam olarak işlevini anlamıyoruz.
+
+47
+00:04:36,109 --> 00:04:37,402
+Ya kontrolü kaybedersen?
+
+48
+00:04:37,485 --> 00:04:41,864
+Büyükanne görev yönergelerimin
+değişmeyeceğini temin etti.
+
+49
+00:04:41,948 --> 00:04:44,742
+Seni partnerim olarak tanımlamaya
+devam edeceğim...
+
+50
+00:04:44,826 --> 00:04:46,836
+...ve koloniyi korumayı da
+sürdüreceğim.
+
+51
+00:04:46,919 --> 00:04:50,123
+Altı insan çocuğumuz da
+özellikle önceliğim olacak.
+
+52
+00:04:50,206 --> 00:04:53,710
+Yedi numaranın artık üzerimde
+etkisi olmayacak.
+
+53
+00:05:14,856 --> 00:05:16,816
+Dikkatli ol.
+
+54
+00:05:23,156 --> 00:05:26,743
+<i>Bebek. 3 kilogram 260 gram.</i>
+
+55
+00:05:29,203 --> 00:05:31,581
+<i>Mutasyon saptandı.</i>
+
+56
+00:05:38,455 --> 00:05:41,340
+Yaratığın sütü vücudunun kimyasını
+değiştirmiş olsa gerek.
+
+57
+00:05:41,424 --> 00:05:45,664
+<i>Ebeveynler, anestezi uygulamak
+ve onarıcı ameliyat için...</i>
+
+58
+00:05:45,764 --> 00:05:47,263
+<i>...izin talep ediyorum.</i>
+
+59
+00:05:49,974 --> 00:05:51,559
+İzin verilmiştir.
+
+60
+00:05:51,642 --> 00:05:53,269
+<i>Teşekkürler ebeveyn.</i>
+
+61
+00:05:53,352 --> 00:05:54,604
+<i>Lütfen geri çekilin.</i>
+
+62
+00:05:56,189 --> 00:05:58,524
+<i>Onarıcı ameliyat gerçekleştiriliyor.</i>
+
+63
+00:06:03,571 --> 00:06:06,324
+Geçti. Geçti.
+
+64
+00:06:06,407 --> 00:06:07,658
+Geçti.
+
+65
+00:06:17,585 --> 00:06:20,630
+<i>Duyusal filtre çıkarımı başlatılıyor.</i>
+
+66
+00:06:26,844 --> 00:06:29,555
+<i>Duyusal filtrenin kilidi açılıyor.</i>
+
+67
+00:06:47,782 --> 00:06:51,536
+Nasıl hissediyorsun? Stabil misin?
+
+68
+00:06:53,871 --> 00:06:58,000
+Bu oldukça...
+
+69
+00:06:58,084 --> 00:06:59,794
+...nahoş.
+
+70
+00:07:02,755 --> 00:07:04,841
+Fakat...
+
+71
+00:07:04,924 --> 00:07:06,425
+...tolere edilebilir.
+
+72
+00:07:18,521 --> 00:07:21,440
+- Hazır mısın?
+- Başla.
+
+73
+00:07:42,628 --> 00:07:45,715
+<i>İşlemci nakil kilidi güvende.</i>
+
+74
+00:07:45,798 --> 00:07:49,802
+Anne, iyi misin? Nasıl hissediyorsun?
+
+75
+00:07:51,220 --> 00:07:55,016
+İyi. Nöral olarak nötr.
+
+76
+00:07:55,099 --> 00:07:57,810
+Programlaman hâlâ geçerli mi?
+
+77
+00:07:57,894 --> 00:08:01,189
+Beni hâlâ partnerin, çocukları da
+önceliğin olarak mı görüyorsun?
+
+78
+00:08:01,272 --> 00:08:03,065
+Evet. Sen benim partnerimsin.
+
+79
+00:08:03,149 --> 00:08:06,485
+Çocuklarım da önceliğim.
+
+80
+00:08:16,621 --> 00:08:19,874
+Ya bu Anne?
+
+81
+00:08:19,957 --> 00:08:21,459
+O benim düşmanım.
+
+82
+00:08:23,836 --> 00:08:26,297
+Hazırım.
+
+83
+00:12:15,568 --> 00:12:18,154
+Büyükanne'nin peçesini
+neden takıyorsun?
+
+84
+00:12:25,494 --> 00:12:28,789
+Hissetmeme engel oluyor.
+
+85
+00:12:42,428 --> 00:12:44,513
+Yazık oldu.
+
+86
+00:12:44,597 --> 00:12:46,849
+Hayli zeki bir canlı olmalı.
+
+87
+00:12:49,351 --> 00:12:52,897
+Çocuğun olduğunu biliyorum.
+
+88
+00:12:52,980 --> 00:12:54,774
+Bana yalan söyledin.
+
+89
+00:12:54,857 --> 00:12:56,942
+Başarısız olduğumu öğrenmeni istemedim.
+
+90
+00:13:00,196 --> 00:13:01,864
+Vrille'i öldürdü.
+
+91
+00:13:01,947 --> 00:13:04,909
+Androidin adı bu muydu?
+
+92
+00:13:04,992 --> 00:13:08,662
+Makineler ölmez Campion. Biz bozuluruz.
+
+93
+00:13:08,746 --> 00:13:11,081
+O yaşıyordu!
+
+94
+00:13:14,835 --> 00:13:17,588
+Ailemize dahil olmak istemişti.
+
+95
+00:13:20,466 --> 00:13:23,344
+- Onu sevmiştim.
+- Anlamıyorum.
+
+96
+00:13:23,427 --> 00:13:25,671
+Neden bir makineyi sevmeyi
+tercih edesin ki?
+
+97
+00:13:51,247 --> 00:13:53,249
+Anne.
+
+98
+00:13:53,332 --> 00:13:55,468
+- Campion...
+- Dezenfekte ediliyor.
+
+99
+00:13:55,551 --> 00:13:59,255
+Android kalıntılarına uzun süre yakın
+durduğu için radyasyona maruz kalmış.
+
+100
+00:13:59,338 --> 00:14:02,174
+Bağışıklığından dolayı
+zarar gelmeyecektir.
+
+101
+00:14:02,258 --> 00:14:04,638
+- Yedi numara ne oldu?
+- Öldü.
+
+102
+00:14:10,516 --> 00:14:12,560
+Şimdi çıkarmaya hazır mısın?
+
+103
+00:14:12,643 --> 00:14:14,836
+Ortalık duruluncaya kadar
+beklemek en iyisi.
+
+104
+00:14:14,920 --> 00:14:17,481
+Sorunu belirledim.
+
+105
+00:14:17,565 --> 00:14:21,151
+Olası olarak yaşayacağım duygusal darbe
+ailemize ve Kolektif'e...
+
+106
+00:14:21,235 --> 00:14:23,779
+...büyük bir kesinti yaşatabilir.
+
+107
+00:14:23,862 --> 00:14:28,409
+Belki de yaşayacağın acıyı beklemek
+acının kendisinden daha kötüdür.
+
+108
+00:14:28,492 --> 00:14:31,287
+Sana yardımcı olurum.
+Beraber atlatırız.
+
+109
+00:14:31,370 --> 00:14:33,205
+Tavsiyen için teşekkürler Baba.
+
+110
+00:14:33,289 --> 00:14:38,294
+Umarım duygularını kızıştırmaz ama
+şimdilik Tarantula'da kalacağım.
+
+111
+00:14:38,377 --> 00:14:40,488
+Ne? Eve gelmeyecek misin?
+
+112
+00:14:40,571 --> 00:14:43,232
+Büyükanne'ye seninle dönmek
+isteyip istemediğini sor.
+
+113
+00:14:43,315 --> 00:14:45,934
+Yokluğumda çocuklarla ilgilenmeye
+yardımcı olabilir.
+
+114
+00:14:46,018 --> 00:14:50,556
+Buna gerek yok. Ben ilgilenirim ve açıkçası
+Büyükanne'nin dikkat dağıtması...
+
+115
+00:14:50,639 --> 00:14:53,892
+Çocuklar devamlı izlenmesi
+gerekiyor şu an Baba.
+
+116
+00:14:53,976 --> 00:14:56,604
+Dikkatli olmazsak sonları
+Sue gibi olabilir.
+
+117
+00:14:56,687 --> 00:15:00,348
+O kutu gibi keşfedilmemiş daha birçok
+korkunç şey olmasından endişeliyim.
+
+118
+00:15:00,448 --> 00:15:02,109
+Her şey daha da kötüye gidecek.
+
+119
+00:15:02,192 --> 00:15:06,030
+Bunu izle ve çocukların da
+izlemesini sağla.
+
+120
+00:15:06,113 --> 00:15:07,990
+Karşılaştığımız şeyi öğrenmeliler.
+
+121
+00:15:08,073 --> 00:15:10,117
+Tarantula, çevrimiçi ol.
+
+122
+00:15:27,509 --> 00:15:31,305
+Uyku sistemlerini tamir etmeye
+çalışıyorum.
+
+123
+00:15:31,388 --> 00:15:33,743
+Peçen olmadan çalışmak nasıl?
+
+124
+00:15:33,843 --> 00:15:36,310
+Yorucu.
+
+125
+00:15:37,770 --> 00:15:40,606
+Duygular çok fazla enerji harcıyor.
+
+126
+00:15:40,689 --> 00:15:42,524
+Sormamın sakıncası yoksa...
+
+127
+00:15:42,608 --> 00:15:44,226
+...ne tarz duygular yaşıyorsun?
+
+128
+00:15:46,820 --> 00:15:49,448
+Programa bağlı kaygılar.
+
+129
+00:15:50,991 --> 00:15:52,368
+Ben bir çobanım.
+
+130
+00:15:52,451 --> 00:15:56,705
+İnsanoğlunun sonsuz yaşamını
+garanti altına almak önceliğim.
+
+131
+00:15:56,789 --> 00:16:01,543
+Varlığın nesillerini tehlikeye attığını
+görmek zor.
+
+132
+00:16:01,627 --> 00:16:04,672
+Gelecekleri için son derece endişeliyim.
+
+133
+00:16:04,755 --> 00:16:07,049
+Peçeni geri almaya istekli
+olduğuna eminim.
+
+134
+00:16:07,132 --> 00:16:10,803
+Fakat Anne takmaya
+devam etmek istedi.
+
+135
+00:16:10,886 --> 00:16:13,681
+Ortalık sakinleşinceye kadar.
+
+136
+00:16:15,224 --> 00:16:16,600
+Öyle mi?
+
+137
+00:16:16,784 --> 00:16:22,731
+Bu sırada yaşadığın duygular içinde
+yolunu bulmana yardımcı olacağım.
+
+138
+00:16:25,484 --> 00:16:27,361
+Öyle olsun.
+
+139
+00:16:28,987 --> 00:16:35,545
+Anne bir de yokluğunda çocuklara bakmama
+yardımcı olur musun diye sordu.
+
+140
+00:16:36,995 --> 00:16:40,999
+Peçem olmadan insanlara
+maruz kalmamıştım.
+
+141
+00:16:41,083 --> 00:16:43,252
+Öyleyse...
+
+142
+00:16:43,335 --> 00:16:46,088
+...muhteşem bir serüvene atılıyorsun.
+
+143
+00:16:46,171 --> 00:16:47,222
+Selam ver.
+
+144
+00:16:47,305 --> 00:16:49,466
+- Adı ne?
+- Bilmiyorum.
+
+145
+00:16:49,550 --> 00:16:51,093
+Sen seç.
+
+146
+00:16:54,513 --> 00:16:56,014
+Merhaba.
+
+147
+00:16:58,809 --> 00:17:00,769
+- Campion.
+- Selam.
+
+148
+00:17:00,853 --> 00:17:03,355
+Başaracağını biliyorduk Camp.
+
+149
+00:17:03,439 --> 00:17:05,357
+Vrille için çok üzgünüm.
+
+150
+00:17:05,441 --> 00:17:07,067
+Millet...
+
+151
+00:17:09,570 --> 00:17:11,113
+Bu Büyükanne.
+
+152
+00:17:11,196 --> 00:17:14,616
+Anne başka işlerle uğraşırken
+yardımcı olacak.
+
+153
+00:17:21,915 --> 00:17:25,627
+- Peçen nerede?
+- Lamia takıyor.
+
+154
+00:17:25,711 --> 00:17:27,755
+Geçici bir değişiklik.
+
+155
+00:17:27,838 --> 00:17:29,757
+Ortalık sakinleşinceye kadar.
+
+156
+00:17:29,840 --> 00:17:31,675
+- Tehlike altındayız.
+- Nasıl yani?
+
+157
+00:17:31,759 --> 00:17:33,218
+Yılan öldü.
+
+158
+00:17:33,302 --> 00:17:38,140
+Yılan daha büyük bir hastalığın
+sadece bir belirtisiydi.
+
+159
+00:17:38,223 --> 00:17:40,934
+Size bunu göstereceğim için üzgünüm...
+
+160
+00:17:41,018 --> 00:17:43,937
+...ama Sue'ya olanları öğrenmelisiniz.
+
+161
+00:17:45,689 --> 00:17:49,485
+Anlaşılan bu bölgedeki bazı emanetler
+hâlâ çalışır durumda.
+
+162
+00:17:49,568 --> 00:17:53,280
+Bunlarla hiçbir şekilde etkileşime
+geçmememiz önemli.
+
+163
+00:17:56,116 --> 00:17:58,494
+Vita, dışarıda bekle lütfen.
+
+164
+00:17:58,577 --> 00:18:00,662
+- Neden?
+- İzlemesi gerek.
+
+165
+00:18:00,746 --> 00:18:02,498
+Hayır.
+
+166
+00:18:02,581 --> 00:18:04,583
+Onda iz bırakabilir.
+
+167
+00:18:04,666 --> 00:18:07,002
+Holly ne yaparsa onu yapacağına
+güvenebiliriz.
+
+168
+00:18:07,085 --> 00:18:08,796
+Lütfen Vita.
+
+169
+00:18:10,547 --> 00:18:12,758
+Sorun yok. Git hadi.
+
+170
+00:19:16,271 --> 00:19:18,806
+<b>HADEMELİK GÖREVİ</b>
+
+171
+00:19:51,273 --> 00:19:52,760
+Sana kim saldırdı?
+
+172
+00:19:52,860 --> 00:19:55,444
+Ne bileyim? Yüzünü görmedim.
+
+173
+00:19:59,865 --> 00:20:02,868
+Benimle görüşmek mi istedin?
+
+174
+00:20:06,038 --> 00:20:08,457
+Cezalandırıcı miğferi çalınmış.
+
+175
+00:20:08,540 --> 00:20:11,469
+Mitraik yapımı. Kutsal metinler
+kadar eski.
+
+176
+00:20:11,569 --> 00:20:14,755
+Varlığa bağlı olabilir.
+
+177
+00:20:14,838 --> 00:20:17,426
+Biri varlığın etkisinde olup
+çalmış olabilir.
+
+178
+00:20:17,526 --> 00:20:19,509
+O kişi ben miyim yani?
+
+179
+00:20:21,720 --> 00:20:24,056
+İyi görünmüyorsun.
+
+180
+00:20:24,139 --> 00:20:26,475
+Kafandaki şeyi ne zaman çıkaracaksın?
+
+181
+00:20:38,528 --> 00:20:40,656
+- Selam.
+- Selam.
+
+182
+00:20:44,576 --> 00:20:47,292
+Annemin araştırmasına bakıyordum.
+
+183
+00:20:47,392 --> 00:20:51,333
+Anlaşılan sinyal elektromanyetik alanın
+içinde iletilemiyormuş.
+
+184
+00:20:51,416 --> 00:20:56,004
+Bence ağaç sayesinde varlık
+bu engelin etrafından dolaşıyor.
+
+185
+00:20:56,088 --> 00:20:59,591
+Böylece yılanı silahlandırabildi.
+
+186
+00:21:01,218 --> 00:21:03,637
+Bir bakıma kablo gibi bir şey.
+
+187
+00:21:03,720 --> 00:21:05,931
+Yani sinyal yer altından geliyor.
+
+188
+00:21:06,014 --> 00:21:07,432
+Mümkün.
+
+189
+00:21:08,650 --> 00:21:11,019
+O çukurlardan birine inebilseydik keşke.
+
+190
+00:21:57,524 --> 00:21:59,693
+Neler oluyor?
+
+191
+00:21:59,776 --> 00:22:01,319
+Havai fişek.
+
+192
+00:22:01,403 --> 00:22:02,487
+Havai fişek mi?
+
+193
+00:22:02,571 --> 00:22:06,241
+İnsanlar mutlu olunca
+bir şeyleri patlatmayı sever.
+
+194
+00:22:06,324 --> 00:22:08,452
+Muhtemelen yılanın ölümünü
+kutluyorlardır.
+
+195
+00:22:19,463 --> 00:22:21,882
+Evet!
+
+196
+00:22:21,965 --> 00:22:25,218
+Harikaydı.
+
+197
+00:22:29,639 --> 00:22:31,516
+Paul.
+
+198
+00:22:36,271 --> 00:22:38,857
+Sue için üzgünüm. Korkunç bir şey.
+
+199
+00:22:42,527 --> 00:22:44,112
+Marcus nerede?
+
+200
+00:22:44,196 --> 00:22:46,448
+Bazı işlerle ilgileniyor.
+
+201
+00:22:46,531 --> 00:22:48,742
+Birkaç güne benim için dönecek.
+
+202
+00:22:48,825 --> 00:22:50,077
+Oturmak ister misin?
+
+203
+00:22:53,872 --> 00:22:55,707
+Selam. Nasılsın?
+
+204
+00:22:55,791 --> 00:22:57,584
+Bic işini görüyor mu?
+
+205
+00:22:57,667 --> 00:22:58,960
+Eh.
+
+206
+00:23:49,239 --> 00:23:51,227
+Tehlikeli.
+
+207
+00:24:00,981 --> 00:24:02,942
+Haklıymışsın.
+
+208
+00:24:03,025 --> 00:24:05,960
+Diğerleriyle birlikte kart taramasını
+ona da izletmeliydim.
+
+209
+00:24:06,043 --> 00:24:08,780
+Bazen onları korumaya çalışırken...
+
+210
+00:24:08,864 --> 00:24:11,032
+...istemeden savunmalarını
+zayıflatıyorsun.
+
+211
+00:24:11,116 --> 00:24:14,828
+Anne seni gönderdiği için minnettarım.
+
+212
+00:24:14,911 --> 00:24:16,538
+Deneyimli olduğun belli.
+
+213
+00:24:16,621 --> 00:24:21,126
+Sen ve Anne bunca zaman duyusal filtre
+olmadan çocukları büyütmeyi...
+
+214
+00:24:21,209 --> 00:24:24,713
+...nasıl başardınız bilemiyorum.
+
+215
+00:24:24,796 --> 00:24:28,258
+Onlar için hissettiğim endişe
+ve korku çok bunaltıcı.
+
+216
+00:24:28,341 --> 00:24:32,387
+Ayrıca onlarla sadece bir gündür
+birlikteyim.
+
+217
+00:24:32,471 --> 00:24:33,847
+Evet.
+
+218
+00:24:33,930 --> 00:24:36,391
+Bir çok açıdan...
+
+219
+00:24:36,474 --> 00:24:38,852
+...dertli bir iş.
+
+220
+00:24:40,604 --> 00:24:42,272
+Tam olarak değil.
+
+221
+00:24:44,316 --> 00:24:46,902
+Hâlâ bazı...
+
+222
+00:24:46,985 --> 00:24:49,086
+...hoş yanları var.
+
+223
+00:24:58,079 --> 00:25:02,740
+Anne'nin kaos yaratmaya olan
+eğilimine rağmen...
+
+224
+00:25:02,840 --> 00:25:05,119
+...ona oldukça sadığım, bilesin.
+
+225
+00:25:09,090 --> 00:25:13,762
+Onun kadar derin duygular
+yaşayan biri yok.
+
+226
+00:25:13,845 --> 00:25:15,555
+Bir çok açıdan...
+
+227
+00:25:17,891 --> 00:25:20,769
+...bir insandan bile daha duygusal.
+
+228
+00:25:20,852 --> 00:25:23,888
+Bu sebepten dolayı peçeyi çıkarmadığı
+için onu suçlamıyorum.
+
+229
+00:25:26,191 --> 00:25:28,568
+Ona olan sadakatine hayran kaldım.
+
+230
+00:25:28,652 --> 00:25:31,404
+Katılıyorum da.
+
+231
+00:25:31,488 --> 00:25:34,537
+O gerçekten olağanüstü bir canlı.
+
+232
+00:25:51,383 --> 00:25:53,510
+Çocuklar güvende mi?
+
+233
+00:25:53,593 --> 00:25:55,136
+<i>Evet.</i>
+
+234
+00:25:55,220 --> 00:25:59,933
+Yılanı öldürdüğümde istemsizce
+elektromanyetik alanı bozmuş olabilirim.
+
+235
+00:26:00,016 --> 00:26:02,360
+<i>Sıcaklık düşmeye devam ederse...</i>
+
+236
+00:26:02,444 --> 00:26:04,980
+<i>...yerleşecek başka bir bölge
+bulmamız gerekebilir.</i>
+
+237
+00:26:05,063 --> 00:26:08,316
+Sorun soğuk değil.
+Elektromanyetik alan olmadan...
+
+238
+00:26:08,400 --> 00:26:12,070
+...Tropik Bölge varlığın sinyaline karşı
+savunmasız kalacak.
+
+239
+00:26:13,989 --> 00:26:15,907
+Çocukları yakından izle.
+
+240
+00:26:15,991 --> 00:26:18,326
+Ben de geri kalan herkesi izleyeceğim.
+
+241
+00:26:31,923 --> 00:26:33,734
+Bir süre içeri kapandığımız için...
+
+242
+00:26:33,817 --> 00:26:36,277
+...oyun sistemini tamir edebilirim
+diye düşündüm.
+
+243
+00:26:36,361 --> 00:26:38,989
+Yüksek skorlarımı kaydetmiş mi?
+
+244
+00:26:39,089 --> 00:26:42,767
+O yazılım tamir olamayacak kadar
+zarar görmüştü maalesef.
+
+245
+00:26:42,851 --> 00:26:46,021
+Elimden en fazla bu geldi.
+
+246
+00:27:08,460 --> 00:27:10,837
+Bu bir oyun mu?
+
+247
+00:27:10,920 --> 00:27:14,299
+Benim zamanımdan kalma.
+Size demode gelebilir.
+
+248
+00:27:14,382 --> 00:27:17,010
+Robotlar işte.
+
+249
+00:27:17,093 --> 00:27:18,887
+Ben denerim.
+
+250
+00:27:27,020 --> 00:27:29,064
+Başlığı takmana gerek yok.
+
+251
+00:27:36,112 --> 00:27:37,697
+Eğlenceliymiş.
+
+252
+00:27:40,241 --> 00:27:42,577
+Beklemenize gerek yok.
+
+253
+00:27:42,660 --> 00:27:45,830
+İstiyorsanız oynayın.
+
+254
+00:27:47,707 --> 00:27:51,252
+- Çoklu oyunculu mu?
+- Evet.
+
+255
+00:27:51,336 --> 00:27:52,829
+Ufaklık çoktan katıldı bile.
+
+256
+00:29:35,190 --> 00:29:37,302
+Anne yönetimi sana devretmeyi
+düşünüyor mu?
+
+257
+00:29:37,502 --> 00:29:41,404
+Yedi numaraya üzüldüğü için
+böyle söyledi bence.
+
+258
+00:29:41,488 --> 00:29:44,657
+Artık peçesini taktığı için...
+
+259
+00:29:44,741 --> 00:29:49,579
+...hiçbir şeye üzülmüyor. Eh...
+
+260
+00:29:49,662 --> 00:29:50,788
+Neyse...
+
+261
+00:29:59,464 --> 00:30:03,510
+Vrille ölmeden önce bunu yazmıştı.
+
+262
+00:30:03,593 --> 00:30:06,346
+Gerçek Vrille'in günlüğündenmiş.
+
+263
+00:30:07,764 --> 00:30:10,391
+Oldukça basit bir şifreleme modeli.
+
+264
+00:30:10,475 --> 00:30:12,602
+Bakarak çözebilirim.
+
+265
+00:30:18,816 --> 00:30:20,735
+Saçma Dünya zırvaları işte.
+
+266
+00:30:23,154 --> 00:30:25,406
+Yeni girdiler olabilir diye umuyordum.
+
+267
+00:30:25,490 --> 00:30:27,784
+İkinizle ilgili mi?
+
+268
+00:30:36,042 --> 00:30:39,420
+Annemin holovideolarını izliyorum hâlâ.
+
+269
+00:30:39,504 --> 00:30:42,542
+Bana bir mesaj falan...
+
+270
+00:30:42,642 --> 00:30:45,385
+...gönderir belki diye düşünüyorum.
+
+271
+00:30:48,555 --> 00:30:51,140
+Göndermeyecek.
+
+272
+00:30:54,519 --> 00:30:56,271
+Öldüler Campion.
+
+273
+00:31:35,935 --> 00:31:38,062
+Ha siktir.
+
+274
+00:31:40,690 --> 00:31:44,152
+Bunu neden bana yapıyorsun?
+
+275
+00:31:44,235 --> 00:31:46,654
+Bir ses duydum. Seni nerede
+bulacağımı söyledi...
+
+276
+00:31:46,738 --> 00:31:50,825
+...ve seni cezalandırmak için
+ne yapmam gerektiğini.
+
+277
+00:31:50,908 --> 00:31:53,328
+Fazla ikna edilmem gerekmedi.
+
+278
+00:31:53,411 --> 00:31:56,873
+- O ses kötü Lucius.
+- Hayır. Asıl kötü sensin.
+
+279
+00:31:56,956 --> 00:32:00,335
+Işık benim. Gerçek peygamber.
+
+280
+00:32:00,418 --> 00:32:02,378
+Sol bana söyledi.
+
+281
+00:32:06,591 --> 00:32:10,178
+Bana bunu almamı emretti.
+
+282
+00:32:10,261 --> 00:32:13,890
+Yüzün kapalı bir şekilde...
+
+283
+00:32:13,973 --> 00:32:15,683
+...utanç içinde...
+
+284
+00:32:15,767 --> 00:32:18,186
+...karanlıkta ölmelisin.
+
+285
+00:32:36,663 --> 00:32:41,084
+Öldüğün zaman...
+
+286
+00:32:41,167 --> 00:32:43,044
+...tapınağa döneceğim.
+
+287
+00:32:43,127 --> 00:32:45,880
+Sen yolun yarısına kadar geldin.
+
+288
+00:32:45,963 --> 00:32:51,078
+Çürümüş sikik kalbin atmayı
+bıraktığı anda...
+
+289
+00:32:51,178 --> 00:32:53,282
+...dibine kadar gideceğim.
+
+290
+00:33:01,979 --> 00:33:03,815
+Meyve ağaçları ölürse...
+
+291
+00:33:03,898 --> 00:33:07,485
+...deniz mantarları yerlerine
+besin olarak kullanılabilir.
+
+292
+00:33:07,568 --> 00:33:09,161
+Kimyasal okyanus asla donmaz...
+
+293
+00:33:09,245 --> 00:33:13,491
+...ve ortam ne kadar soğursa soğusun
+geçerli bir yiyecek kaynağı olarak kalır.
+
+294
+00:33:13,574 --> 00:33:15,535
+Büyüleyici.
+
+295
+00:33:15,618 --> 00:33:17,787
+Eski bölgede buna benzer
+bir şey yaşamıştık.
+
+296
+00:33:17,871 --> 00:33:19,867
+Meyvelerin kökü kazınınca avlanmamız...
+
+297
+00:33:19,967 --> 00:33:22,959
+...veya duruma göre balık tutmamız
+gerekir diye korkmuştum.
+
+298
+00:33:23,042 --> 00:33:26,212
+Hayır, hayır. Yaratıkları yememeliler.
+
+299
+00:33:26,295 --> 00:33:28,881
+- Sorunlu bir durum.
+- Evet.
+
+300
+00:33:28,965 --> 00:33:30,800
+Vita, yakala.
+
+301
+00:33:31,968 --> 00:33:36,305
+Yaratığın insan kökenli olduğunu çocuklara
+ya da başkasına açıklamadık.
+
+302
+00:33:36,389 --> 00:33:38,772
+Anne onları boş yere üzmeyi sevmiyor.
+
+303
+00:33:40,652 --> 00:33:42,895
+<i>Lamia onlara söylememekle
+bilgece davranmış.</i>
+
+304
+00:33:42,979 --> 00:33:45,356
+<i>Her zaman insanoğlunun
+sonsuz yaşamı için...</i>
+
+305
+00:33:45,440 --> 00:33:49,944
+<i>...en önemli şeyin bilgi değil de
+mutluluk olduğuna inanmışımdır.</i>
+
+306
+00:33:50,027 --> 00:33:51,358
+<i>Neydi o söz?</i>
+
+307
+00:33:51,458 --> 00:33:53,419
+Cehalet mutluluktur.
+
+308
+00:33:53,619 --> 00:33:55,783
+Tam olarak mutluluk olmasa da...
+
+309
+00:33:55,867 --> 00:33:59,037
+...hayatta kalmanın kilit noktası.
+
+310
+00:33:59,137 --> 00:34:03,082
+İlginç bir bakış açısı.
+Fakat katılmıyorum.
+
+311
+00:34:03,166 --> 00:34:07,420
+Merak, insanın aklını geliştirmesi...
+
+312
+00:34:07,503 --> 00:34:09,950
+...iyi yaşanmış bir hayatın
+kilit noktası budur.
+
+313
+00:34:11,307 --> 00:34:12,508
+Aklıma bir espri geldi.
+
+314
+00:34:12,592 --> 00:34:16,721
+<i>Espri dinleme havanda olduğunda
+beni uyar ki sana anlatayım.</i>
+
+315
+00:34:16,804 --> 00:34:19,098
+<i>Her zaman espri dinleme
+havamdayım Baba.</i>
+
+316
+00:34:19,182 --> 00:34:21,100
+<i>Büyükanne burada kalacak galiba.</i>
+
+317
+00:34:24,395 --> 00:34:26,481
+<i>Anne'ye ihanet ettiğimizi hissediyorum.</i>
+
+318
+00:34:26,564 --> 00:34:29,233
+<i>Ben hissetmiyorum.</i>
+
+319
+00:34:29,317 --> 00:34:31,585
+<i>Anne dönse de dönmese de
+umurumda değil.</i>
+
+320
+00:34:33,279 --> 00:34:39,952
+<i>Bir insan bara girer ve barmene evrim
+konulu bir kitap okuduğunu söyler.</i>
+
+321
+00:34:40,036 --> 00:34:43,122
+<i>Barmen sorar:
+"Kitabı tavsiye eder misin?"</i>
+
+322
+00:34:45,082 --> 00:34:47,919
+<i>Su havadan daha sıcak.</i>
+
+323
+00:34:48,002 --> 00:34:49,462
+<i>Keşke içine girebilseydik.</i>
+
+324
+00:34:51,020 --> 00:34:56,969
+<i>İnsan cevap verir:
+"Evet. Başlangıcı harika değil...</i>
+
+325
+00:34:57,053 --> 00:35:00,306
+<i>...ama ilerledikçe iyileşiyor."</i>
+
+326
+00:35:00,389 --> 00:35:03,768
+<i>Cildim aside alışıyor sanki.</i>
+
+327
+00:35:03,851 --> 00:35:04,982
+<i>Bak.</i>
+
+328
+00:35:13,736 --> 00:35:16,489
+<i>Mutasyon saptandı.</i>
+
+329
+00:35:16,572 --> 00:35:19,617
+<i>"İyileşiyor, iyileşiyor, iyileşiyor..."</i>
+
+330
+00:35:23,287 --> 00:35:25,915
+<i>Bak, nasır tutmuş gibi.</i>
+
+331
+00:35:28,869 --> 00:35:32,967
+<i>- Evrimle ilgili bir kitap okuyorum...
+- Cildim aside alışıyor...</i>
+
+332
+00:36:58,549 --> 00:37:01,219
+Peçe güçlerini hükümsüz kılıyor.
+
+333
+00:37:01,302 --> 00:37:05,473
+Yani artık duygularını
+hükümsüz kılmıyor.
+
+334
+00:37:05,556 --> 00:37:09,393
+Yaşayacağın acı için üzgünüm.
+
+335
+00:37:18,277 --> 00:37:22,353
+- Çocuklarıma ters evrim geçirtiyorsun.
+- Görevimi tamamlamam için gerekli.
+
+336
+00:37:22,453 --> 00:37:26,160
+Görevin insanoğlunun sonsuz yaşamını...
+
+337
+00:37:26,243 --> 00:37:28,079
+...garanti altına almak!
+- Evet.
+
+338
+00:37:28,162 --> 00:37:31,415
+Yine de hâlâ insanlar.
+
+339
+00:37:31,499 --> 00:37:35,169
+Kendilerinin daha basit,
+daha mutlu versiyonları.
+
+340
+00:37:35,252 --> 00:37:38,172
+Gerekli yanıtı üretmek için...
+
+341
+00:37:38,255 --> 00:37:40,174
+...denklemi değiştirmem gerekti.
+
+342
+00:37:40,257 --> 00:37:41,572
+Hayır, bu doğru değil.
+
+343
+00:37:41,672 --> 00:37:47,348
+- Denklemle uyumlu. Mantıklı olan bu.
+- Ama doğru değil!
+
+344
+00:37:48,700 --> 00:37:50,017
+Seni yok edeceğim.
+
+345
+00:37:50,101 --> 00:37:54,021
+Seni yerle yeksan edeceğim.
+
+346
+00:37:54,105 --> 00:37:57,233
+Seni kurutana kadar kanını
+akıtacağım. Seni...
+
+347
+00:37:57,316 --> 00:38:00,069
+Bir androide göre çok gençsin Lamia.
+
+348
+00:38:00,152 --> 00:38:03,072
+Daha çocuksun.
+
+349
+00:38:04,281 --> 00:38:07,410
+İnsanlar suya girdiği zaman...
+
+350
+00:38:07,493 --> 00:38:11,706
+...varlık uykusuna geri dönecek.
+
+351
+00:38:11,789 --> 00:38:15,584
+O zaman sana söz veriyorum,
+seni serbest bırakacak...
+
+352
+00:38:15,668 --> 00:38:18,713
+...ve anlamana yardımcı olacağım.
+
+353
+00:38:18,796 --> 00:38:19,964
+Hayır!
+
+354
+00:38:20,047 --> 00:38:23,050
+Yemin ederim seni öldüreceğim!
+
+355
+00:38:23,134 --> 00:38:26,012
+Seni bulup yok edeceğim!
+
+356
+00:38:26,095 --> 00:38:29,265
+Çıkar beni! Çıkar beni!
+
+357
+00:38:29,348 --> 00:38:31,225
+<i>- Çıkar beni!</i>
+- Simülasyona başla.
+
+358
+00:39:02,173 --> 00:39:04,008
+Çıkar beni!
+
+359
+00:39:04,091 --> 00:39:06,427
+Çıkar beni!
+
+360
+00:39:10,848 --> 00:39:13,017
+Çıkar ben...
+
+361
+00:39:53,216 --> 00:39:54,308
+Onu bulamadım.
+
+362
+00:39:54,391 --> 00:39:58,312
+- Tarantula'da yok muydu?
+- Hayır.
+
+363
+00:39:58,395 --> 00:39:59,707
+Tuhaf.
+
+364
+00:39:59,807 --> 00:40:02,441
+Gideceğini söylememişti.
+
+365
+00:40:04,235 --> 00:40:06,362
+Sana bir şey söyledi mi Büyükanne?
+
+366
+00:40:08,572 --> 00:40:09,990
+Hayır.
+
+367
+00:40:10,074 --> 00:40:12,201
+Ama zamanında döneceğine eminim.
+
+368
+00:40:17,998 --> 00:40:20,167
+Söyledim ya, montu veririm...
+
+369
+00:40:20,251 --> 00:40:22,670
+...ama karşılığında üç şarjör
+cephane isterim.
+
 370
-00:42:33,259 --> 00:42:36,303
-Yardımcı olabilirsin o zaman.
+00:40:22,753 --> 00:40:24,071
+Öyle olsun. Al.
 
 371
-00:42:36,387 --> 00:42:40,349
-Günümüzün inananları biyoteknolojik ağaç
-kullanarak bir yılanı silahlandırdı.
+00:40:27,133 --> 00:40:28,779
+Sıradaki kim?
 
 372
-00:42:40,432 --> 00:42:44,895
-Gezegeni yok etmeye çalışacaktır.
-Varlık bunu istiyor.
+00:40:28,879 --> 00:40:31,428
+Mont. Babam için büyüklerinden.
 
 373
-00:42:46,522 --> 00:42:48,482
-Neden?
+00:40:31,512 --> 00:40:33,722
+Birkaç tane kaldı.
 
 374
-00:42:48,565 --> 00:42:52,945
-İnsanlar yüzyıllarca bu sorunun
-cevabını aradı.
+00:40:33,806 --> 00:40:36,308
+Daha fazla madalyon
+kabul etmiyorum kızım.
 
 375
-00:42:53,028 --> 00:42:58,909
-En nihayetinde kendi mantıklarının
-sınırları bunu imkânsız kıldı.
+00:40:36,392 --> 00:40:40,855
+Kurtarıcımız, yılan katili Lamia.
 
 376
-00:42:58,993 --> 00:43:01,161
-O varlık hafızamı enfekte etti.
+00:40:40,938 --> 00:40:42,523
+Tanrı Lamia.
 
 377
-00:43:01,245 --> 00:43:03,163
-Beni manipüle etti.
+00:40:55,953 --> 00:40:57,580
+Al bakalım.
 
 378
-00:43:03,247 --> 00:43:07,251
-Sonuç olarak bir çocuk oldu. Bir yılan.
+00:41:01,167 --> 00:41:06,839
+Beni rejenere eden yakıt kanını
+sen tedarik etmişsin diye duydum.
 
 379
-00:43:07,334 --> 00:43:10,170
-Gördüğüm kadarıyla yılanın
-ağabeyini kıskanması...
+00:41:06,922 --> 00:41:09,425
+Minnettarlığımı göstermek isterim.
 
 380
-00:43:10,254 --> 00:43:14,787
-...onu gezegeni yok etmekten
-daha çok motive ediyor.
+00:41:11,152 --> 00:41:14,805
+Yerleşimciler holoyun sistemlerini
+geliştirmek için bunları kullanabilir.
 
 381
-00:43:16,677 --> 00:43:18,929
-Duyguları var demek.
+00:41:14,889 --> 00:41:17,833
+Hava durumunun elverişsizliğinden
+dolayı...
 
 382
-00:43:23,642 --> 00:43:25,451
-Onu ben doğurdum.
+00:41:17,917 --> 00:41:20,477
+...evlerinde daha çok vakit
+geçireceklerine eminim.
 
 383
-00:43:27,271 --> 00:43:30,065
-Muhtemelen vardır yani.
+00:41:20,561 --> 00:41:23,355
+Bunlar onlara eğlence sağlamakla
+kalmayacak...
 
 384
-00:43:32,109 --> 00:43:35,487
-Asıl sorun bakıcılık programın demek.
+00:41:23,439 --> 00:41:27,776
+...zihinlerini varlığa karşı dayanıklı
+ve korunaklı hâle getirecek.
 
 385
-00:43:35,571 --> 00:43:36,864
-Evet.
+00:41:36,327 --> 00:41:39,330
+Korktukları zaman...
 
 386
-00:43:37,614 --> 00:43:42,202
-Onu öldüremiyorum.
+00:41:39,413 --> 00:41:43,667
+...ateistler bile dua edecekleri
+tanrılar uydurur.
 
 387
-00:43:42,286 --> 00:43:44,371
-Peçem.
+00:41:45,794 --> 00:41:47,796
+Seni temin ederim...
 
 388
-00:43:44,455 --> 00:43:47,249
-Belki de nakledilebilir.
+00:41:47,880 --> 00:41:51,425
+...o dualar cevapsız kalacak.
 
 389
-00:43:47,333 --> 00:43:50,472
-Bakıcılık dürtülerini geçersiz kılabilir.
+00:41:51,509 --> 00:41:53,224
+Oyunu oyna.
 
 390
-00:43:52,671 --> 00:43:55,257
-Bir tür duyusal filtre mi?
+00:41:53,324 --> 00:41:55,679
+Böyle hayatta kalabilirsin.
 
 391
-00:43:55,341 --> 00:43:57,051
-Evet.
+00:42:18,077 --> 00:42:22,081
+Müjdemi isterim. Yeni holoyunlarım var.
+Yepyeni holoyunlar.
 
 392
-00:43:57,134 --> 00:44:00,387
-Bu şekilde insanlar için en iyi kararı
-verebiliyoruz.
+00:42:22,164 --> 00:42:24,227
+Sonunda be.
 
 393
-00:44:01,847 --> 00:44:04,224
-Çıkarmak senin için zor olur mu?
+00:42:24,327 --> 00:42:26,727
+Ölümbüyücüsü Katili oynamaktan
+gına gelmişti.
 
 394
-00:44:05,976 --> 00:44:09,063
-Senin takmandan daha zor olmaz.
+00:42:50,025 --> 00:42:51,568
+Ölmedin mi daha?
 
 395
-00:44:24,286 --> 00:44:26,830
-Hadi. Hadi. Hadi.
+00:43:32,067 --> 00:43:35,029
+Şimdi ben Kral olacağım.
 
 396
-00:44:45,749 --> 00:44:46,833
-Ne var?
+00:44:04,641 --> 00:44:05,976
+Ne oluyoruz lan?
 
 397
-00:44:47,033 --> 00:44:48,267
-Olamaz.
-
-398
-00:44:49,520 --> 00:44:51,647
-Sorun ne?
-
-399
-00:44:51,730 --> 00:44:53,440
-Ne yapıyorsun?
-
-400
-00:44:59,446 --> 00:45:02,658
-Omuriliğim hasar gördü.
-
-401
-00:45:03,651 --> 00:45:07,663
-- Tamir etmenin bir yolunu buluruz ama...
-- Hayır. Bu beni tamamen tahrip edecek.
-
-402
-00:45:10,124 --> 00:45:11,625
-Ne demek tahrip edecek?
-
-403
-00:45:11,708 --> 00:45:14,795
-Yaklaşık dört veya beş dakika içinde
-devre dışı kalacağım.
-
-404
-00:45:14,878 --> 00:45:17,297
-Daimi olarak kapanacağım.
-
-405
-00:45:17,381 --> 00:45:19,508
-Sadece birazını yazacak zamanım var.
-
-406
-00:45:20,551 --> 00:45:23,429
-İyi kısımları seçmeye çalışacağım.
-
-407
-00:45:23,512 --> 00:45:24,921
-En sevdiği günlerini.
-
-408
-00:45:25,021 --> 00:45:28,064
-Annemin bana yaptırdığı ilk şey
-tüm günlüklerini indirmekti.
-
-409
-00:45:28,164 --> 00:45:30,144
-Taklit etmeyi kolaylaştırdı.
-
-410
-00:45:30,227 --> 00:45:32,062
-Düşüncelerinin korunması önemli.
-
-411
-00:45:32,980 --> 00:45:36,066
-Her şeyin boşuna olmadığını bilmek...
-
-412
-00:45:36,150 --> 00:45:38,902
-...onu mutlu ederdi.
-
-413
-00:45:46,243 --> 00:45:50,372
-<i>Tehlike: Ürün arızadan kısa bir süre
-sonra radyoaktif olacaktır.</i>
-
-414
-00:45:50,456 --> 00:45:54,001
-<i>Belirlenmiş atık depolarımıza
-götürünüz.</i>
-
-415
-00:45:54,084 --> 00:45:56,628
-<i>Teşekkürler kullanıcı ve iyi günler.</i>
-
-416
-00:46:04,227 --> 00:46:10,126
+00:44:52,173 --> 00:44:58,117
 Çeviren: Sacrer
 twitter.com/Sacrer_
+<i>Gelecek sezonda görüşmek dileğiyle.</i>
 
