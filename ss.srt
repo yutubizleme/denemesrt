@@ -1,2497 +1,2010 @@
 ﻿1
-00:00:17,700 --> 00:00:18,900
-Pardon.
+00:00:12,760 --> 00:00:13,800
+<i>Nesiniz siz?</i>
 
 2
-00:00:26,820 --> 00:00:28,020
-Burası Ölüler Diyarı mı?
+00:00:14,120 --> 00:00:15,240
+<i>Melekleriz.</i>
 
 3
-00:00:30,700 --> 00:00:32,235
-Bize nereye gittiğinizi söyleyin.
+00:00:20,800 --> 00:00:22,720
+<i>Yılan rolünü oynaman gerek.</i>
 
 4
-00:00:33,740 --> 00:00:36,180
-Sanki bir şey tarafından
-öne doğru çekiliyorlar.
+00:00:23,640 --> 00:00:28,120
+<i>Ömrün boyunca bunun için hazırlanıyordun.</i>
 
 5
-00:00:42,340 --> 00:00:43,620
-Kes şunu Pan.
+00:00:29,280 --> 00:00:31,000
+<i>Kızı kurtar.</i>
 
 6
-00:00:45,020 --> 00:00:46,300
-Ne yapıyor?
+00:00:31,760 --> 00:00:33,120
+<i>Oğlanı da.</i>
 
 7
-00:00:51,740 --> 00:00:54,700
-- Beklediğimiz buydu.
-- Peki herkesin cini nerede?
+00:00:39,880 --> 00:00:41,000
+Ben ne yapıyorum?
 
 8
-00:00:55,280 --> 00:00:58,917
-Daha önce de cinlerin olmadığı bir sürü
-dünyaya gittik. Cebime gir, sorun kalmaz.
+00:00:44,000 --> 00:00:45,682
+Konuşan bir filin peşinden gidiyorum.
 
 9
-00:00:58,940 --> 00:01:02,300
-Burada cinleri olması gerektiği hâlde
-olmayan insanlar var.
+00:01:12,920 --> 00:01:13,920
+Nasıl yani?
 
 10
-00:01:09,780 --> 00:01:10,780
-O iyi mi?
+00:01:26,040 --> 00:01:27,040
+Cidden mi?
 
 11
-00:01:11,980 --> 00:01:12,980
-İyi.
+00:02:46,200 --> 00:02:47,600
+Bu sensin.
 
 12
-00:01:14,300 --> 00:01:15,300
-Öyle görünmüyor.
+00:02:48,760 --> 00:02:49,760
+Bir Atal.
 
 13
-00:01:21,100 --> 00:01:22,220
-Onu daha önce gördün mü?
+00:02:52,720 --> 00:02:53,720
+Mary.
 
 14
-00:01:23,020 --> 00:01:24,020
-Hayır.
+00:02:55,200 --> 00:02:58,440
+Sence de burada olmamın bir sebebi vardır,
+değil mi Atal?
 
 15
-00:01:25,580 --> 00:01:26,860
-Yanlış yerdeyiz.
+00:02:59,260 --> 00:03:04,619
+<font color="#ffff00">"Melek"?
+"Yılan rolü oyna"?</font>
 
 16
-00:01:28,700 --> 00:01:30,860
-Bu doğru olmalı. Burası olmalı.
+00:03:11,240 --> 00:03:13,480
+Bunlar ağaçlardan. Bunlar çok
 
 17
-00:01:31,420 --> 00:01:32,460
-Gel.
+00:03:14,440 --> 00:03:15,520
+yağlı.
 
 18
-00:02:23,780 --> 00:02:24,780
-Dur orada!
+00:03:18,700 --> 00:03:19,700
+<font color="#ffff00">Yağ.</font>
 
 19
-00:02:26,460 --> 00:02:27,460
-Dur!
+00:03:33,780 --> 00:03:35,979
+<font color="#ffff00">Ağaçlar Sraf.</font>
 
 20
-00:02:32,340 --> 00:02:33,340
-Merhaba.
+00:03:54,380 --> 00:03:58,179
+<font color="#ffff00">Sanırım büyük ağaçlardan düşüyorlar...</font>
 
 21
-00:02:34,220 --> 00:02:35,848
-Seni tekrar gördüğüme çok sevindim.
+00:04:08,820 --> 00:04:12,059
+<font color="#ffff00">Sraf az az</font>
 
 22
-00:02:37,100 --> 00:02:40,500
-Lütfen Kardinal'e
-Bayan Coulter'ın döndüğünü söyle.
+00:04:17,200 --> 00:04:19,920
+Senin ve diğerlerinin
+"Sraf"tan bahsettiğinizi duydum.
 
 23
-00:04:36,860 --> 00:04:38,340
-Güzel. Bu güzel.
+00:04:21,080 --> 00:04:22,840
+Nedir bu Sraf?
 
 24
-00:04:43,380 --> 00:04:44,780
-Hayır! Hayır! Durun!
+00:04:29,420 --> 00:04:30,619
+<font color="#ffff00">Sraf uyuyor</font>
 
 25
-00:04:45,020 --> 00:04:47,020
-Herkes dursun.
+00:04:34,240 --> 00:04:38,280
+Ben? Ben uyuyor muyum?
 
 26
-00:04:49,660 --> 00:04:50,660
-Siz.
+00:04:45,260 --> 00:04:47,219
+<font color="#ffff00">Yaşaması lazım</font>
 
 27
-00:04:51,380 --> 00:04:52,940
-Evet, size diyorum!
+00:04:50,240 --> 00:04:53,680
+<i>Etrafta daha fazla ölü tohum zarfı</i>
+<i>görüyordum.</i>
 
 28
-00:04:53,540 --> 00:04:55,180
-Siz ölü değilsiniz.
+00:04:54,760 --> 00:04:56,920
+<i>Ürettikleri yağa ihtiyacınız yok mu?</i>
 
 29
-00:04:57,780 --> 00:05:01,260
-Bir kaza oldu. Birileri bizi kovalıyordu.
-Kendimizi burada bulduk.
+00:05:00,940 --> 00:05:05,579
+<font color="#ffff00">Yağ bizim düşünce ve hislerimizin
+merkezidir. Bize Sraf verir.</font>
 
 30
-00:05:01,380 --> 00:05:04,500
-Ölü değilseniz burada istenmiyorsunuz.
+00:05:06,780 --> 00:05:09,539
+<font color="#ffff00">Ben nasıl...</font>
 
 31
-00:05:05,380 --> 00:05:06,460
-Dinleyin.
+00:05:13,360 --> 00:05:14,800
+...öğrenebilirim...
 
 32
-00:05:07,180 --> 00:05:10,740
-Çok uzun yoldan geldik. Geç
-olmadan arkadaşımı bulmak istiyorum.
+00:05:15,140 --> 00:05:18,179
+<font color="#ffff00">Size yardım etmeyi nasıl öğrenebilirim?</font>
 
 33
-00:05:10,860 --> 00:05:14,780
-Önce adamlar kovalıyordu.
-Şimdi arkadaş arıyorsunuz.
+00:05:18,860 --> 00:05:23,419
+<font color="#ffff00">Yardım etmek için
+Sraf'ı görmeyi öğrenmen gerek.</font>
 
 34
-00:05:14,900 --> 00:05:17,740
-Onu burada bulamazsınız, yalancı.
+00:05:26,700 --> 00:05:30,739
+<font color="#ffff00">Buraya getirilmenin bir sebebi var Mary.</font>
 
 35
-00:05:20,060 --> 00:05:22,140
-32 no.lu bekleme alanına gidin.
+00:07:30,720 --> 00:07:33,040
+Ondan bu kadar uzakta olmak
+nasıl bir duygu?
 
 36
-00:05:22,940 --> 00:05:24,060
-Onlara bunu verin.
+00:07:34,160 --> 00:07:35,160
+Pan'den.
 
 37
-00:05:33,220 --> 00:05:34,460
-Ne kadar bekleyeceğiz?
+00:07:37,920 --> 00:07:41,360
+Demirden bir el kalbimi yakalamış
+ve kaburgalarımın arasından
 
 38
-00:05:35,860 --> 00:05:37,660
-Tabii ki ölene dek.
+00:07:41,480 --> 00:07:42,600
+söküp alıyormuş gibi.
 
 39
-00:05:41,700 --> 00:05:42,900
-Hadi!
+00:07:45,800 --> 00:07:47,391
+Aynı zamanda zihinsel de, değil mi?
 
 40
-00:05:48,300 --> 00:05:49,300
-Ne yazıyor?
+00:07:48,320 --> 00:07:52,480
+Sanki özel, gizli bir şey
+açığa çekiliyormuş gibi.
 
 41
-00:05:53,940 --> 00:05:55,100
-Burası olmalı.
+00:07:54,240 --> 00:07:55,240
+Evet.
 
 42
-00:05:56,300 --> 00:05:57,980
-Suyu bulup karşıya geçmemiz gerek.
+00:07:58,400 --> 00:08:01,640
+Bana hep bir cinin olması gerek dedin
+ve sana hiç inanmadım.
 
 43
-00:06:01,700 --> 00:06:05,740
-Umarım bir önceki görüşmemizden
-geriye kalıcı zarar görmemişizdir.
+00:08:03,440 --> 00:08:06,213
+Şimdi sanki onu tüm hayatım boyunca
+tanıyormuşum gibi geliyor.
 
 44
-00:06:07,740 --> 00:06:10,020
-Sadece kızımı korumaya çalışıyordum.
+00:08:12,880 --> 00:08:14,380
+Belki şu anda Pan'le birliktedir.
 
 45
-00:06:11,820 --> 00:06:14,500
-Son konuştuğumuzda
-söyleyecek çok şeyin vardı.
+00:08:18,280 --> 00:08:20,040
+Cinlerimize döneceğiz.
 
 46
-00:06:14,700 --> 00:06:20,140
-Kaçma, aptallık ve hatalar konusunda
-bir sürü güzel cümle kurdun.
+00:08:20,720 --> 00:08:21,720
+Bunu biliyorum.
 
 47
-00:06:20,420 --> 00:06:22,820
-Hepsini sana Kardinal öğretti tabii,
-biliyorum.
+00:08:22,720 --> 00:08:23,920
+Bıçak bizde.
 
 48
-00:06:22,940 --> 00:06:23,980
-Peder Başkan.
+00:08:25,560 --> 00:08:26,960
+Birlikteyiz.
 
 49
-00:06:24,900 --> 00:06:28,860
-- Anlayamadım?
-- Kardinal değil o. Peder Başkan.
+00:08:28,560 --> 00:08:30,040
+Ve bir sebeple sana güveniyorum.
 
 50
-00:06:29,820 --> 00:06:32,140
-Ayrıca onun sözleri değildi. Benimkilerdi.
+00:08:45,120 --> 00:08:48,200
+Daha ne kadar sürecek?
+- Ne kadar sürmesi gerekiyorsa o kadar.
 
 51
-00:06:33,260 --> 00:06:35,820
-Evet, seninki gibi takıntıları bilirim.
+00:08:48,960 --> 00:08:51,320
+Zaman burada canı istediği gibi işler.
 
 52
-00:06:35,940 --> 00:06:37,020
-Öyle mi?
+00:08:53,400 --> 00:08:54,920
+Korkmayın ama.
 
 53
-00:06:38,300 --> 00:06:39,980
-Bence bilmiyorsun.
+00:08:55,360 --> 00:08:56,680
+Korkmuyorum.
 
 54
-00:06:40,940 --> 00:06:43,420
-Bence inancı anlamıyorsun.
+00:08:58,040 --> 00:09:02,160
+Bu tekneye binen savaşçılar,
+suikastçılar ve savaş generalleri
 
 55
-00:06:43,540 --> 00:06:46,380
-Sen çok genç bir adamsın Peder Gomez.
+00:09:02,280 --> 00:09:03,720
+hep aynı şeyi söyledi.
 
 56
-00:06:46,500 --> 00:06:50,460
-Bize geri geldiğini
-bildiğimizi düşünmedin mi?
-
-57
-00:06:51,900 --> 00:06:53,140
-Ait olduğun yere.
-
-58
-00:06:54,460 --> 00:06:59,100
-Majisteryum'un neyi bilip bilmediğini
-anlamayı zor buluyorum.
-
-59
-00:07:00,820 --> 00:07:04,100
-Şu İnanç her zaman yoluma çıkıyor gibi.
-
-60
-00:07:12,820 --> 00:07:14,180
-Kim o?
-
-61
-00:07:14,300 --> 00:07:16,380
-- Ben Peder Gomez. Yanımda...
-- Benim Hugh!
-
-62
-00:07:17,300 --> 00:07:20,060
-Yoksa artık sadece
-Peder Başkan'a mı cevap veriyorsun?
-
-63
-00:07:21,140 --> 00:07:23,180
-Hadi. Bizi içeri al.
-
-64
-00:07:24,540 --> 00:07:25,540
-Girin.
-
-65
-00:07:31,620 --> 00:07:32,620
-Önden buyur.
-
-66
-00:07:43,260 --> 00:07:44,780
-Bayan Coulter.
-
-67
-00:07:48,540 --> 00:07:50,180
-Oğlan kalacak mı?
-
-68
-00:07:51,540 --> 00:07:52,740
-Teşekkürler Peder Gomez.
-
-69
-00:07:59,220 --> 00:08:00,220
-Güzel.
-
-70
-00:08:00,940 --> 00:08:02,300
-Sadece ikimiz varız.
-
-71
-00:08:45,740 --> 00:08:47,700
-- Elbette tutuklusun.
-- Ne kadar üzücü.
-
-72
-00:08:47,820 --> 00:08:51,300
-- Kasıtlı olarak engelleme...
-- Cidden gerek yok. Yardıma geldim.
-
-73
-00:08:51,420 --> 00:08:56,060
-- Havva'yı bulmamıza engel oldun.
-- Bitirmeme izin verirsen...
-
-74
-00:08:57,100 --> 00:08:59,060
-Buraya gönüllü olarak geldim.
-
-75
-00:09:00,060 --> 00:09:03,100
-Asriel'ın kalesinden
-kaçabildiğim anda kaçtım.
-
-76
-00:09:03,220 --> 00:09:05,140
-Kıyafetlerime bak Hugh.
-
-77
-00:09:06,180 --> 00:09:10,700
-Sana onun teknolojisinden de bir şey
-getirdim. Âlimlerin bayılacaktır.
-
-78
-00:09:10,820 --> 00:09:13,620
-Tek önemli olan çocuk.
-
-79
-00:09:13,740 --> 00:09:16,020
-Benim çocuğum.
-
-80
-00:09:16,140 --> 00:09:21,940
-Aletiyometre onun kim olduğu ve bize
-ne getirebileceği konusunda çok netti.
-
-81
-00:09:24,300 --> 00:09:26,100
-Hâlâ kendine zarar veriyor musun?
-
-82
-00:09:33,420 --> 00:09:37,860
-Seni kardinal yaptım.
-Bunu güvenini kazanmak için yaptım.
-
-83
-00:09:38,340 --> 00:09:40,100
-Karşılığında bana ihanet ettin.
-
-84
-00:09:40,220 --> 00:09:41,940
-Ben mi sana ihanet ettim?
-
-85
-00:09:42,660 --> 00:09:45,980
-O kız günah!
-- Hayır.
-
-86
-00:09:46,740 --> 00:09:51,220
-Ona potansiyeli var ve bunun farkındaydım
-ve tehlike geçene kadar...
-
-87
-00:09:51,240 --> 00:09:53,236
-- Öyle bir şey yoktu!
-- ...onu korumak için çözümlerim vardı.
-
-88
-00:09:53,260 --> 00:09:54,636
-- Sonra sen geldin...
-- Yalanların iğrenç!
-
-89
-00:09:54,660 --> 00:09:55,900
-...ve her şeyi yok ettin!
-
-90
-00:10:06,940 --> 00:10:11,580
-Onu hangi tehlikeden koruduğunu
-sanıyordun?
-
-91
-00:10:14,460 --> 00:10:20,060
-Cennet düştü ama Eve yaratıldığında değil
-baştan çıktığında düştü.
-
-92
-00:10:21,140 --> 00:10:23,220
-Bir yerlerde bir baştan çıkarıcı var.
-
-93
-00:10:23,580 --> 00:10:24,740
-Bir yılan.
-
-94
-00:10:25,340 --> 00:10:27,580
-Ve onların karşılaşmasını
-önlemek zorunda kaldım.
-
-95
-00:10:28,740 --> 00:10:32,540
-Lyra elimdeydi. Oğlan elimdeydi.
-Hepsi elimdeydi.
-
-96
-00:10:32,660 --> 00:10:35,180
-Sonra sen askerlerini yollayıp
-hepsini kaçırdın.
-
-97
-00:10:42,300 --> 00:10:46,060
-Herhâlde Fra Pavel
-sana bir bıçaktan bahsetti.
-
-98
-00:10:48,580 --> 00:10:52,580
-Otorite'yi bile bizzat öldürebilecek kadar
-güçlü bir silah.
-
-99
-00:10:54,540 --> 00:10:55,780
-O bıçağı da getirdim.
-
-100
-00:10:58,860 --> 00:11:00,500
-Onu terbiye eden bendim.
-
-101
-00:11:02,060 --> 00:11:05,140
-Senin için hâlâ yapabileceklerimi
-hafife alma.
-
-102
-00:11:07,020 --> 00:11:09,820
-Eskisi gibi sana tavsiye vermem konusunda
-bana güven.
-
-103
-00:11:09,940 --> 00:11:13,100
-Girilmesi gereken savaşlara konsantre ol,
-Lyra'yı
-
-104
-00:11:13,580 --> 00:11:15,348
-ve baştan çıkarılmasını da bana bırak.
-
-105
-00:11:15,500 --> 00:11:18,940
-Asriel hâlâ aktif olarak kızı arıyor mu?
-
-106
-00:11:20,300 --> 00:11:22,620
-Lyra onun çok ilgisini çekmedi.
-
-107
-00:11:27,940 --> 00:11:29,300
-Bıçak onun ilgisini çekti.
-
-108
-00:11:29,980 --> 00:11:34,060
-Ama şimdi bıçak kırıldığı için
-Asriel sadece savaş görüyor.
-
-109
-00:11:35,580 --> 00:11:38,060
-Ve savaşma biçimi Hugh...
-
-110
-00:11:39,580 --> 00:11:40,820
-...korkutucu.
-
-111
-00:11:45,580 --> 00:11:49,940
-Sanırım gözlerimin önünde
-bir meleği öldürdüğünü gördüm.
-
-112
-00:11:52,420 --> 00:11:53,420
-Melek mi?
-
-113
-00:11:58,260 --> 00:11:59,780
-Bir melek Asriel'a mı gitti?
-
-114
-00:12:02,020 --> 00:12:03,140
-Evet.
-
-115
-00:12:07,100 --> 00:12:08,756
-Öyle bir şeye nasıl zarar verebilir?
-
-116
-00:12:08,780 --> 00:12:11,180
-Yoluna çıkan her şeye zarar verir.
-
-117
-00:12:11,820 --> 00:12:16,220
-Sana söylüyorum onda delilik var.
-Ben de bu yüzden geldim Hugh.
-
-118
-00:12:17,020 --> 00:12:18,509
-Sana verebileceğimi vermek için.
-
-119
-00:12:19,060 --> 00:12:21,100
-O zaman savaş için bizimle misin?
-
-120
-00:12:22,060 --> 00:12:24,020
-Asriel'a karşı.
-
-121
-00:12:25,260 --> 00:12:27,060
-Toz'a karşı.
-
-122
-00:12:28,740 --> 00:12:29,950
-Benden şüphe mi ediyorsun?
-
-123
-00:12:30,620 --> 00:12:34,900
-Bazen bağlılığını okumak zor oluyor
-Marisa.
-
-124
-00:12:36,620 --> 00:12:38,220
-Zihnim sende.
-
-125
-00:12:39,300 --> 00:12:41,500
-Bedenim ve ruhum da.
-
-126
-00:12:44,660 --> 00:12:47,380
-Ve Otorite'nin kendisine teşekkür ederim.
-
-127
-00:12:48,380 --> 00:12:53,460
-Majisteryum'u Kardinal Sturrock değil de
-sen yönettiğin için.
-
-128
-00:12:57,700 --> 00:12:59,980
-O baştan çıkarılmaya karşı koyamaz.
-
-129
-00:13:00,980 --> 00:13:05,860
-Ama sen...
-Senin kaçınma yeteneğin olağanüstü.
-
-130
-00:13:28,260 --> 00:13:30,100
-Birlikte yaptığımız şeyi unutma.
-
-131
-00:13:32,100 --> 00:13:34,820
-Hayatlarımız birbirine dolanmış vaziyette.
-
-132
-00:14:00,300 --> 00:14:01,300
-Belgeler.
-
-133
-00:14:08,420 --> 00:14:10,220
-507 no.lu bekleme alanına gidin.
-
-134
-00:14:11,420 --> 00:14:12,820
-Başka bir bekleme alanına mı?
-
-135
-00:14:13,140 --> 00:14:16,860
-Başka bir bekleme alanına değil, hayır.
-507 no.lu bekleme alanına.
-
-136
-00:14:16,980 --> 00:14:20,580
-5-0-7. Önemli kısmı o.
-
-137
-00:14:20,860 --> 00:14:21,860
-Nerede?
-
-138
-00:14:22,780 --> 00:14:25,860
-Sadece sor. Herkes bekliyor. Sizin gibi.
-
-139
-00:14:34,020 --> 00:14:35,220
-Belgeler.
-
-140
-00:14:49,660 --> 00:14:50,660
-İyi akşamlar.
-
-141
-00:14:50,940 --> 00:14:53,700
-Senin için. Bir barış ikramı.
-
-142
-00:14:56,780 --> 00:14:59,460
-Peki o nedir?
-
-143
-00:15:00,540 --> 00:15:02,140
-Katlanıp kafese mi konuyor?
-
-144
-00:15:08,860 --> 00:15:10,140
-Seni bu şekilde bulduk.
-
-145
-00:15:11,740 --> 00:15:13,540
-Nazik bir hediye.
-
-146
-00:15:18,500 --> 00:15:19,500
-Sahi mi?
-
-147
-00:15:26,780 --> 00:15:27,780
-Anne.
-
-148
-00:15:29,100 --> 00:15:30,540
-Memnuniyetle yardım etti.
-
-149
-00:15:34,620 --> 00:15:35,860
-Elbette.
-
-150
-00:16:22,060 --> 00:16:25,780
-Her zaman bir zarafeti vardı.
-
-151
-00:16:31,500 --> 00:16:34,140
-Merhaba Bayan Coulter.
-
-152
-00:16:35,900 --> 00:16:38,420
-İşte haşerelerin sorunu da bu.
-
-153
-00:16:39,460 --> 00:16:42,260
-Her yere giriyorlar.
-- En küçük sorunun benim.
-
-154
-00:16:43,060 --> 00:16:44,340
-Seni o mu yolladı?
-
-155
-00:16:44,980 --> 00:16:47,300
-Evet. Niyet Gemisi'ne peşinden bindim.
-
-156
-00:16:47,420 --> 00:16:49,460
-Ajanlığa mı yardım etmeye mi geldin?
-
-157
-00:16:50,540 --> 00:16:51,780
-Planın ne?
-
-158
-00:16:51,900 --> 00:16:54,700
-Her hareketimi Asriel'a bildiresin
-diye mi? Hiç sanmıyorum.
-
-159
-00:16:54,820 --> 00:16:58,900
-Yapamam. Kaçışın sırasında
-mıknatıslı yankı cihazım hasar gördü.
-
-160
-00:16:59,620 --> 00:17:04,180
-Enteresan. Neyse,
-aslında senin bana ihtiyacın var.
-
-161
-00:17:06,140 --> 00:17:09,340
-Onlar Lyra'yı öldürmeden
-onları öldürmek niyetindesin.
-
-162
-00:17:10,500 --> 00:17:12,220
-Ya önce seni öldürürlerse?
-
-163
-00:17:14,220 --> 00:17:15,860
-Kendini çok kolay riske atıyorsun.
-
-164
-00:17:16,500 --> 00:17:18,180
-Burayla ilgili ne biliyorsun?
-
-165
-00:17:19,820 --> 00:17:21,140
-Ne gördün?
-
-166
-00:17:22,100 --> 00:17:24,860
-Hadi ama seçeneğin yok.
-
-167
-00:17:25,780 --> 00:17:29,460
-Ben olmadan Niyet Gemin olmaz
-ve Niyet Gemisi olmadan da
-
-168
-00:17:29,580 --> 00:17:31,180
-Asriel'a dönemezsin.
-
-169
-00:17:32,700 --> 00:17:34,300
-Ne gördün?
-
-170
-00:17:35,340 --> 00:17:37,540
-Peder Gomez'i takip ediyordum.
-
-171
-00:17:38,180 --> 00:17:41,380
-Görünüşe göre bir odayla
-özellikle ilgileniyor.
-
-172
-00:18:52,780 --> 00:18:54,036
-Yürümeye devam mı edeceğiz?
-
-173
-00:18:55,300 --> 00:18:57,207
-Yürümeye devam etmeliymişiz gibi geliyor.
-
-174
-00:18:57,740 --> 00:19:00,940
-- Bakıyorlar, değil mi?
-- Evet, bakıyorlar ve bir şey demiyorlar.
-
-175
-00:19:01,820 --> 00:19:03,420
-Sanki bir korku filminde gibiyiz.
-
-176
-00:19:04,220 --> 00:19:07,011
-Neden kendini kötü hissettiren bir filmi
-izlemek istersin ki?
-
-177
-00:19:07,820 --> 00:19:10,500
-- Haklısın.
-- Ayılı filmi sevmiştim.
-
-178
-00:19:10,620 --> 00:19:11,780
-Kimsiniz?
-
-179
-00:19:14,340 --> 00:19:17,300
-Yolcuyuz.
-Ölüler Diyarı'na gidiyoruz.
-
-180
-00:19:18,340 --> 00:19:20,980
-Evet. Aynı yoldayız.
-
-181
-00:19:26,660 --> 00:19:30,149
-Lütfen. Ne yaptığımızı bilmiyoruz.
-Siz de biraz dost canlısı görünüyorsunuz.
-
-182
-00:19:30,660 --> 00:19:32,820
-Buradaki kuralları öğrenmemiz gerekiyor.
-
-183
-00:19:37,020 --> 00:19:38,020
-Peki.
-
-184
-00:19:38,940 --> 00:19:39,940
-Girebilirsiniz.
-
-185
-00:19:42,020 --> 00:19:43,020
-Teşekkürler.
-
-186
-00:19:53,580 --> 00:19:54,580
-Evet.
-
-187
-00:19:56,380 --> 00:19:57,620
-Kendinizi tanıtın.
-
-188
-00:19:58,420 --> 00:20:01,020
-Merhaba. Ben Lyra. Bu da Will.
-
-189
-00:20:01,340 --> 00:20:03,380
-Sizi gereğinden fazla
-rahatsız etmeyeceğiz.
-
-190
-00:20:04,460 --> 00:20:07,020
-Ama arkadaşımı arıyoruz.
-Kendisi Ölüler Diyarı'nda.
-
-191
-00:20:07,080 --> 00:20:09,956
-Burası oranın bir parçası mı ya da oraya
-nasıl gideceğiz, bilmiyoruz.
-
-192
-00:20:09,980 --> 00:20:13,740
-O yüzden biriniz bize bir şey
-söyleyebilirse çok makbule geçer.
-
-193
-00:20:14,180 --> 00:20:16,156
-Neden Ölümleri onlara
-nereye gideceklerini söylemedi?
-
-194
-00:20:16,180 --> 00:20:18,500
-Larissa, bize yardım için geldiler.
-
-195
-00:20:18,780 --> 00:20:20,129
-Yardıma ihtiyaçları olmamalı.
-
-196
-00:20:20,220 --> 00:20:21,244
-Ölümlerinizle konuşun.
-
-197
-00:20:21,340 --> 00:20:24,220
-Bizim Ölümlerimiz yok çünkü ölmedik.
-
-198
-00:20:24,580 --> 00:20:26,780
-Tamam. Oturun.
-
-199
-00:20:37,420 --> 00:20:38,909
-Siz de ölü değilsiniz, değil mi?
-
-200
-00:20:39,820 --> 00:20:41,260
-Bekleme alanında olanlar.
-
-201
-00:20:41,740 --> 00:20:46,700
-Ölümlerimiz yakında
-ve bize yol gösteriyor.
-
-202
-00:20:47,180 --> 00:20:49,940
-Onu istiyoruz, hazırız ama...
-
-203
-00:20:52,540 --> 00:20:55,100
-...o bizi almaya hazır değil.
-- "Ölüm" nedir?
-
-204
-00:20:56,180 --> 00:20:57,900
-Hiçbir şey bilmiyorlar.
-
-205
-00:21:01,100 --> 00:21:02,580
-Herkesin bir Ölümü vardır.
-
-206
-00:21:03,180 --> 00:21:05,900
-Hayatları boyunca
-onlarla her yere giderler.
-
-207
-00:21:06,260 --> 00:21:08,660
-- Korkutucu değil mi bu?
-- Hiç değil canım.
-
-208
-00:21:09,220 --> 00:21:10,740
-Doğal bir şey.
-
-209
-00:21:12,660 --> 00:21:14,500
-Doğduğunuz andan itibaren
-
-210
-00:21:16,100 --> 00:21:17,820
-ölümünüz sizinle dünyaya gelir.
-
-211
-00:21:19,980 --> 00:21:21,900
-Sizi alıp götüren de Ölümünüz olur.
-
-212
-00:21:24,340 --> 00:21:25,740
-Bunda bir sevgi vardır.
-
-213
-00:21:26,340 --> 00:21:27,820
-Ölümümüzü görebiliyor musunuz?
-
-214
-00:21:28,260 --> 00:21:29,500
-Hayır canım.
-
-215
-00:21:30,100 --> 00:21:31,300
-Sadece kendimizinkini.
-
-216
-00:21:35,020 --> 00:21:39,020
-Hazır olduğunuzda
-çok güzel olduğunu söylüyorlar.
-
-217
-00:21:40,100 --> 00:21:43,580
-Ölümünüz şöyle diyor:
-"Yavaş ol.
-
-218
-00:21:44,180 --> 00:21:47,740
-Yavaş ol çocuğum. Benimle gel."
-
-219
-00:21:48,780 --> 00:21:50,300
-Onlarla gidersin.
-
-220
-00:21:50,420 --> 00:21:53,580
-Tekneye ve tekneciye.
-
-221
-00:21:54,380 --> 00:21:55,740
-Rüyamda gördüğüm buydu.
-
-222
-00:21:56,300 --> 00:21:57,780
-Gitmemiz gereken yer orası.
-
-223
-00:21:58,380 --> 00:22:01,060
-Ölümleriniz olmadan oraya gidemezsiniz.
-
-224
-00:22:01,540 --> 00:22:03,476
-Bize yerini söylerseniz sizi rahatsız
-etmeyi keseriz.
-
-225
-00:22:03,500 --> 00:22:05,220
-Nerede olduğunu bilmiyoruz.
-
-226
-00:22:05,340 --> 00:22:08,968
-Öte tarafta ne olduğunu da bilmiyoruz.
-Kimse bilmiyor çünkü kimse geri dönmedi.
-
-227
-00:22:12,220 --> 00:22:16,820
-Suyu geçip de
-Ölüler Diyarı'na gitmenin tek yolu
-
-228
-00:22:17,180 --> 00:22:19,260
-ancak kendi Ölümlerinizledir.
-
-229
-00:22:20,020 --> 00:22:24,620
-Onları nazikçe ve arkadaşça davet edin.
-
-230
-00:22:26,620 --> 00:22:27,980
-O zaman geleceklerdir.
-
-231
-00:22:35,500 --> 00:22:36,820
-Kahvaltı.
-
-232
-00:22:37,660 --> 00:22:40,740
-Kahvaltıya ihtiyacım yok.
-Dua etmem gerek.
-
-233
-00:22:41,660 --> 00:22:43,620
-Bu hisarın şapeli nerede?
-
-234
-00:22:52,420 --> 00:22:55,020
-Odanızda kalmanı isteniyor Bayan Coulter.
-
-235
-00:22:55,140 --> 00:22:58,500
-Hayır. Şapeli arıyorum.
-Günahlarımdan arınmam gerek.
-
-236
-00:22:58,620 --> 00:23:02,340
-Odanızda da şapeldeki gibi
-kolayca dua edebilirsiniz.
-
-237
-00:23:02,580 --> 00:23:05,940
-Hayır, Otorite'nin sesini
-en güçlü kendi evinde duyabiliyorum.
-
-238
-00:23:10,180 --> 00:23:14,340
-Şapele gitmek istiyorsanız
-belirlenen zamanda gitmeniz gerek.
-
-239
-00:23:15,380 --> 00:23:16,660
-Hay aksi. Sahi mi?
-
-240
-00:23:16,980 --> 00:23:19,725
-Hazır buradayken etrafa bakmamın
-sakıncası yoktur, değil mi?
-
-241
-00:23:28,740 --> 00:23:31,540
-Hayır. Pek ilginç değiller.
-
-242
-00:23:36,940 --> 00:23:41,540
-- Durmazsanız...
-- Tam olarak ne yaparsın?
-
-243
-00:23:43,420 --> 00:23:44,700
-Desteği çağırırım.
-
-244
-00:23:45,300 --> 00:23:46,340
-Güzel.
-
-245
-00:23:47,460 --> 00:23:49,380
-Hepimize destek lazım.
-
-246
-00:23:51,740 --> 00:23:52,740
-Devam et.
-
-247
-00:24:10,780 --> 00:24:11,780
-Günaydın.
-
-248
-00:24:11,860 --> 00:24:12,860
-Günaydın.
-
-249
-00:24:18,580 --> 00:24:20,460
-Doktor Cooper.
-
-250
-00:24:24,140 --> 00:24:29,780
-Hâlâ çalışıyor olmanız
-ne kadar güzel ve beklenmedik bir şey.
-
-251
-00:24:30,100 --> 00:24:33,220
-Aslında sizi yaşıyor görmek ne harika.
-
-252
-00:24:33,820 --> 00:24:36,900
-Korkarım yaşamadığınızı varsaymıştım.
-
-253
-00:24:37,620 --> 00:24:41,300
-Hugh MacPhail en iyi kaçaklarımı topluyor.
-
-254
-00:24:43,300 --> 00:24:45,900
-Pekâlâ, ne üzerinde çalışıyoruz?
-
-255
-00:24:46,180 --> 00:24:48,620
-Bunlar maalesef gizli Bayan Coulter.
-
-256
-00:24:48,740 --> 00:24:49,860
-Doktor Cooper.
-
-257
-00:24:50,540 --> 00:24:52,500
-Bana karşı hep nazik oldunuz.
-
-258
-00:24:57,460 --> 00:24:59,900
-Şu anda bunu kesmeniz için
-bir sebep göremiyorum.
-
-259
-00:25:01,420 --> 00:25:04,980
-Siz de her zaman
-nazikçe karşılık verdiniz.
-
-260
-00:25:06,420 --> 00:25:07,860
-Ayrıca Kardinal...
-
-261
-00:25:08,380 --> 00:25:11,900
-Peder Başkan ve ben
-birbirimizden hiçbir şey saklamayız.
-
-262
-00:25:12,500 --> 00:25:13,780
-Endişelenmenize gerek yok.
-
-263
-00:25:15,460 --> 00:25:18,660
-Burası bir tür titreşim odası, doğru mu?
-
-264
-00:25:20,540 --> 00:25:24,356
-Ah, ilginç. Cin giyotinimizin
-tasarımının bir kısmını kullanmışsınız.
-
-265
-00:25:24,380 --> 00:25:29,900
-Hatta bir parçadan fazlası.
-Neden hâlâ bunun üzerinde çalışıyorsunuz?
-
-266
-00:25:33,340 --> 00:25:37,420
-Ve bu...
-
-267
-00:25:39,060 --> 00:25:40,180
-Ne yazıyor?
-
-268
-00:25:41,540 --> 00:25:44,220
-Yazdığına göre burada...
-
-269
-00:25:47,060 --> 00:25:48,900
-Doktor Cooper.
-
-270
-00:25:51,100 --> 00:25:52,860
-Bomba mı yapıyorsunuz?
-
-271
-00:25:53,980 --> 00:25:56,180
-- Anlamıyorsunuz.
-- Anlıyorum.
-
-272
-00:26:05,860 --> 00:26:10,540
-Bir açıdan yönlendirilebilir gibi.
-Yönünü belirleyen ne?
-
-273
-00:26:12,620 --> 00:26:13,620
-Otorite.
-
-274
-00:26:15,140 --> 00:26:17,700
-Bu doğru değil, öyle değil mi?
-
-275
-00:26:23,020 --> 00:26:25,140
-Geldiler. Benim için.
-
-276
-00:26:25,860 --> 00:26:27,907
-Sizin için değil
-ama bunu zaten biliyordunuz.
-
-277
-00:26:29,180 --> 00:26:31,740
-Kendimizi ne ilginç bir durumda bulduk.
-
-278
-00:26:34,380 --> 00:26:35,660
-Gomez.
-
-279
-00:26:47,740 --> 00:26:49,300
-Ne yapıyorsun Lyra?
-
-280
-00:26:50,940 --> 00:26:53,140
-Kendi Ölümlerimizi davet etmemizi söyledi.
-
-281
-00:26:53,500 --> 00:26:58,540
-Belki zihnimi Aletiyometre'yi okuduğum
-zamanki hâline sokarsam bana gelir.
-
-282
-00:26:59,740 --> 00:27:00,740
-Dikkatli ol.
-
-283
-00:27:03,620 --> 00:27:05,020
-Bekle.
-
-284
-00:27:05,140 --> 00:27:06,460
-Bunu konuşabilir miyiz?
-
-285
-00:27:07,700 --> 00:27:09,460
-Ne konuşacağız? Karar verdik zaten.
-
-286
-00:27:09,580 --> 00:27:11,860
-Biliyorum ama Ölümü çağırmak...
-
-287
-00:27:12,940 --> 00:27:16,340
-Bunun anlamını biliyor musun?
-- Elbette hayır ama bunca yol geldik.
-
-288
-00:27:17,180 --> 00:27:18,580
-Belki doğrusu bu değildir.
-
-289
-00:27:19,140 --> 00:27:22,380
-Ama yapacağız.
-Buraya bunu yapmaya geldik.
-
-290
-00:27:22,500 --> 00:27:24,180
-Geri dönmek için çok geç değil.
-
-291
-00:27:24,540 --> 00:27:26,354
-Bıçakla eve dönüş yolumuzu bulabiliriz.
-
-292
-00:27:27,540 --> 00:27:28,940
-Sen benim tarafımdaydın.
-
-293
-00:27:29,820 --> 00:27:31,620
-Ben senin tarafındayım sanıyordum.
-
-294
-00:27:35,980 --> 00:27:37,620
-İkiniz de anlamıyorsunuz, değil mi?
-
-295
-00:27:37,860 --> 00:27:40,220
-Roger'a veda etme şansım olmadı.
-
-296
-00:27:40,340 --> 00:27:42,700
-Üzgünüm deme şansım olmadı.
-
-297
-00:27:42,820 --> 00:27:45,340
-Tek yapabildiğim
-her şeyi elimden geldiğince düzeltmek.
-
-298
-00:27:45,860 --> 00:27:47,700
-Bunu yaparken ölsem bile.
-
-299
-00:27:49,020 --> 00:27:50,020
-Lyra.
-
-300
-00:27:52,260 --> 00:27:53,300
-Geldi.
-
-301
-00:28:01,500 --> 00:28:02,900
-Ölümümsün.
-
-302
-00:28:04,580 --> 00:28:05,580
-Evet.
-
-303
-00:28:06,620 --> 00:28:07,980
-Beni götürmeye geldin.
-
-304
-00:28:09,020 --> 00:28:11,860
-Beni istedin, ben de geldim.
-
-305
-00:28:14,980 --> 00:28:16,460
-Onunla yalnız konuşmalıyım.
-
-306
-00:28:17,860 --> 00:28:21,580
-- Kiminle konuştuğunu göremiyorum.
-- Tabii göremezsin.
-
-307
-00:28:22,300 --> 00:28:23,580
-O benim.
-
-308
-00:28:27,700 --> 00:28:28,820
-Beni takip et.
-
-309
-00:28:31,300 --> 00:28:33,700
-Geri döneceğim. Merak etme.
-
-310
-00:28:58,740 --> 00:28:59,780
-Otorite.
-
-311
-00:29:01,380 --> 00:29:03,334
-<i>Dualarıma cevap verdiğin için teşekkürler.</i>
-
-312
-00:29:09,780 --> 00:29:13,700
-<i>Bu savaşı kazanmak için gerekenleri</i>
-<i>bana bahşettiğin için de.</i>
-
-313
-00:29:20,420 --> 00:29:22,420
-<i>Sadece senin sevgin</i>
-
-314
-00:29:24,140 --> 00:29:25,780
-<i>ve rehberliğin sayesinde</i>
-
-315
-00:29:27,860 --> 00:29:30,300
-<i>yapılması gereken şey için güç bulacağım.</i>
-
-316
-00:29:35,060 --> 00:29:37,820
-<i>Bizi kurtuluşa götür.</i>
-
-317
-00:29:44,780 --> 00:29:46,100
-Onu takip et.
-
-318
-00:29:57,460 --> 00:29:58,500
-Saç.
-
-319
-00:29:58,860 --> 00:30:00,860
-Bunun çocuğa ait olduğundan emin miyiz?
-
-320
-00:30:01,540 --> 00:30:03,580
-Fra Pavel emin.
-
-321
-00:30:06,780 --> 00:30:08,380
-Yeterince var mı Doktor Cooper?
-
-322
-00:30:10,620 --> 00:30:11,700
-Bu yeterli olacaktır.
-
-323
-00:30:13,780 --> 00:30:15,300
-Ne kadar çabuk hazır olabilir?
-
-324
-00:30:16,620 --> 00:30:17,620
-Birkaç günde.
-
-325
-00:30:20,460 --> 00:30:22,321
-Teşekkürler Peder Gomez. Hepsi bu kadar.
-
-326
-00:30:33,500 --> 00:30:37,980
-Bir kez harekete geçtiğinde
-bombanın kızı bulacağından emin misin?
-
-327
-00:30:38,780 --> 00:30:40,660
-Her birey eşsizdir.
-
-328
-00:30:41,620 --> 00:30:44,060
-İçimizde kodlar vardır.
-Anbarik titreşimler.
-
-329
-00:30:44,900 --> 00:30:48,620
-Bunları kullanarak
-bu cihaza nişan aldırıyoruz.
-
-330
-00:30:49,260 --> 00:30:52,940
-Saç her nerede olursa olsun
-bir bütün olmak isteyecek.
-
-331
-00:30:55,340 --> 00:30:57,740
-Bu takipte acımasız olacaklar.
-
-332
-00:31:00,980 --> 00:31:03,100
-Kız nerede olursa olsun.
-
-333
-00:31:03,700 --> 00:31:05,380
-Hangi dünyada olursa olsun...
-
-334
-00:31:06,180 --> 00:31:07,900
-Sapkınlığımı mazur görün...
-
-335
-00:31:08,700 --> 00:31:10,340
-Bomba, Lyra'yı bulacaktır.
-
-336
-00:31:33,020 --> 00:31:34,220
-Hâlâ burada mısın?
-
-337
-00:31:37,500 --> 00:31:39,380
-Sürekli görünüp kayboluyorsun.
-
-338
-00:31:40,780 --> 00:31:42,100
-Her zaman buradayım.
-
-339
-00:31:43,460 --> 00:31:45,940
-Hayatın boyunca peşinden geldim.
-
-340
-00:31:48,580 --> 00:31:53,100
-Ben hayatının her anında yanında olan
-özel, sadık arkadaşınım.
-
-341
-00:31:54,540 --> 00:31:56,180
-Seni herkesten iyi tanıyan.
-
-342
-00:31:57,580 --> 00:31:58,700
-Bu doğru değil.
-
-343
-00:32:00,220 --> 00:32:03,380
-Seni kendinden bile daha iyi tanıyan.
-
-344
-00:32:04,260 --> 00:32:05,620
-Bir anlaşma yapmamız gerek.
-
-345
-00:32:07,500 --> 00:32:09,540
-Bir anlaşma yapabileceğimden emin değilim.
-
-346
-00:32:11,940 --> 00:32:15,580
-Bak, ölmediğimi biliyorum.
-Ölüler Diyarı'na gitmem gerek.
-
-347
-00:32:15,700 --> 00:32:18,100
-Orada birini görüp sonra geri geleceğim.
-
-348
-00:32:21,100 --> 00:32:22,170
-Bana yardım eder misin?
-
-349
-00:32:22,980 --> 00:32:27,260
-Eninde sonunda hiç çaba sarf etmeden
-Ölüler Diyarı'na gideceksin çocuğum.
-
-350
-00:32:28,100 --> 00:32:29,140
-Risksiz.
-
-351
-00:32:30,220 --> 00:32:32,340
-Güvenli ve sakin bir yolculuk.
-
-352
-00:32:33,580 --> 00:32:35,500
-Ama oraya acele etmeye gerek yok.
-
-353
-00:32:37,060 --> 00:32:38,380
-Ama gitmem gerek.
-
-354
-00:32:39,780 --> 00:32:40,940
-Will de öyle.
-
-355
-00:32:42,780 --> 00:32:45,016
-İkimizin de bizden erken alınan
-tanıdıklarımız var
-
-356
-00:32:45,040 --> 00:32:47,200
-ve ikimizin de
-düzeltmesi gereken şeyler var.
-
-357
-00:32:47,220 --> 00:32:49,980
-Herkes ölmüşlerle konuşabilmek ister.
-
-358
-00:32:50,100 --> 00:32:52,060
-Neden senin için bir ayrıcalık olsun?
-
-359
-00:32:54,140 --> 00:32:55,140
-Çünkü
-
-360
-00:32:56,660 --> 00:32:58,614
-tüm hayatım boyunca
-benimle birlikteydiysen
-
-361
-00:32:59,980 --> 00:33:01,660
-bu sorunun geleceğini biliyordun.
-
-362
-00:33:03,100 --> 00:33:04,635
-Gerçekten benimle birlikteydiysen
-
-363
-00:33:05,900 --> 00:33:07,380
-cevabını da biliyorsun.
-
-364
-00:33:08,420 --> 00:33:09,660
-Seni izledim.
-
-365
-00:33:11,420 --> 00:33:12,860
-Seçimlerini gördüm.
-
-366
-00:33:18,900 --> 00:33:19,970
-Onun ölümünü gördün mü?
-
-367
-00:33:20,740 --> 00:33:22,020
-Roger'ın ölümünü.
-
-368
-00:33:25,300 --> 00:33:26,300
-Gördüm.
-
-369
-00:33:31,660 --> 00:33:33,060
-İstisnai olmak istemiyorum.
-
-370
-00:33:35,580 --> 00:33:36,900
-Belki eskiden istiyordum.
-
-371
-00:33:39,220 --> 00:33:41,900
-Ailemin tek önem verdiği bu.
-
-372
-00:33:43,700 --> 00:33:45,142
-Ben sadece iyi olmak istiyorum.
-
-373
-00:33:45,220 --> 00:33:47,260
-Sadece birine yardım etmek istiyorum.
-
-374
-00:33:48,460 --> 00:33:52,060
-Roger'ın bana ihtiyacı var.
-Geçen sefer yanında olamamıştım.
-
-375
-00:33:55,060 --> 00:33:56,260
-Bana bak.
-
-376
-00:33:58,020 --> 00:33:59,580
-Kalbime bak.
-
-377
-00:34:02,340 --> 00:34:03,340
-Bana yardım et.
-
-378
-00:34:08,460 --> 00:34:11,220
-Rehberin olacağım Lyra Gümüşdil.
-
-379
-00:34:12,820 --> 00:34:14,460
-Sana girişi göstereceğim.
-
-380
-00:34:15,980 --> 00:34:17,260
-Oraya gittiğinde
-
-381
-00:34:18,740 --> 00:34:20,540
-öteki taraf benim mekânım değil.
-
-382
-00:34:22,540 --> 00:34:26,700
-Yani tekrar çıkma işini
-kendi başına halletmen gerekiyor.
-
-383
-00:35:22,180 --> 00:35:23,460
-Günaydın.
-
-384
-00:35:55,260 --> 00:35:56,980
-Bekle. Bekle.
-
-385
-00:36:18,580 --> 00:36:19,580
-Dönmüşsün.
-
-386
-00:36:20,940 --> 00:36:24,220
-O hâlâ...
-- Yakında mı? Evet.
-
-387
-00:36:25,780 --> 00:36:27,060
-Ne dedi?
-
-388
-00:36:27,780 --> 00:36:29,129
-Benim Ölümümü görebiliyor mu?
-
-389
-00:36:30,020 --> 00:36:31,695
-Onun Ölümünü göremiyorsun, değil mi?
-
-390
-00:36:31,740 --> 00:36:33,780
-Hayır. Ve o da göremeyecek.
-
-391
-00:36:34,660 --> 00:36:36,900
-Hazır olana kadar Ölümünü göremezsin.
-
-392
-00:36:38,100 --> 00:36:39,220
-Vakit gelene kadar.
-
-393
-00:36:40,660 --> 00:36:42,149
-Ölümünü sadece sen görebilirsin.
-
-394
-00:36:42,700 --> 00:36:44,060
-Doğru zaman geldiğinde.
-
-395
-00:36:46,860 --> 00:36:48,820
-Ölümüm bizi suya götürecek.
-
-396
-00:36:49,220 --> 00:36:50,580
-Hazırsan.
-
-397
-00:36:51,460 --> 00:36:53,740
-- Hazır mıyım?
-- Umarım.
-
-398
-00:36:54,980 --> 00:36:56,340
-Hazır olman gerekiyor.
-
-399
-00:37:02,940 --> 00:37:05,420
-Beni en güzel yerlere götürüyorsun,
-biliyor musun?
-
-400
-00:37:47,300 --> 00:37:48,300
-Şerefe.
-
-401
-00:38:06,620 --> 00:38:08,220
-Yapacak başka ne kaldı?
-
-402
-00:38:38,620 --> 00:38:42,980
-Buraya onu korumaya geldin ama onun yerine
-onlara bir bomba fitili verdin.
-
-403
-00:38:43,100 --> 00:38:44,420
-Kibir.
-
-404
-00:38:46,140 --> 00:38:49,300
-Saf kibir. Onları çok hafife aldım.
-
-405
-00:38:50,500 --> 00:38:53,100
-Gitmemiz gerek. Asriel'a dönmeliyiz.
-
-406
-00:38:53,220 --> 00:38:55,700
-Ne yaptıklarını öğrendiğinde...
-- Ne yapacak?
-
-407
-00:38:58,220 --> 00:38:59,300
-Belki...
-
-408
-00:39:00,940 --> 00:39:02,260
-Müdahale edecektir.
-
-409
-00:39:04,060 --> 00:39:05,060
-Öyle mi?
-
-410
-00:39:46,660 --> 00:39:47,940
-Haklısın.
-
-411
-00:39:49,420 --> 00:39:52,460
-Buraya onlar Lyra'yı öldürmeden
-onları öldürmek için geldim.
-
-412
-00:39:54,220 --> 00:39:56,900
-Ve bir şansları daha olmasına
-izin vermeyeceğim.
-
-413
-00:39:57,540 --> 00:39:59,500
-Bombalarını durdurduk.
-
-414
-00:40:02,500 --> 00:40:03,820
-Geri dönmemiz gerek.
-
-415
-00:40:03,940 --> 00:40:04,940
-Hayır.
-
-416
-00:40:06,020 --> 00:40:09,460
-Çünkü başka bir yol bulacaklardır.
-Sonra başka ve başka.
-
-417
-00:40:11,260 --> 00:40:13,100
-Bunun hemen durması gerek.
-
-418
-00:40:19,220 --> 00:40:21,020
-Niyet Gemisi'ni bulmalıyız.
-
-419
-00:40:22,740 --> 00:40:23,980
-Niyetin ne?
-
-420
-00:40:26,500 --> 00:40:27,700
-Yıkım.
-
-421
-00:40:43,340 --> 00:40:45,527
-Her adımda daha da yavaşlıyorsun,
-biliyor musun?
-
-422
-00:40:46,580 --> 00:40:49,976
-Fikrini değiştirmek için çok geç değil.
-- Fikrimi değiştirmek istemiyorum.
-
-423
-00:40:50,180 --> 00:40:52,780
-Annem "Sen düzeltene kadar
-hiçbir şey düzelmez" derdi.
-
-424
-00:40:55,540 --> 00:40:58,340
-Gelmek istemiyorsan sorun değil.
-Yalnız gidebilirim.
-
-425
-00:40:58,460 --> 00:41:01,860
-Seni aylar boyunca cehennemin kapısında
-terk etmek için aramadım.
-
-426
-00:41:02,020 --> 00:41:03,648
-Bunun cehennem olduğunu sanmıyorum.
-
-427
-00:41:03,700 --> 00:41:05,980
-Biraz cehenneme benziyor ama değil.
-
-428
-00:41:06,660 --> 00:41:08,596
-- Emin olduğundan emin olmak istiyorum.
-- Eminim.
-
-429
-00:41:08,620 --> 00:41:10,476
-Bazen bazı şeyler yapar,
-bazı yerlere gideriz
-
-430
-00:41:10,500 --> 00:41:13,803
-ve oraya nasıl geldiğimizi unuturuz.
-- Buraya nasıl geldiğimi biliyorum.
-
-431
-00:41:13,900 --> 00:41:15,420
-Ya geri dönmezsen.
-
-432
-00:41:16,660 --> 00:41:18,860
-O zaman önemli bir şey yaparken
-ölmüş olacağım.
-
-433
-00:41:40,500 --> 00:41:41,980
-Peşimden gel.
-
-434
-00:41:56,860 --> 00:41:57,940
-Çabuk.
-
-435
-00:42:00,420 --> 00:42:01,460
-Dur orada!
-
-436
-00:42:06,300 --> 00:42:08,260
-Dur! Orada dur!
-
-437
-00:42:09,780 --> 00:42:10,900
-Bu taraftan.
-
-438
-00:42:12,460 --> 00:42:14,140
-Niyet Gemisi önümüzde.
-
-439
-00:42:30,180 --> 00:42:31,980
-Seni izletmediğimi mi sandın?
-
-440
-00:42:36,780 --> 00:42:38,580
-Seçeneğin yok Marisa.
-
-441
-00:42:38,940 --> 00:42:40,380
-Onu yine de öldüreceksin.
-
-442
-00:42:42,100 --> 00:42:44,460
-Ne yaparsam yapayım.
-- O konuda
-
-443
-00:42:45,660 --> 00:42:47,060
-seçeneğim yok.
-
-444
-00:42:48,300 --> 00:42:49,980
-Ama benim bir açıklamam var.
-
-445
-00:42:52,060 --> 00:42:55,620
-Kardinal Sturrock'ın ölümü için
-yargılanmak istiyorum.
-
-446
-00:42:57,580 --> 00:43:00,700
-Varlığının her parçasıyla günah işleyen
-biri olan
-
-447
-00:43:00,820 --> 00:43:05,380
-Peder Başkan'ınızla
-birlikte tasarladığımız bir cinayet.
-
-448
-00:43:06,100 --> 00:43:07,100
-Yalancı.
-
-449
-00:43:07,620 --> 00:43:09,860
-Gerçeği söylediğimi biliyorsun.
-
-450
-00:43:10,900 --> 00:43:14,780
-Aynı iddiayı Yüksek Disiplin Divanı'nın
-önünde de tekrarlayacağım.
-
-451
-00:43:14,900 --> 00:43:16,500
-Burada bir hakkın yok.
-
-452
-00:43:17,420 --> 00:43:20,220
-Sen her zaman elinde olmayanı isteyen
-ahlaksız bir kadınsın.
-
-453
-00:43:20,340 --> 00:43:23,980
-Kocan, sevgilin sapkın Asriel tarafından
-öldürüldü.
-
-454
-00:43:24,260 --> 00:43:30,420
-Gayrimeşru çocuğun da bizzat
-günaha dönüşene kadar terk edildi.
-
-455
-00:43:30,540 --> 00:43:33,620
-Ben değiştim, sen değişmedin Hugh.
-Durdurulman gerek.
-
-456
-00:43:33,740 --> 00:43:35,540
-Hugh mu? Kim bu Hugh?
-
-457
-00:43:35,660 --> 00:43:37,420
-Ben Peder Başkanınım.
-
-458
-00:43:38,540 --> 00:43:41,900
-Bana Peder Başkan diye hitap edeceksin!
-
-459
-00:43:43,340 --> 00:43:44,660
-Ya da "Majesteleri" diye.
-
-460
-00:43:46,780 --> 00:43:49,540
-Beni anlıyor musun?
-- Pardon?
-
-461
-00:43:51,340 --> 00:43:53,220
-Sadakatiniz buna mı?
-
-462
-00:43:54,500 --> 00:43:56,620
-Yukarıdakine değil mi?
-
-463
-00:43:57,420 --> 00:43:59,260
-Gerçeğe değil ama güce mi?
-
-464
-00:44:00,380 --> 00:44:02,474
-Beni hayal kırıklığına uğrattınız
-Peder Gomez.
-
-465
-00:44:02,500 --> 00:44:04,860
-- Götürün onu buradan.
-- Hayır, bunu yapamazsın.
-
-466
-00:44:05,460 --> 00:44:07,100
-Kendine kutsal adam mı diyorsun?
-
-467
-00:44:07,500 --> 00:44:09,860
-Sence Otoriten sana şimdi nasıl bakıyor?
-
-468
-00:44:10,740 --> 00:44:14,100
-Etrafın sana tapan nefret dolu insanlarla
-çevrili bir nefret insanı.
-
-469
-00:44:14,220 --> 00:44:15,740
-Seni kıyafetli domuz!
-
-470
-00:44:15,860 --> 00:44:17,460
-- Sesini kesin!
-- İğrençsin!
-
-471
-00:44:19,700 --> 00:44:21,500
-Sen gerçekte busun.
-
-472
-00:44:21,620 --> 00:44:24,980
-Dengesiz, duygusal bir kadınsın.
-
-473
-00:44:25,780 --> 00:44:27,260
-Sana kim, neden güvensin ki?
-
-474
-00:44:28,140 --> 00:44:30,060
-Doğru dürüst bir cümle bile kuramıyorsun.
-
-475
-00:44:32,740 --> 00:44:33,740
-Ama çok güzelsin.
-
-476
-00:44:35,060 --> 00:44:38,140
-Gerçekten baştan çıkarıcı bir güzellik.
-
-477
-00:44:39,100 --> 00:44:42,740
-Şimdi güzelliğine
-her zaman eksik olan şeyi vereceğim.
-
-478
-00:44:45,380 --> 00:44:46,500
-Zarafet.
-
-479
-00:44:48,180 --> 00:44:50,660
-O saçı bizden nasıl aldın, bilmiyorum.
-
-480
-00:44:51,540 --> 00:44:53,260
-Ama hepsini almadın.
-
-481
-00:44:53,860 --> 00:44:57,620
-Hâlâ amacımıza ulaşmak için yeterince var.
-
-482
-00:44:58,380 --> 00:45:00,820
-Ve cinini ayırdığımızda...
-
-483
-00:45:03,140 --> 00:45:04,620
-Lyra Belacqua'yı öldüren
-
-484
-00:45:05,780 --> 00:45:08,300
-kurşun sen olacaksın.
-
-485
-00:45:10,820 --> 00:45:13,980
-Ve hepimizi günahtan kurtaracaksın.
-
-486
-00:45:23,500 --> 00:45:24,740
-Onu hücreye götürün.
-
-487
-00:45:26,060 --> 00:45:27,300
-Ve cinini de bana getirin.
-
-488
-00:46:30,980 --> 00:46:32,100
-İyi akşamlar.
-
-489
-00:46:32,900 --> 00:46:35,020
-Bizimle olduğunuza çok sevindim.
-
-490
-00:46:35,620 --> 00:46:38,060
-Tüm eşyalarınızı bırakıp binin.
-
-491
-00:46:44,300 --> 00:46:45,500
-O anlayacak mı?
-
-492
-00:47:05,500 --> 00:47:08,220
-Nehri geçmemiz gerekiyor.
-- Üzgünüm.
-
-493
-00:47:08,580 --> 00:47:11,340
-Yanınızdaki biri
-şu an seyahat için uygun değil.
-
-494
-00:47:12,620 --> 00:47:14,060
-Sadece biri mi?
-
-495
-00:47:18,420 --> 00:47:20,420
-- Hayır o...
-- Kurallara uymamız gerek.
-
-496
-00:47:21,220 --> 00:47:22,860
-Gerekli bir acı.
-
-497
-00:47:23,660 --> 00:47:25,380
-Geçiş yok. Onun için yok.
-
-498
-00:47:25,500 --> 00:47:28,860
-- Ama o benim.
-- Sen gelirsen onun kalması gerek.
-
-499
-00:47:29,780 --> 00:47:33,020
-Sanırım anlamıyorsunuz. Ayrılırsak ölürüz.
-
-500
-00:47:34,020 --> 00:47:35,700
-İstediğin bu değil mi zaten?
-
-501
-00:47:46,500 --> 00:47:47,700
-Hayır, bu doğru değil.
-
-502
-00:47:47,820 --> 00:47:50,036
-Benim bir parçamı geride bırakmam
-gerekmezken onun niye gerekiyor?
-
-503
-00:47:50,060 --> 00:47:51,060
-Senin de gerekiyor.
-
-504
-00:47:51,700 --> 00:47:53,500
-Kesinlikle gerekiyor.
-
-505
-00:47:54,780 --> 00:48:00,140
-Geride bırakması gereken parçasını görüp
-konuşabilmesi bahtsızlık ya da şans.
-
-506
-00:48:00,940 --> 00:48:04,580
-Sen suya girene kadar bilmeyeceksin
-ve o zaman da neyse ki
-
-507
-00:48:04,700 --> 00:48:08,220
-ya da maalesef o konuda bir şey
-yapmak için çok geç kalmış olacaksın.
-
-508
-00:48:09,180 --> 00:48:12,140
-Ama hepinizin o parçasını
-burada bırakması gerekiyor.
-
-509
-00:48:12,260 --> 00:48:14,180
-Kurallar çok açık.
-
-510
-00:48:17,260 --> 00:48:18,660
-Tekneye bineceğiz.
-
-511
-00:48:19,380 --> 00:48:21,540
-Merak etme.
-- Onu dinlemiyorsun Lyra.
-
-512
-00:48:21,660 --> 00:48:25,220
-Bize izin vermeyecek.
-- ...geçerken sizi eğlendirmek için.
-
-513
-00:48:25,340 --> 00:48:28,020
-Bakın, tekneye binebiliyor.
-
-514
-00:48:28,140 --> 00:48:31,716
-Her yere sığar. Her zaman birlikte
-seyahat ettik. Kimse için sorun olmadı.
-
-515
-00:48:31,740 --> 00:48:33,396
-- Tekneye binebilir...
-- Neden burada sorun...
-
-516
-00:48:33,420 --> 00:48:36,220
-...ama binerse tekne burada kalır.
-
-517
-00:48:36,820 --> 00:48:38,740
-Bu şekilde mi çalışıyor? Ben çekebilirim.
-
-518
-00:48:38,860 --> 00:48:40,500
-Tekneyi sadece ben çekebilirim.
-
-519
-00:48:47,100 --> 00:48:48,500
-Üzgünüm.
-
-520
-00:48:53,300 --> 00:48:54,700
-Ayrılamayız.
-
-521
-00:48:55,620 --> 00:48:56,780
-Olmaz.
-
-522
-00:48:59,700 --> 00:49:01,460
-Hayır. Pan.
-
-523
-00:49:03,100 --> 00:49:05,845
-- Her şeyi riske atıyorsun.
-- Onu bir daha ne zaman görecek?
-
-524
-00:49:06,900 --> 00:49:07,900
-Görmeyecek.
-
-525
-00:49:07,980 --> 00:49:10,660
-Bunun doğru hamle olduğundan
-nasıl emin olabiliyorsun?
-
-526
-00:49:10,780 --> 00:49:13,060
-Daha sonra bu yoldan mı geri döneceğiz?
-
-527
-00:49:13,260 --> 00:49:16,820
-Milyonlarcasını karşıya geçirdim.
+00:09:05,760 --> 00:09:06,840
 Hiçbiri geri dönmedi.
 
-528
-00:49:18,460 --> 00:49:19,540
-Biz döneceğiz.
+57
+00:09:10,120 --> 00:09:11,800
+Özür dilerim hanımlar ve beyler.
 
-529
-00:49:21,100 --> 00:49:24,820
-Lyra'yı ve beni tanımıyorsunuz ama
-bir yolunu bulacağız. Başka bir yolunu.
+58
+00:09:13,280 --> 00:09:15,160
+Eh, size iyi şanslar.
 
-530
-00:49:24,940 --> 00:49:27,100
-Bunu yaptığımız için kibar ol tekneci.
+59
+00:09:16,680 --> 00:09:17,953
+Bizi öylece bırakacak mısın?
 
-531
-00:49:27,220 --> 00:49:31,220
-Cinini almasına izin ver.
-- Bu, çiğneyebileceğiniz bir kural değil.
+60
+00:09:18,520 --> 00:09:20,320
+Maalesef buradan ileri gidemem.
 
-532
-00:49:32,820 --> 00:49:33,860
-Bir kanun.
+61
+00:09:27,280 --> 00:09:28,280
+Teşekkürler.
 
-533
-00:49:35,220 --> 00:49:36,260
-Bunun gibi.
+62
+00:09:31,920 --> 00:09:32,920
+Bekle.
 
-534
-00:49:40,300 --> 00:49:43,300
-Gördüğün gibi elimi tersine çevirip
-suyu uçuramıyorum.
+63
+00:09:33,840 --> 00:09:36,480
+Cinim hâlâ iskeledeyse
+ona bir mesaj iletebilir misin?
 
-535
-00:49:43,820 --> 00:49:46,900
-Cinini de Ölüler Diyarı'na götüremem.
+64
+00:09:37,880 --> 00:09:39,790
+Şimdiden orada olmayacağını
+söyleyebilirim.
 
-536
-00:49:47,300 --> 00:49:49,420
-Bu seferlik bir istisna yapman
-gerekebilir.
+65
+00:09:51,960 --> 00:09:53,040
+Nereye gideceğimizi...
 
-537
-00:49:53,940 --> 00:49:58,220
-Sence ne kadar zamandır
-insanları taşıyorumdur?
+66
+00:10:02,840 --> 00:10:04,160
+Geri dönüş yok sanırım.
 
-538
-00:49:59,660 --> 00:50:02,823
-Beni incitebilecek bir şey olsa
-şimdiye kadar olmaz mıydı sanıyorsun?
+67
+00:10:06,600 --> 00:10:07,680
+Geri dönüş yok.
 
-539
-00:50:03,020 --> 00:50:05,700
-Sence taşıdığım kişiler
-benimle isteyerek mi geliyor?
+68
+00:11:00,240 --> 00:11:02,360
+İğrenç yemeklerinizi yemeyeceğimi
+söylemiştim.
 
-540
-00:50:05,820 --> 00:50:07,648
-Hayır, mücadele ediyorlar, ağlıyorlar,
+69
+00:11:02,480 --> 00:11:05,360
+Zorlarsan parmaklarını ısırıp koparırım.
 
-541
-00:50:07,680 --> 00:50:11,190
-rüşvet veriyorlar, tehdit ediyorlar,
-savaşıyorlar. Hiçbir şey işe yaramıyor.
+70
+00:11:09,120 --> 00:11:11,480
+Bunu yapacağından
+bir an bile şüphe etmedim.
 
-542
-00:50:16,220 --> 00:50:20,380
-Neşeli ve uyumlu olmanın
-faydası olduğunu anladım.
+71
+00:11:17,280 --> 00:11:21,000
+Rezil olduğumu haber vermek için
+Asriel'a koştuğunu sanıyordum.
 
-543
-00:50:22,620 --> 00:50:24,060
-Ben ikisini de yapıyorum.
+72
+00:11:21,400 --> 00:11:25,160
+Bu rezillik hoşuna gitse bile
+Asriel'ın ölmeni istediğini sanmıyorum.
 
-544
-00:50:25,540 --> 00:50:28,300
-Sizi de aynı şekilde davranmaya
-davet ediyorum.
+73
+00:11:25,760 --> 00:11:27,040
+Ben de istemiyorum.
 
-545
-00:50:35,340 --> 00:50:37,780
-Üzgünüm. Gerçekten.
+74
+00:11:30,000 --> 00:11:31,920
+Dr. Cooper bombayı hazırlıyor.
 
-546
-00:50:38,620 --> 00:50:41,100
-Ama gelecekse yalnız gelmesi gerek.
+75
+00:11:32,480 --> 00:11:35,280
+Hücrenin kapısındaki gardiyanları
+durduracak kadar zehrim var
 
-547
-00:50:42,260 --> 00:50:43,940
-Seni burada bırakmak istemiyorum.
+76
+00:11:35,640 --> 00:11:36,840
+ama hepsi o kadar.
 
-548
-00:50:45,020 --> 00:50:46,460
-Hâlâ geri dönebiliriz.
+77
+00:11:37,800 --> 00:11:38,840
+Nasıl görünüyordu?
 
-549
-00:50:47,300 --> 00:50:48,980
-Ama bunu yapmazsam olmaz.
+78
+00:11:38,960 --> 00:11:40,840
+Dr. Cooper?
+- Korkmuş.
 
-550
-00:50:49,100 --> 00:50:51,460
-- Olur Lyra.
-- Roger ne olacak?
+79
+00:11:42,000 --> 00:11:44,091
+Bana iradesi dışında
+hareket ediyor gibi geldi.
 
-551
-00:50:52,100 --> 00:50:53,260
-Ve Sal?
+80
+00:11:47,240 --> 00:11:48,560
+Burada kalacağız.
 
-552
-00:50:54,300 --> 00:50:55,860
-Onların büyüme şansı olmadı.
+81
+00:11:49,000 --> 00:11:50,040
+Bomba hazır.
 
-553
-00:50:56,060 --> 00:50:57,940
-Ama konu Roger ve Sal değil, değil mi?
+82
+00:11:50,360 --> 00:11:53,280
+Lyra'nın saçı bombanın gövdesindeki
+bir haznede.
 
-554
-00:50:58,060 --> 00:50:59,540
-Roger öldü.
+83
+00:11:54,120 --> 00:11:56,440
+Seni cininden ayırmaya niyetliler.
 
-555
-00:50:59,660 --> 00:51:01,140
-Sal da gitti.
+84
+00:11:59,720 --> 00:12:00,720
+Güzel.
 
-556
-00:51:02,340 --> 00:51:05,740
-Ve Lyra'yla Pan olmayacak.
-Beni burada yalnız bırakıyorsun.
+85
+00:12:09,160 --> 00:12:10,200
+Taştan yapılma değil.
 
-557
-00:51:08,020 --> 00:51:09,540
-Ne yapacağım?
+86
+00:12:18,360 --> 00:12:19,840
+İnsanların eşyalarından yapılma.
 
-558
-00:51:10,300 --> 00:51:12,860
-- Ama rüyalarımız...
-- Ben o rüyaları görmedim.
+87
+00:12:35,680 --> 00:12:36,800
+Lyra.
 
-559
-00:51:12,980 --> 00:51:15,820
-Onlar senin rüyalarındı.
-Ben buraya gelmeyi bile istemedim.
+88
+00:12:42,960 --> 00:12:43,960
+Ölüler.
 
-560
-00:51:16,660 --> 00:51:18,220
-Bu senin seçimin.
+89
+00:13:06,120 --> 00:13:07,360
+Siz yaşıyor musunuz?
 
-561
-00:51:19,620 --> 00:51:20,700
-Ama birlikteyiz.
+90
+00:13:08,800 --> 00:13:09,800
+Evet.
 
-562
-00:51:20,820 --> 00:51:22,580
-Bunu yaparsan değiliz.
+91
+00:13:10,640 --> 00:13:11,640
+Biz ziyaretçiyiz.
 
-563
-00:51:23,180 --> 00:51:27,060
-Lütfen. Roger'a ihanet edemem.
+92
+00:13:12,320 --> 00:13:13,680
+Buraya gelmemeliydiniz.
 
-564
-00:51:28,060 --> 00:51:30,580
-Ölmesi benim suçum
-ve şimdi bana ihtiyacı var.
+93
+00:13:13,800 --> 00:13:15,440
+Hâlâ imkânınız varken dönün.
 
-565
-00:51:30,940 --> 00:51:34,340
-Benim de var. Bunu neden göremiyorsun?
+94
+00:13:16,240 --> 00:13:17,440
+Neden saklanıyordunuz?
 
-566
-00:51:36,700 --> 00:51:38,740
-Nereye gideceğim?
-- Seni bulacağım.
+95
+00:13:17,560 --> 00:13:19,470
+Birbirimizle konuşmamız
+hoşlarına gitmiyor.
 
-567
-00:51:40,340 --> 00:51:41,340
-Tamam mı?
+96
+00:13:19,720 --> 00:13:20,720
+Kimin?
 
-568
-00:51:41,700 --> 00:51:45,780
-Ölüler Diyarı'na gideceğim
-ve geri dönüp seni bulacağım.
+97
+00:13:23,960 --> 00:13:24,960
+Dinliyorlar.
 
-569
-00:51:46,540 --> 00:51:50,500
-Seni terk etmiyorum. Tamam mı?
-Terk etmiyorum.
+98
+00:13:29,480 --> 00:13:30,560
+Yardımınız lazım.
 
-570
-00:51:50,860 --> 00:51:52,060
-Temelli etmiyorum.
+99
+00:13:31,440 --> 00:13:32,560
+Birini arıyoruz.
 
-571
-00:51:52,660 --> 00:51:56,340
-Will'le buradan çıkmanın yolunu bulacağız.
-Sonra Asriel'ın yanına gideceğiz.
+100
+00:13:33,320 --> 00:13:34,720
+Roger Parslow.
 
-572
-00:51:56,460 --> 00:51:59,540
-Bir şekilde sen de orada olacaksın
-ama bunu yapmak zorundayım.
+101
+00:13:35,320 --> 00:13:36,480
+Sizi uyarmam gerek.
 
-573
-00:52:01,540 --> 00:52:03,100
-O zaman kararını vermişsin.
+102
+00:13:36,960 --> 00:13:38,600
+Seni görmek istemeyebilir.
 
-574
-00:52:04,580 --> 00:52:06,340
-Benim yerime Roger'ı seçtin.
+103
+00:13:40,080 --> 00:13:42,160
+Cinlerin olduğu dünyadan mı geliyorsunuz?
 
-575
-00:52:06,740 --> 00:52:08,820
-Hayır Pan. Lütfen bunu yapma.
+104
+00:13:43,240 --> 00:13:44,240
+Evet.
 
-576
-00:52:09,540 --> 00:52:10,860
-Lütfen.
+105
+00:13:47,000 --> 00:13:48,360
+Benim cinimin adı Pan.
 
-577
-00:52:13,820 --> 00:52:16,500
-Lütfen. Başka yolu yok.
+106
+00:13:49,920 --> 00:13:51,600
+Benimkinin adı Sandling.
 
-578
-00:52:17,100 --> 00:52:18,700
-Mecburum.
+107
+00:13:54,760 --> 00:13:56,560
+Eskiden kuş olacağını düşünürdü
 
-579
-00:52:25,940 --> 00:52:27,020
-Seni seviyorum.
+108
+00:13:57,600 --> 00:13:59,280
+ama umarım olmamıştır.
 
-580
-00:52:29,860 --> 00:52:32,060
-Git artık.
+109
+00:13:59,800 --> 00:14:01,480
+Çünkü ben onları tüylü seviyorum.
 
-581
-00:54:02,220 --> 00:54:03,380
-Kalbim.
+110
+00:14:02,760 --> 00:14:05,520
+Castor'ım eskiden elimde kıvrılıp uyurdu.
+
+111
+00:14:06,120 --> 00:14:07,520
+Benimkinin adı Mattepan'di.
+
+112
+00:14:13,120 --> 00:14:14,800
+Lütfen bize yardım edebilir misin?
+
+113
+00:14:15,480 --> 00:14:16,600
+Belki.
+
+114
+00:14:16,720 --> 00:14:17,800
+Dikkatli ol.
+
+115
+00:14:18,720 --> 00:14:20,360
+Dikkat çekecekler.
+
+116
+00:15:03,040 --> 00:15:05,320
+Başkasının cinine dokunmak yasaktır,
+değil mi?
+
+117
+00:15:10,160 --> 00:15:11,842
+Habersiz gelmeye nasıl cüret edersin?
+
+118
+00:15:15,160 --> 00:15:18,800
+Kime hesap verdiğini
+hatırlatmama gerek var mı?
+
+119
+00:15:22,000 --> 00:15:23,560
+Otorite'ye hesap veririm.
+
+120
+00:15:37,480 --> 00:15:39,960
+Yıkıl karşımdan
+ve bir daha beni sorgulama.
+
+121
+00:15:53,640 --> 00:15:55,560
+Uzun zamandır burada olmalılar.
+
+122
+00:15:59,240 --> 00:16:01,200
+Buraya gelen herkesin sonu
+böyle mi oluyor?
+
+123
+00:16:01,800 --> 00:16:03,320
+Sen de mi birini arıyorsun?
+
+124
+00:16:05,000 --> 00:16:06,080
+Sadece sordum.
+
+125
+00:16:07,880 --> 00:16:11,080
+Buraya ilk geldiğimde
+ben de birini arıyordum.
+
+126
+00:16:12,000 --> 00:16:13,440
+Kız kardeşimi.
+
+127
+00:16:14,280 --> 00:16:17,080
+- Onu bulamadın mı?
+- Çok çabuk pes ettim.
+
+128
+00:16:20,920 --> 00:16:25,440
+<i>Kız kardeşini yapayalnız bıraktın.</i>
+
+129
+00:16:28,280 --> 00:16:29,440
+Geri dönmem gerek.
+
+130
+00:16:30,760 --> 00:16:32,920
+- Bekle. Sana ihtiyacımız var.
+- Üzgünüm.
+
+131
+00:17:04,600 --> 00:17:05,600
+<i>Lyra...</i>
+
+132
+00:17:10,040 --> 00:17:11,320
+Hey?
+
+133
+00:17:11,680 --> 00:17:12,680
+<i>Lyra...</i>
+
+134
+00:17:16,760 --> 00:17:17,760
+Will?
+
+135
+00:17:20,440 --> 00:17:22,400
+Will?
+- Lyra?
+
+136
+00:17:28,200 --> 00:17:29,200
+Pan?
+
+137
+00:17:29,640 --> 00:17:31,240
+Burada olmamalısın.
+
+138
+00:17:31,960 --> 00:17:33,440
+İstediğin bu.
+
+139
+00:17:36,640 --> 00:17:37,640
+Bunu nasıl...
+
+140
+00:17:45,520 --> 00:17:46,520
+Lyra!
+
+141
+00:17:49,200 --> 00:17:51,280
+Pardon. Pardon.
+
+142
+00:17:55,800 --> 00:17:58,320
+- Nereye gittin?
+- Beni o iskelede ölüme terk ettin.
+
+143
+00:17:58,920 --> 00:17:59,920
+Öyle deme.
+
+144
+00:18:00,360 --> 00:18:02,120
+Neden mecbur kaldığımı biliyorsun.
+
+145
+00:18:02,480 --> 00:18:05,208
+İçimde aslında ne kadar bencil olduğunu
+her zaman biliyordum.
+
+146
+00:18:07,360 --> 00:18:10,040
+Buraya Roger için geldiğine
+cidden inanıyor musun?
+
+147
+00:18:10,840 --> 00:18:12,280
+Onu zaten öldürdün.
+
+148
+00:18:12,920 --> 00:18:14,480
+Buraya kendin için geldin.
+
+149
+00:18:14,600 --> 00:18:17,080
+Vicdan azabını azaltmak için.
+
+150
+00:18:17,200 --> 00:18:18,440
+Kahraman rolü oynamak için.
+
+151
+00:18:20,120 --> 00:18:21,802
+Gerçek değil bu. Sen gerçek değilsin.
+
+152
+00:18:22,520 --> 00:18:23,600
+Will!
+
+153
+00:18:25,360 --> 00:18:26,720
+Will!
+
+154
+00:18:28,240 --> 00:18:29,280
+Lyra!
+
+155
+00:18:34,480 --> 00:18:37,040
+Her ne diyorduysa gerçek değildi.
+
+156
+00:18:38,480 --> 00:18:39,840
+Sen iyi birisin.
+
+157
+00:18:46,680 --> 00:18:47,960
+Burası korkunç.
+
+158
+00:18:52,080 --> 00:18:53,800
+Burası olamaz, değil mi?
+
+159
+00:18:56,680 --> 00:18:58,520
+Kesinlikle başka bir yer olması gerek.
+
+160
+00:19:01,440 --> 00:19:04,480
+Hepimizin temelli gideceği yer
+burası olamaz.
+
+161
+00:19:19,520 --> 00:19:20,720
+Roger.
+
+162
+00:19:23,640 --> 00:19:24,640
+Roger?
+
+163
+00:19:28,160 --> 00:19:29,320
+Roger?
+
+164
+00:19:31,560 --> 00:19:32,600
+Roger?
+
+165
+00:19:50,840 --> 00:19:52,000
+Roger...
+
+166
+00:19:59,200 --> 00:20:00,280
+Benim.
+
+167
+00:20:02,520 --> 00:20:03,640
+Biliyorum.
+
+168
+00:20:08,040 --> 00:20:09,680
+Roger lanet Barslow.
+
+169
+00:20:12,040 --> 00:20:13,440
+En iyi arkadaşınım.
+
+170
+00:20:15,640 --> 00:20:16,640
+Gelmişsin.
+
+171
+00:20:17,760 --> 00:20:18,760
+Bana ihtiyacın vardı.
+
+172
+00:20:20,120 --> 00:20:21,240
+Değiştim.
+
+173
+00:20:22,440 --> 00:20:23,640
+Çok değiştim.
+
+174
+00:20:25,840 --> 00:20:26,880
+Sen de değişmişsin.
+
+175
+00:20:30,480 --> 00:20:31,840
+Seni özledim.
+
+176
+00:20:36,960 --> 00:20:39,320
+Her şey için çok üzgünüm.
+
+177
+00:20:44,080 --> 00:20:46,400
+Çinganlar ve çocuklarla
+gitmene izin vermeliydim.
+
+178
+00:20:47,240 --> 00:20:48,800
+Seni Asriel'a götürmemeliydim.
+
+179
+00:20:49,760 --> 00:20:51,840
+Seni bıraksam burada olmazdın, değil mi?
+
+180
+00:20:51,960 --> 00:20:53,080
+Senin suçun değildi.
+
+181
+00:20:54,240 --> 00:20:55,640
+Seninle gelmek istedim.
+
+182
+00:21:10,240 --> 00:21:11,680
+Keşke her şey farklı olsaydı.
+
+183
+00:21:22,920 --> 00:21:24,200
+Ben Will.
+
+184
+00:21:36,360 --> 00:21:37,880
+Burada kalamazsın Roger.
+
+185
+00:21:39,120 --> 00:21:40,120
+Bak.
+
+186
+00:21:41,200 --> 00:21:42,973
+Hepinizi buradan çıkaracağım. Ciddiyim.
+
+187
+00:21:44,160 --> 00:21:45,160
+Bu mümkün değil.
+
+188
+00:21:46,840 --> 00:21:49,280
+Mümkün. Olmak zorunda.
+
+189
+00:21:49,760 --> 00:21:52,480
+Yani size burada yaptıkları şeyler
+doğru değil.
+
+190
+00:21:53,160 --> 00:21:54,160
+Bak.
+
+191
+00:21:55,800 --> 00:21:56,920
+Sen gelmeyince...
+
+192
+00:21:58,880 --> 00:22:00,040
+...tüm umudumu kaybettim.
+
+193
+00:22:01,040 --> 00:22:02,440
+Ebediyen.
+
+194
+00:22:03,240 --> 00:22:04,240
+Üzgünüm.
+
+195
+00:22:04,960 --> 00:22:07,760
+Lütfen. Tekrar birlikte olabiliriz.
+Sen ve ben...
+
+196
+00:22:07,880 --> 00:22:09,040
+Kes!
+
+197
+00:22:09,560 --> 00:22:11,651
+Gerçek dünyaya dönmek istediğimi mi
+sanıyorsun?
+
+198
+00:22:12,760 --> 00:22:13,800
+Bu hâldeyken.
+
+199
+00:22:27,800 --> 00:22:29,760
+- Lyra.
+- Söyleyebileceğin bir şey yok.
+
+200
+00:22:29,880 --> 00:22:31,920
+Ona hâlâ yardım edebiliriz.
+
+201
+00:22:32,960 --> 00:22:34,000
+Ama haklı.
+
+202
+00:22:34,600 --> 00:22:36,282
+Gidersek ona ne olacağını bilmiyoruz.
+
+203
+00:22:37,560 --> 00:22:38,720
+Bu berbat bir fikir.
+
+204
+00:22:39,520 --> 00:22:42,748
+Burasının berbat bir yer olduğunu
+söyledin. Kimse burada olmamalı dedin.
+
+205
+00:22:42,840 --> 00:22:44,080
+Hapishane gibi.
+
+206
+00:22:47,600 --> 00:22:50,400
+- Hapishaneden daha kötü.
+- Yani pes mi edeceksin?
+
+207
+00:22:51,480 --> 00:22:53,280
+İçgüdülerinin peşinden gitmeyi kesme.
+
+208
+00:22:54,400 --> 00:22:56,760
+Denemek zorundayız. Pan'e söz verdin.
+
+209
+00:23:03,920 --> 00:23:05,120
+Bir pencere aç.
+
+210
+00:23:06,000 --> 00:23:07,840
+- Nereye?
+- Herhangi bir yere.
+
+211
+00:23:09,000 --> 00:23:10,280
+Buradan çıkmamız gerek.
+
+212
+00:23:10,400 --> 00:23:12,360
+Mecbur kalırsam Roger'ı sürüklerim.
+
+213
+00:23:13,920 --> 00:23:15,040
+Peki.
+
+214
+00:23:28,320 --> 00:23:29,320
+Ne?
+
+215
+00:23:33,160 --> 00:23:35,360
+- Sorun ne?
+- Olmuyor.
+
+216
+00:23:40,520 --> 00:23:41,920
+Sadece taş hissediyorum.
+
+217
+00:23:45,200 --> 00:23:50,520
+Nasıl bir Bıçak Taşıyıcı
+kendi bıçağını kullanamaz.
+
+218
+00:23:52,880 --> 00:23:56,320
+Cahil bir çocuğun peşine takılan tabii.
+
+219
+00:23:59,760 --> 00:24:05,280
+Ne tür bir oğul öz annesini terk eder ki?
+
+220
+00:24:10,280 --> 00:24:13,400
+Ona kâbuslar yollamalıyız.
+
+221
+00:24:14,600 --> 00:24:19,400
+Uykusunda ona haykırmalıyız.
+
+222
+00:24:23,960 --> 00:24:30,880
+Önem verdiğin herkesin hayatını yok ettin.
+
+223
+00:24:32,440 --> 00:24:34,360
+Buraya kendin için geldin.
+
+224
+00:24:35,520 --> 00:24:37,760
+Kendini özel hissetmek için.
+
+225
+00:24:38,880 --> 00:24:42,240
+Keşke Will seni hiç tanımasaydı.
+
+226
+00:24:49,520 --> 00:24:53,440
+Sana söylediğimi dinle.
+
+227
+00:24:54,960 --> 00:24:56,440
+Beni dinle.
+
+228
+00:24:57,920 --> 00:24:59,640
+Dinle.
+
+229
+00:24:59,760 --> 00:25:01,240
+Hayır!
+
+230
+00:25:06,800 --> 00:25:07,800
+Gittiler.
+
+231
+00:25:09,200 --> 00:25:10,320
+Nasıl?
+
+232
+00:25:11,680 --> 00:25:13,320
+Sadece yapabileceğime inandım.
+
+233
+00:25:14,760 --> 00:25:16,520
+Bizi ve yaşadığımız...
+
+234
+00:25:19,080 --> 00:25:20,680
+...her şeyi düşündüm.
+
+235
+00:25:22,120 --> 00:25:24,040
+Kafama girmelerine izin vermedim.
+
+236
+00:25:29,080 --> 00:25:31,171
+Bıçak çok alçakta olduğumuz için
+işe yaramıyor.
+
+237
+00:25:32,840 --> 00:25:34,068
+Yüksek bir yere çıkmalıyız.
+
+238
+00:25:41,360 --> 00:25:42,440
+<i>Majesteleri.</i>
+
+239
+00:25:44,280 --> 00:25:45,280
+<i>Lütfen.</i>
+
+240
+00:25:46,160 --> 00:25:48,160
+Pişmanlığımı göstermek için
+bir şey düşündüm.
+
+241
+00:25:53,040 --> 00:25:57,920
+Majestelerinin merhameti ve zekâsıyla
+Havva yok edilecek.
+
+242
+00:26:00,440 --> 00:26:01,960
+Ama yılan ne olacak?
+
+243
+00:26:05,080 --> 00:26:07,800
+Fra Pavel onun başka bir dünyada olduğuna
+kanaat getirdi.
+
+244
+00:26:08,240 --> 00:26:10,640
+Kim bilir ne tür ahlaksızlıklar yapabilir?
+
+245
+00:26:11,400 --> 00:26:14,000
+Onun izini ben sürsem nasıl olur?
+
+246
+00:26:17,480 --> 00:26:18,880
+İzin verin, yalvarıyorum.
+
+247
+00:26:22,240 --> 00:26:24,240
+Tövben için bu görevi yapmana
+izin vereceğim.
+
+248
+00:26:25,320 --> 00:26:27,640
+Bu benim hayatımın onuru olacak
+Sayın Peder Başkan.
+
+249
+00:26:33,760 --> 00:26:35,560
+İnancınızın karşılığını ödeyeceğim.
+
+250
+00:28:27,400 --> 00:28:28,480
+Bana bir lens lazım.
+
+251
+00:28:59,960 --> 00:29:00,960
+Buldum!
+
+252
+00:29:38,240 --> 00:29:39,480
+Toz.
+
+253
+00:29:40,280 --> 00:29:41,480
+Straf, Toz demek.
+
+254
+00:29:41,820 --> 00:29:44,139
+<font color="#ffff00">Nihayet görebiliyorsun.</font>
+
+255
+00:29:45,020 --> 00:29:46,899
+<font color="#ffff00">Ağaçtan bak.</font>
+
+256
+00:30:15,720 --> 00:30:17,000
+Gidiyor.
+
+257
+00:30:21,020 --> 00:30:24,219
+<font color="#ffff00">Atal, anlıyorum.</font>
+
+258
+00:30:25,260 --> 00:30:29,699
+<font color="#ffff00">Üzgünüm, şimdi anlıyorum.</font>
+
+259
+00:30:30,620 --> 00:30:33,979
+<font color="#ffff00">Bana demeye çalıştığın...</font>
+
+260
+00:30:35,220 --> 00:30:36,899
+<font color="#ffff00">Ağaçlar ölüyor.</font>
+
+261
+00:30:37,900 --> 00:30:40,139
+<font color="#ffff00">Biz de öyle.</font>
+
+262
+00:31:00,320 --> 00:31:01,866
+Jordan'la ilgili ne hatırlıyorsun?
+
+263
+00:31:04,360 --> 00:31:05,880
+Onu hatırlıyorsun, değil mi?
+
+264
+00:31:08,440 --> 00:31:09,440
+Jordan gitti.
+
+265
+00:31:12,000 --> 00:31:13,240
+Gitmiş olamaz.
+
+266
+00:31:14,480 --> 00:31:15,880
+Çok net görebiliyorum.
+
+267
+00:31:16,920 --> 00:31:19,960
+Her girintiyi, çıkıntıyı, gizli koridoru.
+
+268
+00:31:21,560 --> 00:31:23,680
+Orayı avucumuzun içi gibi biliyoruz.
+
+269
+00:31:30,990 --> 00:31:33,309
+Şarap mahzenine gizlice girişimizi
+hatırlıyor musun?
+
+270
+00:31:33,330 --> 00:31:35,690
+Örümcek ağları ve tozla kaplanmıştık.
+
+271
+00:31:36,720 --> 00:31:38,539
+Oraya nasıl girdiğimizi bile bilmiyorum.
+
+272
+00:31:39,760 --> 00:31:41,200
+<i>Bekler misin Lyra?</i>
+
+273
+00:31:44,880 --> 00:31:46,360
+Hamalın anahtarını almıştık.
+
+274
+00:31:50,080 --> 00:31:51,080
+Evet.
+
+275
+00:31:53,800 --> 00:31:55,640
+O eski Tokay şişesini bulmuştuk.
+
+276
+00:31:57,040 --> 00:31:58,120
+Berbat kokuyordu.
+
+277
+00:31:58,720 --> 00:32:00,080
+Tadı da berbattı.
+
+278
+00:32:01,400 --> 00:32:03,200
+Saatlerce gülmüştük.
+
+279
+00:32:04,160 --> 00:32:06,680
+Anne babamız olsa
+ondan paçayı kurtaramazdık, değil mi?
+
+280
+00:32:21,960 --> 00:32:23,440
+Ve çatı.
+
+281
+00:32:25,800 --> 00:32:26,800
+Çatı.
+
+282
+00:32:30,040 --> 00:32:31,760
+Çok yüksekteydik.
+
+283
+00:32:37,800 --> 00:32:39,680
+Bacağı kırık kargayı hatırlıyor musun?
+
+284
+00:32:40,800 --> 00:32:42,800
+Evet. Onu tedavi edip hayata döndürmüştük.
+
+285
+00:32:45,440 --> 00:32:46,840
+Lyra.
+
+286
+00:32:47,720 --> 00:32:48,800
+Dinlemek istiyorlar.
+
+287
+00:33:39,000 --> 00:33:40,240
+Adım Lyra.
+
+288
+00:33:40,360 --> 00:33:42,000
+Buraya arkadaşımı aramaya geldim.
+
+289
+00:33:43,720 --> 00:33:46,493
+Ölümü haksızdı, o yüzden burada olmaması
+gerektiğini düşündüm.
+
+290
+00:33:46,720 --> 00:33:49,311
+Fark etmediğim şey
+hiçbirinizin burada olmaması gerektiği.
+
+291
+00:33:50,920 --> 00:33:53,239
+Burası ölümden sonraki yaşam değil,
+hapishane kampı.
+
+292
+00:34:01,760 --> 00:34:03,080
+Selam çocuklar. Ben Will.
+
+293
+00:34:04,400 --> 00:34:06,600
+Dünyalar arasında kesik atabilen
+bir bıçağım var.
+
+294
+00:34:09,000 --> 00:34:10,320
+Bizi takip ederseniz
+
+295
+00:34:10,440 --> 00:34:13,600
+onu, sizleri buradan çıkarmak için
+kullanabileceğimi umuyorum.
+
+296
+00:34:14,000 --> 00:34:16,400
+Size söz veremem ama deneyeceğim.
+
+297
+00:34:17,000 --> 00:34:18,080
+Korktuğunuzu biliyorum.
+
+298
+00:34:18,800 --> 00:34:21,480
+Ama buradan çıkabiliriz.
+- Gidersek bize ne olur?
+
+299
+00:34:24,320 --> 00:34:26,320
+- Bilmiyorum.
+- Bilmiyor musun?
+
+300
+00:34:26,440 --> 00:34:28,759
+Oğlumu bir daha görüp göremeyeceğimi
+bilmiyor musun?
+
+301
+00:34:29,320 --> 00:34:30,760
+Olana dek bilemeyiz.
+
+302
+00:34:31,400 --> 00:34:33,040
+Yalan söyleyip rol yapmayacağım.
+
+303
+00:34:34,600 --> 00:34:36,200
+Ama burada sadece düşünceler var.
+
+304
+00:34:37,480 --> 00:34:39,200
+Dışarıda gerçek şeylerin önemi var.
+
+305
+00:34:41,520 --> 00:34:44,400
+Sence o yaratıklar
+gitmemize izin verecek mi?
+
+306
+00:34:45,280 --> 00:34:50,160
+Bizler yaşarken öldüğümüz zaman
+cennete gideceğimizi söylerlerdi.
+
+307
+00:34:50,440 --> 00:34:53,120
+O yüzden birçoğumuz hayatını verdi
+
+308
+00:34:53,240 --> 00:34:56,760
+ve yıllarını dua ederek, sessizce geçirdi.
+
+309
+00:34:57,480 --> 00:35:00,640
+Hayatın tüm güzellikleri
+etrafımızda harcandı.
+
+310
+00:35:03,840 --> 00:35:06,480
+Gittiğimizde bize ne olacağı
+umurumda değil.
+
+311
+00:35:07,240 --> 00:35:08,920
+Her şey bundan iyidir.
+
+312
+00:35:21,080 --> 00:35:22,080
+İşte orada!
+
+313
+00:35:23,400 --> 00:35:24,640
+Kız.
+
+314
+00:35:27,680 --> 00:35:30,040
+Lyra...
+
+315
+00:35:37,720 --> 00:35:38,760
+Lyra.
+
+316
+00:35:40,760 --> 00:35:43,040
+Demin ne diyordun?
+
+317
+00:35:44,480 --> 00:35:46,680
+O hikâyeler... Neydi onlar?
+
+318
+00:35:46,800 --> 00:35:48,760
+Dış dünyayla ilgiliydiler.
+
+319
+00:35:50,320 --> 00:35:52,048
+Daha önceki hayatını hatırlıyor musun?
+
+320
+00:35:54,200 --> 00:35:56,000
+Her şey kayıp gidiyor.
+
+321
+00:35:58,920 --> 00:36:00,480
+Bize hikâyeler anlatır mısın?
+
+322
+00:36:01,080 --> 00:36:02,440
+Biz de hatırlayabilelim diye.
+
+323
+00:36:04,080 --> 00:36:05,200
+Gerçek şeyler.
+
+324
+00:36:11,600 --> 00:36:12,600
+Tamam.
+
+325
+00:36:12,880 --> 00:36:16,120
+Roger'la birlikte Jordan Üniversitesi adlı
+bir yerde kalıyordum.
+
+326
+00:36:16,720 --> 00:36:19,360
+Çok güzel binaları,
+çok yüksek kuleleri vardı.
+
+327
+00:36:20,040 --> 00:36:21,813
+Neredeyse gökyüzüne değecek gibiydiler.
+
+328
+00:36:28,200 --> 00:36:29,880
+İnanılmaz saklanacak yerleri vardı.
+
+329
+00:36:30,400 --> 00:36:33,320
+Yarışırdık.
+- Mutfaktan geçip aşağı kata,
+
+330
+00:36:34,120 --> 00:36:36,320
+sonra da çatıya.
+- Hep ben kazanıyordum.
+
+331
+00:36:36,560 --> 00:36:38,600
+Hayır, kazanmıyordu.
+Hep hile yaptın.
+
+332
+00:36:40,680 --> 00:36:41,960
+Başka.
+
+333
+00:36:47,320 --> 00:36:48,320
+Will'le tanıştım.
+
+334
+00:36:49,480 --> 00:36:51,640
+Bana omlet yaptı.
+Onun ne olduğunu bilmiyordum.
+
+335
+00:36:51,690 --> 00:36:53,696
+Karşılığında ben de ona
+bir tane yaparım diye düşündüm.
+
+336
+00:36:53,720 --> 00:36:55,680
+Çok komikti çünkü kabukları bıraktı.
+
+337
+00:36:58,600 --> 00:36:59,600
+Ve Iorek.
+
+338
+00:37:00,000 --> 00:37:01,000
+Zırhlı ayı.
+
+339
+00:37:01,040 --> 00:37:04,520
+Ellerin kadar pençeleri var.
+Muhteşemdir.
+
+340
+00:37:05,200 --> 00:37:06,973
+Onunla tanıştığımda zırhını kaybetmişti
+
+341
+00:37:07,480 --> 00:37:09,840
+ama Aletiyometre sayesinde
+geri almayı başardık.
+
+342
+00:37:10,000 --> 00:37:11,800
+Sonra Panserbjørne sarayına gittik.
+
+343
+00:39:13,840 --> 00:39:16,600
+Aramızdaki her şey
+cidden böyle mi bitecek?
+
+344
+00:39:25,040 --> 00:39:26,880
+Bundan sonra ne olacağını sanıyorsun?
+
+345
+00:39:28,200 --> 00:39:31,440
+Cidden her şeyin daha iyi olacağına
+inanıyor musun?
+
+346
+00:39:36,760 --> 00:39:39,880
+Bunlar Otorite'nin istekleri değil,
+biliyorsun Dr. Cooper.
+
+347
+00:39:40,560 --> 00:39:43,520
+Bunlar zayıf ve tehlikeli bir adamın
+istekleri.
+
+348
+00:39:43,640 --> 00:39:47,400
+Ve beni öldürmeye hazırsa
+sana ne yapabileceğini düşün.
+
+349
+00:39:54,240 --> 00:39:59,960
+Birlikte bu teknolojiyi yarattığımızda
+doğru olanı yaptığına inanıyordun.
+
+350
+00:40:01,480 --> 00:40:02,480
+Hepimiz inanıyorduk.
+
+351
+00:40:05,120 --> 00:40:06,120
+Yanılmıştık.
+
+352
+00:40:08,800 --> 00:40:09,920
+Bunun durması lazım.
+
+353
+00:40:31,840 --> 00:40:36,080
+Bugünün geldiğine zar zor inanabiliyorum
+Doktor Cooper.
+
+354
+00:40:36,840 --> 00:40:39,680
+Bu teknolojiyi anlamıyorsun Hugh.
+
+355
+00:40:39,800 --> 00:40:44,160
+Sadece Majisteryum'u
+ve içindeki herkesi havaya uçuracaksın.
+
+356
+00:40:44,360 --> 00:40:45,560
+Bilakis.
+
+357
+00:40:46,640 --> 00:40:49,520
+Fikrimiz son derece basit.
+
+358
+00:40:50,760 --> 00:40:55,960
+İnsan ve cinin ayrılması...
+- Kendi teknolojimi bana açıklama.
+
+359
+00:40:56,080 --> 00:40:58,960
+Seni asıl tasarımından bir miktar gelişti.
+
+360
+00:41:00,880 --> 00:41:04,080
+Bizim bombamızda
+bir güdüm mekanizması var.
+
+361
+00:41:04,840 --> 00:41:10,920
+Kızının bir tutam saçını kullanarak
+onun yerini tespit edip yok edeceğiz.
+
+362
+00:41:12,120 --> 00:41:13,320
+Hepsi bir anda.
+
+363
+00:41:14,880 --> 00:41:19,080
+İlahi incelik ve güç barındıran bir şey.
+
+364
+00:41:19,960 --> 00:41:23,200
+Otorite'nin tasarımının harika bir örneği.
+
+365
+00:41:23,800 --> 00:41:26,440
+Kendi düzeninde çok güzel bir şey.
+
+366
+00:41:28,440 --> 00:41:30,240
+Aklını kaybetmişsin.
+
+367
+00:41:30,360 --> 00:41:31,960
+Hastasın.
+
+368
+00:41:33,800 --> 00:41:35,400
+Mücadele etmemeni tavsiye ederim.
+
+369
+00:41:36,440 --> 00:41:37,680
+Razı ol.
+
+370
+00:41:38,280 --> 00:41:41,760
+Bu senin kefaretin olabilir.
+- Cidden böyle mi düşünüyorsun?
+
+371
+00:41:43,560 --> 00:41:45,960
+Bütün bunlara onun onay verdiğini?
+
+372
+00:41:46,440 --> 00:41:48,880
+Otorite seni unutmadı Marisa.
+
+373
+00:41:51,600 --> 00:41:53,160
+Hâlâ tövbe edecek vaktin var.
+
+374
+00:41:54,400 --> 00:41:57,080
+Sana son kutsamanı yapayım.
+
+375
+00:41:57,880 --> 00:41:58,880
+Ellerini...
+
+376
+00:42:00,640 --> 00:42:02,200
+...çek üzerimden.
+
+377
+00:42:06,240 --> 00:42:08,360
+Ellerinde çok fazla kan var.
+
+378
+00:42:15,120 --> 00:42:16,560
+Uygulamayı başlat.
+
+379
+00:42:24,160 --> 00:42:27,520
+Iorek sayesinde, aeronot olan arkadaşım
+Lee'yle tanıştım.
+
+380
+00:42:27,880 --> 00:42:30,000
+İlk kez balonuna bindiğimi hatırlıyorum.
+
+381
+00:42:30,280 --> 00:42:33,560
+Çok yükseğe çıkmıştık
+ve rüzgâr tenime çarpıyordu.
+
+382
+00:42:34,240 --> 00:42:36,200
+Kenardan aşağı bakarsanız
+başınız dönüyordu.
+
+383
+00:42:36,920 --> 00:42:39,739
+Ama Bay Scoresby'nin yanında
+kendinizi güvende hissediyordunuz.
+
+384
+00:42:40,000 --> 00:42:41,960
+O, güvendiğim ilk yetişkindi.
+
+385
+00:42:43,800 --> 00:42:47,520
+Hikâyelerin bize yine yaşadığımızı
+hissettirdi.
+
+386
+00:42:48,120 --> 00:42:52,680
+Sıcak tenin ve hislerin olmasının nasıl
+bir duygu olduğunu
+
+387
+00:42:53,600 --> 00:42:55,160
+şimdi hatırladım.
+
+388
+00:42:59,840 --> 00:43:01,040
+Sizinle geleceğim.
+
+389
+00:43:03,120 --> 00:43:05,640
+Biz sizinle geleceğiz.
+
+390
+00:43:34,360 --> 00:43:35,480
+Hadi.
+
+391
+00:43:36,920 --> 00:43:38,160
+Beni hayalet yap.
+
+392
+00:43:51,520 --> 00:43:52,640
+Adın ne?
+
+393
+00:43:53,480 --> 00:43:54,720
+Bir adın olmalı.
+
+394
+00:43:57,600 --> 00:43:58,920
+Adım yok.
+
+395
+00:44:07,000 --> 00:44:08,000
+Gidelim.
+
+396
+00:44:08,040 --> 00:44:10,240
+Hikâyelerinizi de aklınızda tutun.
+
+397
+00:44:11,760 --> 00:44:14,851
+Gerçeklere sıkıca tutunursak
+bize zarar verebileceklerini sanmıyorum.
+
+398
+00:44:29,880 --> 00:44:31,160
+Pardon. Müsaadenizle.
+
+399
+00:44:31,760 --> 00:44:32,760
+Geçiyorum.
+
+400
+00:44:35,000 --> 00:44:36,000
+Lyra?
+
+401
+00:44:38,360 --> 00:44:39,360
+Lyra!
+
+402
+00:44:47,600 --> 00:44:48,600
+Yaşıyorsun.
+
+403
+00:44:50,560 --> 00:44:51,600
+Yaşıyorsun.
+
+404
+00:44:52,200 --> 00:44:54,040
+Evlat, beni çok korkuttun.
+
+405
+00:44:55,560 --> 00:44:56,880
+Lee.
+
+406
+00:44:57,000 --> 00:44:58,120
+Sen...
+
+407
+00:44:59,200 --> 00:45:01,520
+Evet, göründüğü kadar kötü değil.
+
+408
+00:45:02,120 --> 00:45:03,200
+Sen nasıl...
+
+409
+00:45:03,520 --> 00:45:05,611
+Heyecanlı bir tüfekli adamın
+şansı yaver gitti.
+
+410
+00:45:05,920 --> 00:45:08,280
+Başlamadan bitmişti, yemin ederim.
+
+411
+00:45:11,760 --> 00:45:14,440
+Sorun yok, artık birlikteyiz.
+
+412
+00:45:15,480 --> 00:45:16,960
+Sadece kısa süreliğine.
+
+413
+00:45:17,800 --> 00:45:19,080
+Sen buraya ait değilsin.
+
+414
+00:45:20,160 --> 00:45:21,440
+Ve haber duyuldu.
+
+415
+00:45:22,600 --> 00:45:24,964
+Çılgın bir çocuğun
+bizi buradan kaçırma fikri varmış.
+
+416
+00:45:29,560 --> 00:45:31,160
+Bu, arkadaşım Will. Bu da Lee.
+
+417
+00:45:32,720 --> 00:45:33,840
+Balon sürücüsü.
+
+418
+00:45:34,600 --> 00:45:35,920
+Seni görmek güzel evlat.
+
+419
+00:45:36,840 --> 00:45:38,400
+Will bizi buradan çıkaracak.
+
+420
+00:45:41,680 --> 00:45:42,720
+Umarım bununla.
+
+421
+00:45:45,000 --> 00:45:46,280
+Bıçak Taşıyıcı'yı bulmuşsun.
+
+422
+00:45:47,160 --> 00:45:48,560
+Şaman'dan önce davranmışsın.
+
+423
+00:45:49,400 --> 00:45:52,920
+Lyra Gümüşdil, tam da aklımı daha fazla
+başımdan alamayacağını düşünürken.
+
+424
+00:45:53,320 --> 00:45:55,139
+Kesebilmek için yüksek bir yer arıyoruz.
+
+425
+00:45:56,360 --> 00:45:57,400
+Devam edin.
+
+426
+00:45:57,600 --> 00:46:00,360
+Ben geride kalanları toplayıp geliyorum.
+Size yetişirim.
+
+427
+00:46:01,320 --> 00:46:04,300
+Tamam arkadaşlar, hanımefendinin peşinden
+gidin. Bıçaklı çocuğu izleyin, evet.
+
+428
+00:46:04,320 --> 00:46:07,576
+Buradan çıkmak istiyor musunuz?
+Yine gökyüzünü görmek istiyor musunuz?
+
+429
+00:46:07,600 --> 00:46:10,120
+Gidelim! O taraftan.
+Bıçaklı çocuğu takip edin.
+
+430
+00:46:10,680 --> 00:46:11,880
+Hadi!
+
+431
+00:46:25,560 --> 00:46:28,560
+<i>Otorite'nin önünde diz çök Alarbus.</i>
+
+432
+00:46:34,760 --> 00:46:36,960
+Haberler getirdim Sayın Vekil.
+
+433
+00:46:37,080 --> 00:46:40,840
+<i>İlgimi çekecek</i>
+<i>ne haber getirmiş olabilirsin?</i>
+
+434
+00:46:42,240 --> 00:46:43,560
+Yakalanmıştım.
+
+435
+00:46:45,000 --> 00:46:46,320
+İnsanlar tarafından.
+
+436
+00:46:47,000 --> 00:46:49,600
+Fâni Lort Asriel bir cumhuriyet kurdu.
+
+437
+00:46:51,120 --> 00:46:52,640
+Size meydan okumak için
+
+438
+00:46:54,120 --> 00:46:55,280
+teknolojiyi kullanıyor.
+
+439
+00:46:59,880 --> 00:47:00,880
+<i>Devam et.</i>
+
+440
+00:47:01,000 --> 00:47:02,960
+Toz'u manipüle etmeyi başarmışlar
+
+441
+00:47:04,400 --> 00:47:06,720
+ve Asriel yeni bir Bıçak Taşıyıcı'dan
+bahsediyor.
+
+442
+00:47:07,920 --> 00:47:10,840
+<i>O bıçağın bana bir etkisi yok.</i>
+
+443
+00:47:15,040 --> 00:47:16,320
+Taşıyıcı bir oğlan.
+
+444
+00:47:17,760 --> 00:47:21,440
+Ondan önceki Taşıyıcılar gibi
+bıçağın gücüyle yoldan çıkmamış.
+
+445
+00:47:23,440 --> 00:47:24,440
+<i>O zaman...</i>
+
+446
+00:47:25,680 --> 00:47:30,920
+<i>...belki de artık bu fânilere</i>
+<i>bir uyarı yollama vakti gelmiştir.</i>
+
+447
+00:47:34,800 --> 00:47:38,640
+HEDEF ARANIYOR
+
+448
+00:47:40,240 --> 00:47:43,960
+Bir çocuğu öldürmeyi meşrulaştırmak için
+doktrinlerinize sarılabilirsiniz
+
+449
+00:47:44,080 --> 00:47:46,640
+ama bu, hiçbir şeyi değiştirmeyecek.
+
+450
+00:47:47,840 --> 00:47:50,000
+Bir yalana tapıyorsunuz!
+
+451
+00:47:50,120 --> 00:47:53,000
+Keşke bizimle kalıp da
+
+452
+00:47:53,920 --> 00:47:56,875
+ve bir zamanlar niyetlendiği gibi
+hayatını otoriteye adayabilseydi
+
+453
+00:47:57,200 --> 00:47:59,520
+şimdi Krallık yolunda olurdu.
+
+454
+00:48:26,240 --> 00:48:29,400
+Sen ve senin gibiler
+hiçbir zaman özgür olmayacak.
+
+455
+00:48:29,680 --> 00:48:32,040
+Bir yolsuzluk ve göz yaşı tülü arkasında.
+
+456
+00:48:32,160 --> 00:48:35,880
+Majisteryum, anlamadığı şeyden
+korkan bir kurum.
+
+457
+00:48:36,000 --> 00:48:37,480
+Bu çocuğun lekesi...
+
+458
+00:48:38,120 --> 00:48:39,711
+Ve kendisinden olanlara saldırıyor.
+
+459
+00:48:45,340 --> 00:48:46,859
+<font color="#ffff00">HEDEF BULUNDU</font>
+
+460
+00:48:51,480 --> 00:48:55,160
+Tatlı öfkende hızlı ol.
+
+461
+00:48:55,960 --> 00:48:59,440
+İntikamında güçlü ol.
+
+462
+00:48:59,500 --> 00:49:01,739
+<font color="#ffff00">HEDEF KİLİTLENDİ</font>
+
+463
+00:49:34,480 --> 00:49:38,440
+Bunun bir parçası olmayacağım.
+
+464
+00:49:53,880 --> 00:49:56,320
+Beni engelliyor musunuz Doktor Cooper?
+
+465
+00:49:58,120 --> 00:50:01,120
+Ona zarar vermeyeceğim.
+
+466
+00:50:20,240 --> 00:50:21,480
+Hayır!
+
+467
+00:51:36,280 --> 00:51:37,400
+Lyra.
+
+468
+00:51:46,220 --> 00:51:48,339
+<font color="#ffff00">HEDEF KİLİTLENDİ</font>
+
+469
+00:52:06,160 --> 00:52:07,600
+Ey Otorite,
+
+470
+00:52:07,720 --> 00:52:09,680
+bu dünyanın kurtarıcısı.
+
+471
+00:52:14,560 --> 00:52:17,560
+Sonsuz ışığını üzerimize parlat.
+
+472
+00:52:22,080 --> 00:52:23,080
+Neden çalışmıyor?
+
+473
+00:52:24,440 --> 00:52:25,680
+Anahtar. Anahtar.
+
+474
+00:53:18,400 --> 00:53:22,320
+<i>Toz'un sizleri tanrı yapabileceğini mi</i>
+<i>sanıyorsunuz?</i>
+
+475
+00:53:23,920 --> 00:53:26,880
+<i>Bakalım onsuz neler yapabileceksiniz.</i>
 
