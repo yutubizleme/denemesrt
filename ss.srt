@@ -1,2252 +1,3104 @@
 ﻿1
-00:01:34,143 --> 00:01:39,317
-<i>House of the Dragon, 1. Sezon, 5. Bölüm
-"Yolu Biz Aydınlatırız"
+00:01:34,229 --> 00:01:38,426
+<i>House of the Dragon, 1. Sezon, 6. Bölüm
+"Prenses ile Kraliçe"
 
 2
-00:01:45,718 --> 00:01:50,152
+00:01:53,233 --> 00:01:57,385
 Çeviren: eşekherif.
 İyi seyirler dilerim.
 
 3
-00:01:58,827 --> 00:02:01,621
-- Günaydın Leydi Rhea.
-- Kuzen.
+00:02:00,036 --> 00:02:01,830
+Nefes alın.
 
 4
-00:02:01,704 --> 00:02:03,623
-Bugün ne avlıyorsun?
-Tavşan mı?
+00:02:07,335 --> 00:02:08,878
+Ikının!
 
 5
-00:02:04,165 --> 00:02:07,335
-- Geyik.
-- İyi bir hedef.
+00:02:16,970 --> 00:02:18,304
+Bir daha.
 
 6
-00:02:07,418 --> 00:02:10,171
-- Eşlik etmemi ister misin?
-- Yalnız sürmek isterim.
+00:02:19,472 --> 00:02:21,182
+Olmuyor.
 
 7
-00:02:12,632 --> 00:02:13,800
-Rastgele.
+00:02:22,559 --> 00:02:24,060
+Ikının!
 
 8
-00:03:00,763 --> 00:03:02,098
-Kocam...
+00:02:27,564 --> 00:02:28,648
+Başı çıktı!
 
 9
-00:03:07,687 --> 00:03:09,606
-Vadi'de ne işin var?
+00:02:42,161 --> 00:02:45,540
+- Erkek, prenses.
+- Anne'ye şükürler olsun.
 
 10
-00:03:13,526 --> 00:03:17,447
-Yoksa sonunda evliliğimizi
-tamamına erdirmeye mi geldin?
+00:02:59,345 --> 00:03:02,599
+- Sağlıklı mı?
+- Keçi gibi tepikliyor prenses.
 
 11
-00:03:19,032 --> 00:03:23,036
-Ben istemesem de
-Vadi'nin koyunları ister belki.
+00:03:17,280 --> 00:03:18,531
+Prenses.
 
 12
-00:03:23,995 --> 00:03:26,831
-Daha güzellermiş zaten.
+00:03:19,866 --> 00:03:23,369
+Kraliçe çocuğun yanına
+götürülmesini emretti.
 
 13
-00:03:28,374 --> 00:03:32,045
-Yoksa varlığından abine de
-gına mı geldi sonunda?
+00:03:23,453 --> 00:03:24,954
+Derhal.
 
 14
-00:03:33,129 --> 00:03:36,049
-Ufacık bir kız uğruna kenara atmış.
+00:03:27,790 --> 00:03:28,790
+Neden?
 
 15
-00:03:42,263 --> 00:03:43,806
-Ne yapacaksın şimdi?
+00:03:39,260 --> 00:03:40,386
+Kendim götürürüm.
 
 16
-00:03:44,807 --> 00:03:47,936
-Çocuğu mu öldüreceksin?
+00:03:40,470 --> 00:03:43,973
+- Yatakta kalmalısınız prenses...
+- Bence de! Yardım edin giyineyim.
 
 17
-00:03:48,019 --> 00:03:49,228
-Yoksa?
+00:04:01,574 --> 00:04:02,700
+Prenses...
 
 18
-00:04:38,528 --> 00:04:40,405
-Beceremeyeceğini biliyordum.
+00:04:04,327 --> 00:04:05,578
+Elbiseniz.
 
 19
-00:04:42,365 --> 00:04:43,491
-Korkak seni!
+00:04:39,487 --> 00:04:40,780
+Prenses?
 
 20
-00:05:23,489 --> 00:05:24,866
-Teşekkür ederim.
+00:04:40,863 --> 00:04:42,824
+- Geliyor.
+- Döleşi.
 
 21
-00:06:06,532 --> 00:06:08,117
-Bir dakika!
+00:04:53,501 --> 00:04:55,712
+Oğlan olmuş.
+Yeni duydum.
 
 22
-00:06:15,124 --> 00:06:17,043
-Gidişini görmek istemiyorum.
+00:04:55,795 --> 00:04:57,338
+- Evet.
+- Tebrikler.
 
 23
-00:06:19,545 --> 00:06:21,464
-Kralın kararı böyle.
+00:04:58,798 --> 00:05:01,759
+- Nereye gidiyorsun?
+- Görmek istiyormuş.
 
 24
-00:06:21,547 --> 00:06:23,216
-Bu karardan büyük
-pişmanlık duyuyorum.
+00:05:01,843 --> 00:05:02,843
+Şimdi mi?
 
 25
-00:06:26,344 --> 00:06:28,262
-Senin sayende alındı ama.
+00:05:04,178 --> 00:05:05,346
+Ben de geliyorum.
 
 26
-00:06:30,556 --> 00:06:32,475
-Rhaenyra'yı seçtin.
+00:05:05,430 --> 00:05:07,348
+- Öyle umuyordum.
+- Ben taşıyayım.
 
 27
-00:06:33,518 --> 00:06:35,103
-Masumiyet yemini etti.
+00:05:07,432 --> 00:05:11,519
+- Olmaz, ona bu tatmini yaşatmam.
+- En azından koluma gir.
 
 28
-00:06:35,186 --> 00:06:39,774
-- Ben de inandım.
-- İnanmak istedin, aynı babası gibi.
+00:05:16,274 --> 00:05:18,192
+Çok canın yandı mı?
 
 29
-00:06:39,857 --> 00:06:41,275
-Muhbirin hata yapmış.
+00:05:19,777 --> 00:05:20,862
+Tanrılar...
 
 30
-00:06:41,359 --> 00:06:44,320
-Yanlışlıkla yapmış olabilir ama
-buraya varacağını düşünemedim.
+00:05:25,908 --> 00:05:28,036
+Bir seferinde omzuma
+mızrak girmişti.
 
 31
-00:06:44,403 --> 00:06:45,863
-Düşünecektin!
+00:05:29,078 --> 00:05:31,039
+Çok geçmiş olsun.
 
 32
-00:06:45,947 --> 00:06:49,075
-Aegon'u varis yapacağım diye
-bu kadar acele etmeseydin!
+00:05:31,122 --> 00:05:32,957
+<i>- Prenses.
+- Prenses.
 
 33
-00:06:59,794 --> 00:07:01,712
-Dinle beni kızım.
+00:05:33,041 --> 00:05:35,001
+İyi ki kadın değilim.
 
 34
-00:07:02,463 --> 00:07:04,507
-Kral ölecek.
+00:05:35,084 --> 00:05:37,628
+<i>- Prensesim.
+- Lordum.
 
 35
-00:07:04,590 --> 00:07:07,927
-Belki aylar, belki yıllar sürecek
-ama yaşlılığını göremeyecek.
+00:05:43,092 --> 00:05:45,261
+Ne oldu?
 
 36
-00:07:08,010 --> 00:07:09,929
-Yerine Rhaenyra geçerse...
+00:05:45,344 --> 00:05:46,888
+Ne oldu?
+Ne oldu?
 
 37
-00:07:10,012 --> 00:07:13,349
-savaş çıkacak, anlıyor musun?
+00:05:47,597 --> 00:05:48,597
+Siktir.
 
 38
-00:07:13,432 --> 00:07:15,226
-Krallık ona razı gelmeyecek.
+00:05:49,307 --> 00:05:51,642
+Yürü.
+Yürü!
 
 39
-00:07:15,309 --> 00:07:16,811
-İddiasını korumak için de...
+00:05:56,898 --> 00:05:58,816
+Ne istiyor olabilir?
 
 40
-00:07:16,894 --> 00:07:19,564
-senin çocuklarını
-kılıçtan geçirmesi gerekecek.
+00:06:00,777 --> 00:06:02,320
+Bunları aştık sanıyordum.
 
 41
-00:07:19,647 --> 00:07:20,857
-Başka çaresi yok.
+00:06:07,116 --> 00:06:09,869
+Prenses, Sör Laenor,
+sizi ilk tebrik edenlerden...
 
 42
-00:07:23,943 --> 00:07:25,653
-Sen de biliyorsun.
+00:06:09,952 --> 00:06:13,915
+olmak büyük bir ayrıcalık.
+- Teşekkür ederiz Lord Caswell.
 
 43
-00:07:25,736 --> 00:07:29,657
-Aptal değilsin ama
-görmemek için başını çeviriyorsun.
+00:06:13,998 --> 00:06:16,959
+Yapabileceğim bir şey olursa...
 
 44
-00:07:31,659 --> 00:07:33,786
-Vakit yaklaşıyor Alicent.
+00:06:17,043 --> 00:06:19,170
+Belki bir gün lordum.
 
 45
-00:07:35,246 --> 00:07:37,707
-Ya Aegon'u hükmetmeye hazırlarsın...
+00:06:26,719 --> 00:06:31,349
+Geri dönüyoruz, tamam mı?
+Çok istiyorsa kendi gelsin.
 
 46
-00:07:37,790 --> 00:07:41,961
-ya da Rhaenyra'ya sadık kalır,
-merhamet dilenirsin.
+00:06:31,432 --> 00:06:34,352
+Olmaz! Beni taşımak
+istemiyorsan devam et.
 
 47
-00:09:15,304 --> 00:09:18,849
-Lord Corlys nerede?
-Kralı karşılamaya gelmeliydi.
+00:06:52,078 --> 00:06:53,579
+Saçmalık.
 
 48
-00:09:27,817 --> 00:09:29,735
-Yüksek Dalga'ya
-hoş geldiniz majesteleri.
+00:07:10,596 --> 00:07:11,722
+Prenses.
 
 49
-00:09:30,444 --> 00:09:32,572
-Bu ne demek oluyor Leydi Laena?
+00:07:29,574 --> 00:07:33,494
+Rhaenyra!
+Doğumdan sonra dinlenmen lazım.
 
 50
-00:09:33,447 --> 00:09:35,408
-Velaryon Hanesi kralını
-böyle mi karşılıyor?
+00:07:35,037 --> 00:07:37,832
+Bunu istediğinizden hiç
+şüphem yok majesteleri.
 
 51
-00:09:36,575 --> 00:09:39,370
-Babam çok uzun bir
-yolculuktan yeni döndü...
+00:07:37,915 --> 00:07:39,375
+Oturmalısın.
 
 52
-00:09:39,453 --> 00:09:43,374
-ve majestelerini beklemek
-için Dokuzlar Salonuna çekildi.
+00:07:39,458 --> 00:07:41,752
+Talya, prensese bir yastık getir.
 
 53
-00:09:47,003 --> 00:09:48,921
-Haydi işimize bakalım.
+00:07:41,836 --> 00:07:43,963
+- Gerek yok.
+- Saçmalama.
 
 54
-00:09:58,597 --> 00:10:02,601
-Yerlilerin arasında bir yabancı.
+00:07:45,173 --> 00:07:46,716
+Sonra hallederiz.
 
 55
-00:10:03,644 --> 00:10:04,770
-Lord Larys.
+00:07:48,301 --> 00:07:49,427
+Majesteleri.
 
 56
-00:10:06,564 --> 00:10:07,898
-<i>Malvales.
+00:07:55,725 --> 00:08:00,271
+- Ne güzel haberlere uyandık.
+- Kesinlikle majesteleri.
 
 57
-00:10:08,482 --> 00:10:10,026
-Bulunmaz bir çiçek.
+00:08:00,354 --> 00:08:01,689
+Neredeymiş?
 
 58
-00:10:11,110 --> 00:10:13,529
-Braavos'a özgüdür.
+00:08:02,607 --> 00:08:05,526
+Neredeymiş benim torunum?
+Buradaymış.
 
 59
-00:10:15,740 --> 00:10:19,327
-Aslında burada açmamalı bile.
+00:08:07,361 --> 00:08:08,905
+İşte buradaymış.
 
 60
-00:10:20,286 --> 00:10:22,955
-Doğanın gizemi.
+00:08:12,658 --> 00:08:14,202
+Tam bir prens.
 
 61
-00:10:24,373 --> 00:10:26,292
-- Hava pek güzel bu aralar.
-- Doğru.
+00:08:14,911 --> 00:08:16,037
+Kuvveti yerinde.
 
 62
-00:10:26,375 --> 00:10:28,919
-Krallık için karanlık bir gün yine de.
+00:08:16,787 --> 00:08:19,123
+Müthiş bir şövalye olacaksın.
 
 63
-00:10:32,340 --> 00:10:34,258
-Babanız iyi bir adamdı.
+00:08:19,665 --> 00:08:21,250
+Aynen öyle.
 
 64
-00:10:36,302 --> 00:10:38,220
-Yerini alan babanız da öyle.
+00:08:21,334 --> 00:08:22,543
+Bebeğin bir adı var mı?
 
 65
-00:10:41,766 --> 00:10:42,975
-Buna rağmen...
+00:08:23,669 --> 00:08:25,213
+- Konuşma fırsatımız...
+- Joffrey.
 
 66
-00:10:43,059 --> 00:10:46,145
-babanızın bu şekilde
-ayrılmış olması...
+00:08:26,380 --> 00:08:28,090
+Adı Joffrey.
 
 67
-00:10:47,521 --> 00:10:50,024
-Bir adaletsizlik hissi veriyor.
+00:08:28,174 --> 00:08:30,676
+Alışılmadık bir Velaryon adı.
 
 68
-00:10:51,901 --> 00:10:54,070
-Babamın gidişine
-dair ne biliyorsunuz?
+00:08:32,845 --> 00:08:34,931
+Babasının burnunu almış.
 
 69
-00:10:54,153 --> 00:10:59,700
-İnsan sohbete hiç çağrılmadığında
-gözlemlemeyi öğreniyor.
+00:08:37,308 --> 00:08:38,726
+Değil mi?
 
 70
-00:11:01,994 --> 00:11:03,913
-Belki bir dosta
-ihtiyacınız vardır dedim.
+00:08:43,940 --> 00:08:45,358
+Müsaadenizle majesteleri...
 
 71
-00:11:04,622 --> 00:11:05,831
-Kraliçeyim ben.
+00:08:45,441 --> 00:08:48,736
+kızınız kahraman gibi savaştı
+ve dinlense iyi olacak.
 
 72
-00:11:05,915 --> 00:11:08,334
-- Dostlarım bir hayli fazla.
-- Elbette.
+00:08:48,819 --> 00:08:49,946
+Elbette.
 
 73
-00:11:08,417 --> 00:11:10,336
-Prenses Rhaenyra mesela.
+00:08:52,114 --> 00:08:53,114
+İşte...
 
 74
-00:11:11,837 --> 00:11:13,381
-Derdiniz neyse söyleyin lordum.
+00:09:02,250 --> 00:09:03,793
+Tebrik ederim kızım.
 
 75
-00:11:17,218 --> 00:11:22,848
-Sağlığından olduktan sonra halen
-güvenilebilir biri mi diye merak ettim.
+00:09:06,212 --> 00:09:08,130
+Doğum rahat geçmiştir umarım.
 
 76
-00:11:24,392 --> 00:11:27,436
-Sağlığı mı?
-Ben bir şey duymadım.
+00:09:09,215 --> 00:09:12,176
+Ebeye sağlam sövdüm sanırım.
 
 77
-00:11:28,229 --> 00:11:30,189
-Affınızı dilerim majesteleri,
-yanılıyor olabilirim.
+00:09:20,142 --> 00:09:22,061
+Denemeye devam Sör Laenor.
 
 78
-00:11:31,941 --> 00:11:34,568
-Ancak babanızın
-görevden alındığı gece...
+00:09:23,104 --> 00:09:25,648
+Er ya da geç sana
+benzeyen bir tane de çıkar.
 
 79
-00:11:34,652 --> 00:11:38,197
-Baş Üstat, prensesin
-odasına bir çay bıraktı.
+00:09:39,996 --> 00:09:44,125
+Çocuğuma isim vermeden önce
+bana danışmak aklından geçmedi mi?
 
 80
-00:11:40,408 --> 00:11:42,326
-- Çay mı?
-- Evet.
+00:09:44,208 --> 00:09:46,127
+Bizim çocuğumuz değil mi?
 
 81
-00:11:45,204 --> 00:11:47,415
-Baş Üstat kendisi mi bıraktı?
+00:09:47,920 --> 00:09:49,922
+Birimizin kanı akıyor.
 
 82
-00:11:47,498 --> 00:11:50,626
-Hem de kralın emriyle,
-doğru anladıysam.
+00:09:50,006 --> 00:09:53,050
+Ailemin meselelerimizde
+benim de söz hakkım olmalı.
 
 83
-00:11:53,462 --> 00:11:55,589
-Umuyorum sağlığı yerindedir.
+00:09:53,968 --> 00:09:56,512
+Bu ara aile meselelerimizle
+pek ilgileniyor gibi değildin.
 
 84
-00:11:57,174 --> 00:12:00,594
-Rhaenyra dün sabah kralla
-birlikte Akıntıtaşı'na gitti.
+00:10:09,150 --> 00:10:12,486
+<i>Sona kocaman,
+korkunç bir ejderha görmüş...
 
 85
-00:12:00,595 --> 00:12:04,432
-Ne güzel haber.
-Yanılmışım demek ki.
+00:10:17,575 --> 00:10:19,285
+Anne!
 
 86
-00:12:05,266 --> 00:12:07,184
-Rahatladım.
+00:10:19,368 --> 00:10:20,494
+Bak.
 
 87
-00:12:09,145 --> 00:12:11,272
-Bizzat Mellos yanına gittiyse...
+00:10:25,791 --> 00:10:27,668
+Bebeğe bir yumurta seçtik.
 
 88
-00:12:12,982 --> 00:12:15,526
-durumu ciddidir diye düşünmüştüm.
+00:10:29,253 --> 00:10:31,630
+En mükemmelini seçmişsiniz.
 
 89
-00:12:16,235 --> 00:12:19,780
-Ne mutlu yanılmışım.
+00:10:31,714 --> 00:10:34,633
+- Luke'un seçmesine izin verdim.
+- Sağ ol Jace.
 
 90
-00:12:50,060 --> 00:12:52,646
-- Bağışlayın.
-- Gel kuzen.
+00:10:34,717 --> 00:10:37,011
+Ejderha çukurundan bir yumurta
+çıkması büyük olay prenses.
 
 91
-00:12:52,730 --> 00:12:55,274
-Bakalım kahvaltıda ne yiyeceğiz.
+00:10:37,094 --> 00:10:40,014
+Oğlanlara eşlik
+edeyim diye düşündüm.
 
 92
-00:13:28,766 --> 00:13:30,142
-Majesteleri.
+00:10:41,807 --> 00:10:43,934
+Laenor ile size
+minnettarız kumandan.
 
 93
-00:13:45,115 --> 00:13:47,034
-Kalk Lord Corlys.
+00:10:45,311 --> 00:10:47,104
+Bir erkek daha olmuş.
 
 94
-00:13:48,577 --> 00:13:49,870
-Hoş geldiniz.
+00:10:52,234 --> 00:10:54,653
+Büyük bir şövalye mi olacaksın sen?
 
 95
-00:13:49,954 --> 00:13:51,664
-Oturmak ister misiniz?
+00:10:54,737 --> 00:10:56,197
+Alabilir miyim?
 
 96
-00:13:53,415 --> 00:13:54,708
-Kuzen!
+00:10:58,074 --> 00:11:00,826
+Sör Harwin, Joffrey ile
+tanıştırılmak istiyor.
 
 97
-00:13:55,876 --> 00:13:57,169
-Prenses!
+00:11:03,245 --> 00:11:04,245
+Elbette.
 
 98
-00:14:04,885 --> 00:14:07,012
-- İyi misin?
-- Fazlasıyla.
+00:11:05,748 --> 00:11:07,375
+Joffrey mi oldu?
 
 99
-00:14:08,264 --> 00:14:10,266
-Tebrik ederim Lord Lyonel.
+00:11:15,633 --> 00:11:17,927
+Baba, ben de Joffrey'i
+kucağıma alabilir miyim?
 
 100
-00:14:10,349 --> 00:14:13,561
-Kral Eli olmaya daha layık
-bir adam düşünemiyorum.
+00:11:18,010 --> 00:11:20,179
+Hayır, hayır olmaz.
 
 101
-00:14:13,644 --> 00:14:16,355
-Çok naziksiniz Lord Corlys.
+00:11:20,262 --> 00:11:22,473
+İkiniz yeniden ejderha çukuruna.
 
 102
-00:14:16,438 --> 00:14:18,399
-Majesteleri bu görevle
-beni onurlandırdı.
+00:11:22,556 --> 00:11:25,476
+- Yapma ya!
+- Yoksa sizi aramaya gelecekler.
 
 103
-00:14:20,818 --> 00:14:22,736
-Sör Otto'ya yazık oldu.
+00:11:36,946 --> 00:11:39,865
+Şehir Gözcülerinin Kumandanının
+önünde uyuyorsun.
 
 104
-00:14:24,697 --> 00:14:27,992
-Günlerimin çoğunu Kızıl Kale'nin
-ihtişamında geçirsem de...
+00:11:41,700 --> 00:11:43,494
+Saygısızlığa bak.
 
 105
-00:14:28,075 --> 00:14:30,953
-Yüksek Dalga’nın salonlarından
-her seferinde etkileniyorum.
+00:11:43,577 --> 00:11:47,123
+Maalesef aileden
+geliyor bu yüzsüzlüğü.
 
 106
-00:14:31,036 --> 00:14:32,663
-Gururlandırıyorsunuz majesteleri.
+00:12:11,535 --> 00:12:12,978
+Tut!
 
 107
-00:14:33,706 --> 00:14:36,333
-Daha mutlu şartlar altında
-sizi ağırlamak isterdim.
+00:12:17,140 --> 00:12:18,902
+Bırakın gelsin.
 
 108
-00:14:37,918 --> 00:14:40,379
-- Ne oldu?
-- Daemon'ın karısı...
+00:12:38,924 --> 00:12:40,426
+Vermax'a emredin Prens Jacaerys.
 
 109
-00:14:40,462 --> 00:14:42,548
-Leydi Rhea Royce vefat etmiş.
+00:12:40,427 --> 00:12:41,527
+İtaat et!
 
 110
-00:14:43,632 --> 00:14:45,926
-Av kazasıymış.
+00:12:48,922 --> 00:12:49,897
+Dur!
 
 111
-00:14:46,010 --> 00:14:48,012
-Atından düşmüş.
+00:12:55,942 --> 00:12:57,669
+Aferin.
 
 112
-00:14:48,095 --> 00:14:51,181
-Boynu ve kafatası
-parçalanmış düşünce.
+00:13:16,837 --> 00:13:17,837
+Vermax!
 
 113
-00:14:51,265 --> 00:14:53,517
-Şaşırtıcı bir son.
+00:13:18,714 --> 00:13:19,840
+Vermax!
 
 114
-00:14:53,601 --> 00:14:57,813
-Leydi Rhea'nın ne kadar iyi bir
-binici ve avcı olduğu bilinir.
+00:13:19,841 --> 00:13:20,841
+Dur!
 
 115
-00:14:57,896 --> 00:15:00,232
-- Tanrılar acımasız.
-- Öyle.
+00:13:28,933 --> 00:13:30,785
+Ejderinizi boyunduruğunuza
+almanız gerekiyor genç prensim.
 
 116
-00:15:01,150 --> 00:15:06,447
-Leydi Rhea iyi bir kadın,
-kardeşime iyi bir eşti.
+00:13:34,021 --> 00:13:35,689
+Prens Aegon'un
+Sunfyre'a yaptığı gibi.
 
 117
-00:15:06,530 --> 00:15:10,367
-Daemon ile yerine geçecek
-bir varisleri olmaması üzücü.
+00:13:43,239 --> 00:13:46,825
+Tamamen size bağlandıklarında,
+başkasından emir almayı kabul etmezler.
 
 118
-00:15:10,451 --> 00:15:12,119
-Taşyazı ona miras kalacaktı.
+00:13:50,996 --> 00:13:52,915
+Söyleyebilir miyim?
 
 119
-00:15:13,287 --> 00:15:16,415
-Biz daha mutlu meselelere dönelim.
+00:13:59,964 --> 00:14:01,340
+Dracarys, Vermax!
 
 120
-00:15:17,333 --> 00:15:19,918
-- Kalsın.
-- Aklınızdan ne geçiyor majesteleri?
+00:14:24,363 --> 00:14:26,907
+Aemond, sana bir sürprizimiz var.
 
 121
-00:15:23,839 --> 00:15:27,134
-Oğlunuz Sör Leanor ile,
-kızım ve varisim...
+00:14:27,866 --> 00:14:29,868
+- Neymiş?
+- Çok özel bir şey.
 
 122
-00:15:28,135 --> 00:15:31,013
-Prenses Rhaenyra arasında
-bir evlilik teklifi etmek isterim.
+00:14:31,829 --> 00:14:33,914
+Aramızda ejderi
+olmayan bir sen varsın.
 
 123
-00:15:31,096 --> 00:15:34,558
-Hanelerimizin soyunu birleştirme
-vakti geldi de geçiyor.
+00:14:33,998 --> 00:14:34,999
+Evet.
 
 124
-00:15:34,642 --> 00:15:36,769
-Eski Valyria'nın son direkleri.
+00:14:35,082 --> 00:14:37,585
+Biz de kötü hissettik...
 
 125
-00:15:37,728 --> 00:15:41,523
-Hanemi de, beni de
-onurlandırdınız majesteleri.
+00:14:37,668 --> 00:14:40,588
+ve sana bir tane bulduk.
 
 126
-00:15:41,607 --> 00:15:44,714
-Prenses Rhaenys ile
-bu cömert teklifinizi...
+00:14:40,671 --> 00:14:43,549
+Ejderha mı?
+Nasıl?
 
 127
-00:15:44,715 --> 00:15:47,821
-kabul etmeden önce
-kesinleşmesini umduğum...
+00:14:43,632 --> 00:14:45,509
+Tanrılar sağ olsun.
 
 128
-00:15:48,572 --> 00:15:50,115
-bazı detaylar var.
+00:14:53,726 --> 00:14:56,312
+- Karşınızda...
+- Pembe Dehşet!
 
 129
-00:15:51,867 --> 00:15:53,410
-Ne detayı?
+00:14:59,398 --> 00:15:00,733
+Aman dikkatli bin.
 
 130
-00:15:56,330 --> 00:15:59,875
-Halefiyetin nasıl
-çözüleceğini bilmek isteriz.
+00:15:00,816 --> 00:15:02,568
+İlk uçuş hep zor geçer.
 
 131
-00:16:03,212 --> 00:16:05,464
-Rhaenyra benim varisim.
+00:16:39,373 --> 00:16:41,291
+Bunun 60 halkası var.
 
 132
-00:16:05,547 --> 00:16:08,759
-Ben öldükten sonra tahtım
-ve unvanlarım ona geçecek.
+00:16:42,167 --> 00:16:44,086
+Hepsinde iki çift bacak.
 
 133
-00:16:08,842 --> 00:16:12,471
-Sör Leanor ile ilk çocukları,
-cinsiyeti fark etmeksizin...
+00:16:44,837 --> 00:16:46,380
+240 yapar.
 
 134
-00:16:12,554 --> 00:16:14,973
-Demir Taht'ın varisi olacak.
+00:16:47,631 --> 00:16:48,966
+Evet, doğru.
 
 135
-00:16:16,934 --> 00:16:21,980
-Westeros gelenekleriyle örtüşerek,
-doğacak çocukların...
+00:16:51,427 --> 00:16:54,887
+Gözleri de var ama...
 
 136
-00:16:23,148 --> 00:16:25,693
-babalarının soyadını alacağını
-farz edebilir miyim?
+00:16:55,639 --> 00:16:57,558
+görebildiğini sanmıyorum.
 
 137
-00:16:27,236 --> 00:16:30,155
-Velaryon olarak mı doğacaklar?
+00:16:58,642 --> 00:17:00,769
+Neden göremiyor peki sence?
 
 138
-00:16:30,698 --> 00:16:32,491
-Elbette Lord Corlys...
+00:17:02,896 --> 00:17:04,815
+Anlamamız zor.
 
 139
-00:16:32,574 --> 00:16:36,078
-Targaryen hanedanının kızımla
-sona ermesini söylemiyorsundur.
+00:17:06,942 --> 00:17:09,445
+Haklısın sanırım.
+Bazı şeyler tam olarak öyle.
 
 140
-00:16:36,161 --> 00:16:37,579
-Hem de sırf bir kadın diye.
-
-141
-00:16:40,666 --> 00:16:43,210
-Netleştirmek istiyorum
-sadece majesteleri.
-
-142
-00:16:48,132 --> 00:16:50,718
-- Koltuk getirteyim mi size?
-- Hayır...
-
-143
-00:16:50,801 --> 00:16:52,720
-Hayır, gerek yok.
-
-144
-00:16:55,305 --> 00:16:59,435
-Doğduktan sonra, Sör Laenor
-ile Rhaenyra'nın çocukları...
-
-145
-00:16:59,518 --> 00:17:01,937
-babalarının soyadı
-Velaryon'u alacaklar.
-
-146
-00:17:02,896 --> 00:17:05,941
-Bizim geleneklerimize göre.
-
-147
-00:17:06,024 --> 00:17:07,526
-Ancak...
-
-148
-00:17:07,609 --> 00:17:11,405
-ilk çocuklarının Demir Taht'a
-çıkma zamanı geldiğinde...
-
-149
-00:17:11,488 --> 00:17:14,575
-oğlan ya da kız,
-Targaryen soyadını taşıyacak.
-
-150
-00:17:16,243 --> 00:17:20,497
-Gelecek asır da Yedi Krallık'a
-ejderhalar hükmedecek...
-
-151
-00:17:20,581 --> 00:17:22,499
-bir önceki asır olduğu gibi.
-
-152
-00:17:35,596 --> 00:17:40,351
-- Adil bir uzlaşma oldu.
-- Güzel.
-
-153
-00:17:41,435 --> 00:17:43,979
-Başka bir şey yoksa...
-
-154
-00:17:54,323 --> 00:17:58,577
-Aslında illa birisi olacaksa,
-iyi ki sen oldun diyorum.
-
-155
-00:18:01,038 --> 00:18:03,582
-Senin böyle bir birliktelik
-istemeyeceğini biliyorum.
-
-156
-00:18:04,917 --> 00:18:07,044
-Seninle bir sorunum yok kuzen.
-
-157
-00:18:08,170 --> 00:18:09,505
-Hayır ben...
-
-158
-00:18:11,423 --> 00:18:12,549
-Yani...
-
-159
-00:18:13,509 --> 00:18:16,053
-Zevk meselesi desem?
-
-160
-00:18:20,057 --> 00:18:22,976
-Ben kaz yerine kızarmış
-ördek seviyorum.
-
-161
-00:18:23,852 --> 00:18:25,395
-Neden bilmiyorum.
-
-162
-00:18:28,816 --> 00:18:30,943
-Denemediğimden değil.
-
-163
-00:18:32,069 --> 00:18:34,196
-Bazıları da kazı çok seviyor.
-
-164
-00:18:36,031 --> 00:18:38,575
-Bana biraz yağlı geliyor.
-
-165
-00:18:42,746 --> 00:18:47,167
-Yukarıdan nasıl bir anlaşma çıkarsa çıksın
-damak tadın değişmeyecek biliyorum.
-
-166
-00:18:47,251 --> 00:18:49,586
-Benimki de değişmeyecek.
-
-167
-00:18:51,713 --> 00:18:53,257
-Ne öneriyorsun peki?
-
-168
-00:18:59,137 --> 00:19:03,183
-Babalarımıza ve krallığa olan
-görevimizi yerine getirelim.
-
-169
-00:19:03,267 --> 00:19:04,810
-Onu hallettikten sonra...
-
-170
-00:19:05,519 --> 00:19:07,855
-ikimiz de dilediğimiz
-yemeği yiyelim.
-
-171
-00:19:18,323 --> 00:19:22,119
-Viserys yatağa geçti,
-gemisini hazırlıyorlar.
-
-172
-00:19:24,663 --> 00:19:25,914
-Acaba...
-
-173
-00:19:26,957 --> 00:19:28,876
-fazla mı zorladım?
-
-174
-00:19:30,919 --> 00:19:32,296
-Sınırdan mı döndük dersin?
-
-175
-00:19:32,379 --> 00:19:35,924
-Kuzenim bu fırtınaya
-kendi başına yelken açtı.
-
-176
-00:19:37,217 --> 00:19:41,763
-Kralın buraya kadar gelip Leanor'u
-istemesi itibarsız bir hareketti.
-
-177
-00:19:42,347 --> 00:19:43,473
-Laenor nerede?
-
-178
-00:19:44,308 --> 00:19:47,811
-- Rhaenyra ile sahilde yürüyorlar.
-- Güzel.
-
-179
-00:19:48,645 --> 00:19:51,189
-Yakın duruyorlar mı bari?
-
-180
-00:19:52,065 --> 00:19:53,775
-Birlikte büyüdüler zaten.
-
-181
-00:19:54,484 --> 00:19:57,029
-Mesele yakınlıkları değil.
-
-182
-00:19:57,112 --> 00:20:00,157
-Laenor'un şimdiden
-kapıldığına eminim.
-
-183
-00:20:00,240 --> 00:20:02,367
-Prenses geçen birkaç
-yılda epey güzelleşti.
-
-184
-00:20:02,451 --> 00:20:04,161
-Oğlunun ne olduğunu biliyorsun.
-
-185
-00:20:05,454 --> 00:20:06,747
-Daha genç.
-
-186
-00:20:08,248 --> 00:20:09,791
-Bu da geçer.
-
-187
-00:20:11,335 --> 00:20:14,254
-Dünyada bir kadınla yatmaktan...
-
-188
-00:20:16,006 --> 00:20:17,215
-daha zevkli bir şey yok.
-
-189
-00:20:17,299 --> 00:20:20,093
-Oğlumuzu tehlikeye atıyoruz.
-
-190
-00:20:21,094 --> 00:20:24,681
-Diyarın lordları Rhaenyra'ya
-diz çöküp sadakat yemini etti.
-
-191
-00:20:24,765 --> 00:20:28,518
-Aegon Targaryen adında gerçek
-bir prens doğmadan önceydi o.
-
-192
-00:20:28,602 --> 00:20:30,771
-Rhaenyra'nın halefiyetine
-itiraz edilecek.
-
-193
-00:20:30,854 --> 00:20:35,108
-Ona, kocasına ve varislerine
-kılıçlar çekilecek.
-
-194
-00:20:35,192 --> 00:20:39,029
-Hanemiz krallığın donanmasına
-ve ejderlerin yarısına hükmediyor.
-
-195
-00:20:39,112 --> 00:20:41,448
-Rhaenyra'nın iddiasına karşı
-çıkacak aptallar varsa...
-
-196
-00:20:41,531 --> 00:20:44,660
-yok olup gidecek!
-- Ne uğruna Corlys? Para mı? Güç mü?
-
-197
-00:20:44,743 --> 00:20:46,286
-- Gurur mu?
-- Adalet.
-
-198
-00:20:51,833 --> 00:20:56,046
-En başta Yedi Krallık'ın
-kraliçesi sen olmalıydın.
-
-199
-00:20:57,589 --> 00:20:59,299
-Tacını elinden aldılar...
-
-200
-00:20:59,383 --> 00:21:03,553
-Ben krallık istemediği
-için o tacı hiç giymedim.
-
-201
-00:21:03,637 --> 00:21:05,681
-Bu geri kafalı hatayı...
-
-202
-00:21:05,764 --> 00:21:09,351
-düzeltmek için
-ne gerekiyorsa yapaca...
-
-203
-00:21:09,434 --> 00:21:13,605
-Ben bu meseleyi
-geride bıraktım Corlys.
-
-204
-00:21:21,738 --> 00:21:24,658
-Bir kadınla evleneceğin zaman
-gelecek diye korkardım hep.
-
-205
-00:21:25,742 --> 00:21:26,868
-İşte geliyor.
-
-206
-00:21:28,370 --> 00:21:32,582
-Nişanlın buna devam etmene
-kendi rızasıyla izin veriyor.
-
-207
-00:21:33,417 --> 00:21:35,669
-Ben ördek miydim yoksa kaz mı?
-
-208
-00:21:35,752 --> 00:21:38,130
-Şurada kaderimle yüzleşiyorum,
-gelmiş dalgaya mı alıyorsun?
-
-209
-00:21:39,840 --> 00:21:44,011
-Bak, Rhaenyra Yedi Krallık'ın
-kraliçesi olacak, sen de kral kocası.
-
-210
-00:21:45,012 --> 00:21:49,725
-Turnuvaları bir düşünsene,
-ziyafetleri, deniz savaşlarını.
-
-211
-00:21:52,436 --> 00:21:55,355
-Bugün tacınızı takacak mısınız
-majesteleri?
-
-212
-00:21:56,815 --> 00:21:58,150
-Şapşal herif.
-
-213
-00:22:05,574 --> 00:22:08,493
-Yeminli bir koruyucu
-lazım şimdi sana.
-
-214
-00:22:29,556 --> 00:22:32,100
-Hayal edebileceğimizden
-bile iyisi oluyor.
-
-215
-00:22:37,439 --> 00:22:39,357
-Onun da aşığı var.
-
-216
-00:22:42,194 --> 00:22:43,737
-<i>Acaba kim?
-
-217
-00:23:06,968 --> 00:23:09,304
-Bu sabah seni de mi uyku tutmadı?
-
-218
-00:23:10,680 --> 00:23:12,599
-Seni görmem gerekiyordu prenses.
-
-219
-00:23:13,558 --> 00:23:15,519
-Benim de benzer bir arzum oldu.
-
-220
-00:23:20,857 --> 00:23:25,570
-Yıllardır tanışıyoruz,
-bana içini döktüğün zamanlar oldu.
-
-221
-00:23:25,654 --> 00:23:32,160
-Beni bağışla ama seni tanıdığımı
-hissediyorum, biraz da olsa.
-
-222
-00:23:34,663 --> 00:23:36,581
-Çok daha fazla tanıyorsun.
-
-223
-00:23:39,626 --> 00:23:45,382
-O kadar çok duydum ki, konumundan
-ve etrafındakilerden nefretini...
-
-224
-00:23:45,465 --> 00:23:47,843
-babanın buyruğuyla,
-kalbinden geçenleri...
-
-225
-00:23:47,926 --> 00:23:50,512
-kimse düşünmeden evlenmek
-zorunda kalacağını...
-
-226
-00:23:50,595 --> 00:23:53,515
-Vakti geldi.
-
-227
-00:23:54,891 --> 00:23:58,812
-Sör Laenor iyi ve düzgün bir adam
-ama onu sen seçmedin.
-
-228
-00:23:59,813 --> 00:24:03,942
-- O senin için seçildi.
-- Doğru.
-
-229
-00:24:06,611 --> 00:24:08,530
-Başka bir yol olsa...
-
-230
-00:24:09,698 --> 00:24:11,616
-özgürlüğe açılan bir yol...
-
-231
-00:24:12,534 --> 00:24:13,577
-O yola çıkar mıydın?
-
-232
-00:24:15,370 --> 00:24:17,956
-Rhaenyra, buraya gelmeden önce...
-
-233
-00:24:18,039 --> 00:24:20,917
-Fırtına Toprakları'nda
-bir şövalyeydim.
-
-234
-00:24:21,001 --> 00:24:23,170
-Güneş Mızrağı'nın
-limanlarına çok hakimim.
-
-235
-00:24:23,253 --> 00:24:27,841
-Orada güverteleri portakal ve tarçın
-dolu Essos gemlerinin gidişini izledim...
-
-236
-00:24:27,924 --> 00:24:30,051
-ve hep nereye gittiklerini
-görmek istedim.
-
-237
-00:24:32,053 --> 00:24:33,638
-Müsaadeni mi istiyorsun benden?
-
-238
-00:24:35,056 --> 00:24:37,601
-Benimle gelmeni istiyorum.
-
-239
-00:24:39,144 --> 00:24:41,062
-Tüm bunlardan uzağa.
-
-240
-00:24:41,855 --> 00:24:44,816
-Mirasının yükünden,
-aşağılamalarından uzağa.
-
-241
-00:24:44,900 --> 00:24:48,278
-Hepsini geride bırakıp
-dünyayı görelim beraber.
-
-242
-00:24:50,113 --> 00:24:53,491
-İsimlerimizi geride bırakıp
-özgür olalım.
-
-243
-00:24:54,242 --> 00:24:56,745
-İstediğimiz yere gidelim,
-istediğimizi sevelim.
-
-244
-00:24:58,455 --> 00:24:59,998
-Essos'ta...
-
-245
-00:25:02,667 --> 00:25:04,252
-benimle evlenebilirsin.
-
-246
-00:25:08,173 --> 00:25:09,966
-Aşk evliliği olur bizimkisi.
-
-247
-00:25:10,050 --> 00:25:11,718
-Taht evliliği değil.
-
-248
-00:25:36,743 --> 00:25:39,871
-Taht benim Sör Criston.
-
-249
-00:25:42,123 --> 00:25:43,667
-Ya da benim olacak.
-
-250
-00:25:45,210 --> 00:25:47,796
-Görevlerime söyleniyor olabilirim...
-
-251
-00:25:47,879 --> 00:25:51,049
-ama bir sepet portakala...
-
-252
-00:25:51,132 --> 00:25:54,761
-ya da bir Asshai gemisine
-kaçacağımı mı sanıyorsun?
-
-253
-00:25:58,223 --> 00:26:02,769
-Büyük bir haneden asil bir
-adamla evlenmek benim görevim.
-
-254
-00:26:02,852 --> 00:26:05,397
-Sör Laenor bana iyi kocalık edecek.
-
-255
-00:26:09,859 --> 00:26:11,778
-Ama...
-
-256
-00:26:12,779 --> 00:26:14,322
-Ama evliliğim...
-
-257
-00:26:15,740 --> 00:26:17,867
-her şeyin sonu demek değil.
-
-258
-00:26:20,787 --> 00:26:25,709
-Sör Criston, Laenor ile
-bir anlaşmaya vardık.
-
-259
-00:26:27,502 --> 00:26:31,339
-Kendi sevdiğinin peşinden
-gitmesine izin verdim...
-
-260
-00:26:32,465 --> 00:26:34,426
-karşılığında o da bana verdi.
-
-261
-00:26:41,683 --> 00:26:43,810
-Orospun olmamı mı istiyorsun?
-
-262
-00:26:46,313 --> 00:26:48,857
-Başladığımız gibi
-devam etmek istiyorum.
-
-263
-00:26:48,940 --> 00:26:52,569
-Yanımda yeminli koruyucum,
-beyaz şövalyem olarak.
-
-264
-00:26:52,652 --> 00:26:54,446
-Yemin ettim ben.
-
-265
-00:26:56,281 --> 00:26:59,659
-Kral Muhafızlarının
-şövalyesi olarak.
-
-266
-00:26:59,743 --> 00:27:01,703
-Namus yemini ettim ama bozdum.
-
-267
-00:27:01,786 --> 00:27:04,205
-- Ben kimseye söylemem...
-- Beyaz pelerinimi kirlettim.
-
-268
-00:27:04,289 --> 00:27:07,208
-Başka bir şeyim yok
-amına koyduğumun yerinde!
-
-269
-00:27:09,878 --> 00:27:13,465
-Dedim ki eğer evlenirsek,
-yeminimi onarabilirim.
-
-270
-00:27:20,221 --> 00:27:22,307
-Demir Taht benden önemli.
-
-271
-00:27:22,390 --> 00:27:25,935
-Ailemdeki herkesten önemli.
-
-272
-00:27:26,019 --> 00:27:31,649
-Fatih Aegon, Yedi Krallık'ı
-birleştirip barış yolunda...
-
-273
-00:27:32,442 --> 00:27:33,735
-Sör Criston.
-
-274
-00:28:21,658 --> 00:28:23,159
-<i>- Üstadı getirin!
-- Çekil.
-
-275
-00:28:23,243 --> 00:28:24,994
-<i>Mellos gelsin!
-Çekil!
-
-276
-00:28:25,078 --> 00:28:26,621
-Tası hazırlayın.
-
-277
-00:28:27,872 --> 00:28:29,666
-Sülük gerekecek.
-
-278
-00:28:33,586 --> 00:28:34,921
-Sör Criston.
-
-279
-00:28:36,423 --> 00:28:37,549
-Çağrılıyorsunuz.
-
-280
-00:28:39,217 --> 00:28:41,344
-Daha yeni prensesin
-yanından ayrıldım.
-
-281
-00:28:42,345 --> 00:28:43,888
-Prenses değil sör.
-
-282
-00:28:44,597 --> 00:28:45,849
-Kraliçe.
-
-283
-00:29:00,613 --> 00:29:02,157
-Sör Criston majesteleri.
-
-284
-00:29:06,536 --> 00:29:08,455
-Çıkabilirsin.
-
-285
-00:29:21,134 --> 00:29:24,971
-Maalesef hassas bir konuda seni
-sorgulamam gerekiyor Sör Criston.
-
-286
-00:29:28,099 --> 00:29:30,226
-Her daim hizmetkarınızım kraliçem.
-
-287
-00:29:31,853 --> 00:29:33,980
-Sevgili prensesimiz
-Rhaenyra ile ilgili.
-
-288
-00:29:35,398 --> 00:29:36,524
-Buyur.
-
-289
-00:30:02,717 --> 00:30:05,887
-Yeminli koruyucusu
-olarak ona sadıksın.
-
-290
-00:30:07,096 --> 00:30:08,640
-Evet.
-
-291
-00:30:12,519 --> 00:30:14,437
-Daemon'ın döndüğü geceden...
-
-292
-00:30:17,232 --> 00:30:18,775
-bir dedikodu var.
-
-293
-00:30:19,776 --> 00:30:24,322
-Daha doğrusu, babama
-gelen bir habere göre...
-
-294
-00:30:25,990 --> 00:30:32,580
-o gece ahlaksız olaylar
-yaşanmış olabileceği...
-
-295
-00:30:35,750 --> 00:30:38,920
-Elbette prensesin namusunu
-sorgulamam akıl almaz bir durum.
-
-296
-00:30:39,003 --> 00:30:40,964
-Ona saygım sonsuz...
-
-297
-00:30:43,047 --> 00:30:45,301
-ama yine de merak ediyorum...
-
-298
-00:30:52,684 --> 00:30:55,812
-İnsanın gençliğin de ateşiyle...
-
-299
-00:30:56,896 --> 00:30:58,439
-bazı hatalar yapabileceğini...
-
-300
-00:30:59,899 --> 00:31:02,485
-iradesini kaybedebileceğini
-
-301
-00:31:02,569 --> 00:31:05,488
-ben de anlıyorum...
-- Oldu majesteleri.
-
-302
-00:31:11,244 --> 00:31:13,162
-İma ettiğiniz günahı...
-
-303
-00:31:16,291 --> 00:31:17,542
-ben işledim.
-
-304
-00:31:21,421 --> 00:31:24,340
-Onun kışkırtmasıyla oldu,
-evet ama...
-
-305
-00:31:25,592 --> 00:31:27,135
-Bahanesi olmaz.
-
-306
-00:31:30,096 --> 00:31:31,681
-Yeminim bozuldu.
-
-307
-00:31:32,765 --> 00:31:34,309
-Onurumu çiğnedim.
-
-308
-00:31:36,060 --> 00:31:37,979
-Affınızı hak etmiyorum.
-
-309
-00:31:42,233 --> 00:31:43,359
-Ama...
-
-310
-00:31:44,569 --> 00:31:48,990
-hoşgörülü kraliçem,
-bana acıyabilirseniz...
-
-311
-00:31:50,450 --> 00:31:51,993
-sizden tek bir ricam var.
-
-312
-00:31:54,579 --> 00:31:57,165
-Beni hadım etmek...
-
-313
-00:31:57,248 --> 00:31:59,375
-veya bana işkence ettirmek yerine...
-
-314
-00:32:00,209 --> 00:32:03,171
-temiz bir ölüm bağışlayın.
-
-315
-00:32:18,895 --> 00:32:21,439
-Dürüstlüğün için
-teşekkür ederim Sör Criston.
-
-316
-00:32:31,366 --> 00:32:32,867
-Çıkabilirsin.
-
-317
-00:33:03,648 --> 00:33:07,193
-Dinlenin şimdi majesteleri.
-Ben sülükleri getiririm.
-
-318
-00:33:07,944 --> 00:33:09,987
-Müsaadenizle Baş Üstat...
-
-319
-00:33:10,071 --> 00:33:13,908
-insiyatif alıp daha
-etkili olabilecek...
-
-320
-00:33:13,909 --> 00:33:17,745
-taze bir bitkisel merhem hazırladım.
-
-321
-00:33:17,829 --> 00:33:20,373
-Gerek yok Orwyle.
-
-322
-00:33:20,456 --> 00:33:24,001
-Sülükler majestelerine
-hep iyi geldi.
-
-323
-00:33:43,104 --> 00:33:45,022
-Uyuması için.
-
-324
-00:33:55,658 --> 00:33:56,951
-Kraliçe nerede?
-
-325
-00:33:59,579 --> 00:34:02,623
-Başka bir işle meşgul
-olduğunu öğrendim majesteleri.
-
-326
-00:34:23,102 --> 00:34:25,229
-Beni iyi bir kral olarak
-hatırlayacaklar mı Lyonel?
-
-327
-00:34:27,315 --> 00:34:28,441
-Majesteleri?
-
-328
-00:34:29,609 --> 00:34:33,112
-Tarih kitapları yazıldığında
-arkamdan ne söyleyecek?
-
-329
-00:34:34,071 --> 00:34:36,657
-Ne savaştım ne fethettim...
-
-330
-00:34:36,741 --> 00:34:38,993
-ne de büyük bir yenilgi gördüm.
-
-331
-00:34:41,037 --> 00:34:43,581
-Kimileri bunu talihli bulur.
-
-332
-00:34:46,167 --> 00:34:49,128
-Ama iyi bir şarkı çıkmaz, değil mi?
-
-333
-00:34:49,212 --> 00:34:53,674
-Yüz yıl sonra, beş yüz yıl sonra
-ziyafetlerde söylenmez.
-
-334
-00:34:57,094 --> 00:34:59,931
-Kral Jaehaerys'in
-mirasını üstlendiniz.
-
-335
-00:35:01,015 --> 00:35:03,726
-Krallığı güçlü tuttunuz.
-
-336
-00:35:03,810 --> 00:35:06,896
-Öldükten sonra arkanızdan
-şarkılar söyleneceğine...
-
-337
-00:35:06,897 --> 00:35:08,439
-barışla yaşamak daha iyi değil mi?
-
-338
-00:35:09,357 --> 00:35:10,775
-Olabilir.
-
-339
-00:35:12,610 --> 00:35:15,530
-Ama bir yanım da keşke
-sınansaydım diyor.
-
-340
-00:35:17,073 --> 00:35:19,700
-Mücadele içerisinde büyüsem...
-
-341
-00:35:19,784 --> 00:35:22,328
-farklı bir adam olabilirdim
-diye düşünüyorum.
-
-342
-00:35:24,330 --> 00:35:28,751
-Sınanan birçokları da
-keşke sınanmasaydım der.
-
-343
-00:35:31,128 --> 00:35:35,883
-Başka bir lord, fırsatım olsa Fatih
-Aegon gibi yükseleceğimi söylerdi.
-
-344
-00:35:35,967 --> 00:35:37,760
-- Majesteleri, bu...
-- Haklısın.
-
-345
-00:35:38,261 --> 00:35:41,180
-Her zamanki gibi haklısın.
-
-346
-00:35:43,975 --> 00:35:46,519
-Bilmesek daha iyi.
-
-347
-00:36:34,317 --> 00:36:36,319
-<i>Büyük bir neşeyle...
-
-348
-00:36:36,402 --> 00:36:42,325
-<i>majesteleri Kral Viserys, kraliyet
-düğünü kutlamalarının başladığını buyurur!
-
-349
-00:36:44,327 --> 00:36:48,623
-Lannister Hanesi,
-lordu Jason Lannister.
-
-350
-00:36:48,706 --> 00:36:52,752
-Batının Yüksek Lordu,
-Casterly Kayası'nın sahibi!
-
-351
-00:36:54,003 --> 00:36:57,632
-Hightower Hanesi,
-lordu Hobert Hightower.
-
-352
-00:36:57,715 --> 00:37:02,345
-<i>Güneyin Işığı, Hisar'ın Koruyucusu
-ve Eski Şehir'in Sesi...
-
-353
-00:37:15,107 --> 00:37:16,901
-Tebrik ederim majesteleri.
-
-354
-00:37:16,984 --> 00:37:19,320
-Prensese çok uygun bir eş buldunuz.
-
-355
-00:37:19,403 --> 00:37:20,988
-Teşekkürler Lord Jason.
-
-356
-00:37:21,072 --> 00:37:23,074
-Sör Laenor'dan daha iyi
-bir adam düşünemiyorum.
-
-357
-00:37:24,575 --> 00:37:27,244
-Karşılama yemeği böyleyse...
-
-358
-00:37:27,328 --> 00:37:30,831
-düğün için neler planladığınızı
-hayal dahi edemiyorum.
-
-359
-00:37:30,915 --> 00:37:33,459
-Kızım geleceğin kraliçesi.
-
-360
-00:37:34,460 --> 00:37:37,213
-Tarihe geçecek bir
-düğün olmasını istedim.
-
-361
-00:37:38,798 --> 00:37:42,176
-Kraliçe nerede?
-Saygımı sunmak isterdim.
-
-362
-00:37:44,011 --> 00:37:48,182
-Sanıyorum kraliçe halen
-kutlamalar için hazırlanıyor.
-
-363
-00:37:48,265 --> 00:37:50,393
-Bu yüzden erkekler
-savaşmıyor mu zaten?
-
-364
-00:37:51,268 --> 00:37:53,688
-Kadınlar savaş vaktine
-asla yetişemezdi diye.
-
-365
-00:37:58,901 --> 00:38:01,570
-Varlığınızı her daim keyifle
-hissediyoruz Lord Jason.
-
-366
-00:38:01,654 --> 00:38:04,407
-Prenses.
+00:17:13,699 --> 00:17:15,242
 Majesteleri.
 
-367
-00:38:14,667 --> 00:38:18,921
-Majesteleri, Prenses Rhaenyra,
-tebriklerimi sunarım.
-
-368
-00:38:19,755 --> 00:38:22,550
-Sizi ağırlamaktan büyük
-onur duyuyoruz Sör Gerold.
-
-369
-00:38:22,633 --> 00:38:27,596
-Leydi Rhea'nın vefatını öğrendiğimde
-çok üzüldüğümü paylaşayım.
-
-370
-00:38:28,472 --> 00:38:30,099
-Başınız sağ olsun.
-
-371
-00:38:30,182 --> 00:38:32,476
-Leydi Rhea eşsiz bir insandı.
-
-372
-00:38:33,060 --> 00:38:36,230
-Onun gibisi bir daha gelmeyecek.
-
-373
-00:38:36,313 --> 00:38:39,833
-Royce Hanesine destek için krallığın
-yapabileceği bir şey varsa...
-
-374
-00:38:47,742 --> 00:38:50,703
-Lord Corlys, Velaryon Hanesi.
-
-375
-00:38:50,786 --> 00:38:53,748
-Dalgaların Lordu ve
-Akıntıtaşı'nın Sahibi.
-
-376
-00:38:53,831 --> 00:38:57,293
-Ve leydi eşi
-Prenses Rhaenys Targaryen.
-
-377
-00:38:57,376 --> 00:39:00,838
-Oğulları ve varisleri,
-Sör Laenor Velaryon...
-
-378
-00:39:00,921 --> 00:39:03,466
-müstakbel kral koca.
-
-379
-00:39:44,840 --> 00:39:47,093
-- Nişanlım.
-- Nişanlım.
-
-380
-00:41:10,885 --> 00:41:14,763
-Hoş geldiniz.
-Kutlu bir sebeple bir aradayız.
-
-381
-00:41:16,265 --> 00:41:17,808
-Bu akşam ilk meyvelerini verecek.
-
-382
-00:41:18,726 --> 00:41:24,481
-Krallığın en kadim, en güçlü müttefiki
-Velaryon Hanesi'ni ağırlıyoruz.
-
-383
-00:41:27,067 --> 00:41:32,156
-Eski Valyria ve Ejderler Çağı
-günlerine kadar uzanan...
-
-384
-00:41:33,908 --> 00:41:36,827
-Targaryen Hanesi ile Vela...
-
-385
-00:42:15,741 --> 00:42:17,409
-Kralın hoşuna gitmeyecek.
-
-386
-00:42:17,493 --> 00:42:19,620
-Tam da konuşmasının ortasında.
-
-387
-00:42:30,881 --> 00:42:33,259
-Hightower kulesinin ışığı...
-
-388
-00:42:33,342 --> 00:42:37,137
-Eski Şehir sancaktarlarını savaşa
-çağırdığında ne renk parlar biliyor musun?
-
-389
-00:42:38,138 --> 00:42:39,265
-Yeşil.
-
-390
-00:42:51,151 --> 00:42:53,070
-Tebrikler üvey kızım.
-
-391
-00:42:53,946 --> 00:42:55,864
-Ne mutlu sana.
-
-392
-00:43:07,876 --> 00:43:09,128
-Oturun lütfen.
-
-393
-00:43:18,387 --> 00:43:19,763
-Nerede kalmıştım?
-
-394
-00:43:19,847 --> 00:43:21,765
-İki hanenin birleşmesi majesteleri.
-
-395
-00:43:21,849 --> 00:43:23,309
-Evet.
-
-396
-00:43:24,727 --> 00:43:25,811
-Evet.
-
-397
-00:43:31,608 --> 00:43:37,197
-Targaryen Hanesi ile
-Velaryon Hanesi'nin birleşmesi...
-
-398
-00:43:37,281 --> 00:43:42,494
-umuyorum ki Westeros'un
-ikinci Ejderler Çağı'nı müjdeleyecek.
-
-399
-00:43:53,464 --> 00:43:57,134
-Bu akşamki küçük
-merasim sonrasında...
-
-400
-00:43:59,011 --> 00:44:02,348
-turnuvalar ve ziyafetler
-yedi gün sürecek.
-
-401
-00:44:05,601 --> 00:44:07,144
-Hepsinin sonunda...
-
-402
-00:44:08,395 --> 00:44:11,732
-Hepsinin sonunda
-kraliyet düğünü olacak!
-
-403
-00:44:12,649 --> 00:44:14,193
-Kızımla...
-
-404
-00:44:15,194 --> 00:44:16,320
-varisimle...
-
-405
-00:44:17,154 --> 00:44:18,697
-müstakbel kraliçenizle...
-
-406
-00:44:19,656 --> 00:44:23,577
-Akıntıtaşı'nın varisi,
-Sör Laenor Velaryon evlenecek!
-
-407
-00:45:16,255 --> 00:45:17,840
-Dans etmeyi hiç beceremedim.
-
-408
-00:45:17,923 --> 00:45:21,552
-- Savaşmaktan pek farkı yok.
-- Sonucu farklı olur umarım.
-
-409
-00:46:35,626 --> 00:46:39,004
-- Majesteleri.
-- İyi ki geldiniz amca.
-
-410
-00:46:39,087 --> 00:46:41,715
-Babanın gölgesi uzaklaşınca...
-
-411
-00:46:41,798 --> 00:46:45,052
-Kralın Şehri'nin güneşinde
-solarsın diye endişe etmiştim.
-
-412
-00:46:45,135 --> 00:46:47,095
-Dimdik ayaktasın.
-
-413
-00:46:48,347 --> 00:46:50,682
-Eski Şehir seninle, unutma.
-
-414
-00:47:17,459 --> 00:47:22,047
-Vadi'de herkes
-suçunun hesabını verir.
-
-415
-00:47:23,966 --> 00:47:25,717
-Targaryenler bile.
-
-416
-00:47:26,343 --> 00:47:27,302
-Sen kimsin?
-
-417
-00:47:27,386 --> 00:47:30,305
-Taşyazı'ndan Sör Gerold Royce.
-
-418
-00:47:32,140 --> 00:47:33,433
-Ee?
-
-419
-00:47:42,234 --> 00:47:45,821
-Merhum leydi eşinizin kuzeniyim.
-
-420
-00:47:45,904 --> 00:47:49,032
-Doğru dedin, feci olay.
-
-421
-00:47:49,116 --> 00:47:52,411
-Acayip yastayım.
-Çok üzücü bir kaza.
-
-422
-00:47:52,494 --> 00:47:55,455
-Kaza olmadığını
-herkesten iyi biliyorsun.
-
-423
-00:47:55,539 --> 00:47:57,499
-Suçunu mu itiraf
-ediyorsun yoksa Sör Gerold?
-
-424
-00:47:57,583 --> 00:48:00,335
-İthamda bulunuyorum.
-
-425
-00:48:03,088 --> 00:48:06,508
-Kralın Şehri'nde herkes
-iftirasının hesabını verir.
-
-426
-00:48:06,592 --> 00:48:08,602
-Senin gibi yaşlı bronz kancıklar bile.
-
-427
-00:48:10,971 --> 00:48:14,891
-Neyse, iyi ki gelmişsin.
-Mirasımı konuşacaktım ben de.
-
-428
-00:48:15,851 --> 00:48:18,812
-- Ne mirası?
-- Leydi Rhea ile varisimiz yoktu.
-
-429
-00:48:18,895 --> 00:48:22,024
-Kocası olarak, onun
-hakkı neyse artık benim.
-
-430
-00:48:23,775 --> 00:48:28,196
-Taşyazı'nın hepsi ona
-kalacaktı, değil mi?
-
-431
-00:48:31,742 --> 00:48:35,537
-Yeğenimin düğününden sonra Eyrie'ye uçup
-Leydi Jeyne'den bizzat rica edeceğim.
-
-432
-00:48:35,621 --> 00:48:37,956
-Belki orada da görüşürüz Sör Gerold.
-
-433
-00:49:51,655 --> 00:49:54,574
-Neredeyse kardeşin kadar güzel
-olduğunu söyleyen oldu mu hiç?
-
-434
-00:49:55,200 --> 00:49:57,494
-Çok incesiniz prensim.
-
-435
-00:49:57,577 --> 00:50:00,163
-- Leydi eşinizi duyduğuma üzüldüm.
-- Üzülme, ben üzülmedim.
-
-436
-00:50:01,206 --> 00:50:02,833
-Leydim bana hiç nazik olmadı.
-
-437
-00:50:02,916 --> 00:50:04,376
-Kim olduğunu anladım.
-
-438
-00:50:05,585 --> 00:50:07,546
-Yakışıklığı aşığını diyorum.
-
-439
-00:50:07,629 --> 00:50:08,547
-Kimmiş?
-
-440
-00:50:09,548 --> 00:50:11,091
-Sör Criston Cole.
-
-441
-00:50:11,925 --> 00:50:15,137
-- Yeminli koruyucusu mu?
-- Baksana.
-
-442
-00:50:15,220 --> 00:50:18,014
-Eleman kölesi olmuş.
-
-443
-00:50:18,098 --> 00:50:22,185
-Targaryen prensi, cesur bir şövalye,
-hem de ejder binicisi.
-
-444
-00:50:22,269 --> 00:50:23,895
-Tüm genç kızların
-hayallerini süslüyorsunuz.
-
-445
-00:50:23,979 --> 00:50:25,939
-Beni tanımadığınız için.
-
-446
-00:50:26,022 --> 00:50:29,651
-Bence Sör Criston beyaz pelerinini,
-gelininin bekaretiyle kana bulamış.
-
-447
-00:50:29,652 --> 00:50:30,819
-Sessiz konuş.
-
-448
-00:50:30,902 --> 00:50:33,113
-Belki bu duruma bir
-çare bulabiliriz prensim.
-
-449
-00:50:33,196 --> 00:50:34,114
-Belki.
-
-450
-00:50:35,699 --> 00:50:40,704
-Böylesi gayet iyi.
-O senin sırrını biliyor, sen de onunkini.
-
-451
-00:51:11,443 --> 00:51:13,403
-Birbirlerine çok yakıştılar, değil mi?
-
-452
-00:51:14,362 --> 00:51:15,530
+141
+00:17:16,243 --> 00:17:17,369
+Aemond.
+
+142
+00:17:18,454 --> 00:17:20,122
+- Ne yaptın?
+- Yine gitmiş.
+
+143
+00:17:20,205 --> 00:17:23,101
+Daha kaç sefer uyaracağız seni?
+İlla odana mı kilitleyeyim?
+
+144
+00:17:23,125 --> 00:17:24,936
+- Zorla yaptırdılar!
+- Sanki söylemeseler yapmazdın.
+
+145
+00:17:24,960 --> 00:17:27,230
+Bu canavarlara takıntını
+asla anlamıyorum.
+
+146
+00:17:27,254 --> 00:17:28,422
+Domuz verdiler bana!
+
+147
+00:17:29,256 --> 00:17:30,257
 Ne?
 
+148
+00:17:30,340 --> 00:17:31,925
+Bana bir ejder
+bulduklarını söylediler.
+
+149
+00:17:32,009 --> 00:17:34,219
+Son halkasında hiç bacak yok.
+
+150
+00:17:34,303 --> 00:17:35,596
+Ama domuz geldi.
+
+151
+00:17:36,263 --> 00:17:38,265
+Senin de bir gün ejderin olacak.
+
+152
+00:17:39,016 --> 00:17:42,227
+- Gözünü kapaması gerekecek.
+- Ben bilirim.
+
+153
+00:17:43,312 --> 00:17:44,855
+Hepsi güldü.
+
+154
+00:17:48,609 --> 00:17:51,653
+Kanat yapmışlar bir de.
+Kuyruğu da varmış.
+
+155
+00:17:51,737 --> 00:17:54,531
+- Oğlan da bu kadar saf olmasın.
+- Çocuk daha.
+
+156
+00:17:54,615 --> 00:17:59,203
+Adı duyulmamış vahşi bir ejdere denk
+gelip çukura çektiklerine mi inanmış?
+
+157
+00:17:59,286 --> 00:18:02,623
+- Torunların tam baş belası.
+- Bizimkinden daha çocuklar.
+
+158
+00:18:02,706 --> 00:18:05,834
+Canavarlar.
+Kime çektilerse?
+
+159
+00:18:07,920 --> 00:18:10,839
+Onları bu işe bulaştıran
+bizim Aegon olmasın?
+
+160
+00:18:14,802 --> 00:18:16,720
+Yumurtaları nasıl
+çatladı anlamıyorum.
+
+161
+00:18:18,263 --> 00:18:20,307
+- Nedenmiş?
+- Bilmiyorsun sanki.
+
+162
+00:18:20,390 --> 00:18:23,268
+- Bilmiyorum hayır.
+- Yapma!
+
+163
+00:18:23,352 --> 00:18:24,895
+Viserys.
+
+164
+00:18:27,606 --> 00:18:29,733
+Öğleden sonra devam ederiz Eddard.
+
+165
+00:18:38,283 --> 00:18:40,869
+Bu meseleyi daha önce de
+dile getirdim..
+
+166
+00:18:40,953 --> 00:18:43,413
+ama konuşmamı yasakladın,
+ben de sustum.
+
+167
+00:18:45,332 --> 00:18:47,918
+Öyle bir çocuk doğurmak
+hata olabilir...
+
+168
+00:18:48,001 --> 00:18:50,587
+ama üçüncüsü hakaret artık.
+
+169
+00:18:50,671 --> 00:18:53,090
+Tahta, sana,
+Velaryon Hanesine.
+
+170
+00:18:53,173 --> 00:18:55,634
+Hem de ona bu eşi bulmak
+için o kadar uğraşmışken.
+
+171
+00:18:55,717 --> 00:18:58,262
+Edepsizliğine değinmiyorum bile!
+
+172
+00:18:59,471 --> 00:19:01,390
+Eskiden simsiyah bir kısrağım vardı.
+
+173
+00:19:02,307 --> 00:19:04,017
+Kuzgun siyahı.
+
+174
+00:19:04,101 --> 00:19:06,854
+Bir gün otlağından kaçtı...
+
+175
+00:19:06,937 --> 00:19:09,481
+ve bir aygırdan yavrusu oldu.
+
+176
+00:19:11,817 --> 00:19:15,988
+Aygırın tüyleri, kış gecesi
+ayı gibi parlak gümüştendi.
+
+177
+00:19:16,071 --> 00:19:20,742
+Ama yavrusu kestane renginde doğdu.
+
+178
+00:19:21,577 --> 00:19:25,706
+Görebileceğin en alelade
+kahverengi attı.
+
+179
+00:19:27,583 --> 00:19:30,127
+Doğa gizemli şekillerde çalışır.
+
+180
+00:19:36,425 --> 00:19:37,676
+Nereden biliyorsun?
+
+181
+00:19:39,636 --> 00:19:41,179
+Gümüş aygır.
+
+182
+00:19:41,889 --> 00:19:43,223
+Onun yaptığını nereden biliyorsun?
+
+183
+00:19:45,309 --> 00:19:46,810
+Bizzat gördün mü?
+
+184
+00:19:51,189 --> 00:19:53,358
+Böyle rahat...
+
+185
+00:19:53,442 --> 00:19:56,695
+savurduğun iddiaların sonuçları...
+
+186
+00:19:56,778 --> 00:19:58,322
+vahim olur.
+
+187
+00:20:06,455 --> 00:20:08,582
+Bir daha bahsetme bundan.
+
+188
+00:20:19,134 --> 00:20:21,428
+Aklımı mı kaçırdım ben Sör Criston?
+
+189
+00:20:21,511 --> 00:20:22,614
+Algılarım beni yanıltıyor mu?
+
+190
+00:20:22,638 --> 00:20:25,474
+Yoksa herkes mi uyuyor?
+Aynı deli rüyayı mı görüyorlar?
+
+191
+00:20:25,557 --> 00:20:27,476
+Bazen öyle gibi geliyor majesteleri.
+
+192
+00:20:30,187 --> 00:20:32,457
+Mirasının ayrıcalığını
+utanmadan gözümüze sokuyor.
+
+193
+00:20:32,481 --> 00:20:35,817
+Kızıl Kale'de hepimizin gördüğü
+gerçeği reddetmesini bekliyor.
+
+194
+00:20:35,901 --> 00:20:37,295
+- Hele kral babası...
+- Biliyor.
+
+195
+00:20:37,319 --> 00:20:38,403
+Biliyor tabii!
+
+196
+00:20:38,487 --> 00:20:40,089
+Artık kendini aksine
+inandırmış da olabilir.
+
+197
+00:20:40,113 --> 00:20:42,032
+Kızına bahane üretmekten
+başka bir şey yapmıyor.
+
+198
+00:20:42,908 --> 00:20:46,536
+Prenses Rhaenyra
+küstah ve insafsız.
+
+199
+00:20:46,620 --> 00:20:49,957
+Avını sokup kanını
+emen bir örümcek gibi.
+
+200
+00:20:50,749 --> 00:20:52,668
+Şımarık orospu!
+
+201
+00:20:58,090 --> 00:21:00,467
+Haddimi aştım majesteleri.
+Özür dilerim.
+
+202
+00:21:03,887 --> 00:21:05,681
+İnanmak zorundayım...
+
+203
+00:21:05,764 --> 00:21:09,309
+nihayetinde şeref
+ve namus kazanacak.
+
+204
+00:21:10,477 --> 00:21:13,605
+Bunlara ve birbirimize
+bağlı kalmak zorundayız.
+
+205
+00:21:32,582 --> 00:21:33,959
+Kimin fikriydi?
+
+206
+00:21:39,256 --> 00:21:40,340
+Domuz.
+
+207
+00:21:40,924 --> 00:21:43,468
+- Senin işin mi?
+- Hayır...
+
+208
+00:21:44,177 --> 00:21:47,097
+Jace yaptı.
+
+209
+00:21:48,473 --> 00:21:50,308
+Jace ile ikisi.
+
+210
+00:21:50,392 --> 00:21:52,019
+Emin değilim.
+
+211
+00:21:52,102 --> 00:21:53,520
+Aemond senin kardeşin.
+
+212
+00:21:53,603 --> 00:21:55,731
+- Malın teki.
+- Aileyiz biz.
+
+213
+00:21:55,814 --> 00:21:58,150
+Evde istediğin kadar
+dalga geçebilirsin...
+
+214
+00:21:58,233 --> 00:22:01,361
+ama dışarı çıktığında
+kanını korumak zorundasın.
+
+215
+00:22:01,445 --> 00:22:02,529
+Komikti ama.
+
+216
+00:22:02,612 --> 00:22:05,365
+Rhaenyra'nın çocukları hep
+oyuncağın olarak mı kalacak?
+
+217
+00:22:07,200 --> 00:22:08,326
+Gidişata göre...
+
+218
+00:22:09,161 --> 00:22:12,873
+Rhaenyra tahta oturacak ve
+Jacaerys Targaryen de varisi olacak.
+
+219
+00:22:13,498 --> 00:22:16,084
+- Ee?
+- Kocaman adam oldun be!
+
+220
+00:22:16,168 --> 00:22:18,211
+Nasıl bu kadar leylasın?
+
+221
+00:22:21,006 --> 00:22:22,924
+Rhaenyra gücü eline geçirirse...
+
+222
+00:22:23,633 --> 00:22:26,178
+bunu canınla ödeyebilirsin.
+
+223
+00:22:27,346 --> 00:22:28,680
+Aemond da aynı şekilde.
+
+224
+00:22:29,765 --> 00:22:32,601
+Halefiyetine karşı tüm itirazları
+ortadan kaldırmaya çalışabilir.
+
+225
+00:22:33,393 --> 00:22:35,246
+- Benim bir itirazım yok...
+- İtiraz sensin zaten!
+
+226
+00:22:35,270 --> 00:22:36,772
+İtiraz sensin Aegon!
+
+227
+00:22:36,855 --> 00:22:39,399
+Yaşayıp nefes alman yeter!
+
+228
+00:22:43,904 --> 00:22:46,865
+Sen kralın ilk oğlusun.
+
+229
+00:22:46,948 --> 00:22:49,743
+Hepsi biliyor.
+Bütün krallık biliyor.
+
+230
+00:22:49,826 --> 00:22:51,745
+Hepsi adı gibi biliyor...
+
+231
+00:22:52,996 --> 00:22:55,916
+bir gün kralımız sen olacaksın.
+
+232
+00:23:04,966 --> 00:23:05,966
+Giyin şimdi.
+
+233
+00:24:01,648 --> 00:24:03,233
+<i>Dracarys!
+
+234
+00:24:31,136 --> 00:24:33,555
+Kuzu yüreği fevkalade olmuş.
+
+235
+00:24:33,638 --> 00:24:36,391
+Aşçımız konusunda
+çok şanslıyız ekselansları.
+
+236
+00:24:36,474 --> 00:24:39,811
+Daha erik pastası gelecek,
+kırıntıları için savaşmasak iyi.
+
+237
+00:24:39,895 --> 00:24:41,813
+O zaman hırgürümüz başlamadan...
+
+238
+00:24:43,440 --> 00:24:47,319
+Fatih Aegon'a bir kadeh kaldıralım.
+Soylu atanız...
+
+239
+00:24:47,402 --> 00:24:51,281
+Kanlı Asır zamanı Volantis'e
+karşı davamıza katılmıştı.
+
+240
+00:24:51,364 --> 00:24:54,618
+Yüce ejderi Balerion'un sırtında,
+Lys'e uçup imdadımıza yetişti...
+
+241
+00:24:54,701 --> 00:24:58,205
+ve düşman gemilerini yakarak
+savaşı lehimize çevirdi.
+
+242
+00:25:00,498 --> 00:25:03,043
+- Fatih Aegon'a.
+- Aegon'a.
+
+243
+00:25:06,338 --> 00:25:08,256
+Bahsi geçmişken...
+
+244
+00:25:08,965 --> 00:25:11,134
+bir teklifte bulunmak istiyorum.
+
+245
+00:25:11,218 --> 00:25:14,054
+Tarihi dostluğumuzun ruhunu
+onurlandırmak adına...
+
+246
+00:25:14,137 --> 00:25:16,681
+Kızlarımızdan biriyle evlenmek
+istiyorsanız ekselansları...
+
+247
+00:25:16,765 --> 00:25:19,184
+tarih derslerine dalmadan
+direkt söyleyebilirdiniz.
+
+248
+00:25:19,267 --> 00:25:21,102
+Ne?
+
+249
+00:25:21,186 --> 00:25:24,272
+Kendimi buna layık
+görmem Leydim Laena.
+
+250
+00:25:26,983 --> 00:25:31,363
+Ben sizlere, Pentos'ta
+temelli kalmanızı öneriyorum.
+
+251
+00:25:31,446 --> 00:25:33,865
+Bu malikane anında size hediyemdir.
+
+252
+00:25:33,949 --> 00:25:36,243
+Bütün çiftlikleri ve toprakları...
+
+253
+00:25:36,326 --> 00:25:38,036
+bağları ve ormanlarıyla.
+
+254
+00:25:38,119 --> 00:25:42,457
+Sakinleri her yıl yeni Targaryen
+lordlarına hürmetlerini sunar.
+
+255
+00:25:42,540 --> 00:25:47,879
+Şehrin ve limanın özgürlüğü,
+soyluluğunuz da uyarınca sizin olur.
+
+256
+00:25:51,091 --> 00:25:52,467
+Devam edin.
+
+257
+00:25:52,550 --> 00:25:55,845
+Lys ve müttefikleri
+yeniden yükselişte.
+
+258
+00:25:55,929 --> 00:26:00,475
+Üçlü Erk, Dorne'dan
+Qoren Martell ile anlaştı.
+
+259
+00:26:00,558 --> 00:26:03,603
+Her an yüzlerini
+kuzeye çevirebilirler.
+
+260
+00:26:03,687 --> 00:26:06,106
+Ailenizin ejderhaları var.
+
+261
+00:26:06,189 --> 00:26:09,943
+Şimdilik üç tane, belki dört olacak.
+
+262
+00:26:11,027 --> 00:26:14,864
+Benim derdim, Pentos'u Üçlü Erk'in
+arsız gözlerinden korumak.
+
+263
+00:26:14,948 --> 00:26:18,576
+Zamanında Aegon'un yaptığı gibi,
+Pentos'a desteğinizi verin...
+
+264
+00:26:19,286 --> 00:26:23,456
+minnetim tüm kadehlerinizi
+doldurup taşırsın.
+
+265
+00:26:23,540 --> 00:26:25,834
+Ekselansları, biz gezginleriz.
+
+266
+00:26:25,917 --> 00:26:28,461
+Ziyaretimiz fazlasıyla uzadı bile.
+
+267
+00:26:32,924 --> 00:26:34,676
+Çok cömert bir teklif.
+
+268
+00:26:35,385 --> 00:26:37,304
+Değerlendireceğimizden
+emin olabilirsiniz.
+
+269
+00:27:07,876 --> 00:27:10,420
+Prens Reggio'nun
+teklifini mi düşünüyorsun?
+
+270
+00:27:10,503 --> 00:27:12,505
+Buradaki hayatımız gayet güzel.
+
+271
+00:27:12,589 --> 00:27:16,009
+Canımız ne isterse yapıyoruz,
+halimiz vaktimiz yerinde.
+
+272
+00:27:16,092 --> 00:27:18,386
+- Daimi misafirleriz.
+- Aynen öyle.
+
+273
+00:27:18,470 --> 00:27:21,431
+Sorumluluğumuz yok.
+O siyasi komplolar...
+
+274
+00:27:21,514 --> 00:27:25,685
+bitmek bilmeyen ve sürekli değişen
+bağlılıklar, halefiyetler burada yok.
+
+275
+00:27:26,519 --> 00:27:29,439
+- Bizi kullanıyorlar.
+- İyi gelmedi mi?
+
+276
+00:27:30,982 --> 00:27:32,567
+Çok basit bir alışveriş.
+
+277
+00:27:32,650 --> 00:27:35,195
+Bizim ejderimiz,
+onların altını var.
+
+278
+00:27:40,492 --> 00:27:42,369
+Bundan çok daha
+fazlasıyız biz Daemon.
+
+279
+00:27:42,452 --> 00:27:45,514
+Yabancı bir prensin eğlencesine
+hizmet eden maskaralar değiliz.
+
+280
+00:27:45,538 --> 00:27:47,874
+Biz Eski Valyria'nın kanıyız.
+
+281
+00:27:48,958 --> 00:27:50,543
+Yerimiz burası değil.
+
+282
+00:27:50,627 --> 00:27:53,171
+Valyria yok oldu.
+Bizim yerimiz yok.
+
+283
+00:27:58,885 --> 00:28:03,556
+Ben çocuğumun doğduğum yerde,
+Akıntıtaşı'nda lord babamın...
+
+284
+00:28:03,640 --> 00:28:04,933
+kalesinde doğmasını istiyorum.
+
+285
+00:28:05,016 --> 00:28:07,560
+Kızlarımın kendi yuvalarında,
+hak ettikleri gibi...
+
+286
+00:28:07,644 --> 00:28:11,648
+ailelerinin yanında
+büyümelerini istiyorum.
+
+287
+00:28:13,775 --> 00:28:17,237
+En sonunda da, bir ejder
+binicisi gibi ölmek istiyorum.
+
+288
+00:28:17,320 --> 00:28:19,864
+Şişko bir taşra lordu gibi değil.
+
+289
+00:28:52,856 --> 00:28:54,774
+Dizlerini gevşet.
+
+290
+00:28:55,400 --> 00:28:56,400
+Ayaklar hafif.
+
+291
+00:28:56,985 --> 00:28:59,279
+Ayaklarını hafif,
+ellerini güçlü tut.
+
+292
+00:28:59,362 --> 00:29:01,281
+İşte bu Lyonel.
+
+293
+00:29:01,990 --> 00:29:05,410
+Oğlanlar birlikte öğreniyor,
+birlikte eğitiliyor...
+
+294
+00:29:05,493 --> 00:29:08,371
+birbirini devirip kaldırıyor.
+
+295
+00:29:08,455 --> 00:29:11,166
+Ömür boyu bu bağları
+kopmayacak, değil mi?
+
+296
+00:29:12,000 --> 00:29:13,334
+Öyle umuyoruz majesteleri.
+
+297
+00:29:16,296 --> 00:29:18,840
+Çok dik durmayın prensim,
+devrilirsiniz.
+
+298
+00:29:30,059 --> 00:29:31,059
+Aegon.
+
+299
+00:29:32,854 --> 00:29:34,772
+İlk talimimi tamamladım Sör Criston.
+
+300
+00:29:34,856 --> 00:29:36,983
+Rakibim merhamet dilendi.
+
+301
+00:29:37,609 --> 00:29:40,737
+Öyleyse yeni bir rakibiniz var
+Kamış Lordu.
+
+302
+00:29:40,820 --> 00:29:42,363
+Bakalım bana dokunabilecek misiniz?
+
+303
+00:29:43,364 --> 00:29:44,699
+Kardeşinizle birlikte.
+
+304
+00:30:12,560 --> 00:30:14,200
+Bundan iyisini yapmanız lazım.
+
+305
+00:30:19,692 --> 00:30:20,693
+Kaldırın silahları çocuklar.
+
+306
+00:30:20,777 --> 00:30:22,779
+Düşmanlarınıza fırsat vermeyin.
+
+307
+00:30:25,406 --> 00:30:30,328
+Delikanlılar da sizden biraz
+ilgi görebilir Sör Criston.
+
+308
+00:30:30,411 --> 00:30:33,331
+Eğitim yöntemlerimi mi
+sorguluyorsunuz sör?
+
+309
+00:30:33,414 --> 00:30:37,168
+O yöntemleri tüm talebelerinize
+uygulayın diyorum.
+
+310
+00:30:40,630 --> 00:30:41,630
+Pekala.
+
+311
+00:30:45,176 --> 00:30:47,011
+Jacaerys, gel böyle.
+
+312
+00:30:47,095 --> 00:30:48,388
+Sen Aegon'la çalışacaksın.
+
+313
+00:30:51,808 --> 00:30:53,351
+Büyük oğullar birbirine karşı.
+
+314
+00:30:56,354 --> 00:30:58,332
+- Adil bir eşleşme olmadı.
+- Hiç gerçek savaş...
+
+315
+00:30:58,356 --> 00:30:59,996
+görmediğinizi biliyorum sör,
+ama kılıçlar çekildiğinde...
+
+316
+00:31:00,024 --> 00:31:01,984
+adil bir eşleşme
+beklememelisiniz zaten.
+
+317
+00:31:04,737 --> 00:31:05,737
+Kaldırın kılıçları.
+
+318
+00:31:07,198 --> 00:31:08,950
+Dövüşün.
+
+319
+00:31:32,682 --> 00:31:34,601
+- Haksızlık.
+- Ben ilgilenirim.
+
+320
+00:31:37,228 --> 00:31:39,230
+<i>Sağlam bas yere,
+boyun uzun...
+
+321
+00:31:39,314 --> 00:31:40,773
+<i>Kullan bunu.
+Üzerine git...
+
+322
+00:31:46,321 --> 00:31:47,321
+Gel!
+
+323
+00:31:48,948 --> 00:31:50,074
+Yaklaş iyice.
+
+324
+00:31:50,992 --> 00:31:53,202
+Geriye it.
+Yaklaş!
+
+325
+00:31:53,786 --> 00:31:55,705
+Saldırmaya devam.
+Ayaklarını kullan!
+
+326
+00:31:58,916 --> 00:32:00,043
+Kalkmasına izin verme.
+
+327
+00:32:02,670 --> 00:32:03,796
+Saldırıya devam.
+
+328
+00:32:05,298 --> 00:32:06,382
+Yeter!
+
+329
+00:32:08,259 --> 00:32:10,887
+- Sen kimsin de bana dokunuyorsun lan?
+- Aegon!
+
+330
+00:32:10,970 --> 00:32:12,850
+Haddini aşıyorsun Strong.
+Prens var karşında.
+
+331
+00:32:12,930 --> 00:32:14,474
+Sen bunu mu öğretiyorsun Cole?
+
+332
+00:32:17,101 --> 00:32:18,227
+Gaddarlık mı?
+
+333
+00:32:19,312 --> 00:32:20,855
+Hem de zayıf rakibe.
+
+334
+00:32:23,483 --> 00:32:27,403
+Prensçiklerin eğitimine ilginiz
+pek alışıldık değil kumandan.
+
+335
+00:32:28,988 --> 00:32:32,241
+Birçok erkek böylesi bir özveriyi
+ancak kuzenine gösterir.
+
+336
+00:32:34,077 --> 00:32:35,203
+Ya da kardeşine.
+
+337
+00:32:36,204 --> 00:32:37,204
+Veya oğluna.
+
+338
+00:32:54,263 --> 00:32:55,390
+Çekil lan!
+
+339
+00:32:55,848 --> 00:32:57,392
+Bir daha söyle!
+
+340
+00:32:58,267 --> 00:32:59,644
+Bir daha söyle!
+
+341
+00:32:59,727 --> 00:33:01,646
+Aynen öyle.
+
+342
+00:33:04,982 --> 00:33:06,567
+Bir bezle yıkanmasını sağlayın.
+
+343
+00:33:06,651 --> 00:33:10,571
+Aşçıya da söyle sana
+güzel bir şarap versin.
+
+344
+00:33:12,824 --> 00:33:13,824
+Prenses...
+
+345
+00:33:14,742 --> 00:33:17,870
+Avulda bir kaza oldu.
+
+346
+00:33:27,338 --> 00:33:29,632
+O kadar utanıyorum ki...
+
+347
+00:33:29,716 --> 00:33:32,009
+Ne yapabilirim ki?
+
+348
+00:33:32,093 --> 00:33:35,513
+- Senin utancın.
+- Bizim utancımız Harwin!
+
+349
+00:33:35,596 --> 00:33:37,223
+Strong Hanesi'nin utancı.
+
+350
+00:33:37,306 --> 00:33:41,486
+O kendini beğenmiş, kahyanın
+oğlu Cole'a saldırdım diye mi?
+
+351
+00:33:41,487 --> 00:33:43,676
+O artık Kral Muhafızlarının
+bir şövalyesi, krallığın koruyucusu.
+
+352
+00:33:43,677 --> 00:33:46,441
+Prens Jacaerys'e saldırdı,
+tahtın müstakbel varisi!
+
+353
+00:33:48,526 --> 00:33:54,432
+Sen bizi çok daha çirkin
+bir ihanete maruz bıraktın.
+
+354
+00:33:54,615 --> 00:33:56,701
+Ne ihanetiymiş o?
+
+355
+00:33:59,287 --> 00:34:01,414
+Aptalı oynama bana oğlum.
+
+356
+00:34:03,040 --> 00:34:06,210
+Prenses Rhaenyra ile yakınlığın...
+
+357
+00:34:06,294 --> 00:34:09,213
+sürgün ve ölümle
+sonuçlanacak bir suç.
+
+358
+00:34:09,797 --> 00:34:13,342
+Senin, onun, çocukların için!
+
+359
+00:34:14,510 --> 00:34:17,054
+Bunlar hep dedikodu.
+
+360
+00:34:18,806 --> 00:34:22,351
+- Prensesin rakipleri yayıyor.
+- Herkesin gözü var oğlum.
+
+361
+00:34:24,729 --> 00:34:28,691
+Ama majesteleri kral bir türlü
+gözünün gördüğünü kabul etmiyor.
+
+362
+00:34:28,775 --> 00:34:33,654
+Cellat ile aranda yalnızca
+bu güçten düşmüş kalkan var.
+
+363
+00:34:34,822 --> 00:34:37,867
+Bir babanın, çocuğuna
+karşı kasti körlüğü.
+
+364
+00:34:37,950 --> 00:34:40,411
+Keşke benim babamda da
+benzer bir körlük olsaydı.
+
+365
+00:34:40,495 --> 00:34:42,747
+Bunca yıldır olmadı mı?
+
+366
+00:34:43,414 --> 00:34:48,586
+Ama bugün, Kral Muhafızlarının
+şövalyesine saldırıp kendi oğl...
+
+367
+00:34:51,506 --> 00:34:54,634
+Senin şerefin kendine,
+benimki bana.
+
+368
+00:35:02,850 --> 00:35:04,769
+Ağrınızı alır prenses.
+
+369
+00:35:17,240 --> 00:35:19,909
+- Sağ ol.
+- Birkaç güne sütünüz kuruyunca...
+
+370
+00:35:19,992 --> 00:35:21,536
+daha iyi hissedersiniz.
+
+371
+00:35:40,221 --> 00:35:42,223
+Canım karım.
+
+372
+00:35:42,306 --> 00:35:44,016
+Prenses.
+
+373
+00:35:45,768 --> 00:35:47,144
+Düşmüşüm.
+
+374
+00:35:49,438 --> 00:35:52,483
+- Neredeydin?
+- Qarl ile çıkmıştık, söylemedim mi?
+
+375
+00:35:54,569 --> 00:35:56,863
+Çok mu canın yanıyor?
+
+376
+00:35:56,946 --> 00:35:57,946
+Süt yüzünden...
+
+377
+00:35:59,198 --> 00:36:01,367
+göğüsleri şişiyor...
+- Müsaade eder misin Sör Qarl?
+
+378
+00:36:01,450 --> 00:36:04,829
+- Kocamla konuşmak istiyorum.
+- Elbette prenses.
+
+379
+00:36:16,382 --> 00:36:20,428
+Basamaktaşı'nda yine savaş
+çıkmak üzere Rhaenyra.
+
+380
+00:36:21,345 --> 00:36:25,725
+Üçlü Erk, Dorne ile ittifaka
+girip yeniden can buldu.
+
+381
+00:36:26,893 --> 00:36:28,811
+Gemileri ve nakliyeleri soyuyorlar.
+
+382
+00:36:29,520 --> 00:36:32,106
+Qarl orada savaştaymış.
+Bana bir...
+
+383
+00:36:35,443 --> 00:36:39,238
+Bana bir kase safir gösterdi,
+ceviz kadarlar kocaman.
+
+384
+00:36:39,322 --> 00:36:41,240
+Doğradığı bir korsandan çalmış.
+
+385
+00:36:43,868 --> 00:36:48,915
+Bunca zaman sonra bana da bu lazım
+işte diyorum, ufak bir macera.
+
+386
+00:36:48,998 --> 00:36:53,044
+Kanımı yeniden kaynatacak
+sağlamından bir savaş.
+
+387
+00:36:53,711 --> 00:36:58,132
+Orada Tyroshlu bir general varmış,
+dev gibi diyorlar...
+
+388
+00:36:58,215 --> 00:37:02,720
+ama sakalını mora boyayıp
+kadın kıyafeti giyiyormuş.
+
+389
+00:37:06,682 --> 00:37:08,559
+Birkaç aya belki...
+
+390
+00:37:13,314 --> 00:37:15,232
+Yeniden denizde olmak...
+
+391
+00:37:17,234 --> 00:37:19,111
+Delirdin mi sen?
+
+392
+00:37:20,071 --> 00:37:21,989
+Sen Bit Çukuru'nda...
+
+393
+00:37:22,782 --> 00:37:25,038
+biranın dibini görürken ne
+olduğundan haberin var mı?
+
+394
+00:37:25,039 --> 00:37:26,494
+Tanrılar bilir başka
+nelerin dibindeydin.
+
+395
+00:37:27,578 --> 00:37:29,872
+Karanlık söylentiler
+etrafımızı sarıyor Laenor.
+
+396
+00:37:29,956 --> 00:37:32,041
+Hemen arkamızdan geliyorlar.
+
+397
+00:37:32,124 --> 00:37:36,963
+Oğullarımızın soyu sorgulanıyor.
+
+398
+00:37:37,922 --> 00:37:41,217
+Pis, iğrenç imalar...
+
+399
+00:37:41,300 --> 00:37:42,885
+İma mı gerçekten?
+
+400
+00:37:43,427 --> 00:37:45,388
+Oğullarımız onlar!
+
+401
+00:37:45,471 --> 00:37:47,390
+İkimizin.
+
+402
+00:37:48,432 --> 00:37:50,559
+Öz babaları onları şimdi
+bir başına bırakıp...
+
+403
+00:37:50,643 --> 00:37:54,188
+Dar Deniz'de kılıcını
+sallayıp alem yapmaya...
+
+404
+00:37:54,271 --> 00:37:56,482
+denizcilere kıvırtmaya gidemez.
+- Ben şövalyeyim.
+
+405
+00:37:58,859 --> 00:38:01,028
+Savaşçıyım.
+
+406
+00:38:01,112 --> 00:38:06,242
+Buradaki görevimi
+layıkıyla yerine getirdim.
+
+407
+00:38:07,326 --> 00:38:10,246
+10 sene.
+
+408
+00:38:11,497 --> 00:38:14,417
+- Ben de bir şeyleri hak...
+- Hiçbir şey hak etmiyorsun!
+
+409
+00:38:15,543 --> 00:38:20,506
+10 senedir sarayın
+keyfini sürüyorsun.
+
+410
+00:38:20,589 --> 00:38:23,050
+En iyi atları alıyor...
+
+411
+00:38:23,134 --> 00:38:25,469
+en nadide şarapları içiyor...
+
+412
+00:38:25,553 --> 00:38:27,263
+en azgın oğlanları sikiyorsun.
+
+413
+00:38:27,346 --> 00:38:30,683
+Anlaşmamız buydu.
+Hiçbirinde gözüm yok.
+
+414
+00:38:31,642 --> 00:38:32,642
+Ama...
+
+415
+00:38:34,395 --> 00:38:38,649
+Fırtına kapıya vururken
+görevini terk etmeyeceksin.
+
+416
+00:38:38,733 --> 00:38:43,279
+Akıllı gemici fırtına
+başlamadan kaçar.
+
+417
+00:38:53,748 --> 00:38:55,958
+Öyle olsun.
+Emrediyorum sana.
+
+418
+00:38:57,460 --> 00:38:59,628
+Prensesin ve tahtın varisi olarak...
+
+419
+00:38:59,712 --> 00:39:04,925
+Kralın Şehri'nden, yanımdan
+ayrılmamayı emrediyorum.
+
+420
+00:39:25,613 --> 00:39:27,531
+Sekiz yıl oldu güzelim.
+
+421
+00:39:29,158 --> 00:39:32,036
+- Yarısında hiç olmaz, biliyor musun?
+- Ne olmaz?
+
+422
+00:39:35,039 --> 00:39:36,165
+Çatlamazlar.
+
+423
+00:39:39,126 --> 00:39:40,669
+Kalmama izin verirler mi?
+
+424
+00:39:42,088 --> 00:39:43,631
+Kim verecekmiş?
+
+425
+00:39:44,256 --> 00:39:45,800
+Pentos prensi.
+
+426
+00:39:46,967 --> 00:39:48,511
+Anlamadım.
+
+427
+00:39:49,720 --> 00:39:51,639
+Seni ve babamı istiyor.
+
+428
+00:39:53,099 --> 00:39:54,433
+Ve Baela'yı.
+
+429
+00:39:55,101 --> 00:39:56,894
+Çünkü ejderhalarınız var.
+
+430
+00:40:01,398 --> 00:40:05,111
+Bir ejderhayı kendine
+bağlamanın birden fazla yolu var.
+
+431
+00:40:05,194 --> 00:40:09,782
+Benim 15 yaşına
+kadar ejderim yoktu...
+
+432
+00:40:09,865 --> 00:40:13,994
+ama şimdi Vhagar'a biniyorum,
+dünyanın en büyüğü.
+
+433
+00:40:17,414 --> 00:40:19,250
+Senin yolun daha zor.
+
+434
+00:40:19,333 --> 00:40:21,210
+Baela'nın ejderi ona doğdu.
+
+435
+00:40:23,838 --> 00:40:25,422
+Ama binici olmak istiyorsan...
+
+436
+00:40:25,506 --> 00:40:28,384
+o hakkı kendin almalısın.
+
+437
+00:40:30,094 --> 00:40:32,012
+Baban da aynısını söylerdi.
+
+438
+00:40:33,597 --> 00:40:35,349
+Babam beni görmezden geliyor.
+
+439
+00:40:41,939 --> 00:40:43,399
+Elinden geleni yapıyor.
+
+440
+00:41:21,604 --> 00:41:23,522
+Laenor yazmış.
+
+441
+00:41:24,982 --> 00:41:27,109
+Rhaenyra'nın bir oğlu daha olmuş.
+
+442
+00:41:29,570 --> 00:41:33,782
+Kardeşin bu çocuğun da bariz
+bir şekilde ama tesadüf eseri...
+
+443
+00:41:33,866 --> 00:41:36,493
+Şehir Gözcüleri'nin kumandanına
+benzediğinden bahsetmiş mi?
+
+444
+00:41:36,577 --> 00:41:39,872
+Bu ayrıntıyı dahil etmemiş.
+
+445
+00:41:42,917 --> 00:41:45,461
+Kardeşimi özledim Daemon.
+
+446
+00:41:47,546 --> 00:41:49,215
+Bence sen de özledin.
+
+447
+00:41:50,925 --> 00:41:53,469
+Ben Westeros'un güçlü
+şarabını özledim.
+
+448
+00:41:54,845 --> 00:41:57,973
+En azından birkaç saati
+tertemiz silip atıyordu.
+
+449
+00:41:59,683 --> 00:42:02,019
+Burada anca amber içsinler.
+
+450
+00:42:09,902 --> 00:42:11,946
+Evini özlemiyor musun hiç?
+
+451
+00:42:12,029 --> 00:42:13,447
+Hayır.
+
+452
+00:42:13,530 --> 00:42:16,116
+- İnanmıyorum.
+- Neye istiyorsan inan.
+
 453
-00:51:16,448 --> 00:51:18,366
-Prenses ile Sör Laenor.
+00:42:16,200 --> 00:42:20,287
+Pentos'un güzelliklerini övüyorsun
+ama hiç ilgini bile çekmiyor.
 
 454
-00:51:28,043 --> 00:51:30,545
-Sör Joffrey Lonmouth.
+00:42:20,371 --> 00:42:22,915
+Çekse zaten şehre karışırdın
+ama onun yerine...
 
 455
-00:51:30,629 --> 00:51:34,841
-Öpücükler Şövalyesi diyorlar bana,
-neden bilmiyorum.
+00:42:22,998 --> 00:42:26,460
+bütün zamanını buranın kütüphanesinde,
+mirasından etkilenmediğini...
 
 456
-00:51:35,634 --> 00:51:40,096
-- Görevdeyim, ne istiyorsun?
-- Beni tanımıyorsun Sör Criston.
+00:42:26,543 --> 00:42:31,423
+iddia ettiğin aynı ölü ejder lordlarının
+hikayelerini okuyup duruyorsun.
 
 457
-00:51:40,180 --> 00:51:42,349
-Ama ikimiz de bu
-birlikteliğin çok içindeyiz.
+00:42:31,507 --> 00:42:33,968
+Böyle dikkatlice
+izlendiğimi bilmiyordum.
 
 458
-00:51:45,727 --> 00:51:48,897
-Söyleyecek bir şeyin varsa
-Sör Joffrey, konuş.
+00:42:34,051 --> 00:42:35,594
+Uyumuyorsun.
 
 459
-00:51:48,980 --> 00:51:51,107
-Sör Laenor'u çok severim.
+00:42:35,678 --> 00:42:38,097
+Her hareketimi böyle
+izlerken nasıl uyuyayım?
 
 460
-00:51:52,150 --> 00:51:55,278
-Biliyorum sen de
-prensesi öyle seviyorsun.
+00:42:41,558 --> 00:42:44,979
+Biliyorum, bu hayat
+hayallerini darmadağın etti.
 
 461
-00:51:57,322 --> 00:51:58,652
-Birbirimize yemin edelim.
+00:42:45,062 --> 00:42:47,540
+Belki ben de kendine
+istediğin eş olmadım hiç.
 
 462
-00:51:58,653 --> 00:52:03,411
-Onları ve sırlarını koruyacağımıza.
-Bunlar güvende kalırsa...
+00:42:47,564 --> 00:42:48,774
+Laena.
 
 463
-00:52:06,081 --> 00:52:07,999
-biz de kalırız.
+00:42:48,857 --> 00:42:50,693
+Canımı yakmıyor bu.
 
 464
-00:52:51,585 --> 00:52:54,588
-- Müsaadenle Sör Harwin.
-- Tabii prensim.
+00:42:51,652 --> 00:42:53,570
+Kabullendim artık.
 
 465
-00:53:06,900 --> 00:53:08,928
-İsteğin bu mu gerçekten?
+00:42:57,491 --> 00:42:59,034
+Ama sen bundan çok
+daha fazlasısın Daemon.
 
 466
-00:53:09,823 --> 00:53:14,870
-- İsteklerim seni ilgilendirmiyordu hani?
-- Hiç senlik değil bu.
+00:43:01,578 --> 00:43:04,456
+Evlendiğim adam çok daha fazlası.
 
 467
-00:53:14,871 --> 00:53:18,471
-Leanor düzgün bir adam
-ve iyi bir şövalye.
+00:43:12,298 --> 00:43:14,633
+Lord Blackwood'un iddiasına göre...
 
 468
-00:53:18,472 --> 00:53:21,672
-Sıkıntıdan bayıltacak seni.
+00:43:14,717 --> 00:43:17,761
+Brackenlar sınır taşlarını
+gecenin bir yarısı kaldırıp...
 
 469
-00:53:22,546 --> 00:53:26,233
-Evlilik politik bir anlaşmadan
-ibaret diye duymuştum.
+00:43:17,845 --> 00:43:20,306
+otlasınlar diye
+atlarını oraya bırakmış.
 
 470
-00:53:26,234 --> 00:53:28,434
-Benimki yeni sona erdi.
+00:43:20,389 --> 00:43:22,975
+Bu mesele neden
+Lord Grover'a gitmiyor?
 
 471
-00:53:28,758 --> 00:53:32,378
-Alsana beni o zaman.
-Amacın bu değil miydi zaten?
+00:43:23,058 --> 00:43:26,145
+İki taş arasındaki meseleyi
+çözemeyecek kadar tükendi mi?
 
 472
-00:53:32,379 --> 00:53:36,879
-Daha evlenmedim.
-Ama vakit hızlı geçiyor.
+00:43:26,228 --> 00:43:30,607
+Duyduğuma göre, Nehirova'yı
+Lord Grover'ın oğlu yönetiyormuş artık.
 
 473
-00:53:37,146 --> 00:53:39,534
-Silahlısın belli ki.
+00:43:30,691 --> 00:43:34,987
+Oğlan aynı zamanda Tully.
+Bu da Tullylerin derdi.
 
 474
-00:53:41,489 --> 00:53:44,097
-Babamın kral muhafızlarını geç.
+00:43:35,070 --> 00:43:36,196
+Katılıyorum.
 
 475
-00:53:44,498 --> 00:53:50,798
-Beni Ejderhakayası'na
-götürüp karın yap.
+00:43:37,281 --> 00:43:39,700
+- Devam edecek olursak lordlarım...
+- Yine de...
 
 476
-00:54:13,083 --> 00:54:14,584
-Ne oluyor orada?
+00:43:39,783 --> 00:43:43,329
+Brackenlar ile Blackwoodların birbirine
+dalmak için uydurmayacağı bahane yok.
 
 477
-00:54:16,336 --> 00:54:17,671
-Laenor!
+00:43:46,623 --> 00:43:49,918
+Yani bu anlaşmazlıkla
+ilgilenilmesi lazım.
 
 478
-00:54:52,497 --> 00:54:54,416
-- Kesin şunu!
-- Rhaenyra nerede?
+00:43:50,002 --> 00:43:53,881
+Yıllardır sınırların nerede çizili
+olduğunu bilen köylüler vardır.
 
 479
-00:55:14,728 --> 00:55:16,479
-<i>Prenses!
+00:43:53,964 --> 00:43:55,215
+Oldukça basit bir çözüm.
 
 480
-00:55:27,323 --> 00:55:28,867
-İndir beni!
+00:43:56,425 --> 00:43:57,843
+Tabii ya.
 
 481
-00:56:22,045 --> 00:56:26,216
-<i>Yedi'nin sevgisi kutsal ve daimdir.
+00:44:00,137 --> 00:44:01,263
+Sör Tyland.
 
 482
-00:56:27,175 --> 00:56:30,095
-<i>Yaşamın ve sevginin kaynağı.
+00:44:03,015 --> 00:44:07,644
+Basamaktaşı'ndaki son gelişmeleri de
+görüşmeliyiz lordlarım.
 
 483
-00:56:31,679 --> 00:56:36,059
-Bugün burada,
-şükran ve hamd ile...
+00:44:07,728 --> 00:44:10,439
+Şu pis yerin muhabbeti
+bitmeyecek mi ya?
 
 484
-00:56:36,142 --> 00:56:39,687
-iki ruhu birleştirmek için buluştuk.
+00:44:10,522 --> 00:44:13,901
+- Bana sorarsanız Blackwoodlar haklı.
+- Hayır.
 
 485
-00:56:44,818 --> 00:56:46,069
-<i>Baba.
+00:44:13,984 --> 00:44:16,362
+Basamaktaşı konusuna geçtik
+Lord Beesbury.
 
 486
-00:56:48,613 --> 00:56:49,948
-Anne.
+00:44:16,445 --> 00:44:19,907
+Üçlü Erkin Dorne ile
+yeni ittifakını konuşuyoruz.
 
 487
-00:56:52,158 --> 00:56:53,493
-<i>Savaşçı.
+00:44:19,990 --> 00:44:24,453
+Güneş Mızrağı ile müzakerelerimizin
+onları yola getireceğini sanıyordum.
 
 488
-00:56:54,786 --> 00:56:56,121
-<i>Demirci.
+00:44:24,536 --> 00:44:28,707
+Bir Martell'e güvenilmiyor işte.
 
 489
-00:56:57,372 --> 00:56:58,706
-<i>Bakire.
+00:44:28,791 --> 00:44:31,293
+Bu arada prensimiz
+Daemon nerede acaba?
 
 490
-00:56:59,541 --> 00:57:01,042
-<i>Yaşlı Bilge.
+00:44:31,377 --> 00:44:33,837
+Bir zamanlar orada bir savaş
+kazandı diye kendi kendine...
 
 491
-00:57:01,709 --> 00:57:03,253
-<i>Yabancı.
+00:44:33,921 --> 00:44:36,548
+üstlendiği gibi
+kralımız mı desem yoksa?
 
 492
-00:57:05,296 --> 00:57:07,841
-Duyun yeminlerini.
+00:44:36,632 --> 00:44:39,385
+Üzerinden on yıl geçti, bölgeyi
+tamamen savunmasız bıraktı.
 
 493
-00:57:09,634 --> 00:57:12,554
-Ben seninim,
-sen de benim.
+00:44:39,468 --> 00:44:41,178
+Biz savunmasız bıraktık.
 
 494
-00:57:15,348 --> 00:57:17,058
-Ne olursa olsun.
+00:44:41,261 --> 00:44:44,223
+Oraya surlar inşa etmeliydik.
 
 495
-00:57:20,186 --> 00:57:22,522
-<i>Ben seninim,
-sen de benim.
+00:44:44,306 --> 00:44:46,141
+Gözcü kuleleri, filolarımız...
 
 496
-00:57:23,565 --> 00:57:24,899
-Ne olursa olsun.
+00:44:46,225 --> 00:44:48,936
+korumak için bir garnizon
+askerimiz olmalıydı.
 
 497
-00:57:25,775 --> 00:57:31,781
-Burada, tanrılar ve
-insanların huzurunda...
+00:44:49,019 --> 00:44:50,145
+Karşılayamıyoruz.
 
 498
-00:57:33,283 --> 00:57:35,827
-Velaryon Hanesi'nden Leanor ile...
+00:44:52,481 --> 00:44:55,776
+Hazinemiz çok geniş
+ama sonsuz değil.
 
 499
-00:57:37,996 --> 00:57:41,457
-<i>Targaryen Hanesi'nden Rhaenyra'yı...
+00:44:56,485 --> 00:44:58,445
+Halkımızın maliyetini de
+düşünmemiz gerekiyor.
 
 500
-00:57:41,541 --> 00:57:43,459
-<i>karı koca ilan ediyorum.
+00:44:58,529 --> 00:45:01,448
+- Aynı fikirdeyim.
+- Savaşın maliyeti daha büyük.
 
 501
-00:57:47,088 --> 00:57:49,090
-<i>Tek beden.
+00:45:03,951 --> 00:45:08,080
+Dikkatimizi oradan ayırdık ve
+eski canavar yeniden baş verdi.
 
 502
-00:57:49,966 --> 00:57:51,509
-Tek kalp.
+00:45:13,419 --> 00:45:14,503
+Bitirelim artık.
 
 503
-00:57:52,552 --> 00:57:54,095
-Tek ruh.
+00:45:15,921 --> 00:45:17,214
+Evet.
 
 504
-00:57:55,805 --> 00:57:58,349
-Şu andan sonsuza kadar.
+00:45:21,760 --> 00:45:22,760
+Durun.
 
 505
-00:57:59,184 --> 00:58:01,102
-Sör Criston.
+00:45:23,679 --> 00:45:25,222
+Konuşmak istiyorum.
 
 506
-00:58:25,872 --> 00:58:29,899
+00:45:26,557 --> 00:45:27,683
+Buyurun.
+
+507
+00:45:37,025 --> 00:45:39,903
+Ailelerimiz arasındaki...
+
+508
+00:45:41,155 --> 00:45:42,364
+çekişme...
+
+509
+00:45:43,407 --> 00:45:45,742
+bir süredir dikkatimde kraliçem.
+
+510
+00:45:48,454 --> 00:45:52,207
+Ailem sizi gücendirdiyse
+özür dilerim.
+
+511
+00:45:54,376 --> 00:45:56,503
+Biz tek bir haneyiz.
+
+512
+00:45:57,629 --> 00:46:01,467
+Bundan çok öncesinde de arkadaştık.
+
+513
+00:46:07,848 --> 00:46:10,517
+Oğlum Jacaerys benden sonra
+Demir Tahta geçecek.
+
+514
+00:46:10,601 --> 00:46:13,520
+Onu kızınız Helaena ile
+sözlemeyi öneriyorum.
+
+515
+00:46:15,147 --> 00:46:17,065
+Tek kalemde...
+
+516
+00:46:17,774 --> 00:46:19,318
+yeniden birleşelim.
+
+517
+00:46:20,235 --> 00:46:21,945
+Birlikte hükmetsinler.
+
+518
+00:46:22,029 --> 00:46:24,573
+Ne kadar akıllıca bir teklif.
+
+519
+00:46:29,077 --> 00:46:32,623
+Ek olarak, Syrax bir
+parti daha yumurtlarsa...
+
+520
+00:46:32,706 --> 00:46:35,125
+iyi niyet göstergesi olarak,
+oğlunuz Aemond...
+
+521
+00:46:36,418 --> 00:46:38,962
+içlerinden dilediğini seçebilir.
+
+522
+00:46:42,049 --> 00:46:43,342
+Rhaenyra.
+
+523
+00:46:51,266 --> 00:46:53,852
+Yedi aşkına ya...
+
+524
+00:46:56,146 --> 00:46:57,773
+Canım.
+
+525
+00:46:57,856 --> 00:47:00,234
+Ejder yumurtası müthiş bir hediye.
+
+526
+00:47:01,902 --> 00:47:05,489
+Kral ile bu önerine teşekkür ederiz,
+layıkıyla değerlendireceğiz.
+
+527
+00:47:05,572 --> 00:47:07,491
+Artık dinlenmelisin kocacığım.
+
+528
+00:47:10,786 --> 00:47:12,120
+Evet.
+
+529
+00:47:18,502 --> 00:47:22,297
+Tazılar köşeye sıkıştırınca
+tilkinin ağzından bal damlıyor.
+
+530
+00:47:22,381 --> 00:47:25,425
+- Samimi konuşuyor.
+- Çaresiz konuşuyor.
+
+531
+00:47:25,509 --> 00:47:27,719
+Dünya ayaklarının altından
+kayıyormuş gibi hissediyor...
+
+532
+00:47:27,803 --> 00:47:30,138
+ve şimdi de tüm günahlarını
+görmezden gelip...
+
+533
+00:47:30,222 --> 00:47:35,310
+biricik kızımı o dandik oğullarından
+biriyle evlendirmemi bekliyor.
+
+534
+00:47:35,394 --> 00:47:37,938
+Gayet iyi bir teklif kraliçem.
+
+535
+00:47:39,064 --> 00:47:40,649
+Biz aileyiz.
+
+536
+00:47:40,732 --> 00:47:43,068
+Bu çocukça dalaşa
+bir son verelim artık.
+
+537
+00:47:43,151 --> 00:47:45,487
+Birlik olup daha da güçlenelim.
+
+538
+00:47:46,697 --> 00:47:48,615
+Canın ne istiyorsa
+onu yaparsın kocacığım.
+
+539
+00:47:49,700 --> 00:47:52,035
+Ben mezara girince.
+
+540
+00:47:52,911 --> 00:47:53,911
+Alicent.
+
+541
+00:47:55,914 --> 00:47:56,914
+Alicent!
+
+542
+00:48:20,606 --> 00:48:22,524
+Battaniyeyi istemiyorum.
+
+543
+00:48:26,111 --> 00:48:27,654
+Kral Eli, majesteleri.
+
+544
+00:48:28,363 --> 00:48:31,283
+- Kral dinleniyor.
+- Görüşeceğim.
+
+545
+00:48:32,534 --> 00:48:33,660
+Eğil şöyle.
+
+546
+00:48:41,168 --> 00:48:43,962
+Nasıl üzerime titreniyor
+görüyor musun Lyonel?
+
+547
+00:48:44,713 --> 00:48:47,257
+Tuvalete tek başıma gitmem mucize.
+
+548
+00:48:48,091 --> 00:48:49,091
+Majesteleri.
+
+549
+00:48:50,260 --> 00:48:52,262
+Ne diye geldiniz Lord Lyonel?
+
+550
+00:48:55,223 --> 00:48:56,475
+Majesteleri, ben...
+
+551
+00:48:59,144 --> 00:49:01,688
+Kral Eli olarak görevimden
+istifa etmeye geldim.
+
+552
+00:49:03,357 --> 00:49:05,025
+Bu sabah avluda yaşananlar...
+
+553
+00:49:05,108 --> 00:49:07,953
+Oğlum Harwin kendini küçük düşürdü...
+
+554
+00:49:07,954 --> 00:49:11,198
+ve yarına kalmaz Kralın Şehri'ndeki
+tüm kadınlar bunu konuşmaya başlar.
+
+555
+00:49:11,281 --> 00:49:15,494
+Genç Harwin'in çıkışı
+yazık oldu, orası doğru.
+
+556
+00:49:15,577 --> 00:49:17,257
+Ama Şehir Gözcüleri'nden
+atıldı zaten.
+
+557
+00:49:17,329 --> 00:49:18,705
+Hakkaniyetli bir ceza.
+
+558
+00:49:18,789 --> 00:49:21,124
+Bağışlayın majesteleri ama değil.
+
+559
+00:49:28,298 --> 00:49:32,469
+Bana yıllarca sadakatle hizmet ettin.
+
+560
+00:49:32,552 --> 00:49:33,762
+10 sene Elimdin.
+
+561
+00:49:35,389 --> 00:49:39,476
+Tavsiyelerin her daim ferasetli,
+bencillikten uzaktı.
+
+562
+00:49:40,268 --> 00:49:42,979
+Bu bile diğer herkesten
+çok daha fazlası.
+
+563
+00:49:44,314 --> 00:49:45,857
+Çok naziksiniz...
+
+564
+00:49:47,234 --> 00:49:51,488
+ama hanemin üzerinde bir gölge
+belirdi ve her geçen gün kararıyor.
+
+565
+00:49:51,571 --> 00:49:54,116
+Size namusumla hizmet edemem artık.
+
+566
+00:49:55,617 --> 00:49:57,160
+Ne gölgesiymiş bu?
+
+567
+00:49:58,578 --> 00:50:00,956
+Madem bu kadar karanlık, söyle.
+
+568
+00:50:01,039 --> 00:50:05,585
+Evet, gerekçenizi
+açık açık duymalıyız.
+
+569
+00:50:13,760 --> 00:50:14,886
+Olmaz.
+
+570
+00:50:16,805 --> 00:50:18,390
+Öyleyse kabul edemem.
+
+571
+00:50:18,473 --> 00:50:20,434
+- Canım kocacığım...
+- Hayır dedim!
+
+572
+00:50:21,810 --> 00:50:24,354
+- Madem ısrarcısınız kralım.
+- Evet.
+
+573
+00:50:25,355 --> 00:50:27,315
+Krallığa hizmetlerine
+devam edeceksin.
+
+574
+00:50:30,068 --> 00:50:32,279
+Bu durumda oğlumu saraydan
+alıp Harrenhal'daki...
+
+575
+00:50:32,362 --> 00:50:35,282
+aile evimize götürmek
+için izninizi arz ederim.
+
+576
+00:50:35,365 --> 00:50:39,244
+Benim varisim ve bir gün
+Harren'ın kalesinin lordu olacak.
+
+577
+00:50:39,327 --> 00:50:41,872
+Oradaki görevlerinin
+başına geçme zamanı geldi.
+
+578
+00:50:45,041 --> 00:50:46,041
+Tamam.
+
+579
+00:51:06,938 --> 00:51:08,899
+Yardım etmeyecek misin?
+
+580
+00:51:48,396 --> 00:51:51,233
+Sizi beklemeden
+başladım majesteleri.
+
+581
+00:51:51,316 --> 00:51:54,069
+Böyle bir turtayı
+soğutmak günah gibiydi.
+
+582
+00:51:54,152 --> 00:51:57,030
+Doğrusunu yapmışsın Lord Larys.
+
+583
+00:51:57,113 --> 00:51:59,699
+Şarabı içerken benzer
+endişeler gütmemişsin belli ki.
+
+584
+00:51:59,783 --> 00:52:02,536
+Şarapsız et de günahtır.
+
+585
+00:52:08,291 --> 00:52:10,919
+Kalede yaşananları size
+anlatmak benim görevim...
+
+586
+00:52:11,002 --> 00:52:13,922
+ama bu akşam olanları ben değil,
+siz biliyorsunuz.
+
+587
+00:52:14,881 --> 00:52:17,634
+Kral babamla görüştü.
+
+588
+00:52:17,717 --> 00:52:19,219
+İstifa etmeye çalıştı.
+
+589
+00:52:20,345 --> 00:52:21,680
+Aklımdan geçmişti.
+
+590
+00:52:22,931 --> 00:52:26,518
+Şerefi ona hep ayak
+bağı olmuştu zaten.
+
+591
+00:52:28,728 --> 00:52:30,689
+Çalıştı demenize takıldım.
+
+592
+00:52:30,772 --> 00:52:32,691
+Lord kocam kabul etmedi.
+
+593
+00:52:34,025 --> 00:52:37,988
+Öyleyse ağabeyimin günahlarını
+da itiraf etmedi demek.
+
+594
+00:52:38,071 --> 00:52:42,492
+Avludaki patlamasıyla ağabeyinin
+gerçeği bizzat itiraf etmediği kaldı zaten.
+
+595
+00:52:42,576 --> 00:52:44,703
+Gerçeğin çok çeşidi
+vardır majesteleri.
+
+596
+00:52:45,871 --> 00:52:50,792
+Kral değerli kızını sürgüne
+gönderir mi acaba, hatta...
+
+597
+00:52:52,043 --> 00:52:53,169
+Talya daha sonra.
+
+598
+00:53:00,552 --> 00:53:04,139
+Kraldaki bilerek görmezden gelme.
+
+599
+00:53:04,222 --> 00:53:07,809
+- Aynısı olsa siz de aynı
+sıkıntıyı çekerdiniz. - Çekmezdim.
+
+600
+00:53:09,728 --> 00:53:12,606
+Lord Lyonel, Kral Eli
+görevine devam ederken...
+
+601
+00:53:12,689 --> 00:53:16,067
+koltuğuna oturması için Sör
+Harwin'i Harrenhal'a götürecek.
+
+602
+00:53:16,693 --> 00:53:21,406
+Ama oğlunun yaptıkları
+Kral Elini de bağlar.
+
+603
+00:53:21,489 --> 00:53:26,453
+Babam krala tarafsız
+bir danışmanlık veremez.
+
+604
+00:53:26,536 --> 00:53:29,831
+Babamın yokluğunu hiç
+bu kadar hissetmemiştim.
+
+605
+00:53:29,915 --> 00:53:31,851
+Krala gerçekleri
+söylemekten asla çekinmezdi.
+
+606
+00:53:31,875 --> 00:53:33,418
+Otto Hightower halen
+Kral Eli olsa...
+
+607
+00:53:33,501 --> 00:53:37,547
+Babanızın bu meselede tarafsız
+olacağını söyleyemezsiniz kraliçem.
+
+608
+00:53:37,631 --> 00:53:39,758
+Hayır ama benim tarafımda olurdu!
+
+609
+00:53:49,267 --> 00:53:52,187
+Bu Kralın Şehri'nde yanımda
+duracak kimse yok mu?
+
+610
+00:54:18,421 --> 00:54:21,549
+Ne muazzam bir kahramanlar geçidi.
+
+611
+00:54:25,595 --> 00:54:27,263
+Katil.
+
+612
+00:54:27,931 --> 00:54:29,975
+Sapık.
+
+613
+00:54:30,517 --> 00:54:32,435
+Vatan haini.
+
+614
+00:54:33,228 --> 00:54:37,399
+Suçlarınız sebebiyle asılarak
+ölüme mahkum edildiniz.
+
+615
+00:54:39,401 --> 00:54:41,319
+Ne istiyorsun bizden?
+
+616
+00:54:44,531 --> 00:54:47,450
+Ufak bir bedel karşılığında...
+
+617
+00:54:49,160 --> 00:54:52,080
+<i>size merhamet sunmaya hazırım.
+
+618
+00:55:16,271 --> 00:55:17,939
+Ikının leydim!
+
+619
+00:55:18,023 --> 00:55:19,899
+Ikının!
+Ikının!
+
+620
+00:55:19,983 --> 00:55:21,067
+Ikının!
+
+621
+00:55:22,652 --> 00:55:25,196
+- Ikınmalısınız!
+- Ikının!
+
+622
+00:55:27,240 --> 00:55:29,492
+Çıkması lazım artık!
+
+623
+00:55:29,576 --> 00:55:30,702
+Ikının!
+
+624
+00:55:32,829 --> 00:55:34,372
+Ikının!
+
+625
+00:55:35,165 --> 00:55:37,333
+Ikının şimdi leydim!
+
+626
+00:55:37,417 --> 00:55:39,753
+Ikının!
+
+627
+00:55:58,188 --> 00:56:00,106
+Becerilerimin sonuna geldim.
+
+628
+00:56:02,067 --> 00:56:03,610
+Çocuk doğmuyor.
+
+629
+00:56:06,446 --> 00:56:08,364
+Cesur kızım.
+
+630
+00:56:13,912 --> 00:56:15,830
+Çok üzgünüm prensim.
+
+631
+00:56:17,290 --> 00:56:19,209
+Bebeği çıkarmak için...
+
+632
+00:56:20,293 --> 00:56:22,504
+bıçak yordamıyla...
+
+633
+00:56:22,587 --> 00:56:23,922
+rahmi kesebiliriz.
+
+634
+00:56:25,465 --> 00:56:28,510
+Ama kesin olarak yaşayacak diyemem.
+
+635
+00:56:28,593 --> 00:56:30,512
+Anne hayatta kalır mı?
+
+636
+00:56:32,388 --> 00:56:33,932
+Hayır.
+
+637
+00:57:04,379 --> 00:57:07,298
+<i>Vhagar, dracarys.
+
+638
+00:57:11,928 --> 00:57:13,263
+<i>Dracarys!
+
+639
+00:57:15,890 --> 00:57:17,642
+<i>Dracarys!
+
+640
+00:57:21,771 --> 00:57:23,314
+<i>Dracarys.
+
+641
+00:57:24,149 --> 00:57:26,067
+<i>Dracarys!
+
+642
+00:57:28,278 --> 00:57:29,779
+<i>Dracarys.
+
+643
+00:57:50,425 --> 00:57:51,551
+Laena!
+
+644
+00:58:14,574 --> 00:58:16,743
+Annenize uslu olun çocuklar.
+
+645
+00:58:16,826 --> 00:58:18,369
+İlk fırsatta geleceğim.
+
+646
+00:58:21,915 --> 00:58:23,833
+Ama bir süre gelemeyebilirim.
+
+647
+00:58:27,253 --> 00:58:28,379
+Jace.
+
+648
+00:58:35,303 --> 00:58:36,638
+Döneceğim.
+
+649
+00:58:39,390 --> 00:58:40,767
+Söz.
+
+650
+00:58:55,657 --> 00:58:59,535
+Yeniden buluştuğumuzda
+bir yabancı olacağım.
+
+651
+00:59:16,678 --> 00:59:17,720
+Prenses.
+
+652
+00:59:39,909 --> 00:59:42,620
+Kuzgunlarla mektuplaşırız.
+
+653
+00:59:42,704 --> 00:59:46,291
+- Eğlenceli olur.
+- Harwin Strong benim babam mı?
+
+654
+00:59:50,503 --> 00:59:52,046
+Piç miyim ben?
+
+655
+00:59:56,718 --> 00:59:58,636
+Sen bir Targaryensin.
+
+656
+01:00:00,346 --> 01:00:01,889
+Bundan önemli hiçbir şey yok.
+
+657
+01:00:26,581 --> 01:00:27,581
+Konuşalım mı?
+
+658
+01:00:34,464 --> 01:00:35,840
+Gitti herhalde.
+
+659
+01:00:38,343 --> 01:00:40,011
+Burada işimiz bitti.
+Biz de gidiyoruz.
+
+660
+01:00:43,056 --> 01:00:45,933
+Teklifin ne olacak?
+Jace ile Helaena?
+
+661
+01:00:46,017 --> 01:00:47,685
+Burada kuyumu kazdılar.
+
+662
+01:00:48,644 --> 01:00:51,856
+Sarayın maskarası oldum.
+Koridorlarda arkamdan fısıldıyorlar.
+
+663
+01:00:51,939 --> 01:00:54,275
+Ne halleri varsa görsünler.
+
+664
+01:00:58,279 --> 01:01:02,033
+- Ejderha Kayasına mı o zaman?
+- Yıllar önce gidecektik.
+
+665
+01:01:07,997 --> 01:01:09,791
+Konumun ne olacak?
+
+666
+01:01:09,874 --> 01:01:15,129
+Saraydan ayrılırsan, babanın
+ağzına istediği balı çalar diyordun.
+
+667
+01:01:15,880 --> 01:01:19,008
+Akıllı gemici fırtına
+başlamadan kaçar.
+
+668
+01:01:20,885 --> 01:01:22,804
+Laenor...
+
+669
+01:01:24,222 --> 01:01:25,681
+Onu da getir.
+
+670
+01:01:27,517 --> 01:01:29,602
+Bulabileceğimiz bütün
+kılıçlara ihtiyacımız olacak.
+
+671
+01:02:46,179 --> 01:02:49,599
+Yangın!
+Yanıyorum!
+
+672
+01:02:49,682 --> 01:02:52,310
+Harwin! Harwin!
+
+673
+01:03:16,834 --> 01:03:20,755
+<i>Çocuklar nedir ki, bir zaaftan başka?
+
+674
+01:03:24,008 --> 01:03:25,551
+<i>Bir delilikten?
+
+675
+01:03:26,802 --> 01:03:28,596
+<i>Boşa uğraştan?
+
+676
+01:03:33,851 --> 01:03:39,273
+<i>Onlar aracılığıyla, büyük karanlığı
+zaferinden alıkoyduğunu sanırsın.
+
+677
+01:03:54,455 --> 01:03:59,418
+<i>Öyle ya da böyle,
+direnirsin daima.
+
+678
+01:04:02,255 --> 01:04:05,341
+<i>Seni topraktan alıkoyacakmışçasına.
+
+679
+01:04:16,477 --> 01:04:21,065
+<i>Onlar için, vazgeçmemen
+gerekenlerden vazgeçersin.
+
+680
+01:04:23,943 --> 01:04:27,738
+<i>Yapılacak doğru şeyi bilirsin ama...
+
+681
+01:04:27,822 --> 01:04:31,200
+<i>sevgin ağır basar.
+
+682
+01:04:40,126 --> 01:04:41,252
+<i>Sevgi...
+
+683
+01:04:43,462 --> 01:04:45,381
+<i>çöküştür.
+
+684
+01:04:50,428 --> 01:04:57,435
+Bana sorarsan, bu hayatta
+köklerinden arınmak en temizi.
+
+685
+01:05:00,646 --> 01:05:01,939
+Ölmüşler.
+
+686
+01:05:02,023 --> 01:05:04,942
+Harrenhal'un öykülerini
+duymuşsunuzdur majesteleri.
+
+687
+01:05:06,736 --> 01:05:11,240
+Kara Harren, kendi kudretinin bir
+abidesi olarak kibriyle inşa etti.
+
+688
+01:05:11,324 --> 01:05:14,243
+Kirecine kan karıştırdı.
+
+689
+01:05:16,537 --> 01:05:18,873
+Lanetli bir yer derler.
+
+690
+01:05:19,624 --> 01:05:23,419
+Kapılarından geçen
+herkese yargısını buyurur.
+
+691
+01:05:23,502 --> 01:05:25,129
+Sen...
+
+692
+01:05:25,212 --> 01:05:27,131
+Yargıyı sen buyurdun.
+
+693
+01:05:28,841 --> 01:05:30,176
+Kraliçe bir dilekte bulundu.
+
+694
+01:05:32,136 --> 01:05:35,765
+Krallığın hangi hizmetkarı
+yerine getirmek için çabalamazdı ki?
+
+695
+01:05:37,767 --> 01:05:41,312
+Babanıza yazarsınız
+artık diye düşünüyorum?
+
+696
+01:05:43,356 --> 01:05:44,356
+Larys...
+
+697
+01:05:45,524 --> 01:05:47,735
+Ben bunu istemedim.
+
+698
+01:05:49,987 --> 01:05:53,866
+Beni ödüllendireceğinize eminim.
+
+699
+01:05:55,660 --> 01:05:57,953
+Zamanı geldiğinde.
+
+700
+01:06:04,318 --> 01:06:08,690
 Çeviren: eşekherif.
 @altyazaresek
 
