@@ -1,11 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<items>
-		<playlist_name><![CDATA[dene]]></playlist_name>
-	<channel>
-		<title><![CDATA[]]></title>
-		<logo_30x30><![CDATA[]]></logo_30x30>
-		<description><![CDATA[<center><img src="" </img><br> </center>]]></description>
-		<stream_url><![CDATA[https://rs21.seedr.cc/ff_get/1210781721/Superman.And.Lois.S02E15.1080p.WEB.h264-GOSSIP[eztv.re].mkv?st=fqrEO30M3CWdamTkVHXkFQ&e=1658888054]]></stream_url>
-		<subtitle><![CDATA[https://raw.githubusercontent.com/yutubizleme/denemesrt/main/ss.srt]]></subtitle>
-	</channel>
-</items>
+#EXTM3U
+#EXTINF:-1 type="video" tvg-logo="" , Nevşin Bugün Ne oldu?
+https://www.youtube.com/watch?v=hO5puopPFDk&list=PLLxcPkP3uSOZYen_E3NON-eV6qJDMMBrh
+
+#EXTINF:-1 type="video" tvg-logo="" , natgeo
+https://edge02.smart.az/03/natgeo/playlist.m3u8
+
+#EXTINF:-1 type="video" tvg-logo="" , Habertürk
+https://www.youtube.com/watch?v=SqHIO2zhxbA
+
+#EXTINF:-1 type="video" tvg-logo="" , Haber Global
+https://www.youtube.com/watch?v=6BX-NUzBSp8
+
+#EXTINF:-1 type="video" tvg-logo="" , CNN TÜRK
+https://www.youtube.com/watch?v=X_EWYemclKA
+
+#EXTINF:-1 type="video" tvg-logo="" , TRT Haber
+https://www.youtube.com/watch?v=-Lrxv1_i3qc
+
+#EXTINF:-1 type="video" tvg-logo="" , SÖZCÜ TV
+https://www.youtube.com/watch?v=2i8lfP9oqvk
+
+#EXTINF:-1 type="video" tvg-logo="" , TGRT Haber  
+https://www.youtube.com/watch?v=gNV8SIq_Xjw
+
+#EXTINF:-1 type="video" tvg-logo="" , A Haber  
+https://www.youtube.com/watch?v=acwBho1oqcg
+
+#EXTINF:-1 type="video" tvg-logo="" , HALK TV  
+https://www.youtube.com/watch?v=b2qTF5aIrcI
+
+#EXTINF:-1 type="video" tvg-logo="" , Tele1  
+https://www.youtube.com/watch?v=QAciOwhQMeo
+
+#EXTINF:-1 type="video" tvg-logo="" , ÜLKE TV 
+https://www.youtube.com/watch?v=JS2opO7NTQE
+
+#EXTINF:-1 type="video" tvg-logo="" , 24 TV 
+https://www.youtube.com/watch?v=khg-UfGaE-I
+
+#EXTINF:-1 type="video" tvg-logo="" , Ulusal Kanal 
+https://www.youtube.com/watch?v=3q0UXsXLmHY
+
+#EXTINF:-1 type="video" tvg-logo="" , NTV  
+https://www.youtube.com/watch?v=XEJM4Hcgd3M
+
+#EXTINF:-1 type="video" tvg-logo="" , KRT TV 
+https://www.youtube.com/watch?v=3QDiWPZ2D_k
+
+
+
+
+
